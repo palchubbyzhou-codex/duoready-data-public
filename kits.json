@@ -1,0 +1,212 @@
+[
+ {
+  "apps": [
+   {
+    "slug": "penbook",
+    "reason_en": "Handwritten notes with room to spread out.",
+    "reason_zh": "手写笔记，展开写更舒展。"
+   },
+   {
+    "slug": "things-3",
+    "reason_en": "Tasks and lists kept in clear view.",
+    "reason_zh": "任务清单一目了然。"
+   },
+   {
+    "slug": "fantastical-calendar",
+    "reason_en": "See the day and the week at once.",
+    "reason_zh": "展开同时看日程和整周安排。"
+   },
+   {
+    "slug": "capwords-us",
+    "reason_en": "Vocabulary practice for study breaks.",
+    "reason_zh": "课间碎片时间背单词。"
+   },
+   {
+    "slug": "essayist",
+    "reason_en": "Structured writing for essays and papers.",
+    "reason_zh": "写论文的结构化写作工具。"
+   },
+   {
+    "slug": "notewise",
+    "reason_en": "Class notes, PDFs and annotations in one place.",
+    "reason_zh": "课堂笔记和 PDF 批注一处搞定。"
+   },
+   {
+    "slug": "night-sky",
+    "reason_en": "Astronomy coursework under a bigger sky.",
+    "reason_zh": "天文课的星图，展开看更全。"
+   }
+  ],
+  "persona_en": "Student",
+  "persona_zh": "学生",
+  "slug": "student"
+ },
+ {
+  "apps": [
+   {
+    "slug": "amap",
+    "reason_en": "Navigation built for Chinese roads and riders.",
+    "reason_zh": "高德导航，路线和单子一起看。"
+   },
+   {
+    "slug": "weather-mini",
+    "reason_en": "Quick weather checks before a shift.",
+    "reason_zh": "出车前先看天气。"
+   },
+   {
+    "slug": "kugou-music",
+    "reason_en": "Music for the road between orders.",
+    "reason_zh": "跑单路上听歌。"
+   },
+   {
+    "slug": "xiaoyuzhou",
+    "reason_en": "Podcasts for long shifts.",
+    "reason_zh": "长班路上听播客。"
+   },
+   {
+    "slug": "qq",
+    "reason_en": "Stay in touch with stations and customers.",
+    "reason_zh": "和站点、顾客保持联系。"
+   },
+   {
+    "slug": "yelp",
+    "reason_en": "Find food and rest stops nearby.",
+    "reason_zh": "找附近吃饭休息的地方。"
+   }
+  ],
+  "persona_en": "Delivery rider",
+  "persona_zh": "骑手",
+  "slug": "delivery-rider"
+ },
+ {
+  "apps": [
+   {
+    "slug": "instagram-edits",
+    "reason_en": "Edit Reels with a bigger canvas.",
+    "reason_zh": "剪 Reels 画布更大。"
+   },
+   {
+    "slug": "detail",
+    "reason_en": "Shoot and edit video in one flow.",
+    "reason_zh": "拍摄剪辑一气呵成。"
+   },
+   {
+    "slug": "vllo",
+    "reason_en": "Mobile video editing that uses the wide screen.",
+    "reason_zh": "宽屏剪视频更顺手。"
+   },
+   {
+    "slug": "flipcorder",
+    "reason_en": "Screen recording for tutorials and demos.",
+    "reason_zh": "录屏做教程演示。"
+   },
+   {
+    "slug": "meitu",
+    "reason_en": "Photo touch-ups for posts and covers.",
+    "reason_zh": "修图做封面。"
+   },
+   {
+    "slug": "instagram",
+    "reason_en": "Post, reply and check insights.",
+    "reason_zh": "发帖、回评论、看数据。"
+   },
+   {
+    "slug": "not-boring-camera",
+    "reason_en": "A camera with character for everyday shots.",
+    "reason_zh": "日常拍摄更有味道。"
+   }
+  ],
+  "persona_en": "Content creator",
+  "persona_zh": "自媒体",
+  "slug": "content-creator"
+ },
+ {
+  "apps": [
+   {
+    "slug": "feishu",
+    "reason_en": "Docs, chat and meetings for CN teams.",
+    "reason_zh": "飞书：文档、沟通、会议一站式。"
+   },
+   {
+    "slug": "slack",
+    "reason_en": "Team chat that stays readable at width.",
+    "reason_zh": "团队沟通，宽屏看更清爽。"
+   },
+   {
+    "slug": "zoom",
+    "reason_en": "Video meetings with room for notes.",
+    "reason_zh": "开会时还能腾地方记笔记。"
+   },
+   {
+    "slug": "wps-office",
+    "reason_en": "Office documents on the go.",
+    "reason_zh": "移动办公看文档。"
+   },
+   {
+    "slug": "fantastical-calendar",
+    "reason_en": "A calendar that shows the whole week.",
+    "reason_zh": "整周日程尽收眼底。"
+   },
+   {
+    "slug": "airmail",
+    "reason_en": "Email triage with a proper reading pane.",
+    "reason_zh": "邮件处理有真正的阅读窗格。"
+   },
+   {
+    "slug": "timepage",
+    "reason_en": "A beautiful calendar for planning days.",
+    "reason_zh": "颜值派日历，规划一天。"
+   },
+   {
+    "slug": "mindnode",
+    "reason_en": "Mind maps that can actually spread out.",
+    "reason_zh": "思维导图终于能摊开看。"
+   }
+  ],
+  "persona_en": "Business",
+  "persona_zh": "商务",
+  "slug": "business"
+ },
+ {
+  "apps": [
+   {
+    "slug": "deck-man",
+    "reason_en": "Card battler that shines on a big canvas.",
+    "reason_zh": "卡牌对战，大画布更过瘾。"
+   },
+   {
+    "slug": "orisuji",
+    "reason_en": "A puzzle gem made for focus.",
+    "reason_zh": "专注解谜小品。"
+   },
+   {
+    "slug": "asphalt-legends",
+    "reason_en": "Arcade racing, wider and louder.",
+    "reason_zh": "街机赛车，展开更带感。"
+   },
+   {
+    "slug": "sneaky-sasquatch",
+    "reason_en": "A charming open-world snack hunt.",
+    "reason_zh": "温馨开放世界找吃的。"
+   },
+   {
+    "slug": "retrocade",
+    "reason_en": "Retro arcade classics in one cabinet.",
+    "reason_zh": "复古街机合集。"
+   },
+   {
+    "slug": "planet-of-lana",
+    "reason_en": "A cinematic puzzle adventure.",
+    "reason_zh": "电影感解谜冒险。"
+   },
+   {
+    "slug": "crossy-road-castle",
+    "reason_en": "Chaotic co-op tower climbing.",
+    "reason_zh": "热闹的多人爬塔。"
+   }
+  ],
+  "persona_en": "Gamer",
+  "persona_zh": "游戏",
+  "slug": "gamer"
+ }
+]
