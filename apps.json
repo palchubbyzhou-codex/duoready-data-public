@@ -71,18 +71,19 @@
     "store": "US",
     "category": "productivity",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
+    "adaptation_en": "Version 3.0.2 release notes state 'Bear is now ready for iPhone Duo', shipped alongside a fresh new design for panels; Fits Duo reports Bear fills the inner display with a panel layout and adapts when you fold.",
+    "adaptation_zh": "3.0.2 版更新说明写「Bear is now ready for iPhone Duo」，同版带来全新的面板设计；据 Fits Duo，Bear 以面板布局铺满内屏，并随折叠自适应",
     "editorial_score": 3,
     "highlights": [
       "App Store v3.0.2: 'Bear is now ready for iPhone Duo!'",
-      "Same release: fresh new design for panels"
+      "Same release: fresh new design for panels",
+      "Fits Duo: fills the inner display, panel layout, adapts when you fold"
     ],
     "listed_on_site": true,
     "source_name": "Bear - Markdown Notes, App Store (Version 3.0.2 release notes)",
     "source_url": "https://apps.apple.com/am/app/bear-markdown-notes/id1016366447",
     "credibility_tier": "verified",
-    "date_verified": "2026-10-27"
+    "date_verified": "2026-10-28"
   },
   {
     "slug": "callsheet",
@@ -232,17 +233,18 @@
     "store": "US",
     "category": "video",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
+    "adaptation_en": "Fits Duo reports Crunchyroll fills the inner display and adapts when you fold; version 4.122.0 is built with the iOS 27.1 SDK and uses Apple's iPhone Duo APIs (including hinge interaction and arrangement APIs). No specific two-pane layout is documented, so the score stays at the default.",
+    "adaptation_zh": "据 Fits Duo，Crunchyroll 铺满内屏并随折叠自适应；4.122.0 版基于 iOS 27.1 SDK 构建，并使用了苹果的 iPhone Duo API（含铰链交互与排布 API）。暂无具体双栏布局记录，评分保持默认",
     "editorial_score": 3,
     "highlights": [
-      "Listed in App Store 'Great apps and games on iPhone Duo' collection"
+      "Listed in App Store 'Great apps and games on iPhone Duo' collection",
+      "Fits Duo: fills the inner display, uses iPhone Duo APIs (v4.122.0, iOS 27.1 SDK)"
     ],
     "listed_on_site": true,
-    "source_name": "App Store — Great apps and games on iPhone Duo",
-    "source_url": "https://apps.apple.com/in/story/id6820639500",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-27"
+    "source_name": "Fits Duo - Does Crunchyroll fit iPhone Duo?",
+    "source_url": "https://fitsduo.com/apps/crunchyroll",
+    "credibility_tier": "reported",
+    "date_verified": "2026-10-28"
   },
   {
     "slug": "daycity",
@@ -1150,8 +1152,8 @@
     "store": "US",
     "category": "news",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
+    "adaptation_en": "Version 2026.11.1 adds 'Initial support for iPhone Duo' per its App Store release notes; the same release makes Reeder use a vertical bar in landscape on all iPhones. Support is explicitly described as initial, hence the transitional score.",
+    "adaptation_zh": "2026.11.1 版 App Store 更新说明写新增「Initial support for iPhone Duo」（初步支持）；同版在所有 iPhone 横屏时改用竖向栏。官方自述为初步支持，故评为过渡适配",
     "editorial_score": 2,
     "highlights": [
       "App Store version 2026.11.1 notes: 'Initial support for iPhone Duo'",
@@ -1161,7 +1163,7 @@
     "source_name": "Reeder — App Store product page, version 2026.11.1 release notes",
     "source_url": "https://apps.apple.com/us/app/reeder/id6475002485",
     "credibility_tier": "verified",
-    "date_verified": "2026-10-27"
+    "date_verified": "2026-10-28"
   },
   {
     "slug": "retrocade",
@@ -1425,15 +1427,17 @@
     "store": "US",
     "category": "sports",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
+    "adaptation_en": "Fits Duo reports Strava fills the inner display and adapts when you fold; its current version (487.0.0) is built with the iOS 27.1 SDK but uses none of Apple's iPhone Duo APIs, so the adaptation is a basic full-screen fill rather than a Duo-specific layout.",
+    "adaptation_zh": "据 Fits Duo，Strava 铺满内屏并随折叠自适应；当前版本（487.0.0）基于 iOS 27.1 SDK 构建，但未使用苹果的 iPhone Duo 专用 API，属基础铺满而非 Duo 专属布局",
     "editorial_score": 3,
-    "highlights": [],
+    "highlights": [
+      "Fits Duo: fills the inner display, adapts when you fold (v487.0.0, iOS 27.1 SDK, no Duo APIs used)"
+    ],
     "listed_on_site": true,
-    "source_name": "Great apps on iPhone Duo — App Store story (US)",
-    "source_url": "https://apps.apple.com/us/story/id6820646846",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-27"
+    "source_name": "Fits Duo - Does Strava fit iPhone Duo?",
+    "source_url": "https://fitsduo.com/apps/strava",
+    "credibility_tier": "reported",
+    "date_verified": "2026-10-28"
   },
   {
     "slug": "tesla-us",
@@ -2649,5 +2653,75 @@
     "source_url": "https://fitsduo.com/apps/gospel-library",
     "credibility_tier": "reported",
     "date_verified": "2026-10-27"
+  },
+  {
+    "slug": "astropad-workbench",
+    "name_en": "Astropad Workbench",
+    "name_zh": null,
+    "aliases": [
+      "Workbench"
+    ],
+    "store": "US",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "Version 1.4 adds native iPhone Duo support: Workbench runs natively on the Duo, with support for keeping an AI agent visible in one pane while using the rest of the phone. The same release adds a built-in remote terminal that can be switched to without reconnecting.",
+    "adaptation_zh": "1.4 版新增 iPhone Duo 原生支持：可在一个分栏里留住 AI agent，同时使用手机其余部分；同版还新增可免重连切换的内置远程终端",
+    "editorial_score": 4,
+    "highlights": [
+      "1.4 release notes explicitly cite native iPhone Duo support",
+      "Agent can stay visible in one pane while using the rest of the phone",
+      "Remote desktop app for Mac by Astro HQ LLC; free + subscription"
+    ],
+    "listed_on_site": false,
+    "source_name": "9to5Mac - Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more",
+    "source_url": "https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more/",
+    "credibility_tier": "reported",
+    "date_verified": "2026-10-28"
+  },
+  {
+    "slug": "opendisplay",
+    "name_en": "OpenDisplay",
+    "name_zh": null,
+    "aliases": [],
+    "store": "US",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "Version 1.30.0 (2026-10-27) release notes state the app can follow iPhone Duo folds and Split View; the App Store release notes cite 'Support for iPhone Duo and iPad multitasking windows'. OpenDisplay turns an iPhone or iPad into a second monitor for a Mac and is free and open source.",
+    "adaptation_zh": "1.30.0 版（2026-10-27）发布说明称可跟随 iPhone Duo 折叠与 Split View；App Store 更新说明写「Support for iPhone Duo and iPad multitasking windows」。OpenDisplay 可把 iPhone/iPad 变为 Mac 的第二台显示器，免费开源",
+    "editorial_score": 3,
+    "highlights": [
+      "1.30.0 release notes: 'follow iPhone Duo folds and Split View'",
+      "App Store release notes cite iPhone Duo support (per 2026-10-28 DuoReady watch)",
+      "Free and open source, by Philip Poloczek"
+    ],
+    "listed_on_site": false,
+    "source_name": "OpenDisplay v1.30.0 release notes (GitHub release, mirrored at Software Mirrors)",
+    "source_url": "https://www.software-mirrors.com/products/opendisplay",
+    "credibility_tier": "reported",
+    "date_verified": "2026-10-28"
+  },
+  {
+    "slug": "masoc",
+    "name_en": "masoc: Photo & Video Editor",
+    "name_zh": null,
+    "aliases": [
+      "masoc"
+    ],
+    "store": "US",
+    "category": "photo",
+    "status": "adapted",
+    "adaptation_en": "Version 1.1 is made for iPhone Duo and uses the full display open, closed or half-folded: it reads the fold and the camera and lays the editor out around them. Open in book mode, the photo sits on one half and the editing panel on the other, split right at the fold; in laptop mode the photo stands on top with sliders below the fold, and unfolding mid-edit keeps the same tool and slider in hand.",
+    "adaptation_zh": "1.1 版专为 iPhone Duo 打造，展开、合上或半折时均使用完整屏幕：读取折痕与相机位置并绕开它们排布编辑器。Book 模式下照片在一侧、编辑面板在另一侧，正好按折痕分栏；Laptop 模式下照片在上、滑杆在折痕下方；编辑中展开也保持同一工具与滑杆位置",
+    "editorial_score": 4,
+    "highlights": [
+      "1.1.0 App Store release notes: 'iPhone Duo support: masoc now uses the full display, open, closed or half-folded'",
+      "Developer site documents book and laptop layouts split at the fold",
+      "Photo on one side, panel on the other when open"
+    ],
+    "listed_on_site": false,
+    "source_name": "masoc developer site - iPhone Duo Photo Editor With Film Halation (masoc 1.1)",
+    "source_url": "https://masoc.app/iphone-duo-halation/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-10-28"
   }
 ]
