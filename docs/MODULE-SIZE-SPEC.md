@@ -5,7 +5,7 @@ Problem reported by Jie on the live site: when the Duo News player is showing, t
 ## Fixed slots
 | Module | Slot aspect | Asset size | Fit rule |
 |---|---|---|---|
-| News slideshow | **16:9** | 1920×1080 PNG (EN+ZH pair) | `object-fit: cover` — slides are produced at exactly 16:9, so cover = zero crop, zero distortion |
+| News banner (slideshow) | **Responsive slot** (desktop fixed height ~287px, mobile ~300px) | Masters: desktop **2400×800 (3:1)** + mobile **1080×1080 (1:1 re-layout)**, EN+ZH WebP — Codex banner spec 2026-10-28, see slideshow/README.md | Site handles rounding; images keep square corners, no UI baked in |
 | Featured carousel ("A closer look") | **16:9** — the identical box as the slideshow | content designed to 16:9 | cover; rotating items (app feature ↔ slide) must not change the box height by a single pixel |
 | Duo News player (Shorts) | **9:16** | YouTube Shorts embed | fixed rail width (≤400px desktop); the player's height comes from 9:16 only — it must not stretch its column or push sibling modules around |
 | Stock tracker card / Star Sweep | unchanged grid cells | — | heights set by the grid, not by content |

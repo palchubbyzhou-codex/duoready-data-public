@@ -1,18 +1,22 @@
 {
-  "updated": "2026-10-28",
-  "note": "DuoReady news slideshow manifest. Newest first. The assistant adds slides (PNG pair EN+ZH) and updates this file; the website reads image_en/image_zh by site language and links each slide out to source_url. Do not edit images or entries — see README.md in this folder.",
-  "slides": [
-    {
-      "id": "2026-10-28-macbook-pro-oled",
-      "date": "2026-10-28",
-      "image_en": "slideshow/2026-10-28-macbook-pro-oled-en.png",
-      "image_zh": "slideshow/2026-10-28-macbook-pro-oled-zh.png",
-      "title_en": "MacBook Pro Goes OLED — and Touch",
-      "title_zh": "MacBook Pro 换上 OLED 触控屏",
-      "source_name": "MacRumors",
-      "source_url": "https://www.macrumors.com/",
-      "credibility_tier": "verified",
-      "image_credit": "Product image: Apple (official ad visual)"
-    }
-  ]
+ "updated": "2026-10-28",
+ "note": "DuoReady news banner manifest. Newest first. STANDARD (from 2026-10-28, Codex spec): each story ships FOUR files - desktop 2400x800 (3:1) + mobile 1080x1080 (1:1, re-layout, not a crop), EN + ZH, WebP. Site picks desktop/mobile by viewport and EN/ZH by language; whole banner links out to source_url. Legacy image_en/image_zh (1920x1080) exist for the first story only - prefer the four new fields when present. See README.md.",
+ "slides": [
+  {
+   "id": "2026-10-28-macbook-pro-oled",
+   "date": "2026-10-28",
+   "image_en": "slideshow/2026-10-28-macbook-pro-oled-en.png",
+   "image_zh": "slideshow/2026-10-28-macbook-pro-oled-zh.png",
+   "title_en": "MacBook Pro Goes OLED — and Touch",
+   "title_zh": "MacBook Pro 换上 OLED 触控屏",
+   "source_name": "MacRumors",
+   "source_url": "https://www.macrumors.com/",
+   "credibility_tier": "verified",
+   "image_credit": "Product image: Apple (official ad visual)",
+   "image_en_desktop": "slideshow/2026-10-28-macbook-pro-oled-en-desktop.webp",
+   "image_zh_desktop": "slideshow/2026-10-28-macbook-pro-oled-zh-desktop.webp",
+   "image_en_mobile": "slideshow/2026-10-28-macbook-pro-oled-en-mobile.webp",
+   "image_zh_mobile": "slideshow/2026-10-28-macbook-pro-oled-zh-mobile.webp"
+  }
+ ]
 }
