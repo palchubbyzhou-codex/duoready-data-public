@@ -2523,17 +2523,19 @@
     "store": "CN",
     "category": "social",
     "status": "adapted",
-    "adaptation_en": "When unfolded, the conversation list sits on the left and the chat detail on the right in a two-pane layout, replacing the old centered phone-width window with large black bars on both sides. A transitional adaptation: still based on the older SDK, and a black bar remains on the right side.",
-    "adaptation_zh": "展开后左侧会话列表、右侧聊天详情左右分栏，告别居中竖屏小窗口+两侧大黑边；属过渡适配（仍基于旧 SDK，右侧仍有黑边）",
+    "adaptation_en": "Version 8.0.80 (released 2026-10-23, launch day) brought WeChat's first real Duo layout: unfolded, the conversation list sits on the left and the chat detail on the right in two panes; half-folded, the chat stays on the top half and the input area on the bottom half, avoiding the crease. Still transitional: built on the older SDK tier, a black bar remains along the right side, and there is no tablet mode yet — the Duo is still recognized as a regular phone. Tencent says optimization will continue.",
+    "adaptation_zh": "8.0.80 版（2026-10-23 首发日推送）带来微信在 Duo 上的首个真分栏布局：展开后左侧会话列表、右侧聊天详情；半折时上半屏聊天、下半屏输入，并避让折痕。仍属过渡适配：基于旧 SDK 档位，右侧仍有黑边，且暂无平板模式——Duo 仍被识别为普通手机。腾讯表示后续会持续优化。",
     "editorial_score": 2,
     "highlights": [
-      "First inner-screen adaptation in iOS 8.0.80 (released 2026-10-23)"
+      "First inner-screen adaptation in iOS 8.0.80 (released 2026-10-23)",
+      "Two-pane chat when unfolded; half-fold puts chat on top, input below the crease",
+      "No tablet mode yet — the Duo is still recognized as a phone"
     ],
     "listed_on_site": false,
     "source_name": "新浪新闻 — 微信紧急适配iPhone Duo：分栏来了，黑边还在 (2026-10-23)",
     "source_url": "https://k.sina.cn/article_7879995964_1d5af323c0680183xy.html?from=digit",
     "credibility_tier": "reported",
-    "date_verified": "2026-10-27"
+    "date_verified": "2026-10-28"
   },
   {
     "slug": "soldial",

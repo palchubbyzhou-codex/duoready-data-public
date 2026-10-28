@@ -112,6 +112,22 @@
     "date_verified": "2026-10-27"
   },
   {
+    "id": "2026-10-24-wechat-simultaneous-login-duo",
+    "date_published": "2026-10-24",
+    "date_verified": "2026-10-28",
+    "title_en": "WeChat remotely enables simultaneous login on iPhone Duo (gradual rollout)",
+    "title_zh": "微信远程升级：iPhone Duo 可与其他设备同时登录（灰度开放）",
+    "summary_en": "IT之家 reported on Oct 24 that WeChat remotely switched on 'log in together with other devices' for some iPhone Duo units: after scanning, the main device shows an iPad WeChat login prompt — a partial, still-maturing feature rather than full tablet mode, and not yet live on every unit.",
+    "summary_zh": "IT之家 10 月 24 日报道，微信远程升级后，部分 iPhone Duo 已出现「和其他设备同时登录」：扫码后主设备提示「登录 iPad 微信」。该功能尚属不完全体、仍在灰度开放，并非完整平板模式，也未覆盖全部设备。",
+    "source_name": "IT之家 via 新浪财经 (2026-10-24)",
+    "source_url": "https://finance.sina.cn/stock/jdts/2026-10-24/detail-iniwhxpq8139671.d.html",
+    "url": "https://finance.sina.cn/stock/jdts/2026-10-24/detail-iniwhxpq8139671.d.html",
+    "credibility_tier": "reported",
+    "related_app_slugs": [
+      "wechat"
+    ]
+  },
+  {
     "id": "2026-10-23-iphone-duo-launch-day-sellout",
     "title_en": "iPhone Duo released October 23, sells out on launch day as resale listings reach $10,000",
     "title_zh": "iPhone Duo 10月23日发售，首日售罄、转售价达1万美元",
