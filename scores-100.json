@@ -13,9 +13,10 @@
   "100": 32,
   "80": 41,
   "60": 55,
-  "40": 2
+  "40": 2,
+  "20": 1
  },
- "count": 130,
+ "count": 131,
  "apps": [
   {
    "slug": "amap",
@@ -1445,6 +1446,17 @@
    "editorial_score_5": 2,
    "score_100": 40,
    "band": "Limited",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "douyin",
+   "name_en": "Douyin",
+   "name_zh": "抖音",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 1,
+   "score_100": 20,
+   "band": "Poor",
    "credibility_tier": "reported"
   }
  ]
