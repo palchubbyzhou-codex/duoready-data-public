@@ -2746,5 +2746,146 @@
   "source_url": "https://k.sina.cn/article_7879996041_1d5af328906801wgrc.html",
   "credibility_tier": "reported",
   "date_verified": "2026-10-28"
+ },
+ {
+  "slug": "antiqsnap",
+  "name_en": "AntiqSnap: Antique Identifier",
+  "name_zh": null,
+  "aliases": [
+   "AntiqSnap"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.11.0 (2026-10-27) release notes state: 'AntiqSnap is now optimized for iPhone Duo, with interface improvements for a smoother experience.' The previous version ran letterboxed on the Duo inner screen; the new version fills it.",
+  "adaptation_zh": "2.11.0 版（2026-10-27）更新说明写：「AntiqSnap is now optimized for iPhone Duo, with interface improvements for a smoother experience（现已针对 iPhone Duo 优化，界面改进、体验更流畅）」。此前版本在 Duo 内屏为黑边居中显示，新版已铺满内屏。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.11.0 App Store release notes: 'now optimized for iPhone Duo'",
+   "Previously letterboxed on the inner screen (per 2026-10-29 DuoReady watch)",
+   "Free with in-app purchases, by Next Vision Limited"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.11.0, 2026-10-27)",
+  "source_url": "https://apps.apple.com/us/app/antiqsnap-antique-identifier/id6752929120",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
+ },
+ {
+  "slug": "tips-tricks-pro",
+  "name_en": "Tips & Tricks Pro - for iPhone",
+  "name_zh": null,
+  "aliases": [
+   "Tips & Tricks Pro"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 27.0.0 (2026-10-28) release notes state: 'Tips & Tricks also now fully supports the new iPhone Duo.' No specific layout detail is published. This is the paid Pro app ($2.99, by Intelligenti Ltd), distinct from the free Tips & Tricks already listed on the site.",
+  "adaptation_zh": "27.0.0 版（2026-10-28）更新说明写：「Tips & Tricks also now fully supports the new iPhone Duo（现已全面支持 iPhone Duo）」，未公布具体布局细节。这是付费版 Pro（2.99 美元，Intelligenti Ltd），与站上已收录的免费版 Tips & Tricks 是不同的 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "27.0.0 App Store release notes: 'now fully supports the new iPhone Duo'",
+   "Paid Pro version ($2.99), distinct from the free Tips & Tricks on site"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (27.0.0, 2026-10-28)",
+  "source_url": "https://apps.apple.com/us/app/tips-tricks-pro-for-iphone/id311349103",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
+ },
+ {
+  "slug": "ticktick-us",
+  "name_en": "TickTick: To-Do List & Calendar",
+  "name_zh": null,
+  "aliases": [
+   "TickTick"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 8.2.40 (2026-10-28) release notes state for the first time: 'Optimized for iPhone Duo: Unfold more room for your plans.' Earlier builds already filled the inner screen, but this is the first version whose release notes explicitly claim Duo optimization; no specific two-pane layout is described.",
+  "adaptation_zh": "8.2.40 版（2026-10-28）更新说明首次明确写：「Optimized for iPhone Duo: Unfold more room for your plans（已针对 iPhone Duo 优化：展开获得更多规划空间）」。早期构建已能铺满内屏，但这是更新说明首次明确声称 Duo 优化；未描述具体的双栏布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "8.2.40 App Store release notes: 'Optimized for iPhone Duo: Unfold more room for your plans'",
+   "To-do list and calendar app by Appest Limited, free with in-app purchases"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (8.2.40, 2026-10-28)",
+  "source_url": "https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
+ },
+ {
+  "slug": "ima-cn",
+  "name_en": "ima",
+  "name_zh": "ima - 腾讯AI知识管家",
+  "aliases": [
+   "ima.copilot",
+   "腾讯ima"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 2.6.15 (2026-10-28) release notes list 'adapted for iPhone Duo' as the first item. No specific layout detail is published. ima is Tencent's AI knowledge-base assistant.",
+  "adaptation_zh": "2.6.15 版（2026-10-28）更新说明首条即「适配iPhone Duo」，未公布具体布局细节。ima 是腾讯的 AI 知识库管家。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.6.15 App Store release notes lead with '适配iPhone Duo'",
+   "Tencent AI knowledge-base assistant, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.6.15, 2026-10-28)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
+ },
+ {
+  "slug": "xinguang-cn",
+  "name_en": null,
+  "name_zh": "心光 - AI 生活记录伴侣",
+  "aliases": [
+   "心光"
+  ],
+  "store": "CN",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "Version 4.1.2 (2026-10-28) release notes state the app was redesigned for iPhone Duo: unfolded, the record page becomes a two-page journal spread (left and right pages) and the calendar switches to a book-style mode.",
+  "adaptation_zh": "4.1.2 版（2026-10-28）更新说明写「心光为 iPhone Duo 全新设计」：展开时记录页为左右双页手帐模式，日历为书本模式。",
+  "editorial_score": 4,
+  "highlights": [
+   "4.1.2 App Store release notes: redesigned for iPhone Duo",
+   "Unfolded: two-page journal spread for records, book mode for calendar",
+   "AI life-record companion by LIGHT WITHIN LIFE PTE. LTD., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.1.2, 2026-10-28)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
+ },
+ {
+  "slug": "genk-cn",
+  "name_en": "GenK",
+  "name_zh": "GenK：微学习与多元主题",
+  "aliases": [
+   "GenK"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 2.6.2 (2026-10-27) release notes state: 'Adapted for iPhone Duo! GenK unfolds freely across both screens: feed, reading, quizzes and profile.' No further layout detail is published.",
+  "adaptation_zh": "2.6.2 版（2026-10-27）更新说明写：「已适配 iPhone Duo! GenK 在两块屏幕上自如展开：动态、阅读、测验和个人资料」，未公布更多布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.6.2 App Store release notes: '已适配 iPhone Duo'",
+   "Micro-learning and quiz app by NOERDEN, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.6.2, 2026-10-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
  }
 ]

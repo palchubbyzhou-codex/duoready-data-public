@@ -51,5 +51,34 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-10-28"
+  },
+  {
+    "date": "2026-10-29",
+    "snapshot_time_utc": "2026-10-29T14:09:49+00:00",
+    "snapshot_time_et": "2026-10-29 10:09 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 1,
+    "by_model": [
+      {
+        "model": "Variant L4 (config TBD)",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 1
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R109",
+        "store_name": "Jordan Creek",
+        "city": "West Des Moines",
+        "state": "IA",
+        "parts_in_stock": [
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-10-29"
   }
 ]
