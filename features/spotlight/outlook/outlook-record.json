@@ -1,0 +1,25 @@
+{
+ "slug": "outlook",
+ "name_en": "Microsoft Outlook",
+ "name_zh": "Outlook",
+ "aliases": [
+  "Outlook",
+  "微软Outlook"
+ ],
+ "store": "US",
+ "category": "productivity",
+ "status": "adapted",
+ "adaptation_en": "Microsoft added official iPhone Duo support in Outlook 5.2641.0 (Oct 23, 2026): the app fills the inner display with no letterboxing, resizes smoothly, and supports side-by-side multitasking. The headline two-pane layout (inbox next to a full message) has NOT shipped yet — Apple says it rolls out 'in the coming weeks.' Partial adaptation; re-check pending.",
+ "adaptation_zh": "微软在 Outlook 5.2641.0（2026 年 10 月 23 日）加入了官方 iPhone Duo 支持：展开铺满内屏、无黑边、布局切换平滑、支持与其它 App 并排分屏。但最关键的双栏布局（左侧收件箱 + 右侧整封邮件）尚未上线——苹果官方称将在「未来几周」推出。属部分适配，待复核。",
+ "editorial_score": 3,
+ "highlights": [
+  "Official Duo support shipped on launch day (5.2641.0, Oct 23, 2026)",
+  "Fills the inner display, no letterboxing; smoother resizing",
+  "Two-pane inbox + full message NOT live yet — Apple: 'in the coming weeks'"
+ ],
+ "listed_on_site": true,
+ "source_name": "Microsoft Learn: Release notes for Outlook Mobile (5.2641.0, 2026-10-23)",
+ "source_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-mobile",
+ "credibility_tier": "verified",
+ "date_verified": "2026-10-29"
+}
