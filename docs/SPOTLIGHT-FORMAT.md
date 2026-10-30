@@ -30,3 +30,8 @@ Every Spotlight feature follows the SAME fixed structure, in this order. Readers
 - Directory rows: featured apps carry a "Spotlight" marker; tapping it goes to the feature page (not the light page).
 - Feature pages cross-link at the bottom ("More Spotlight features").
 - Suggested routes: `/spotlight/<slug>/` (ZH default) + `/en/spotlight/<slug>/`, added to the sitemap.
+
+## Cadence (settled by Jie, 2026-10-29)
+
+- **At most ONE Spotlight feature per week.** Selection is trigger-based, never calendar-forced: (1) an adaptation milestone ships, (2) an app tops the Ask Chubby most-asked list, or (3) a circulating claim needs verification (the Outlook "fully adapted" rumor was type 3). A week with no feature is fine — a padded feature is not.
+- **Exception — follow-ups outrank the cap:** when an already-featured app ships a major update (first case: Outlook's two-pane inbox), its re-test + feature update runs immediately, outside the weekly limit. The daily data pipeline flags Outlook builds newer than 5.2642.0 to Muse for exactly this.
