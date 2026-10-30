@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-10-29-ios-27-2-apple-tv-multiview-duo",
+    "title_en": "iOS 27.2 brings Apple TV Multiview to iPhone — four sports streams at once, ideal on Duo's big screen",
+    "title_zh": "iOS 27.2 把 Apple TV Multiview 带到 iPhone：同时看四路体育直播，Duo 大屏尤其合适",
+    "summary_en": "9to5Mac reports iOS 27.2 adds Multiview to the Apple TV app on iPhone, letting users watch up to four live sports streams at once — a feature previously limited to Apple TV, iPad and Vision Pro, and especially well suited to the iPhone Duo's large unfolded display.",
+    "summary_zh": "据 9to5Mac 报道，iOS 27.2 为 iPhone 上的 Apple TV App 新增 Multiview，可同时观看最多四路体育直播——此前仅限 Apple TV、iPad 与 Vision Pro，在 iPhone Duo 展开的大屏上尤其合适。",
+    "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+    "related_app_slugs": [],
+    "source_name": "9to5Mac",
+    "source_url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-29",
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "2026-10-29-ios-27-2-shortcuts-duo-trigger",
+    "title_en": "iOS 27.2 Shortcuts adds 'When my iPhone is opened or closed' automation for iPhone Duo",
+    "title_zh": "iOS 27.2 快捷指令新增 iPhone Duo 专属自动化：「打开或合上时」触发",
+    "summary_en": "Per Apple's Shortcuts release notes covered by 9to5Mac, iOS 27.2 adds a Duo-only automation trigger — 'When my iPhone is opened or closed' — so folding or unfolding the phone can run a shortcut. The same update improves Workout and App automations.",
+    "summary_zh": "据 9to5Mac 报道的苹果快捷指令更新说明，iOS 27.2 新增 Duo 专属自动化触发条件——「当我的 iPhone 打开或合上时」——开合手机即可运行快捷指令；同版还改进了体能训练与 App 自动化。",
+    "url": "https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/",
+    "related_app_slugs": [],
+    "source_name": "9to5Mac",
+    "source_url": "https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-29",
+    "date_verified": "2026-10-30"
+  },
+  {
+    "id": "2026-10-29-wider-safari-extension-duo-cover-screen",
+    "title_en": "Wider extension lets Safari use the full front screen on iPhone Duo",
+    "title_zh": "Wider 扩展让 Safari 用上 iPhone Duo 外屏的完整宽度",
+    "summary_en": "AppleInsider reports Wider, a free Safari extension, lets web pages extend into the strip beside Safari's side controls on the Duo's 5.4-inch outer screen, with a sidebar button toggling between normal and wide views per page.",
+    "summary_zh": "据 AppleInsider 报道，免费 Safari 扩展 Wider 可让网页延伸到 Duo 5.4 英寸外屏上 Safari 侧边控件旁的条带区域，通过侧栏按钮按页面切换普通/宽屏视图。",
+    "url": "https://appleinsider.com/articles/26/10/29/this-extension-will-let-safari-fill-your-entire-front-screen-on-an-iphone-duo",
+    "related_app_slugs": [],
+    "source_name": "AppleInsider",
+    "source_url": "https://appleinsider.com/articles/26/10/29/this-extension-will-let-safari-fill-your-entire-front-screen-on-an-iphone-duo",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-29",
+    "date_verified": "2026-10-30"
+  },
+  {
     "id": "2026-10-29-ford-app-iphone-duo",
     "title_en": "Ford app updated for iPhone Duo with two-pane open view",
     "title_zh": "Ford App 已适配 iPhone Duo，展开为左右双栏",

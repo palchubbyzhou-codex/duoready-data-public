@@ -132,8 +132,8 @@
   "store": "US",
   "category": "video",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Classix is featured in Apple's official 'Great Apps on iPhone Duo' App Store collection, which highlights apps that take advantage of the Duo's versatile design on both the outer and inner displays. No specific layout detail is published.",
+  "adaptation_zh": "Classix 入选苹果官方 App Store「Great Apps on iPhone Duo」精选合集——该合集收录能利用 Duo 内外双屏多形态设计的 App；未公布具体布局细节。",
   "editorial_score": 3,
   "highlights": [
    "Listed in App Store 'Great Apps on iPhone Duo' collection (US story)"
@@ -142,7 +142,7 @@
   "source_name": "App Store — Great Apps on iPhone Duo (US)",
   "source_url": "https://apps.apple.com/us/story/id6820646846",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-10-30"
  },
  {
   "slug": "craft",
@@ -491,8 +491,8 @@
   "store": "US",
   "category": "video",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "FOX One is featured in Apple's official 'Great Apps on iPhone Duo' App Store collection, which highlights apps that take advantage of the Duo's versatile design on both the outer and inner displays. No specific layout detail is published.",
+  "adaptation_zh": "FOX One 入选苹果官方 App Store「Great Apps on iPhone Duo」精选合集——该合集收录能利用 Duo 内外双屏多形态设计的 App；未公布具体布局细节。",
   "editorial_score": 3,
   "highlights": [
    "Listed in App Store 'Great Apps on iPhone Duo' collection (US story)"
@@ -501,7 +501,7 @@
   "source_name": "App Store — Great Apps on iPhone Duo (US)",
   "source_url": "https://apps.apple.com/us/story/id6820646846",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-10-30"
  },
  {
   "slug": "greens",
@@ -533,15 +533,17 @@
   "store": "US",
   "category": "health",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Headspace is featured in Apple's official 'Great Apps on iPhone Duo' App Store collection, which highlights apps that take advantage of the Duo's versatile design on both the outer and inner displays. No specific layout detail is published.",
+  "adaptation_zh": "Headspace 入选苹果官方 App Store「Great Apps on iPhone Duo」精选合集——该合集收录能利用 Duo 内外双屏多形态设计的 App；未公布具体布局细节。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "Listed in App Store 'Great Apps on iPhone Duo' collection (US story)"
+  ],
   "listed_on_site": true,
   "source_name": "Great apps on iPhone Duo — App Store story (US)",
   "source_url": "https://apps.apple.com/us/story/id6820646846",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-10-30"
  },
  {
   "slug": "instagram",
@@ -699,17 +701,18 @@
   "store": "US",
   "category": "news",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "FitsDuo tracking (version 4.331, 2026-10-26) reports Medium fills the iPhone Duo inner screen and adapts when you fold; the build uses the iOS 27.1 SDK and Apple's iPhone Duo APIs. No specific two-pane layout is documented.",
+  "adaptation_zh": "据 FitsDuo 追踪（4.331 版，2026-10-26）：Medium 已铺满 iPhone Duo 内屏并随折叠自适应；该构建使用 iOS 27.1 SDK 与苹果的 iPhone Duo API。未有具体双栏布局的公开说明。",
   "editorial_score": 3,
   "highlights": [
-   "Listed in App Store 'Great Apps on iPhone Duo' collection"
+   "Listed in App Store 'Great Apps on iPhone Duo' collection",
+   "FitsDuo: fills the inner screen, adapts on fold (v4.331, iOS 27.1 SDK, uses Duo APIs)"
   ],
   "listed_on_site": true,
-  "source_name": "App Store — Great Apps on iPhone Duo",
-  "source_url": "https://apps.apple.com/ca/story/id6820646846",
-  "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "source_name": "Fits Duo - Does Medium fit iPhone Duo?",
+  "source_url": "https://fitsduo.com/apps/medium",
+  "credibility_tier": "reported",
+  "date_verified": "2026-10-30"
  },
  {
   "slug": "mlb",
@@ -763,15 +766,17 @@
   "store": "US",
   "category": "sports",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "FitsDuo tracking (version 120744, checked 2026-10-26) reports the NBA app fills the iPhone Duo inner screen, with owners reporting it fits; the build uses the iOS 27.1 SDK but none of Apple's iPhone Duo APIs. No specific two-pane layout is documented.",
+  "adaptation_zh": "据 FitsDuo 追踪（120744 版，2026-10-26 核查）：NBA App 已铺满 iPhone Duo 内屏，机主上报为 Fits；该构建使用 iOS 27.1 SDK，但未使用苹果的 iPhone Duo API。未有具体双栏布局的公开说明。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "FitsDuo: fills the inner screen, owner-reported Fits (v120744, iOS 27.1 SDK)"
+  ],
   "listed_on_site": true,
-  "source_name": "Great Apps on iPhone Duo — App Store story (US)",
-  "source_url": "https://apps.apple.com/us/story/id6820646846",
-  "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "source_name": "Fits Duo - Does NBA fit iPhone Duo?",
+  "source_url": "https://fitsduo.com/apps/nba",
+  "credibility_tier": "reported",
+  "date_verified": "2026-10-30"
  },
  {
   "slug": "netflix",
@@ -2765,7 +2770,7 @@
    "Previously letterboxed on the inner screen (per 2026-10-29 DuoReady watch)",
    "Free with in-app purchases, by Next Vision Limited"
   ],
-  "listed_on_site": false,
+  "listed_on_site": true,
   "source_name": "App Store release notes (2.11.0, 2026-10-27)",
   "source_url": "https://apps.apple.com/us/app/antiqsnap-antique-identifier/id6752929120",
   "credibility_tier": "verified",
@@ -2788,7 +2793,7 @@
    "27.0.0 App Store release notes: 'now fully supports the new iPhone Duo'",
    "Paid Pro version ($2.99), distinct from the free Tips & Tricks on site"
   ],
-  "listed_on_site": false,
+  "listed_on_site": true,
   "source_name": "App Store release notes (27.0.0, 2026-10-28)",
   "source_url": "https://apps.apple.com/us/app/tips-tricks-pro-for-iphone/id311349103",
   "credibility_tier": "verified",
@@ -2811,7 +2816,7 @@
    "8.2.40 App Store release notes: 'Optimized for iPhone Duo: Unfold more room for your plans'",
    "To-do list and calendar app by Appest Limited, free with in-app purchases"
   ],
-  "listed_on_site": false,
+  "listed_on_site": true,
   "source_name": "App Store release notes (8.2.40, 2026-10-28)",
   "source_url": "https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id626144601",
   "credibility_tier": "verified",
@@ -2835,7 +2840,7 @@
    "2.6.15 App Store release notes lead with '适配iPhone Duo'",
    "Tencent AI knowledge-base assistant, free"
   ],
-  "listed_on_site": false,
+  "listed_on_site": true,
   "source_name": "App Store release notes (2.6.15, 2026-10-28)",
   "source_url": null,
   "credibility_tier": "verified",
@@ -2859,7 +2864,7 @@
    "Unfolded: two-page journal spread for records, book mode for calendar",
    "AI life-record companion by LIGHT WITHIN LIFE PTE. LTD., free"
   ],
-  "listed_on_site": false,
+  "listed_on_site": true,
   "source_name": "App Store release notes (4.1.2, 2026-10-28)",
   "source_url": null,
   "credibility_tier": "verified",
@@ -2882,10 +2887,153 @@
    "2.6.2 App Store release notes: '已适配 iPhone Duo'",
    "Micro-learning and quiz app by NOERDEN, free"
   ],
-  "listed_on_site": false,
+  "listed_on_site": true,
   "source_name": "App Store release notes (2.6.2, 2026-10-27)",
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-10-29"
+ },
+ {
+  "slug": "outlook",
+  "name_en": "Microsoft Outlook",
+  "name_zh": "Outlook",
+  "aliases": [
+   "Outlook",
+   "微软Outlook"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Microsoft added official iPhone Duo support in Outlook 5.2641.0 (Oct 23, 2026): the app fills the inner display with no letterboxing, resizes smoothly, and supports side-by-side multitasking. The headline two-pane layout (inbox next to a full message) has NOT shipped yet — Apple says it rolls out 'in the coming weeks.' Partial adaptation; re-check pending.",
+  "adaptation_zh": "微软在 Outlook 5.2641.0（2026 年 10 月 23 日）加入了官方 iPhone Duo 支持：展开铺满内屏、无黑边、布局切换平滑、支持与其它 App 并排分屏。但最关键的双栏布局（左侧收件箱 + 右侧整封邮件）尚未上线——苹果官方称将在「未来几周」推出。属部分适配，待复核。",
+  "editorial_score": 3,
+  "highlights": [
+   "Official Duo support shipped on launch day (5.2641.0, Oct 23, 2026)",
+   "Fills the inner display, no letterboxing; smoother resizing",
+   "Two-pane inbox + full message NOT live yet — Apple: 'in the coming weeks'"
+  ],
+  "listed_on_site": true,
+  "source_name": "Microsoft Learn: Release notes for Outlook Mobile (5.2641.0, 2026-10-23)",
+  "source_url": "https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-mobile",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
+ },
+ {
+  "slug": "dealseek",
+  "name_en": "DealSeek: Coupons & Discounts",
+  "name_zh": null,
+  "aliases": [
+   "DealSeek"
+  ],
+  "store": "US",
+  "category": "shopping",
+  "status": "adapted",
+  "adaptation_en": "Version 1.64.0 (2026-10-29) release notes state: 'Now supporting iPhone Duo, so you can enjoy DealSeek in every device.' The previous version (1.63.29) ran letterboxed on the Duo inner screen; the new version fits it (per FitsDuo tracking via the 2026-10-30 DuoReady watch). No specific two-pane layout is described.",
+  "adaptation_zh": "1.64.0 版（2026-10-29）更新说明写：「Now supporting iPhone Duo, so you can enjoy DealSeek in every device（现已支持 iPhone Duo）」。此前版本（1.63.29）在 Duo 内屏为黑边居中显示，新版已铺满内屏（据 FitsDuo 追踪，经 2026-10-30 DuoReady 盯梢核对）；未描述具体的双栏布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.64.0 App Store release notes: 'Now supporting iPhone Duo'",
+   "Previously letterboxed on the inner screen; new version fits (per 2026-10-30 DuoReady watch)",
+   "Coupon and price-drop app by DealSeek LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.64.0, 2026-10-29)",
+  "source_url": "https://apps.apple.com/us/app/dealseek-coupons-discounts/id6745274862?ppid=1f8a5702-fd78-4838-95e5-ccd77dab53ca",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-30"
+ },
+ {
+  "slug": "uhf",
+  "name_en": "UHF - Love your IPTV",
+  "name_zh": null,
+  "aliases": [
+   "UHF"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 2.4.0 (2026-10-29) release notes state: 'iPhone Duo: We have made various changes to better support the new toy from Apple.' The previous version (2.3.0) only partly fit the Duo inner screen; the new version fits and fills it (per FitsDuo tracking via the 2026-10-30 DuoReady watch). No specific layout detail is published.",
+  "adaptation_zh": "2.4.0 版（2026-10-29）更新说明写：「iPhone Duo: We have made various changes to better support the new toy from Apple（已做多项调整以更好地支持 iPhone Duo）」。此前版本（2.3.0）在 Duo 内屏仅部分贴合，新版已铺满内屏（据 FitsDuo 追踪，经 2026-10-30 DuoReady 盯梢核对）；未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.4.0 App Store release notes cite iPhone Duo support changes",
+   "Previously partly fit the inner screen; new version fills it (per 2026-10-30 DuoReady watch)",
+   "IPTV player by Short Wavelength Applications SL, free with in-app purchases"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.4.0, 2026-10-29)",
+  "source_url": "https://apps.apple.com/us/app/uhf-love-your-iptv/id6443751726",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-30"
+ },
+ {
+  "slug": "fito-us",
+  "name_en": "Fito",
+  "name_zh": null,
+  "aliases": [
+   "Fito: Fitness Streak, Calorie"
+  ],
+  "store": "US",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "Version 3.36.0 (2026-10-30) US App Store release notes state: 'Added support for iPhone Duo.' No specific layout detail is published. Fito is a gamified fitness and calorie tracker by Verse Technology Co., Ltd.",
+  "adaptation_zh": "3.36.0 版（2026-10-30）美区 App Store 更新说明写：「Added support for iPhone Duo（新增 iPhone Duo 支持）」，未公布具体布局细节。Fito 是 Verse Technology 的游戏化健身与卡路里记录 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.36.0 App Store release notes: 'Added support for iPhone Duo'",
+   "Gamified fitness and food tracker by Verse Technology Co., Ltd., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.36.0, 2026-10-30)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-30"
+ },
+ {
+  "slug": "fito-cn",
+  "name_en": "Fito",
+  "name_zh": "Fito：运动健身连胜AI拍照食物卡路里热量喝水记录减肥习惯",
+  "aliases": [
+   "Fito"
+  ],
+  "store": "CN",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "Version 3.36.0 (2026-10-30) China App Store release notes state the app is 'adapted for iPhone Duo' (适配 iPhone Duo). Same build as the US listing; no specific layout detail is published.",
+  "adaptation_zh": "3.36.0 版（2026-10-30）国区 App Store 更新说明写「适配 iPhone Duo」，与美区为同一版本；未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.36.0 App Store release notes: '适配 iPhone Duo'",
+   "Gamified fitness and food tracker by Verse Technology Co., Ltd., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.36.0, 2026-10-30)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-30"
+ },
+ {
+  "slug": "ai-beishujiang-cn",
+  "name_en": null,
+  "name_zh": "AI背书匠-高效背书神器",
+  "aliases": [
+   "AI背书匠"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 2.4.5 (2026-10-29) release notes state the app is fully adapted for iOS 27 and iPhone Duo, with native Apple Pencil handwriting support for dictation practice and a larger writing area when unfolded. No two-pane layout is described.",
+  "adaptation_zh": "2.4.5 版（2026-10-29）更新说明写：「AI 背书匠 已适配 iPhone Duo！…全面适配 iOS 27 与 iPhone Duo；原生支持 Apple Pencil 手写默写」，展开后书写空间更大；未描述双栏布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.4.5 App Store release notes: '已适配 iPhone Duo'",
+   "Native Apple Pencil handwriting dictation; larger writing area unfolded",
+   "AI memorization study app by Pixentia Limited, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.4.5, 2026-10-29)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-30"
  }
 ]

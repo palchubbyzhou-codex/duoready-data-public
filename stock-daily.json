@@ -80,5 +80,154 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-10-29"
+  },
+  {
+    "date": "2026-10-30",
+    "snapshot_time_utc": "2026-10-30T14:11:16+00:00",
+    "snapshot_time_et": "2026-10-30 10:11 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 8,
+    "by_model": [
+      {
+        "model": "256GB Star White",
+        "part": "MK1E4LL/A",
+        "stores_in_stock": 8
+      },
+      {
+        "model": "Variant F4 (config TBD)",
+        "part": "MK1F4LL/A",
+        "stores_in_stock": 6
+      },
+      {
+        "model": "Variant G4 (config TBD)",
+        "part": "MK1G4LL/A",
+        "stores_in_stock": 4
+      },
+      {
+        "model": "512GB Night Sky",
+        "part": "MK1H4LL/A",
+        "stores_in_stock": 7
+      },
+      {
+        "model": "Variant J4 (config TBD)",
+        "part": "MK1J4LL/A",
+        "stores_in_stock": 8
+      },
+      {
+        "model": "Variant L4 (config TBD)",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 7
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R087",
+        "store_name": "Aventura",
+        "city": "Aventura",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R053",
+        "store_name": "Millenia",
+        "city": "Orlando",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R011",
+        "store_name": "MarketStreet",
+        "city": "Lynnfield",
+        "state": "MA",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R293",
+        "store_name": "Friendly Center",
+        "city": "Greensboro",
+        "state": "NC",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R518",
+        "store_name": "The Greene",
+        "city": "Beavercreek",
+        "state": "OH",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R009",
+        "store_name": "Easton Town Center",
+        "city": "Columbus",
+        "state": "OH",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A"
+        ]
+      },
+      {
+        "store_number": "R355",
+        "store_name": "Haywood Mall",
+        "city": "Greenville",
+        "state": "SC",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R316",
+        "store_name": "University Park Village",
+        "city": "Fort Worth",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-10-30"
   }
 ]
