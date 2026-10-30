@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29",
+ "generated": "2026-10-30",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -12,12 +12,45 @@
  "distribution": {
   "100": 32,
   "80": 42,
-  "60": 60,
+  "60": 66,
   "40": 2,
   "20": 1
  },
- "count": 137,
+ "count": 143,
  "apps": [
+  {
+   "slug": "ai-beishujiang-cn",
+   "name_en": null,
+   "name_zh": "AI背书匠-高效背书神器",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "airmail",
+   "name_en": "Airmail",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "alipay",
+   "name_en": "Alipay",
+   "name_zh": "支付宝",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "reported"
+  },
   {
    "slug": "amap",
    "name_en": "Amap",
@@ -30,356 +63,37 @@
    "credibility_tier": "reported"
   },
   {
-   "slug": "callsheet",
-   "name_en": "Callsheet",
+   "slug": "american-airlines",
+   "name_en": "American Airlines",
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
-   "slug": "deck-man",
-   "name_en": "Deck-Man",
+   "slug": "antiqsnap",
+   "name_en": "AntiqSnap: Antique Identifier",
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
-   "slug": "detail",
-   "name_en": "Detail",
+   "slug": "apple-support",
+   "name_en": "Apple Support",
    "name_zh": null,
    "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "feishu",
-   "name_en": "Feishu",
-   "name_zh": "飞书",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "reported"
-  },
-  {
-   "slug": "finalist",
-   "name_en": "Finalist",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "flighty",
-   "name_en": "Flighty",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "flipcorder",
-   "name_en": "Flipcorder",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "greens",
-   "name_en": "Greens",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "iqiyi",
-   "name_en": "iQIYI",
-   "name_zh": "爱奇艺",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "md-vinyl-music-app",
-   "name_en": "MD Vinyl Music App",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "meizhilian-dianfeng-duijue",
-   "name_en": null,
-   "name_zh": "美职篮巅峰对决",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "midi-heijiao",
-   "name_en": null,
-   "name_zh": "谜底黑胶",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "mindnode",
-   "name_en": "MindNode",
-   "name_zh": null,
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "mlb",
-   "name_en": "MLB",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "netflix",
-   "name_en": "Netflix",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "night-sky",
-   "name_en": "Night Sky",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "orisuji",
-   "name_en": "Orisuji",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "penbook",
-   "name_en": "Penbook",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "portal",
-   "name_en": "Portal",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "prime-video",
-   "name_en": "Prime Video",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "smartgym",
-   "name_en": "SmartGym",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "sofa",
-   "name_en": "Sofa",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "streaks-workout",
-   "name_en": "Streaks Workout",
-   "name_zh": null,
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "tencent-video",
-   "name_en": "Tencent Video",
-   "name_zh": "腾讯视频",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "things-3",
-   "name_en": "Things 3",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "tide-guide",
-   "name_en": "Tide Guide",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "tiny-computers",
-   "name_en": "Tiny Computers",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "toastie",
-   "name_en": "Toastie",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "typedraw",
-   "name_en": "TypeDraw",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "wakeout-fitness-games",
-   "name_en": "Wakeout! Fitness Games",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "wps-office",
-   "name_en": "WPS Office",
-   "name_zh": null,
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "airmail",
-   "name_en": "Airmail",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
   },
   {
    "slug": "asphalt-legends",
@@ -415,468 +129,6 @@
    "credibility_tier": "reported"
   },
   {
-   "slug": "craft",
-   "name_en": "Craft",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "edjing-mix",
-   "name_en": "edjing Mix",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "essayist",
-   "name_en": "Essayist",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "fantastical-calendar",
-   "name_en": "Fantastical Calendar",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "fotmob",
-   "name_en": "FotMob",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "instagram",
-   "name_en": "Instagram",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "instagram-edits",
-   "name_en": "Instagram Edits",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "ltk",
-   "name_en": "LTK",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "lyft",
-   "name_en": "Lyft",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "masoc",
-   "name_en": "masoc: Photo & Video Editor",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": false,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "meitu",
-   "name_en": "Meitu",
-   "name_zh": "美图秀秀",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "mockup",
-   "name_en": "Mockup",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "notewise",
-   "name_en": "Notewise",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "nyt-cooking",
-   "name_en": "NYT Cooking",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "paramount-plus",
-   "name_en": "Paramount+",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "pga-tour",
-   "name_en": "PGA Tour",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "planet-of-lana",
-   "name_en": "Planet of Lana",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "rednote",
-   "name_en": "rednote",
-   "name_zh": "小红书",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "retrocade",
-   "name_en": "Retrocade",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "sequel-media-tracker",
-   "name_en": "Sequel • Media Tracker",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "sky-guide-cn",
-   "name_en": "Sky Guide",
-   "name_zh": null,
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "sky-guide-us",
-   "name_en": "Sky Guide",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "slack",
-   "name_en": "Slack",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "slopes",
-   "name_en": "Slopes",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "sneaky-sasquatch",
-   "name_en": "Sneaky Sasquatch",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "soldial",
-   "name_en": "SolDial for Powerwall",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": false,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "taobao",
-   "name_en": "Taobao",
-   "name_zh": "淘宝",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "tesla-cn",
-   "name_en": "Tesla",
-   "name_zh": null,
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "tesla-us",
-   "name_en": "Tesla",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "timepage",
-   "name_en": "Timepage",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "tripsy",
-   "name_en": "Tripsy",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "united-airlines",
-   "name_en": "United Airlines",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "vllo",
-   "name_en": "VLLO",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "weibo",
-   "name_en": "Weibo",
-   "name_zh": "微博",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "xinguang-cn",
-   "name_en": null,
-   "name_zh": "心光 - AI 生活记录伴侣",
-   "store": "CN",
-   "listed_on_site": false,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "xmind",
-   "name_en": "Xmind",
-   "name_zh": null,
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "yelp",
-   "name_en": "Yelp",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "zoom",
-   "name_en": "Zoom",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "alipay",
-   "name_en": "Alipay",
-   "name_zh": "支付宝",
-   "store": "CN",
-   "listed_on_site": true,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
-   "credibility_tier": "reported"
-  },
-  {
-   "slug": "american-airlines",
-   "name_en": "American Airlines",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": true,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "antiqsnap",
-   "name_en": "AntiqSnap: Antique Identifier",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": false,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
-   "credibility_tier": "verified"
-  },
-  {
-   "slug": "apple-support",
-   "name_en": "Apple Support",
-   "name_zh": null,
-   "store": "US",
-   "listed_on_site": false,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
-   "credibility_tier": "reported"
-  },
-  {
    "slug": "bear-us",
    "name_en": "Bear",
    "name_zh": "熊掌记",
@@ -897,6 +149,17 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "callsheet",
+   "name_en": "Callsheet",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
   },
   {
    "slug": "capwords-cn",
@@ -929,6 +192,17 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "craft",
+   "name_en": "Craft",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -987,6 +261,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "dealseek",
+   "name_en": "DealSeek: Coupons & Discounts",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "deck-man",
+   "name_en": "Deck-Man",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "deepseek",
    "name_en": "DeepSeek",
    "name_zh": null,
@@ -996,6 +292,39 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "detail",
+   "name_en": "Detail",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "douyin",
+   "name_en": "Douyin",
+   "name_zh": "抖音",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 1,
+   "score_100": 20,
+   "band": "Poor",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "edjing-mix",
+   "name_en": "edjing Mix",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
   },
   {
    "slug": "eline-s-table",
@@ -1020,6 +349,105 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "essayist",
+   "name_en": "Essayist",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "fantastical-calendar",
+   "name_en": "Fantastical Calendar",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "feishu",
+   "name_en": "Feishu",
+   "name_zh": "飞书",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "finalist",
+   "name_en": "Finalist",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "fito-cn",
+   "name_en": "Fito",
+   "name_zh": "Fito：运动健身连胜AI拍照食物卡路里热量喝水记录减肥习惯",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "fito-us",
+   "name_en": "Fito",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "flighty",
+   "name_en": "Flighty",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "flipcorder",
+   "name_en": "Flipcorder",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "fotmob",
+   "name_en": "FotMob",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "fox-one",
    "name_en": "FOX One",
    "name_zh": null,
@@ -1035,7 +463,7 @@
    "name_en": "GenK",
    "name_zh": "GenK：微学习与多元主题",
    "store": "CN",
-   "listed_on_site": false,
+   "listed_on_site": true,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
@@ -1062,6 +490,17 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "greens",
+   "name_en": "Greens",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
   },
   {
    "slug": "grit",
@@ -1101,11 +540,44 @@
    "name_en": "ima",
    "name_zh": "ima - 腾讯AI知识管家",
    "store": "CN",
-   "listed_on_site": false,
+   "listed_on_site": true,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "verified"
+  },
+  {
+   "slug": "instagram",
+   "name_en": "Instagram",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "instagram-edits",
+   "name_en": "Instagram Edits",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "iqiyi",
+   "name_en": "iQIYI",
+   "name_zh": "爱奇艺",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
   },
   {
    "slug": "jd",
@@ -1174,6 +646,50 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "ltk",
+   "name_en": "LTK",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "lyft",
+   "name_en": "Lyft",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "masoc",
+   "name_en": "masoc: Photo & Video Editor",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "md-vinyl-music-app",
+   "name_en": "MD Vinyl Music App",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "medium",
    "name_en": "Medium",
    "name_zh": null,
@@ -1182,6 +698,72 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "meitu",
+   "name_en": "Meitu",
+   "name_zh": "美图秀秀",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "meizhilian-dianfeng-duijue",
+   "name_en": null,
+   "name_zh": "美职篮巅峰对决",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "midi-heijiao",
+   "name_en": null,
+   "name_zh": "谜底黑胶",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "mindnode",
+   "name_en": "MindNode",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "mlb",
+   "name_en": "MLB",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "mockup",
+   "name_en": "Mockup",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -1193,6 +775,28 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "netflix",
+   "name_en": "Netflix",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "night-sky",
+   "name_en": "Night Sky",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
    "credibility_tier": "verified"
   },
   {
@@ -1229,6 +833,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "notewise",
+   "name_en": "Notewise",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nyt-cooking",
+   "name_en": "NYT Cooking",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "opendisplay",
    "name_en": "OpenDisplay",
    "name_zh": null,
@@ -1251,6 +877,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "orisuji",
+   "name_en": "Orisuji",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "outlook",
+   "name_en": "Microsoft Outlook",
+   "name_zh": "Outlook",
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "papelle",
    "name_en": "Papelle",
    "name_zh": null,
@@ -1260,6 +908,50 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "verified"
+  },
+  {
+   "slug": "paramount-plus",
+   "name_en": "Paramount+",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "penbook",
+   "name_en": "Penbook",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "pga-tour",
+   "name_en": "PGA Tour",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "planet-of-lana",
+   "name_en": "Planet of Lana",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
   },
   {
    "slug": "poizon",
@@ -1281,6 +973,28 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "portal",
+   "name_en": "Portal",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "prime-video",
+   "name_en": "Prime Video",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
    "credibility_tier": "verified"
   },
   {
@@ -1317,6 +1031,39 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "rednote",
+   "name_en": "rednote",
+   "name_zh": "小红书",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "reeder",
+   "name_en": "Reeder",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 2,
+   "score_100": 40,
+   "band": "Limited",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "retrocade",
+   "name_en": "Retrocade",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "salesforce",
    "name_en": "Salesforce",
    "name_zh": null,
@@ -1339,6 +1086,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "sequel-media-tracker",
+   "name_en": "Sequel • Media Tracker",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "shop",
    "name_en": "Shop",
    "name_zh": null,
@@ -1347,6 +1105,94 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sky-guide-cn",
+   "name_en": "Sky Guide",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sky-guide-us",
+   "name_en": "Sky Guide",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "slack",
+   "name_en": "Slack",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "slopes",
+   "name_en": "Slopes",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "smartgym",
+   "name_en": "SmartGym",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sneaky-sasquatch",
+   "name_en": "Sneaky Sasquatch",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sofa",
+   "name_en": "Sofa",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "soldial",
+   "name_en": "SolDial for Powerwall",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -1383,11 +1229,77 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "streaks-workout",
+   "name_en": "Streaks Workout",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "taobao",
+   "name_en": "Taobao",
+   "name_zh": "淘宝",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "tencent-video",
+   "name_en": "Tencent Video",
+   "name_zh": "腾讯视频",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "tesla-cn",
+   "name_en": "Tesla",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "tesla-us",
+   "name_en": "Tesla",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "things-3",
+   "name_en": "Things 3",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
    "slug": "ticktick-us",
    "name_en": "TickTick: To-Do List & Calendar",
    "name_zh": null,
    "store": "US",
-   "listed_on_site": false,
+   "listed_on_site": true,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
@@ -1405,14 +1317,58 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "tide-guide",
+   "name_en": "Tide Guide",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "timepage",
+   "name_en": "Timepage",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tiny-computers",
+   "name_en": "Tiny Computers",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "tips-tricks-pro",
    "name_en": "Tips & Tricks Pro - for iPhone",
    "name_zh": null,
    "store": "US",
-   "listed_on_site": false,
+   "listed_on_site": true,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "toastie",
+   "name_en": "Toastie",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
    "credibility_tier": "verified"
   },
   {
@@ -1424,6 +1380,50 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tripsy",
+   "name_en": "Tripsy",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "typedraw",
+   "name_en": "TypeDraw",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "uhf",
+   "name_en": "UHF - Love your IPTV",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "united-airlines",
+   "name_en": "United Airlines",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -1449,6 +1449,28 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "vllo",
+   "name_en": "VLLO",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "wakeout-fitness-games",
+   "name_en": "Wakeout! Fitness Games",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
    "slug": "weather-mini",
    "name_en": "Weather mini",
    "name_zh": null,
@@ -1469,6 +1491,39 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "verified"
+  },
+  {
+   "slug": "wechat",
+   "name_en": "WeChat",
+   "name_zh": "微信",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 2,
+   "score_100": 40,
+   "band": "Limited",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "weibo",
+   "name_en": "Weibo",
+   "name_zh": "微博",
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "wps-office",
+   "name_en": "WPS Office",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": true,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "reported"
   },
   {
    "slug": "wylde-flowers",
@@ -1493,37 +1548,48 @@
    "credibility_tier": "reported"
   },
   {
-   "slug": "reeder",
-   "name_en": "Reeder",
-   "name_zh": null,
-   "store": "US",
+   "slug": "xinguang-cn",
+   "name_en": null,
+   "name_zh": "心光 - AI 生活记录伴侣",
+   "store": "CN",
    "listed_on_site": true,
-   "editorial_score_5": 2,
-   "score_100": 40,
-   "band": "Limited",
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
-   "slug": "wechat",
-   "name_en": "WeChat",
-   "name_zh": "微信",
+   "slug": "xmind",
+   "name_en": "Xmind",
+   "name_zh": null,
    "store": "CN",
-   "listed_on_site": false,
-   "editorial_score_5": 2,
-   "score_100": 40,
-   "band": "Limited",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "reported"
   },
   {
-   "slug": "douyin",
-   "name_en": "Douyin",
-   "name_zh": "抖音",
-   "store": "CN",
-   "listed_on_site": false,
-   "editorial_score_5": 1,
-   "score_100": 20,
-   "band": "Poor",
-   "credibility_tier": "reported"
+   "slug": "yelp",
+   "name_en": "Yelp",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "zoom",
+   "name_en": "Zoom",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": true,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
   }
  ]
 }
