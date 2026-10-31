@@ -1219,8 +1219,8 @@
   "store": "US",
   "category": "productivity",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Version 1.20 release notes add 'beautiful new parks and wildlife layouts for iPhone Duo and iPad' — new park and wildlife page layouts designed for the Duo's larger unfolded display. No two-pane behavior is described.",
+  "adaptation_zh": "1.20 版更新说明新增「为 iPhone Duo 与 iPad 打造的精美公园与野生动物布局」——为 Duo 展开大屏设计的新公园/野生动物页面布局；未描述双栏行为。",
   "editorial_score": 3,
   "highlights": [
    "Version 1.20: 'Beautiful new parks and wildlife layouts for iPhone Duo and iPad'"
@@ -1229,7 +1229,7 @@
   "source_name": "Scratchbook: National Parks, App Store (Version 1.20 release notes)",
   "source_url": "https://apps.apple.com/us/app/scratchbook-national-parks/id6790084669",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-10-31"
  },
  {
   "slug": "sequel-media-tracker",
@@ -1412,8 +1412,8 @@
   "store": "US",
   "category": "weather",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Version 3.3 (2026-10-08) release notes state Solstice 'has been optimised for iPhone Duo' and that saved locations can now be reordered by dragging. No specific two-pane layout is described.",
+  "adaptation_zh": "3.3 版（2026-10-08）更新说明写明 Solstice「已针对 iPhone Duo 优化」，且保存的地点现可拖动排序；未描述具体的双栏布局。",
   "editorial_score": 3,
   "highlights": [
    "Version 3.3 (Oct 8) release notes state it has been optimised for iPhone Duo and that saved locations can now be reordered by dragging"
@@ -1422,7 +1422,7 @@
   "source_name": "Solstice — App Store (US), version 3.3, Oct 8",
   "source_url": "https://apps.apple.com/us/app/solstice/id1547580907",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-10-31"
  },
  {
   "slug": "strava",
@@ -1753,18 +1753,18 @@
   "store": "US",
   "category": "games",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Version 1.7.4 release notes state: 'Improved support for iPadOS 27 and iPhone Duo.' No specific layout detail is published. Wylde Flowers is an Apple Arcade life-sim featured in the App Store 'Great Games on iPhone Duo' collection.",
+  "adaptation_zh": "1.7.4 版更新说明写：「Improved support for iPadOS 27 and iPhone Duo（改进对 iPadOS 27 与 iPhone Duo 的支持）」，未公布具体布局细节。Wylde Flowers 是 Apple Arcade 生活模拟游戏，入选 App Store「Great Games on iPhone Duo」合集。",
   "editorial_score": 3,
   "highlights": [
    "App Store version 1.7.4 notes: 'Improved support for iPadOS 27 and iPhone Duo'",
    "Apple Arcade title featured in App Store 'Great Games on iPhone Duo' collection as a cozy, magical life-sim"
   ],
   "listed_on_site": true,
-  "source_name": "Wylde Flowers - App Store",
+  "source_name": "Wylde Flowers - App Store (version 1.7.4 release notes)",
   "source_url": "https://apps.apple.com/us/app/wylde-flowers/id1458605549?at=11l4Kw",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-10-31"
  },
  {
   "slug": "yelp",
@@ -3035,5 +3035,169 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-10-30"
+ },
+ {
+  "slug": "claude",
+  "name_en": "Claude",
+  "name_zh": null,
+  "aliases": [
+   "Claude by Anthropic"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Anthropic announced on 2026-10-29 that on iPad and iPhone Duo, Artifacts now open side by side next to the chat instead of covering it, and can be expanded to full screen with one tap. The companion app version 1.261028.19 shipped on 2026-10-30; its App Store release notes do not mention Duo, so the Duo details rest on Anthropic's official announcement.",
+  "adaptation_zh": "Anthropic 于 2026-10-29 官方宣布：在 iPad 与 iPhone Duo 上，Artifacts 改为在聊天旁并排打开（不再覆盖聊天），并可一键全屏。配套版本 1.261028.19 于 2026-10-30 上架，其 App Store 更新说明未提 Duo，Duo 细节以开发者官方公告为准。",
+  "editorial_score": 4,
+  "highlights": [
+   "Artifacts open side-by-side with the chat on iPhone Duo (Anthropic announcement, 2026-10-29)",
+   "One tap expands an Artifact to full screen",
+   "AI assistant by Anthropic PBC, free; version 1.261028.19 (2026-10-30)"
+  ],
+  "listed_on_site": false,
+  "source_name": "Anthropic official announcement (2026-10-29)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
+ },
+ {
+  "slug": "priceline",
+  "name_en": "Priceline - Hotel, Car, Flight",
+  "name_zh": null,
+  "aliases": [
+   "Priceline"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 37.2 (2026-10-30) release notes state: 'Made for iPhone Duo: Priceline adapts to Duo's foldable screen, so your trip plans have room to unfold, whether your phone is open or closed.' No specific two-pane layout is described.",
+  "adaptation_zh": "37.2 版（2026-10-30）更新说明写：「Made for iPhone Duo: Priceline adapts to Duo's foldable screen, so your trip plans have room to unfold（专为 iPhone Duo 打造：适配折叠屏，无论开合，行程计划都有充足空间）」，未描述具体的双栏布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "37.2 App Store release notes: 'Made for iPhone Duo'",
+   "Hotel, car and flight booking app by priceline.com, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (37.2, 2026-10-30)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
+ },
+ {
+  "slug": "transit",
+  "name_en": "Transit • Subway & Bus Times",
+  "name_zh": null,
+  "aliases": [
+   "Transit"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 6.3.6 (2026-10-30) release notes state: 'We've also added support for the app in Swedish and the iPhone Duo.' No specific layout detail is published.",
+  "adaptation_zh": "6.3.6 版（2026-10-30）更新说明写：「We've also added support for the app in Swedish and the iPhone Duo（新增瑞典语与 iPhone Duo 支持）」，未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.3.6 App Store release notes add iPhone Duo support",
+   "Public-transit times app by Transit App, Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.3.6, 2026-10-30)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
+ },
+ {
+  "slug": "fastmail",
+  "name_en": "Fastmail – Email & Calendar",
+  "name_zh": null,
+  "aliases": [
+   "Fastmail"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 4.18.0 (2026-10-30) release notes state: 'Improved iPhone Duo support.' The previous version (4.17.0) only partly fit the Duo inner screen; the new version fits and fills it (per FitsDuo tracking via the 2026-10-31 DuoReady watch). No specific two-pane layout is described.",
+  "adaptation_zh": "4.18.0 版（2026-10-30）更新说明写：「Improved iPhone Duo support（改进 iPhone Duo 支持）」。此前版本（4.17.0）在 Duo 内屏仅部分贴合，新版已铺满内屏（据 FitsDuo 追踪，经 2026-10-31 DuoReady 盯梢核对）；未描述具体的双栏布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.18.0 App Store release notes: 'Improved iPhone Duo support'",
+   "Previously partly fit the inner screen; new version fills it (per 2026-10-31 DuoReady watch)",
+   "Email and calendar app by Fastmail Pty Ltd, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.18.0, 2026-10-30)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
+ },
+ {
+  "slug": "untappd",
+  "name_en": "Untappd: Beer, Wine & Spirits",
+  "name_zh": null,
+  "aliases": [
+   "Untappd"
+  ],
+  "store": "US",
+  "category": "social",
+  "status": "adapted",
+  "adaptation_en": "Version 5.0.2 (2026-10-30) release notes state: 'Improve how Untappd looks on iPad and iPhone Duo.' Transitional adaptation: one owner reports the inner screen still shows a black bar on the right side in 5.0.2 (per FitsDuo tracking via the 2026-10-31 DuoReady watch).",
+  "adaptation_zh": "5.0.2 版（2026-10-30）更新说明写：「Improve how Untappd looks on iPad and iPhone Duo（改进在 iPad 与 iPhone Duo 上的显示）」。属过渡适配：有 1 名机主反馈 5.0.2 内屏右侧仍有黑边（据 FitsDuo 追踪，经 2026-10-31 DuoReady 盯梢核对）。",
+  "editorial_score": 2,
+  "highlights": [
+   "5.0.2 App Store release notes cite improved iPhone Duo display",
+   "Transitional: an owner reports a black bar remains on the right of the inner screen",
+   "Beer check-in and discovery app by Untappd, Inc, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (5.0.2, 2026-10-30)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
+ },
+ {
+  "slug": "sprout-pregnancy-tracker",
+  "name_en": "Pregnancy Tracker App - Sprout",
+  "name_zh": null,
+  "aliases": [
+   "Sprout"
+  ],
+  "store": "US",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "Version 19.10 (2026-10-30) US App Store release notes state: 'NEW! Optimized for iPhone Duo, with more room to follow your pregnancy journey.' No specific layout detail is published; the China-store listing's same-version notes carry no Duo content.",
+  "adaptation_zh": "19.10 版（2026-10-30）美区 App Store 更新说明写：「NEW! Optimized for iPhone Duo, with more room to follow your pregnancy journey（新版已针对 iPhone Duo 优化，孕期记录空间更大）」，未公布具体布局细节；国区同一 App 本版说明无 Duo 内容。",
+  "editorial_score": 3,
+  "highlights": [
+   "19.10 App Store release notes: 'Optimized for iPhone Duo'",
+   "Pregnancy tracker by Med ART Studios, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (19.10, 2026-10-30)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
+ },
+ {
+  "slug": "faithe",
+  "name_en": "Faithe: Bible Videos & Stories",
+  "name_zh": null,
+  "aliases": [
+   "Faithe"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 1.20 (2026-10-29) release notes state: 'Faithe is now optimized for iPhone Duo, making the most of its expansive inner display.' The previous version (1.19) was in the 'should fit' state; the new version fits the inner screen (per the 2026-10-31 DuoReady watch).",
+  "adaptation_zh": "1.20 版（2026-10-29）更新说明写：「Faithe is now optimized for iPhone Duo, making the most of its expansive inner display（现已针对 iPhone Duo 优化，充分利用宽大的内屏）」。此前版本（1.19）为「应可贴合」状态，新版已贴合内屏（据 2026-10-31 DuoReady 盯梢）。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.20 App Store release notes: 'now optimized for iPhone Duo'",
+   "Bible videos and stories app by Tightrope Interactive, Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.20, 2026-10-29)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
  }
 ]

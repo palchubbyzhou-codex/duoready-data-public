@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-10-30-apple-stores-duo-display-crack-memo",
+    "title_en": "Apple tells stores how to handle iPhone Duo inner-display cracks",
+    "title_zh": "苹果向门店下发 iPhone Duo 内屏开裂处理指引",
+    "summary_en": "MacRumors reports Apple sent Apple Stores and Authorized Service Providers a memo this week on diagnosing iPhone Duo inner-display cracks: technicians should inspect affected units and repair or replace them under standard procedures. The memo repeats that only a small number of units are affected; there is no recall and no public repair program.",
+    "summary_zh": "据 MacRumors 报道，苹果本周向 Apple Store 与授权服务商下发备忘录，指导如何诊断 iPhone Duo 内屏开裂：技术人员应检查涉事设备并按标准流程维修或更换。备忘录重申仅有少数设备受影响；目前没有召回，也没有公开维修计划。",
+    "url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+    "related_app_slugs": [],
+    "source_name": "MacRumors",
+    "source_url": "https://www.macrumors.com/2026/10/30/apple-alerts-stores-to-iphone-duo-display-cracking/",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-30",
+    "date_verified": "2026-10-31"
+  },
+  {
+    "id": "2026-10-30-ios-27-3-apple-intelligence-china",
+    "title_en": "iOS 27.3 beta lands next week, bringing first Apple Intelligence features to China in December",
+    "title_zh": "iOS 27.3 测试版下周到来，Apple Intelligence 12 月首批登陆中国",
+    "summary_en": "In a press release on its China Newsroom site, Apple said the first iOS 27.3 developer beta arrives November 4 (likely November 3 in the US) and the public release follows in December, enabling a first set of Apple Intelligence features on iPhone in China — Writing Tools, Genmoji, Clean Up, notification summaries, Visual Intelligence and Live Translation, with Alibaba's Qwen reachable for some requests. Siri AI and Image Playground are not included, and Mac/iPad support awaits further approvals.",
+    "summary_zh": "苹果在中国区 Newsroom 发布新闻稿称，iOS 27.3 首个开发者测试版将于 11 月 4 日到来（美国时间可能为 11 月 3 日），正式版 12 月发布，为中国 iPhone 首批开启 Apple Intelligence 功能——写作工具、Genmoji、消除、通知摘要、视觉智能与实时翻译，部分请求可调用阿里通义千问。Siri AI 与 Image Playground 不在首批之列，Mac/iPad 需等待进一步审批。",
+    "url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
+    "related_app_slugs": [],
+    "source_name": "MacRumors",
+    "source_url": "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-30",
+    "date_verified": "2026-10-31"
+  },
+  {
+    "id": "2026-10-30-gurman-duo-launch-stock-stores-rumor",
+    "title_en": "Unconfirmed: Gurman says ~80% of launch-day iPhone Duo stock went to Apple Stores",
+    "title_zh": "未经证实：Gurman 称 iPhone Duo 首发库存约八成给了 Apple Store（传闻）",
+    "summary_en": "UNCONFIRMED: MacRumors reports Bloomberg's Mark Gurman said on his Power On podcast, citing people close to the Duo's logistics, that Apple allocated roughly 80% of initial iPhone Duo inventory to its retail stores — about 50 units at smaller stores and up to ~250 at flagships — leaving ~20% for deliveries and pickup reservations, which would explain why online delivery dates slipped to late January within minutes. Apple has not confirmed any allocation figures.",
+    "summary_zh": "未经证实：据 MacRumors 报道，彭博社 Mark Gurman 在 Power On 播客中援引接近 Duo 物流的人士称，苹果将 iPhone Duo 首批库存约 80% 分配给了零售门店——小店约 50 台、旗舰店最高约 250 台——仅约 20% 留给配送与到店取货预订，这或可解释线上发货日期为何在几分钟内滑到 1 月底。苹果未确认任何分配数字。",
+    "url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
+    "related_app_slugs": [],
+    "source_name": "MacRumors (reporting Bloomberg / Mark Gurman)",
+    "source_url": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
+    "credibility_tier": "rumor",
+    "date_published": "2026-10-30",
+    "date_verified": "2026-10-31"
+  },
+  {
     "id": "2026-10-29-ios-27-2-apple-tv-multiview-duo",
     "title_en": "iOS 27.2 brings Apple TV Multiview to iPhone — four sports streams at once, ideal on Duo's big screen",
     "title_zh": "iOS 27.2 把 Apple TV Multiview 带到 iPhone：同时看四路体育直播，Duo 大屏尤其合适",
