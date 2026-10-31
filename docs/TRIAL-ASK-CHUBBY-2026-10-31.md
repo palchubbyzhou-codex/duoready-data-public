@@ -24,7 +24,7 @@
   → **失败类 A + C**：整句问题被当成 App 名查库；而且"rescale"就是本站的核心概念（适配），这是全站第一概念问题，居然无答。
 - **Q4**：「what case is best for the duo?」
   A：「I haven't matched that one yet. I don't have a sourced answer to this factual question. I cover Duo apps, stock and related news.」
-  → **失败类 B**：配件问题。数据库里明明有 kits 数据可查，Chubby 没接。
+  → **失败类 B（更正 2026-10-31 15:45）**：配件问题。原报告称"kits 数据可查"有误——kits.json 是按身份分的 App 套装（学生/骑手/创作者等），不是手机壳配件库；配件目前**无任何数据源**，属纯覆盖缺口，正确行为只能是诚实未覆盖（说辞仍可改进）。
 - **Q5**：「whats the frame rate on the Duo」
   A：「I checked "whats frame rate" in the US directory, but I don't have source-backed Duo support evidence for it yet. …」
   → **失败类 A**：设备规格问题被整句当 App 名查库。把用户原话整句当"应用名"念出来，是观感最差的一处——第一眼就像坏了。
