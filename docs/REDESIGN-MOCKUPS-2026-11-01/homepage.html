@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>DuoReady 视觉概念稿 — 主页</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:"PingFang SC","Noto Sans SC","Microsoft YaHei",sans-serif; background:#FAFAF7; color:#0A0C12; }
+  .page { max-width:1160px; margin:0 auto; padding:36px 44px 56px; }
+
+  .header { display:flex; align-items:center; justify-content:space-between; padding-bottom:22px; border-bottom:1px solid #ECEAE2; }
+  .wordmark { font-size:26px; font-weight:800; letter-spacing:-0.5px; }
+  .wordmark span { color:#2F6BFF; }
+  .nav { font-size:14px; color:#6B6F76; }
+  .nav b { color:#0A0C12; font-weight:600; }
+  .nav i { font-style:normal; margin:0 10px; color:#D8D5C9; }
+
+  /* hero */
+  .hero { display:flex; gap:48px; align-items:center; margin-top:44px; }
+  .hero-left { flex:1.08; }
+  .kicker { font-size:13px; font-weight:700; letter-spacing:2px; color:#2F6BFF; margin-bottom:16px; }
+  h1 { font-size:47px; line-height:1.22; font-weight:800; letter-spacing:-1.2px; }
+  h1 em { font-style:normal; color:#2F6BFF; }
+  .subline { margin-top:18px; font-size:17px; line-height:1.65; color:#55585E; }
+  .askbox { margin-top:26px; background:#fff; border:1.5px solid #0A0C12; border-radius:999px; padding:8px 8px 8px 24px; display:flex; align-items:center; gap:12px; box-shadow:0 10px 30px rgba(10,12,18,.08); }
+  .askbox .q { flex:1; font-size:16px; color:#9A9DA3; }
+  .askbox .btn { background:#0A0C12; color:#fff; font-size:15px; font-weight:600; padding:11px 24px; border-radius:999px; }
+  .askhint { margin-top:12px; font-size:13px; color:#A6A8AD; }
+  .askhint b { color:#6B6F76; font-weight:600; }
+
+  .hero-right { flex:1; }
+  .device { background:#101014; border-radius:34px; padding:12px; box-shadow:0 30px 60px rgba(10,12,18,.25); display:flex; }
+  .half { flex:1; height:288px; overflow:hidden; position:relative; }
+  .half.left { background:#fff; border-radius:24px 4px 4px 24px; padding:16px 14px; }
+  .half.right { background:#0B1220; border-radius:4px 24px 24px 4px; }
+  .hinge { width:6px; background:linear-gradient(90deg,#000,#3a3a40,#000); }
+  .screen-title { font-size:12px; font-weight:700; margin-bottom:10px; }
+  .app-row { display:flex; align-items:center; gap:9px; padding:8px 0; border-bottom:1px solid #F0EEE6; }
+  .app-row:last-child { border-bottom:none; }
+  .mini-icon { width:30px; height:30px; border-radius:8px; display:flex; align-items:center; justify-content:center; color:#fff; font-size:14px; font-weight:800; flex:none; }
+  .mi-n { background:#141414; color:#E50914; font-family:Georgia,serif; }
+  .mi-w { background:#07C160; font-size:12px; }
+  .mi-o { background:#0A64D8; }
+  .mi-i { background:linear-gradient(45deg,#FEDA75,#FA7E1E,#D62976,#962FBF); }
+  .app-row .nm { font-size:13.5px; font-weight:600; flex:1; }
+  .score { font-size:11.5px; font-weight:700; padding:3px 9px; border-radius:999px; background:#EAF7EE; color:#1F9D55; }
+  .score.mid { background:#FEF3E2; color:#B45309; }
+  .score.low { background:#FDECEC; color:#C81E1E; }
+  .player-bg { position:absolute; inset:0; background:radial-gradient(120% 90% at 70% 15%, #1D4FD7 0%, #0B2447 55%, #050A16 100%); }
+  .play { position:absolute; top:50%; left:50%; transform:translate(-50%,-58%); width:56px; height:56px; border-radius:50%; background:rgba(255,255,255,.92); display:flex; align-items:center; justify-content:center; }
+  .play:after { content:""; border-left:17px solid #111; border-top:10px solid transparent; border-bottom:10px solid transparent; margin-left:4px; }
+  .p-caption { position:absolute; bottom:26px; width:100%; text-align:center; color:#DCE7FF; font-size:12px; }
+  .caption { margin-top:12px; text-align:center; font-size:12px; color:#A6A8AD; }
+
+  /* trust strip */
+  .trust { margin-top:48px; background:#fff; border:1px solid #ECEAE2; border-radius:18px; padding:22px 30px; display:flex; }
+  .trust div { flex:1; text-align:center; }
+  .trust .num { font-size:27px; font-weight:800; letter-spacing:-.5px; }
+  .trust .num em { font-style:normal; color:#1F9D55; }
+  .trust .lab { font-size:13px; color:#9A9DA3; margin-top:4px; }
+
+  /* sections */
+  .section { margin-top:54px; }
+  .section-head { display:flex; align-items:baseline; gap:14px; margin-bottom:20px; }
+  .section-head h2 { font-size:24px; font-weight:800; letter-spacing:-.5px; }
+  .section-head span { font-size:13.5px; color:#9A9DA3; }
+  .cards { display:flex; gap:20px; }
+  .card { flex:1; background:#fff; border:1px solid #ECEAE2; border-radius:18px; padding:22px; }
+  .card .icon { width:52px; height:52px; border-radius:13px; display:flex; align-items:center; justify-content:center; color:#fff; font-size:24px; font-weight:800; }
+  .icon.things { background:#FFD60A; color:#111; }
+  .icon.outlook { background:#0A64D8; }
+  .icon.insta { background:linear-gradient(45deg,#FEDA75,#FA7E1E,#D62976,#962FBF); }
+  .icon.netflix { background:#141414; color:#E50914; font-family:Georgia,serif; }
+  .card h4 { font-size:18px; margin-top:14px; }
+  .card p { font-size:14.5px; color:#55585E; line-height:1.6; margin-top:6px; min-height:46px; }
+  .chips { margin-top:14px; display:flex; gap:8px; flex-wrap:wrap; }
+  .chip { font-size:12px; padding:5px 11px; border-radius:999px; border:1px solid #E3E1D8; background:#fff; color:#3C4046; }
+  .chip.strong { background:#0A0C12; color:#fff; border-color:#0A0C12; font-weight:600; }
+  .chip.blue { background:#EBF1FF; border-color:#C9D9FF; color:#1D4FD7; font-weight:600; }
+
+  /* live band */
+  .live { margin-top:54px; background:#0A0C12; border-radius:22px; padding:32px 36px; display:flex; align-items:center; gap:36px; color:#fff; }
+  .live-dot { display:inline-block; width:9px; height:9px; border-radius:50%; background:#FF3B30; margin-right:8px; box-shadow:0 0 0 4px rgba(255,59,48,.25); }
+  .live h2 { font-size:25px; font-weight:800; letter-spacing:-.5px; }
+  .live p { margin-top:8px; font-size:14.5px; color:#B9C0CC; line-height:1.6; }
+  .live-stats { display:flex; gap:34px; margin-left:auto; flex:none; }
+  .live-stats .num { font-size:26px; font-weight:800; }
+  .live-stats .lab { font-size:12px; color:#8A93A3; margin-top:3px; }
+  .live .cta { flex:none; background:#fff; color:#0A0C12; font-weight:700; font-size:15px; padding:13px 26px; border-radius:999px; }
+
+  .foot { margin-top:44px; text-align:center; font-size:12.5px; color:#B9BBBF; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <div class="wordmark">duo<span>ready</span></div>
+    <div class="nav"><b>精选</b><i>|</i>数据库<i>|</i>购买指南<i>|</i>Ask Chubby</div>
+  </div>
+
+  <div class="hero">
+    <div class="hero-left">
+      <div class="kicker">IPHONE DUO 适配数据库 · 每日更新</div>
+      <h1>你的 App，<br>配得上这块<em>大屏</em>吗？</h1>
+      <div class="subline">128 个 App 逐一核实：哪些是为双屏而生，哪些只是拉大了凑数。美区 + 中区，买之前，先来查一眼。</div>
+      <div class="askbox">
+        <div class="q">问 Chubby：微信适配吗？抖音呢？</div>
+        <div class="btn">问一下</div>
+      </div>
+      <div class="askhint">大家都在问：<b>微信</b> · <b>抖音</b> · <b>小红书</b> · <b>王者荣耀</b></div>
+    </div>
+    <div class="hero-right">
+      <div class="device">
+        <div class="half left">
+          <div class="screen-title">今日核实动态</div>
+          <div class="app-row"><div class="mini-icon mi-n">N</div><div class="nm">Netflix</div><span class="score">5 / 5 ✓</span></div>
+          <div class="app-row"><div class="mini-icon mi-o">O</div><div class="nm">Outlook</div><span class="score mid">3 / 5</span></div>
+          <div class="app-row"><div class="mini-icon mi-i">◉</div><div class="nm">Instagram</div><span class="score">4 / 5 ✓</span></div>
+          <div class="app-row"><div class="mini-icon mi-w">微</div><div class="nm">微信（中区）</div><span class="score low">2 / 5</span></div>
+          <div class="app-row"><div class="mini-icon" style="background:#FFD60A;color:#111;">✓</div><div class="nm">Things 3</div><span class="score">5 / 5 ✓</span></div>
+        </div>
+        <div class="hinge"></div>
+        <div class="half right">
+          <div class="player-bg"></div>
+          <div class="play"></div>
+          <div class="p-caption">展开，就是另一个世界</div>
+        </div>
+      </div>
+      <div class="caption">双屏形态示意渲染 · 非真机照片</div>
+    </div>
+  </div>
+
+  <div class="trust">
+    <div><div class="num">150</div><div class="lab">条 App 记录</div></div>
+    <div><div class="num">128</div><div class="lab">已上架核实</div></div>
+    <div><div class="num">US · CN</div><div class="lab">双区覆盖</div></div>
+    <div><div class="num"><em>今日</em></div><div class="lab">数据更新时间（不是上个月）</div></div>
+  </div>
+
+  <div class="section">
+    <div class="section-head"><h2>本周精选</h2><span>编辑挑选 · 不是全量库，是先看这几个</span></div>
+    <div class="cards">
+      <div class="card">
+        <div class="icon things">✓</div>
+        <h4>Things 3</h4>
+        <p>任务列表在一侧、详情在另一侧——小工具把双屏用得最克制的一个。</p>
+        <div class="chips"><span class="chip strong">5 / 5 · 已核实</span><span class="chip blue">✦ 原生双屏</span></div>
+      </div>
+      <div class="card">
+        <div class="icon outlook">O</div>
+        <h4>Outlook</h4>
+        <p>邮件列表和正文同屏展开，上班的人展开就回不去了。</p>
+        <div class="chips"><span class="chip strong">3 / 5 · 已核实</span><span class="chip">美国区</span></div>
+      </div>
+      <div class="card">
+        <div class="icon insta">◉</div>
+        <h4>Instagram</h4>
+        <p>刷图是放大版手机体验，谈不上原生，但该满的地方都满了。</p>
+        <div class="chips"><span class="chip strong">4 / 5 · 已核实</span><span class="chip">美国区</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="live">
+    <div>
+      <h2><span class="live-dot"></span>iPhone Duo 库存直播</h2>
+      <p>哪家 Apple Store 刚补货、几分钟被抢空——直播大屏 24/7 盯着，每次补货都当场向苹果官网复核。</p>
+    </div>
+    <div class="live-stats">
+      <div><div class="num">254</div><div class="lab">家门店在盯</div></div>
+      <div><div class="num">10 分钟</div><div class="lab">一轮全网扫描</div></div>
+    </div>
+    <div class="cta">看直播 →</div>
+  </div>
+
+  <div class="section">
+    <div class="section-head"><h2>为双屏而生</h2><span>Duo-native 专区 · 不是拉大，是重新设计</span></div>
+    <div class="cards">
+      <div class="card">
+        <div class="icon netflix">N</div>
+        <h4>Netflix</h4>
+        <p>外屏刷片选片，展开就是随身影院——首发阵容里完成度最高的一个。</p>
+        <div class="chips"><span class="chip blue">✦ Duo-native</span><span class="chip strong">5 / 5 · 已核实</span></div>
+      </div>
+      <div class="card">
+        <div class="icon things">✓</div>
+        <h4>Things 3</h4>
+        <p>列表与详情天生两栏，搬上双屏像回了家。</p>
+        <div class="chips"><span class="chip blue">✦ Duo-native</span><span class="chip strong">5 / 5 · 已核实</span></div>
+      </div>
+      <div class="card">
+        <div class="icon outlook">O</div>
+        <h4>Outlook</h4>
+        <p>收件箱和正文各占一半，处理邮件的速度是真的变快了。</p>
+        <div class="chips"><span class="chip blue">✦ 双栏原生</span><span class="chip strong">3 / 5 · 已核实</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">DuoReady 视觉概念稿 · 页面结构示意，评分与核查数据为库内真实记录</div>
+
+</div>
+</body>
+</html>
