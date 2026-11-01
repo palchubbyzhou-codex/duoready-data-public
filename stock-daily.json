@@ -242,5 +242,58 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-10-31"
+  },
+  {
+    "date": "2026-11-01",
+    "snapshot_time_utc": "2026-11-01T15:10:05+00:00",
+    "snapshot_time_et": "2026-11-01 10:10 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 1,
+    "by_model": [
+      {
+        "model": "256GB Star White",
+        "part": "MK1E4LL/A",
+        "stores_in_stock": 1
+      },
+      {
+        "model": "Variant F4 (config TBD)",
+        "part": "MK1F4LL/A",
+        "stores_in_stock": 1
+      },
+      {
+        "model": "Variant G4 (config TBD)",
+        "part": "MK1G4LL/A",
+        "stores_in_stock": 1
+      },
+      {
+        "model": "Variant J4 (config TBD)",
+        "part": "MK1J4LL/A",
+        "stores_in_stock": 1
+      },
+      {
+        "model": "Variant L4 (config TBD)",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 1
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R006",
+        "store_name": "Lenox Square",
+        "city": "Atlanta",
+        "state": "GA",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-01"
   }
 ]

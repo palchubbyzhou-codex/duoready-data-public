@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-10-31-homeview-software-tour",
+    "title_en": "A closer look at HomeView software ahead of its November 13 launch",
+    "title_zh": "HomeView 软件提前巡览：11 月 13 日发售前先看界面",
+    "summary_en": "MacRumors reports developer Steve Troughton-Smith toured a virtualized build of Apple's HomeView software (created by Guilherme Rambo): the tvOS-based system shows a home screen, Control Center, clock faces, and apps such as Timers and Settings, supports up to six users with face-recognition personal content, and adds a Liquid Glass clarity slider. The $299 hub launches November 13; these findings come from the virtualized software, not an Apple announcement.",
+    "summary_zh": "据 MacRumors 报道，开发者 Steve Troughton-Smith 巡览了 Guilherme Rambo 制作的 HomeView 虚拟化软件：这套基于 tvOS 的系统包含主屏幕、控制中心、表盘以及计时器、设置等 App，支持最多 6 名用户并以面部识别呈现个人内容，还新增 Liquid Glass 通透度滑杆。这款 299 美元的智能家居中枢将于 11 月 13 日发售；以上发现来自虚拟化软件，并非苹果官方公告。",
+    "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
+    "related_app_slugs": [],
+    "source_name": "MacRumors",
+    "source_url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour/",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-31",
+    "date_verified": "2026-11-01"
+  },
+  {
+    "id": "2026-10-31-ipad-mini-8-battery-capacity",
+    "title_en": "Apple reveals iPad mini 8 battery: 4,900 mAh, slightly smaller than before",
+    "title_zh": "苹果公开 iPad mini 8 电池容量：4,900 mAh，略小于上代",
+    "summary_en": "Apple's published EU energy label and tech specs show the new iPad mini 8 has a 4,900 mAh (18.9 Wh) battery, down from the iPad mini 7's 5,034 mAh (19.3 Wh), MacRumors reports. Apple lists identical battery-life estimates for both models, suggesting the A20 Pro's efficiency and the OLED display offset the smaller cell. The mini launches November 6 from $699.",
+    "summary_zh": "据 MacRumors 报道，苹果公布的欧盟能效标签与技术规格显示，新款 iPad mini 8 电池容量为 4,900 mAh（18.9 Wh），低于 iPad mini 7 的 5,034 mAh（19.3 Wh）。苹果为两代机型标示相同的续航估计，显示 A20 Pro 的能效与 OLED 屏抵消了电池缩小的影响。新款 mini 将于 11 月 6 日发售，起价 699 美元。",
+    "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+    "related_app_slugs": [],
+    "source_name": "MacRumors",
+    "source_url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-31",
+    "date_verified": "2026-11-01"
+  },
+  {
+    "id": "2026-10-31-iphone-18-pro-sales-china-counterpoint",
+    "title_en": "Counterpoint: iPhone 18 Pro sales up 29% in China, down in the US and Japan",
+    "title_zh": "Counterpoint：iPhone 18 Pro 在中国销量涨 29%，美日下滑",
+    "summary_en": "Counterpoint Research data reported by MacRumors shows combined iPhone 18 Pro and Pro Max sales rose 3.1% globally in their first three weeks versus last year's launch, driven by a 29% increase in China, while US sales fell 4% and Japan fell 27% after a $100 US price rise. The tracking period predates the iPhone Duo's October 23 launch; Counterpoint is watching whether the Duo adds buyers or diverts Pro Max sales.",
+    "summary_zh": "据 MacRumors 援引 Counterpoint Research 数据，iPhone 18 Pro 与 Pro Max 上市头三周全球合计销量同比增长 3.1%，主要由中国市场 29% 的增长带动；美国销量下降 4%、日本下降 27%（美国起价上涨 100 美元）。该统计期早于 iPhone Duo 10 月 23 日发售；Counterpoint 正观察 Duo 会带来新增买家还是分流 Pro Max 销量。",
+    "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+    "related_app_slugs": [],
+    "source_name": "MacRumors (reporting Counterpoint Research)",
+    "source_url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
+    "credibility_tier": "reported",
+    "date_published": "2026-10-31",
+    "date_verified": "2026-11-01"
+  },
+  {
     "id": "2026-10-30-apple-stores-duo-display-crack-memo",
     "title_en": "Apple tells stores how to handle iPhone Duo inner-display cracks",
     "title_zh": "苹果向门店下发 iPhone Duo 内屏开裂处理指引",

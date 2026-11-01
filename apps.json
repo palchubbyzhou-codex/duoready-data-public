@@ -114,15 +114,17 @@
   "store": "US",
   "category": "education",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Apple's App Store event for CapWords, titled 'CapWords is iPhone Duo ready!', describes the Duo experience: 'Unfold iPhone Duo and CapWords opens with it. Point at anything. The word appears beside it, in your new language.' No further layout detail is published.",
+  "adaptation_zh": "App Store 为 CapWords 设立的活动页标题为「CapWords is iPhone Duo ready!」，其描述写道：展开 iPhone Duo，CapWords 随之打开；对准任何物品，单词就会出现在它旁边、以你正在学习的新语言呈现。未公布更多布局细节。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "App Store event: 'CapWords is iPhone Duo ready!' — unfold Duo and the word appears beside the object you point at"
+  ],
   "listed_on_site": true,
   "source_name": "CapWords: AI Language Tutor - App Store (US)",
   "source_url": "https://apps.apple.com/us/app/capwords-ai-language-tutor/id6738896465",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-01"
  },
  {
   "slug": "classix",
@@ -174,8 +176,8 @@
   "store": "US",
   "category": "games",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Featured in Apple's App Store 'Great Games on iPhone Duo' collection as an 'Endless Arcade Hopper'; Apple describes the collection's games as taking advantage of Duo's versatile design and looking stunning in any pose and orientation on both the outer and inner displays. No game-specific layout detail is published.",
+  "adaptation_zh": "入选苹果 App Store「Great Games on iPhone Duo」合集，合集称其为「Endless Arcade Hopper（无尽街机跳跃）」；苹果称该合集游戏能发挥 Duo 的多形态设计、在内外屏的任何姿态与方向下都表现出色。未公布该游戏专属的布局细节。",
   "editorial_score": 3,
   "highlights": [
    "Featured in App Store 'Great Games on iPhone Duo' collection as 'Endless Arcade Hopper'"
@@ -184,7 +186,7 @@
   "source_name": "App Store: Great Games on iPhone Duo",
   "source_url": "https://apps.apple.com/us/story/id6820647409",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-01"
  },
  {
   "slug": "crossy-road-castle",
@@ -194,8 +196,8 @@
   "store": "US",
   "category": "games",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Apple Arcade title featured in Apple's App Store 'Great Games on iPhone Duo' collection as 'Endless Co-op Platform Fun'; Apple describes the collection's games as taking advantage of Duo's versatile design and looking stunning in any pose and orientation on both the outer and inner displays. No game-specific layout detail is published.",
+  "adaptation_zh": "Apple Arcade 游戏，入选苹果 App Store「Great Games on iPhone Duo」合集，合集称其为「Endless Co-op Platform Fun（无尽合作平台乐趣）」；苹果称该合集游戏能发挥 Duo 的多形态设计、在内外屏的任何姿态与方向下都表现出色。未公布该游戏专属的布局细节。",
   "editorial_score": 3,
   "highlights": [
    "Apple Arcade title featured in App Store 'Great Games on iPhone Duo' collection",
@@ -205,7 +207,7 @@
   "source_name": "App Store: Great Games on iPhone Duo",
   "source_url": "https://apps.apple.com/us/story/id6820647409",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-01"
  },
  {
   "slug": "crouton",
@@ -851,18 +853,19 @@
   "store": "US",
   "category": "photo",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
-  "editorial_score": 3,
+  "adaptation_en": "Version 1.62 release notes state: '!Camera is ready for iPhone Duo.' FitsDuo's build check of version 1.62 (built with the iOS 27.1 SDK and using Apple's iPhone Duo APIs) reports the app fills the inner screen and adapts when you fold, with no letterboxing.",
+  "adaptation_zh": "1.62 版更新说明写：「!Camera is ready for iPhone Duo（相机已为 iPhone Duo 就绪）」。据 FitsDuo 对 1.62 版安装包的检测（基于 iOS 27.1 SDK、使用苹果 iPhone Duo API），该 App 铺满内屏、随折叠自适应、无黑边。",
+  "editorial_score": 4,
   "highlights": [
    "App Store version 1.62 notes: 'Camera is ready for iPhone Duo'",
+   "FitsDuo build check (v1.62, iOS 27.1 SDK): fills the inner display, adapts when you fold, uses iPhone Duo APIs",
    "Listed in App Store 'Great Apps on iPhone Duo' collection"
   ],
   "listed_on_site": true,
   "source_name": "(Not Boring) Camera — App Store product page, version 1.62",
   "source_url": "https://apps.apple.com/us/app/not-boring-camera/id6737783441",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-01"
  },
  {
   "slug": "noteshelf",
@@ -1877,8 +1880,8 @@
   "store": "CN",
   "category": "health",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "The App Store description states Tide is 'Optimized for iOS 27 and iPhone Duo', and version 5.12.2 release notes say the team 'further improved the iPhone Duo experience' alongside bug fixes. No specific two-pane layout is described.",
+  "adaptation_zh": "App Store 描述写明 Tide「已针对 iOS 27 与 iPhone Duo 优化」，5.12.2 版更新说明称在修复问题之余「进一步改进了 iPhone Duo 体验」。未描述具体的双栏布局。",
   "editorial_score": 3,
   "highlights": [
    "App Store description states full support for iOS 27 and iPhone Duo",
@@ -1888,7 +1891,7 @@
   "source_name": "App Store — TIDE: Sleep, Focus, Meditation (Moreless), version notes 5.12.1 / 5.12.2",
   "source_url": "https://apps.apple.com/us/app/tide-sleep-focus-meditation/id1077776989",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-01"
  },
  {
   "slug": "deepseek",
@@ -3199,5 +3202,73 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-10-31"
+ },
+ {
+  "slug": "pure-writer-us",
+  "name_en": "Pure Writer",
+  "name_zh": "纯纯写作",
+  "aliases": [],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "First explicitly adapted in version 1.0.3 (2026-10-30), whose US release notes state 'Optimized for iPhone Duo'; FitsDuo tracking shows the app moved from 'should fit' in 1.0.2 to filling the inner display in 1.0.3. The current version 1.0.4 (2026-10-31) keeps the same 'Optimized for iPhone Duo' note. No specific two-pane layout is published.",
+  "adaptation_zh": "首次明确适配在 1.0.3 版（2026-10-30），美区更新说明原文为「Optimized for iPhone Duo」；据 FitsDuo 记录，该 App 在 1.0.2 时为 Should fit，1.0.3 转为 Fits、铺满内屏。当前版 1.0.4（2026-10-31）美区说明仍为同一句。未公布具体双栏布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.0.3 App Store release notes: 'Optimized for iPhone Duo' (first explicit Duo adaptation, 2026-10-30)",
+   "Current version 1.0.4 (2026-10-31) keeps the same Duo note in the US store",
+   "Writing app by Drakeet Co., Ltd., free with in-app purchases"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.3 / 1.0.4, 2026-10-30 / 2026-10-31)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-01"
+ },
+ {
+  "slug": "pure-writer-cn",
+  "name_en": "Pure Writer",
+  "name_zh": "纯纯写作",
+  "aliases": [
+   "Pure Writer"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: first explicitly adapted in version 1.0.3 (2026-10-30); the current version 1.0.4 (2026-10-31) China release notes state the app is 'optimized and adapted for iPhone Duo' (为 iPhone Duo 优化和适配). No specific two-pane layout is published.",
+  "adaptation_zh": "与美区为同一版本：首次明确适配在 1.0.3 版（2026-10-30）；当前版 1.0.4（2026-10-31）国区更新说明写「为 iPhone Duo 优化和适配」。未公布具体双栏布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.0.4 App Store (CN) release notes: '为 iPhone Duo 优化和适配'",
+   "Same build as the US listing; writing app by Drakeet Co., Ltd., free with in-app purchases"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.3 / 1.0.4, 2026-10-30 / 2026-10-31)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-01"
+ },
+ {
+  "slug": "the-cw",
+  "name_en": "The CW",
+  "name_zh": null,
+  "aliases": [
+   "CW"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 4.22.3 (2026-10-31) release notes state: 'Enhanced visual support for iPhone Duo and squashed some bugs.' This is the app's first explicit Duo display-support statement; no specific layout detail is published.",
+  "adaptation_zh": "4.22.3 版（2026-10-31）更新说明明确写：「Enhanced visual support for iPhone Duo and squashed some bugs（增强对 iPhone Duo 的视觉支持，并修复若干问题）」。这是该 App 首次明确声明 Duo 显示支持；未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.22.3 App Store release notes: 'Enhanced visual support for iPhone Duo'",
+   "Streaming app by The CW Network, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.22.3, 2026-10-31)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-01"
  }
 ]
