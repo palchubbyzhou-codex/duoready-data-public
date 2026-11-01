@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30",
+ "generated": "2026-11-01",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -11,12 +11,12 @@
  },
  "distribution": {
   "100": 32,
-  "80": 42,
-  "60": 66,
-  "40": 2,
+  "80": 44,
+  "60": 73,
+  "40": 3,
   "20": 1
  },
- "count": 143,
+ "count": 153,
  "apps": [
   {
    "slug": "ai-beishujiang-cn",
@@ -195,6 +195,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "claude",
+   "name_en": "Claude",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "craft",
    "name_en": "Craft",
    "name_zh": null,
@@ -360,6 +371,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "faithe",
+   "name_en": "Faithe: Bible Videos & Stories",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "fantastical-calendar",
    "name_en": "Fantastical Calendar",
    "name_zh": null,
@@ -368,6 +390,17 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "fastmail",
+   "name_en": "Fastmail – Email & Calendar",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -816,9 +849,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -987,6 +1020,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "priceline",
+   "name_en": "Priceline - Hotel, Car, Flight",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "prime-video",
    "name_en": "Prime Video",
    "name_zh": null,
@@ -995,6 +1039,28 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "pure-writer-cn",
+   "name_en": "Pure Writer",
+   "name_zh": "纯纯写作",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "pure-writer-us",
+   "name_en": "Pure Writer",
+   "name_zh": "纯纯写作",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -1218,6 +1284,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "sprout-pregnancy-tracker",
+   "name_en": "Pregnancy Tracker App - Sprout",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "strava",
    "name_en": "Strava",
    "name_zh": null,
@@ -1282,6 +1359,17 @@
    "score_100": 80,
    "band": "Great",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "the-cw",
+   "name_en": "The CW",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "things-3",
@@ -1383,6 +1471,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "transit",
+   "name_en": "Transit • Subway & Bus Times",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "tripsy",
    "name_en": "Tripsy",
    "name_zh": null,
@@ -1424,6 +1523,17 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "untappd",
+   "name_en": "Untappd: Beer, Wine & Spirits",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 2,
+   "score_100": 40,
+   "band": "Limited",
    "credibility_tier": "verified"
   },
   {
