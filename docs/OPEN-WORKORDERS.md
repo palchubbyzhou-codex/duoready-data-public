@@ -28,3 +28,5 @@
 - ✅ Favicon 全套部署（2026-10-31 助手验 /favicon.ico = 200）
 - ✅ Ask Chubby 第 1 轮 22 项问题修复（2026-10-31 第 2 轮回归验证：追问上下文、名人 App 诚实答、隐私拒绝、新闻过滤、CN 错字澄清等均已过）
 - ✅ Spotlight 第 1 篇 Outlook 上线
+
+- **#9 (2026-11-02) New-homepage mobile fixes** — P0 directory card status clipped by fixed 112px grid rows vs 147px mobile cards; P0 pagination dead space on mobile; P1 'every 10 min' copy + panel cadence (= #8, still open); P1 sticky nav covers content; P2 footer date + loading states. Full brief: docs/HANDOFF-CODEX-2026-11-02-MOBILE-FIXES.md
