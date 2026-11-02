@@ -30,3 +30,15 @@ Source: Muse live audit of https://getduoready.com/ after the redesign launch (c
 - The SEO store-page matrix (workorder #6) did NOT ship in this release: sitemap still lists only /stock/ (no per-store pages).
 - Data itself is healthy: /api/snapshot.json and /api/verify.json return current data (verified 2026-11-02 ~17:00 ET); the verification panel shows real drops (e.g. Reno Shayden Summit, Nov 2, 3:08 PM ET, SOLD OUT).
 
+
+## P1-7 — Tracker panel in dark mode: colors clash, panel looks hollow (added 2026-11-02 17:43, from Jie)
+
+Evidence: Jie's screenshot `docs/jie-darkmode-tracker-2026-11-02.png` (homepage stock panel, dark theme, snapshot Nov 2, 05:41 PM ET).
+
+- Three stacked dark shades that do not belong to one palette: outer container, near-black left panel, lighter blue-grey verification card — the right card looks pasted in.
+- The left panel is mostly an empty dark void: the "Next refresh" area renders as a tiny line-and-dot glyph, so the panel reads as broken/half-loaded instead of designed.
+- Accents clash with the surfaces: bright-blue CTA pill and the red SOLD OUT stamp sit on muted greys with no shared palette; nothing matches the site's dark theme elsewhere.
+- In the screenshot the panel headlines "Data temporarily unconfirmed" even though its own snapshot timestamp is current (05:41 PM ET) — with 0 stores in stock it should settle on the "No stock in the latest snapshot" state, not the alarming unconfirmed state (relates to P2-6).
+
+Fix: give the tracker/verification panels one coherent dark palette aligned with the site dark theme (single surface family, consistent borders), fill or rebalance the left panel so it never looks hollow, and align accent usage. Acceptance: screenshot the panel at 390px and desktop in dark mode — one palette, no void, no "unconfirmed" headline when the snapshot is fresh.
+
