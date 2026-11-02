@@ -2219,15 +2219,17 @@
   "store": "CN",
   "category": "music",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Kuaikeji reported on 2026-10-22 that, alongside QQ itself, Tencent Video, QQ Music and WorkBuddy had all completed adaptation for iPhone Duo. No specific layout detail for QQ Music has been published, so this record states only the completed adaptation, per that reporting.",
+  "adaptation_zh": "快科技 2026-10-22 报道：除 QQ 本体外，腾讯视频、QQ音乐、WorkBuddy 均已完成 iPhone Duo 适配。QQ音乐未公布具体布局细节，本条仅据该报道记录「已完成适配」。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "Kuaikeji (2026-10-22): QQ Music named among Tencent apps that had completed iPhone Duo adaptation"
+  ],
   "listed_on_site": true,
   "source_name": "新浪科技/快科技 — 腾讯火速：QQ已经完成 iPhone Duo 适配 (2026-10-22)",
   "source_url": "https://finance.sina.cn/stock/jdts/2026-10-22/detail-iniwavxm5868122.d.html",
   "credibility_tier": "reported",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-02"
  },
  {
   "slug": "sky-guide-cn",
@@ -3270,5 +3272,415 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-01"
+ },
+ {
+  "slug": "nightsnore-us",
+  "name_en": "NightSnore - Snore Recorder",
+  "name_zh": null,
+  "aliases": [
+   "NightSnore"
+  ],
+  "store": "US",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "Version 3.2.3 (2026-10-31) release notes add 'Built for iPhone Duo': unfolded, the app runs in two side-by-side columns — tonight's setup sits next to the moon, and each recorded night sits next to its own report.",
+  "adaptation_zh": "3.2.3 版（2026-10-31）更新说明新增「Built for iPhone Duo」：展开后为并排两栏——今晚的设置挨着月亮，每一晚的记录旁就是它自己的报告。",
+  "editorial_score": 4,
+  "highlights": [
+   "3.2.3 App Store release notes: 'Built for iPhone Duo'",
+   "Two-column unfolded layout: setup beside the moon, each night beside its report",
+   "Snore recorder by LuYang Li, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.2.3, 2026-10-31)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "nightsnore-cn",
+  "name_en": "NightSnore - Snore Recorder",
+  "name_zh": null,
+  "aliases": [
+   "NightSnore"
+  ],
+  "store": "CN",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.2.3 (2026-10-31) release notes state the app supports iPhone Duo, with the same two-column unfolded layout — tonight's setup next to the moon, each night next to its report.",
+  "adaptation_zh": "与美区为同一版本：3.2.3 版（2026-10-31）国区更新说明写支持 iPhone Duo，展开同为并排两栏——今晚的设置挨着月亮，每一晚旁是它的报告。",
+  "editorial_score": 4,
+  "highlights": [
+   "3.2.3 App Store (CN) release notes state iPhone Duo support",
+   "Same build as the US listing; snore recorder by LuYang Li, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.2.3, 2026-10-31)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "forgeplot-us",
+  "name_en": "Forgeplot",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.3 (2026-11-01) release notes state 'Now designed for iPhone Duo': unfolded, the artwork sits on the left and the controls on the right; half-folded, the artwork is on top and the controls below, with Apple Pencil support. Wallpaper export adds exact pixel targets for the Duo's cover and inner displays.",
+  "adaptation_zh": "1.3 版（2026-11-01）更新说明写「Now designed for iPhone Duo」：展开后左侧是作品、右侧是控制；半折时作品在上、控制在下，支持 Apple Pencil。壁纸导出新增 Duo 外屏/内屏的精确像素目标。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.3 App Store release notes: 'Now designed for iPhone Duo'",
+   "Unfolded: artwork left, controls right; half-folded: artwork above, controls below",
+   "Wallpaper export targets the Duo cover and inner displays at exact pixel sizes",
+   "Generative art app by Michael Russo, $4.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.3, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "forgeplot-cn",
+  "name_en": "Forgeplot",
+  "name_zh": null,
+  "aliases": [],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.3 (2026-11-01) is designed for iPhone Duo — artwork and controls split across the unfolded display, stacked when half-folded, with Apple Pencil support and Duo-sized wallpaper export targets.",
+  "adaptation_zh": "与美区为同一版本：1.3 版（2026-11-01）为 iPhone Duo 设计——展开时作品与控制分屏并排，半折时上下排布，支持 Apple Pencil，壁纸导出含 Duo 双屏精确像素目标。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.3 App Store (CN) release notes: designed for iPhone Duo",
+   "Same build as the US listing; generative art app by Michael Russo, $4.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.3, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "bionic-tape-us",
+  "name_en": "Bionic Tape",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "Version 2.0.0 (2026-11-01) adds iPhone Duo support: when the device is closed, the app prompts that the Walkman keeps playing on the cover display; in landscape, the tape shelf and the deck each take half of the screen.",
+  "adaptation_zh": "2.0.0 版（2026-11-01）新增 iPhone Duo 内容：合上设备后，App 提示随身听会在外屏继续播放；横屏时磁带架与卡座各占一半屏幕。",
+  "editorial_score": 4,
+  "highlights": [
+   "2.0.0 App Store release notes add iPhone Duo content",
+   "Closed: prompt that playback continues on the cover display; landscape: tape shelf and deck split the screen",
+   "Cassette Walkman player by HMZ craftsmanship GmbH, $4.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.0.0, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "bionic-tape-cn",
+  "name_en": "Bionic Tape",
+  "name_zh": null,
+  "aliases": [],
+  "store": "CN",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 2.0.0 (2026-11-01) adds the same iPhone Duo behavior — a prompt that playback continues on the cover display when closed, and a landscape layout split between the tape shelf and the deck.",
+  "adaptation_zh": "与美区为同一版本：2.0.0 版（2026-11-01）同样新增 Duo 内容——合上后提示外屏续播，横屏时磁带架与卡座平分屏幕。",
+  "editorial_score": 4,
+  "highlights": [
+   "2.0.0 App Store (CN) release notes add iPhone Duo content",
+   "Same build as the US listing; cassette Walkman player by HMZ craftsmanship GmbH, $4.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.0.0, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "single-remote-us",
+  "name_en": "Single Remote",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 0.9.9 (2026-11-01) release notes state 'iPhone Duo support': half-folded, the Mac's screen shows on the upper half of the display and the touchpad on the lower half.",
+  "adaptation_zh": "0.9.9 版（2026-11-01）更新说明写「iPhone Duo support」：半折时上半部显示 Mac 画面、下半部是触控板。",
+  "editorial_score": 4,
+  "highlights": [
+   "0.9.9 App Store release notes: 'iPhone Duo support'",
+   "Half-folded layout: Mac screen above, touchpad below",
+   "Mac remote-control app by USHIO FUJIMURA, $2.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (0.9.9, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "single-remote-cn",
+  "name_en": "Single Remote",
+  "name_zh": null,
+  "aliases": [],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 0.9.9 (2026-11-01) adds iPhone Duo support — half-folded, the Mac screen is on the upper half and the touchpad on the lower half.",
+  "adaptation_zh": "与美区为同一版本：0.9.9 版（2026-11-01）新增 iPhone Duo 支持——半折时上半部是 Mac 画面、下半部是触控板。",
+  "editorial_score": 4,
+  "highlights": [
+   "0.9.9 App Store (CN) release notes: iPhone Duo support",
+   "Same build as the US listing; Mac remote-control app by USHIO FUJIMURA, $2.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (0.9.9, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "kiddrop-us",
+  "name_en": "KidDrop: Kids Days Out",
+  "name_zh": null,
+  "aliases": [
+   "KidDrop"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.7.0 (2026-11-01) release notes state 'Made for iPhone Duo': unfolded, the map gains a place panel beside it, the timeline sits next to the live map, and settings and profile are side by side; the tab bar moves to a sidebar.",
+  "adaptation_zh": "1.7.0 版（2026-11-01）更新说明写「Made for iPhone Duo」：展开后地图旁附地点面板、时间线与实时地图并排、设置与个人资料并排；标签栏移至侧边栏。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.7.0 App Store release notes: 'Made for iPhone Duo'",
+   "Unfolded: map plus place panel, timeline beside live map, tab bar becomes a sidebar",
+   "Kids' days-out planner by Badrinath G, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.7.0, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "kiddrop-cn",
+  "name_en": "KidDrop: Kids Days Out",
+  "name_zh": null,
+  "aliases": [
+   "KidDrop"
+  ],
+  "store": "CN",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.7.0 (2026-11-01) is made for iPhone Duo, with the same unfolded layouts — map with a place panel, timeline beside the live map, and the tab bar moved to a sidebar.",
+  "adaptation_zh": "与美区为同一版本：1.7.0 版（2026-11-01）为 iPhone Duo 而来，展开布局相同——地图附地点面板、时间线配实时地图、标签栏移至侧边栏。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.7.0 App Store (CN) release notes: made for iPhone Duo",
+   "Same build as the US listing; kids' days-out planner by Badrinath G, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.7.0, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "camscanner-us",
+  "name_en": "CamScanner - PDF Scanner App",
+  "name_zh": null,
+  "aliases": [
+   "CamScanner"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 7.28.5 (2026-11-02) leads its release notes with 'Full Support for iPhone Duo' — the app's first written Duo adaptation statement (earlier builds only filled the screen at SDK level). The home screen adjusts its navigation and layout with the fold state, portrait/landscape switching is smooth, and PDF reading, editing and annotation get more room on the large display.",
+  "adaptation_zh": "7.28.5 版（2026-11-02）更新说明首条为「Full Support for iPhone Duo（全面支持 iPhone Duo）」——这是该 App 首次书面适配声明（此前仅为 SDK 层面铺满）。首页随折叠状态自动调整导航与布局，横竖屏切换流畅，大屏下 PDF 阅读、编辑、标注更方便。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.28.5 App Store release notes lead with 'Full Support for iPhone Duo'",
+   "First written Duo adaptation statement; home layout follows the fold state",
+   "Document scanner by INTSIG Information Co., Ltd., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.28.5, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "camscanner-cn",
+  "name_en": "CamScanner",
+  "name_zh": "扫描全能王",
+  "aliases": [
+   "CamScanner",
+   "扫描全能王"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 7.28.5 (2026-11-02) leads its release notes with 'iPhone Duo 全面适配' (full adaptation for iPhone Duo) — the app's first written Duo statement. The home screen adjusts navigation and layout with the fold state, and PDF work gets more room on the unfolded display.",
+  "adaptation_zh": "与美区为同一版本：7.28.5 版（2026-11-02）国区更新说明首条为「iPhone Duo 全面适配」——该 App 首次书面适配声明。首页随折叠状态调整导航与布局，展开大屏下 PDF 阅读、编辑、标注更方便。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.28.5 App Store (CN) release notes: 'iPhone Duo 全面适配'",
+   "Same build as the US listing; document scanner by INTSIG, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.28.5, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "wanneng-bianshengqi-cn",
+  "name_en": null,
+  "name_zh": "万能变声器-游戏开黑聊天变音器语音包",
+  "aliases": [
+   "万能变声器"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 3.1.5 (2026-11-02) China App Store release notes state the app is 'adapted for iPhone Duo' (iPhone Duo 适配). No specific layout detail is published.",
+  "adaptation_zh": "3.1.5 版（2026-11-02）国区 App Store 更新说明写「iPhone Duo 适配」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.1.5 App Store release notes: 'iPhone Duo 适配'",
+   "Voice changer by Beijing four time ledo Technology Co., Ltd., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.1.5, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "sidekey-us",
+  "name_en": "Sidekey",
+  "name_zh": null,
+  "aliases": [
+   "Sidekey: Wireless Keyboard"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.1.0 (2026-11-02) release notes state 'Made for iPhone Duo': on the unfolded inner display the keyboard sits above the touchpad (side by side in landscape), split at the crease with a one-tap swap; laptop-keyboard mode lays a full computer keyboard across the inner display.",
+  "adaptation_zh": "1.1.0 版（2026-11-02）更新说明写「Made for iPhone Duo」：展开内屏上为键盘、下为触控板（横着拿左右排布），以折痕为界、一键对调；笔记本键盘模式在内屏摆出整块电脑键盘。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.1.0 App Store release notes: 'Made for iPhone Duo'",
+   "Unfolded: keyboard and touchpad split at the crease, one-tap swap; full laptop keyboard mode on the inner display",
+   "Wireless keyboard/trackpad app by Kaihong Chen, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1.0, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "sidekey-cn",
+  "name_en": "Sidekey",
+  "name_zh": "手机变无线键盘",
+  "aliases": [
+   "Sidekey",
+   "Sidekey：手机变无线键盘"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.1.0 (2026-11-02) release notes state the app is '为 iPhone Duo 而来' (made for iPhone Duo) — keyboard above the touchpad on the unfolded display, split at the crease, plus a full laptop-keyboard mode on the inner display.",
+  "adaptation_zh": "与美区为同一版本：1.1.0 版（2026-11-02）国区更新说明写「为 iPhone Duo 而来」：展开内屏上面键盘、下面触控板，以折痕为界；笔记本键盘模式在内屏摆出整块电脑键盘。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.1.0 App Store (CN) release notes: '为 iPhone Duo 而来'",
+   "Same build as the US listing; wireless keyboard/trackpad app by Kaihong Chen, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1.0, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "tonghuashun-supreme-cn",
+  "name_en": null,
+  "name_zh": "同花顺至尊版-股票软件",
+  "aliases": [
+   "同花顺至尊版"
+  ],
+  "store": "CN",
+  "category": "finance",
+  "status": "adapted",
+  "adaptation_en": "Version 12.16.01 (2026-11-02) China App Store release notes lead with 'adapted for iPhone Duo' (适配iPhone Duo). No specific layout detail is published. This is the separate Supreme edition — a different app from the main Tonghuashun app.",
+  "adaptation_zh": "12.16.01 版（2026-11-02）国区 App Store 更新说明首条为「适配iPhone Duo」。未公布具体布局细节。注意：这是独立的至尊版 App，与主 App 同花顺不同。",
+  "editorial_score": 3,
+  "highlights": [
+   "12.16.01 App Store release notes lead with '适配iPhone Duo'",
+   "Separate Supreme edition, not the main Tonghuashun app",
+   "Stock app by Zhejiang Royalflush Cloud Software Co., Ltd., ¥1.00"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (12.16.01, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "widgetsmith-us",
+  "name_en": "Widgetsmith",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 9.0 (2026-11-02) is the app's first explicit iPhone Duo statement: the 9.0 release notes state it 'brings support for the iPhone Duo, with beautiful full-screen views on the inside display' (verified on the China-store 9.0 notes for the same build). The previous version 8.7 only partly fit the Duo inner display.",
+  "adaptation_zh": "9.0 版（2026-11-02）是该 App 首次明确的 iPhone Duo 声明：9.0 更新说明写其「带来对 iPhone Duo 的支持，内屏上是漂亮的全屏视图」（以同版本国区 9.0 说明核实）。此前 8.7 版在内屏仅为部分贴合。",
+  "editorial_score": 3,
+  "highlights": [
+   "9.0 App Store release notes: 'brings support for the iPhone Duo, with beautiful full-screen views on the inside display'",
+   "First explicit Duo statement; previous 8.7 only partly fit",
+   "Widget app by Cross Forward Consulting, LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (9.0, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "widgetsmith-cn",
+  "name_en": "Widgetsmith",
+  "name_zh": null,
+  "aliases": [],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 9.0 (2026-11-02) China release notes carry the app's first explicit iPhone Duo statement — support for the Duo with full-screen views on the inside display. The previous version only partly fit the inner display.",
+  "adaptation_zh": "与美区为同一版本：9.0 版（2026-11-02）国区更新说明含该 App 首次明确的 Duo 声明——支持 iPhone Duo，内屏为全屏视图。此前版本在内屏仅为部分贴合。",
+  "editorial_score": 3,
+  "highlights": [
+   "9.0 App Store (CN) release notes include the iPhone Duo support statement",
+   "Same build as the US listing; widget app by Cross Forward Consulting, LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (9.0, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
  }
 ]

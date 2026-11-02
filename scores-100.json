@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01",
+ "generated": "2026-11-02",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -11,12 +11,12 @@
  },
  "distribution": {
   "100": 32,
-  "80": 44,
-  "60": 73,
+  "80": 56,
+  "60": 79,
   "40": 3,
   "20": 1
  },
- "count": 153,
+ "count": 171,
  "apps": [
   {
    "slug": "ai-beishujiang-cn",
@@ -151,6 +151,28 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "bionic-tape-cn",
+   "name_en": "Bionic Tape",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "bionic-tape-us",
+   "name_en": "Bionic Tape",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "callsheet",
    "name_en": "Callsheet",
    "name_zh": null,
@@ -159,6 +181,28 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "camscanner-cn",
+   "name_en": "CamScanner",
+   "name_zh": "扫描全能王",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "camscanner-us",
+   "name_en": "CamScanner - PDF Scanner App",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -470,6 +514,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "forgeplot-cn",
+   "name_en": "Forgeplot",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "forgeplot-us",
+   "name_en": "Forgeplot",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "fotmob",
    "name_en": "FotMob",
    "name_zh": null,
@@ -643,6 +709,28 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "kiddrop-cn",
+   "name_en": "KidDrop: Kids Days Out",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "kiddrop-us",
+   "name_en": "KidDrop: Kids Days Out",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -830,6 +918,28 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nightsnore-cn",
+   "name_en": "NightSnore - Snore Recorder",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nightsnore-us",
+   "name_en": "NightSnore - Snore Recorder",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -1174,6 +1284,50 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "sidekey-cn",
+   "name_en": "Sidekey",
+   "name_zh": "手机变无线键盘",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sidekey-us",
+   "name_en": "Sidekey",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "single-remote-cn",
+   "name_en": "Single Remote",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "single-remote-us",
+   "name_en": "Single Remote",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "sky-guide-cn",
    "name_en": "Sky Guide",
    "name_zh": null,
@@ -1460,6 +1614,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "tonghuashun-supreme-cn",
+   "name_en": null,
+   "name_zh": "同花顺至尊版-股票软件",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "train-conductor-world",
    "name_en": "Train Conductor World",
    "name_zh": null,
@@ -1581,6 +1746,17 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "wanneng-bianshengqi-cn",
+   "name_en": null,
+   "name_zh": "万能变声器-游戏开黑聊天变音器语音包",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "weather-mini",
    "name_en": "Weather mini",
    "name_zh": null,
@@ -1622,6 +1798,28 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "widgetsmith-cn",
+   "name_en": "Widgetsmith",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "widgetsmith-us",
+   "name_en": "Widgetsmith",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {

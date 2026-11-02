@@ -295,5 +295,18 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-11-01"
+  },
+  {
+    "date": "2026-11-02",
+    "snapshot_time_utc": "2026-11-02T15:04:12+00:00",
+    "snapshot_time_et": "2026-11-02 10:04 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 0,
+    "by_model": [],
+    "stores": [],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-02"
   }
 ]
