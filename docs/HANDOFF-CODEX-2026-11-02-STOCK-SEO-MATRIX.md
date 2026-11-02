@@ -38,3 +38,15 @@
 - 抽查 Florida Mall 页（drops_last_7d=6）+ 任意零掉货店页 + 任意州页：数字与 stores.json 逐项一致；
 - 三类页面 HTTP 200，sitemap 含全部新 URL 且计数对得上（254 门店页 + 州页数 = stores.json 中 distinct state 数）；
 - 完工后把 OPEN-WORKORDERS 本项标 ✅ 并注明上线日期。
+
+---
+
+## ADDENDUM — 2026-11-02 下午：轮询已加密到 5 分钟，网站文案同步改（Jie 指令）
+
+背景：2026-11-02 黄金窗口（9AM–12PM ET）全美只有个位数掉货且存活极短，我方 10 分钟轮询全数错过（对手 ISR 抓到 5 家）。轮询器已于当日改为 **5 分钟一轮**（服务器 duo-poller.timer，OnUnitActiveSec=5min，已生效）；Chance Index 计算同步改 5 分钟；直播大屏与 YouTube 简介已由助手改完。网站文案请 Codex 在今晚 SEO 施工同一轮里改掉以下三处（当前线上旧版首页实测原文）：
+
+1. Hero：「Every store. Every 10 minutes. One sky.」→ 「Every store. Every 5 minutes. One sky.」
+2. STAR SWEEP 条：「SWEEP = 10-MIN SCAN」→ 「SWEEP = 5-MIN SCAN」
+3. Tracker 面板：「Live 24/7 · refreshes every 10 min」→ 「Live 24/7 · refreshes every 5 min」
+
+新版首页（本地已批、待上线）如有同类字样，一律用 5 分钟口径，不要把 10 分钟带上线。红线同主单：文案只写真实频率，不许写比 5 分钟更快的数字。

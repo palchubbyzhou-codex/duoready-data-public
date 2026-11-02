@@ -15,6 +15,7 @@
 | 5 | 小瑕疵：问 Outlook 时评分卡曾显示 "Not scored"（Outlook 实际有 60/100），顺手修 | 本页记录（2026-10-31） | ⏳ 待修 |
 | 6 | **库存 SEO 页面矩阵 Phase 1**：/stock/ 枢纽页 + 州页 + 254 个门店页，数据用公开仓根目录 stores.json（每日管道再生）；抄 InStock Radar 的 SEO 打法、内容全用真实掉货数据；红线：无数据不许编、TBD 型号不许猜名 | HANDOFF-CODEX-2026-11-02-STOCK-SEO-MATRIX.md | ⏳ 待施工（完工后助手按单内验收清单抽查） |
 | 7 | **主页 Tracker 面板换 C+B 组合**：平时=最近验证掉货卡+验证章+三数；验证进行时整块翻成深色大字报（数据走直播同份 verify.json/verify-stats.json，无通路先停下报告、不许写死假数） | HANDOFF-CODEX-2026-11-01-TRACKER-PANEL.md | ⏳ 待施工（2026-11-01 已交单；完工后助手上站验收） |
+| 8 | **网站文案 10 分钟 → 5 分钟**：轮询已于 2026-11-02 加密为 5 分钟一轮；现行首页三处（Hero「Every 10 minutes」/「SWEEP = 10-MIN SCAN」/Tracker「refreshes every 10 min」）改 5 分钟口径，新版首页同口径、不许把 10 分钟带上线 | HANDOFF-CODEX-2026-11-02-STOCK-SEO-MATRIX.md（ADDENDUM 段） | ⏳ 待施工（并入今晚 SEO 同一轮；完工后助手上站验收） |
 
 ## 参考（非工作单，施工前值得读）
 
