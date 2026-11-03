@@ -3682,5 +3682,470 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-02"
+ },
+ {
+  "slug": "microsoft-word",
+  "name_en": "Microsoft Word",
+  "name_zh": null,
+  "aliases": [
+   "Word"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 2.115.2 (2026-11-02). MacRumors (2026-11-02) reported the app was updated with iPhone Duo optimization on 2026-11-02: apps built with the iOS 27.1 SDK or later fill the entire outer and inner displays, with toolbars and tab bars appearing vertically below the status bar; the App Store release notes do not mention Duo. The previous build was letterboxed on the inner display. Owner reports via FitsDuo tracking (via the 2026-11-03 DuoReady watch) say version 2.115.2 fills the inner display, with formatting tools next to the document.",
+  "adaptation_zh": "2.115.2 版（2026-11-02）。MacRumors（2026-11-02）报道该 App 于 2026-11-02 获 iPhone Duo 优化：以 iOS 27.1 SDK 或更新版本构建的 App 会铺满外屏与内屏，工具栏与标签栏竖排于状态栏下方；App Store 更新说明未提 Duo。此前版本在内屏为居中黑边。 据 FitsDuo 机主报告（经 2026-11-03 DuoReady 盯梢核对），2.115.2 已铺满内屏，格式工具与文档并排。",
+  "editorial_score": 4,
+  "highlights": [
+   "2.115.2 updated with iPhone Duo optimization, reported by MacRumors on 2026-11-02",
+   "Microsoft Word by Microsoft, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "MacRumors: Zoom and These Microsoft Apps Now Optimized for iPhone Duo (2026-11-02); App Store version 2.115.2",
+  "source_url": "https://www.macrumors.com/2026/11/02/zoom-microsoft-apps-iphone-duo-optimized/",
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "microsoft-powerpoint",
+  "name_en": "Microsoft PowerPoint",
+  "name_zh": null,
+  "aliases": [
+   "PowerPoint"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 2.115.2 (2026-11-02). MacRumors (2026-11-02) reported the app was updated with iPhone Duo optimization on 2026-11-02: apps built with the iOS 27.1 SDK or later fill the entire outer and inner displays, with toolbars and tab bars appearing vertically below the status bar; the App Store release notes do not mention Duo. The previous build was letterboxed on the inner display.",
+  "adaptation_zh": "2.115.2 版（2026-11-02）。MacRumors（2026-11-02）报道该 App 于 2026-11-02 获 iPhone Duo 优化：以 iOS 27.1 SDK 或更新版本构建的 App 会铺满外屏与内屏，工具栏与标签栏竖排于状态栏下方；App Store 更新说明未提 Duo。此前版本在内屏为居中黑边。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.115.2 updated with iPhone Duo optimization, reported by MacRumors on 2026-11-02",
+   "Microsoft PowerPoint by Microsoft, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "MacRumors: Zoom and These Microsoft Apps Now Optimized for iPhone Duo (2026-11-02); App Store version 2.115.2",
+  "source_url": "https://www.macrumors.com/2026/11/02/zoom-microsoft-apps-iphone-duo-optimized/",
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "microsoft-excel",
+  "name_en": "Microsoft Excel",
+  "name_zh": null,
+  "aliases": [
+   "Excel"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 2.115.2 (2026-11-02). MacRumors (2026-11-02) reported the app was updated with iPhone Duo optimization on 2026-11-02: apps built with the iOS 27.1 SDK or later fill the entire outer and inner displays, with toolbars and tab bars appearing vertically below the status bar; the App Store release notes do not mention Duo. The previous build was letterboxed on the inner display.",
+  "adaptation_zh": "2.115.2 版（2026-11-02）。MacRumors（2026-11-02）报道该 App 于 2026-11-02 获 iPhone Duo 优化：以 iOS 27.1 SDK 或更新版本构建的 App 会铺满外屏与内屏，工具栏与标签栏竖排于状态栏下方；App Store 更新说明未提 Duo。此前版本在内屏为居中黑边。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.115.2 updated with iPhone Duo optimization, reported by MacRumors on 2026-11-02",
+   "Microsoft Excel by Microsoft, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "MacRumors: Zoom and These Microsoft Apps Now Optimized for iPhone Duo (2026-11-02); App Store version 2.115.2",
+  "source_url": "https://www.macrumors.com/2026/11/02/zoom-microsoft-apps-iphone-duo-optimized/",
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "microsoft-onenote",
+  "name_en": "Microsoft OneNote",
+  "name_zh": null,
+  "aliases": [
+   "OneNote"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 16.115.2 (2026-11-02). MacRumors (2026-11-02) reported the app was updated with iPhone Duo optimization on 2026-11-02: apps built with the iOS 27.1 SDK or later fill the entire outer and inner displays, with toolbars and tab bars appearing vertically below the status bar; the App Store release notes do not mention Duo. The previous build was letterboxed on the inner display. The previous version 16.115.1 was letterboxed on the inner display per FitsDuo tracking.",
+  "adaptation_zh": "16.115.2 版（2026-11-02）。MacRumors（2026-11-02）报道该 App 于 2026-11-02 获 iPhone Duo 优化：以 iOS 27.1 SDK 或更新版本构建的 App 会铺满外屏与内屏，工具栏与标签栏竖排于状态栏下方；App Store 更新说明未提 Duo。此前版本在内屏为居中黑边。 此前 16.115.1 版在内屏为黑边（据 FitsDuo 记录）。",
+  "editorial_score": 3,
+  "highlights": [
+   "16.115.2 updated with iPhone Duo optimization, reported by MacRumors on 2026-11-02",
+   "Microsoft OneNote by Microsoft, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "MacRumors: Zoom and These Microsoft Apps Now Optimized for iPhone Duo (2026-11-02); App Store version 16.115.2",
+  "source_url": "https://www.macrumors.com/2026/11/02/zoom-microsoft-apps-iphone-duo-optimized/",
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "coinsnap",
+  "name_en": "CoinSnap: Coin Identifier",
+  "name_zh": null,
+  "aliases": [
+   "CoinSnap"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.27.0 (2026-11-01) release notes state: 'CoinSnap is now optimized for iPhone Duo.' No specific layout detail is published.",
+  "adaptation_zh": "2.27.0 版（2026-11-01）更新说明写：「CoinSnap is now optimized for iPhone Duo（现已针对 iPhone Duo 优化）」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.27.0 App Store release notes: 'now optimized for iPhone Duo'",
+   "Coin identifier by Next Vision Limited, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.27.0, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "zangi",
+  "name_en": "Zangi - Private Messenger",
+  "name_zh": null,
+  "aliases": [
+   "Zangi"
+  ],
+  "store": "US",
+  "category": "social",
+  "status": "adapted",
+  "adaptation_en": "Version 6.1.3 (2026-11-02) release notes state: 'Optimized for iPhone Duo.' FitsDuo tracking shows 6.1.2 was built on the old SDK and 6.1.3 now fits the inner display (per the 2026-11-03 DuoReady watch).",
+  "adaptation_zh": "6.1.3 版（2026-11-02）更新说明写：「Optimized for iPhone Duo（针对 iPhone Duo 优化）」。据 FitsDuo 记录，6.1.2 为旧 SDK，6.1.3 已贴合内屏（经 2026-11-03 DuoReady 盯梢核对）。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.1.3 App Store release notes: 'Optimized for iPhone Duo'",
+   "Private messenger by Secret Phone, Inc, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.1.3, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "a-shell",
+  "name_en": "a-Shell",
+  "name_zh": null,
+  "aliases": [
+   "a-Shell"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.3.1 (2026-11-02) adds 'iPhone Duo support' — the terminal can use the Duo's larger display (reported by AAPL Ch. on 2026-11-03 via the DuoReady watch; the store listing has since moved to 2.3.2). No specific two-pane layout is published.",
+  "adaptation_zh": "2.3.1 版（2026-11-02）新增「iPhone Duo support」——终端可用上 Duo 的大屏（AAPL Ch. 2026-11-03 报道，经 DuoReady 盯梢核对；商店现已更新至 2.3.2）。未公布具体双栏布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.3.1 App Store release notes add iPhone Duo support",
+   "Terminal app by Nicolas Holzschuch, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.3.1, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "a-shell-mini",
+  "name_en": "a-Shell mini",
+  "name_zh": null,
+  "aliases": [
+   "a-Shell mini"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.3.1 (2026-11-02) adds 'iPhone Duo support' — the terminal can use the Duo's larger display (reported by AAPL Ch. on 2026-11-03 via the DuoReady watch; the store listing has since moved to 2.3.2). No specific two-pane layout is published.",
+  "adaptation_zh": "2.3.1 版（2026-11-02）新增「iPhone Duo support」——终端可用上 Duo 的大屏（AAPL Ch. 2026-11-03 报道，经 DuoReady 盯梢核对；商店现已更新至 2.3.2）。未公布具体双栏布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.3.1 App Store release notes add iPhone Duo support",
+   "Terminal app by Nicolas Holzschuch, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.3.1, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "justalk",
+  "name_en": "JusTalk - Video Chat & Calls",
+  "name_zh": null,
+  "aliases": [
+   "JusTalk"
+  ],
+  "store": "US",
+  "category": "social",
+  "status": "adapted",
+  "adaptation_en": "Version 9.5 (2026-11-02) release notes state 'Optimized for iPhone Duo' and add DuoFace: during a call, a person next to you can join the same frame via the Duo's cover display; the app is optimized open, closed, or partially folded.",
+  "adaptation_zh": "9.5 版（2026-11-02）更新说明写「Optimized for iPhone Duo」，并新增 DuoFace：通话时身边人可从 Duo 外屏加入同框；开、合、半折状态均有优化。",
+  "editorial_score": 5,
+  "highlights": [
+   "9.5 App Store release notes: 'Optimized for iPhone Duo'",
+   "New DuoFace: a bystander joins the call frame via the cover display",
+   "Video chat app by Jus, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (9.5, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "insketch-us",
+  "name_en": "InSketch",
+  "name_zh": "铅笔素描·照片转漫画",
+  "aliases": [
+   "InSketch"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 1.2.7 (2026-11-01) US release notes state 'support for iPhone Duo'. No specific layout detail is published.",
+  "adaptation_zh": "1.2.7 版（2026-11-01）美区更新说明写「support for iPhone Duo」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.2.7 App Store release notes: 'support for iPhone Duo'",
+   "Photo-to-sketch app, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2.7, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "insketch-cn",
+  "name_en": "InSketch",
+  "name_zh": "铅笔素描·照片转漫画",
+  "aliases": [
+   "InSketch"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.2.7 (2026-11-01) China release notes state the app is 'adapted for iPhone Duo' (适配 iPhone Duo). No specific layout detail is published.",
+  "adaptation_zh": "与美区为同一版本：1.2.7 版（2026-11-01）国区更新说明写「适配 iPhone Duo」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.2.7 App Store (CN) release notes: '适配 iPhone Duo'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2.7, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "genius-scan-us",
+  "name_en": "Genius Scan",
+  "name_zh": null,
+  "aliases": [
+   "Genius Scan",
+   "Scanner App: Genius Scan"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 8.16 (2026-11-03) release notes carry a dedicated section: 'IPHONE DUO - Genius Scan is now fully optimized for iPhone Duo' — the scanning flow uses a new layout taking advantage of the inner and outer displays, with lists and controls adapted across the app (the Enterprise edition was updated in the same version).",
+  "adaptation_zh": "8.16 版（2026-11-03）更新说明设有专节：「IPHONE DUO - Genius Scan is now fully optimized for iPhone Duo（已全面针对 iPhone Duo 优化）」——扫描流程采用新布局、利用内外双屏，全 App 列表与控件均有适配（Enterprise 版同版同步）。",
+  "editorial_score": 4,
+  "highlights": [
+   "8.16 App Store release notes: 'fully optimized for iPhone Duo'",
+   "Document scanner by The Grizzly Labs, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (8.16, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "genius-scan-cn",
+  "name_en": "Genius Scan",
+  "name_zh": null,
+  "aliases": [
+   "Genius Scan",
+   "Scanner App: Genius Scan"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 8.16 (2026-11-03) is fully optimized for iPhone Duo, with the scanning flow using the inner and outer displays.",
+  "adaptation_zh": "与美区为同一版本：8.16 版（2026-11-03）全面适配 iPhone Duo，扫描流程利用内外双屏。",
+  "editorial_score": 4,
+  "highlights": [
+   "8.16 App Store (CN) release notes: fully optimized for iPhone Duo",
+   "Same build as the US listing; scanner by The Grizzly Labs, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (8.16, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "yespose-us",
+  "name_en": "YesPose: AI Pose Cam & Coach",
+  "name_zh": null,
+  "aliases": [
+   "YesPose"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 1.3 (2026-11-02) leads its release notes with 'MADE FOR IPHONE DUO': shoot with the rear camera on the inner display while the person being photographed sees a live mirror preview and pose outline on the cover display; unfolded, finished shots sit on the left and the AI coach, tips and controls on the right.",
+  "adaptation_zh": "1.3 版（2026-11-02）更新说明头条为「MADE FOR IPHONE DUO」：内屏用后摄拍摄，外屏给被拍者实时镜像预览与姿势轮廓；展开后左为成片、右为 AI 教练、提示与控制。",
+  "editorial_score": 5,
+  "highlights": [
+   "1.3 App Store release notes: 'MADE FOR IPHONE DUO'",
+   "Cover display gives the subject a live mirror preview; unfolded: shots left, AI coach right",
+   "AI pose camera by HaloX, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.3, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "yespose-cn",
+  "name_en": "YesPose: AI Pose Cam & Coach",
+  "name_zh": null,
+  "aliases": [
+   "YesPose"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.3 (2026-11-02) is made for iPhone Duo, with the same cover-display mirror preview and unfolded split layout.",
+  "adaptation_zh": "与美区为同一版本：1.3 版（2026-11-02）为 iPhone Duo 而来，外屏镜像预览与展开分栏布局相同。",
+  "editorial_score": 5,
+  "highlights": [
+   "1.3 App Store (CN) release notes: made for iPhone Duo",
+   "Same build as the US listing; AI pose camera by HaloX, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.3, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "daily-english-listening-us",
+  "name_en": "Daily English Listening",
+  "name_zh": "每日英语听力-每天更新的英语泛听资源库",
+  "aliases": [
+   "每日英语听力"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 26.10.4 (2026-11-02) US release notes lead with adaptation for iPhone Duo supporting multiple fold modes (per the China-store notes for the same build). No specific layout detail is published.",
+  "adaptation_zh": "26.10.4 版（2026-11-02）美区说明首条为针对 iPhone Duo 适配（据同版本国区说明），支持多种折叠模式。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "26.10.4 App Store release notes lead with iPhone Duo adaptation",
+   "English listening app by QianYan Network, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (26.10.4, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "daily-english-listening-cn",
+  "name_en": "Daily English Listening",
+  "name_zh": "每日英语听力-每天更新的英语泛听资源库",
+  "aliases": [
+   "每日英语听力"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 26.10.4 (2026-11-02) China release notes lead with 'adapted for iPhone Duo, supporting multiple fold modes' (针对 iPhone Duo 进行适配，支持多种折叠模式).",
+  "adaptation_zh": "与美区为同一版本：26.10.4 版（2026-11-02）国区更新说明首条为「针对 iPhone Duo 进行适配，支持多种折叠模式」。",
+  "editorial_score": 3,
+  "highlights": [
+   "26.10.4 App Store (CN) release notes: '针对 iPhone Duo 进行适配，支持多种折叠模式'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (26.10.4, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "prismaview",
+  "name_en": "PrismaView: AI Artifact Viewer",
+  "name_zh": null,
+  "aliases": [
+   "PrismaView"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.0.1 (2026-11-03) release notes state: 'Made for iPhone Duo: unfold it and your files sit beside the open document; fold it and you're back in full screen.'",
+  "adaptation_zh": "1.0.1 版（2026-11-03）更新说明写：「Made for iPhone Duo：展开后文件列表与打开的文档并排；合上回到全屏」。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.0.1 App Store release notes: 'Made for iPhone Duo'",
+   "Unfolded: file list beside the open document",
+   "File viewer by Cataldo Franzone, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.1, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "vidhub-us",
+  "name_en": "VidHub",
+  "name_zh": "VidHub - 高清影片视频播放器",
+  "aliases": [
+   "VidHub"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 3.1.0 (2026-11-03) US release notes state: 'Adapted for iPhone Duo interface.' No specific layout detail is published.",
+  "adaptation_zh": "3.1.0 版（2026-11-03）美区更新说明写「Adapted for iPhone Duo interface（已适配 iPhone Duo 界面）」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.1.0 App Store release notes: 'Adapted for iPhone Duo interface'",
+   "Video player by Nanjing Oumi Software, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.1.0, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "vidhub-cn",
+  "name_en": "VidHub",
+  "name_zh": "VidHub - 高清影片视频播放器",
+  "aliases": [
+   "VidHub"
+  ],
+  "store": "CN",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.1.0 (2026-11-03) China release notes state the app is 'adapted for the iPhone Duo interface' (适配iPhone Duo界面).",
+  "adaptation_zh": "与美区为同一版本：3.1.0 版（2026-11-03）国区更新说明写「适配iPhone Duo界面」。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.1.0 App Store (CN) release notes: '适配iPhone Duo界面'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.1.0, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
  }
 ]

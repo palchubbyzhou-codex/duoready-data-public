@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -10,14 +10,36 @@
   "20": "Poor"
  },
  "distribution": {
-  "100": 32,
-  "80": 56,
-  "60": 79,
+  "100": 35,
+  "80": 60,
+  "60": 92,
   "40": 3,
   "20": 1
  },
- "count": 171,
+ "count": 191,
  "apps": [
+  {
+   "slug": "a-shell",
+   "name_en": "a-Shell",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "a-shell-mini",
+   "name_en": "a-Shell mini",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
   {
    "slug": "ai-beishujiang-cn",
    "name_en": null,
@@ -250,6 +272,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "coinsnap",
+   "name_en": "CoinSnap: Coin Identifier",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "craft",
    "name_en": "Craft",
    "name_zh": null,
@@ -303,6 +336,28 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "daily-english-listening-cn",
+   "name_en": "Daily English Listening",
+   "name_zh": "每日英语听力-每天更新的英语泛听资源库",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "daily-english-listening-us",
+   "name_en": "Daily English Listening",
+   "name_zh": "每日英语听力-每天更新的英语泛听资源库",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "daycity",
@@ -558,6 +613,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "genius-scan-cn",
+   "name_en": "Genius Scan",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "genius-scan-us",
+   "name_en": "Genius Scan",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "genk-cn",
    "name_en": "GenK",
    "name_zh": "GenK：微学习与多元主题",
@@ -646,6 +723,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "insketch-cn",
+   "name_en": "InSketch",
+   "name_zh": "铅笔素描·照片转漫画",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "insketch-us",
+   "name_en": "InSketch",
+   "name_zh": "铅笔素描·照片转漫画",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "instagram",
    "name_en": "Instagram",
    "name_zh": null,
@@ -698,6 +797,17 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "justalk",
+   "name_en": "JusTalk - Video Chat & Calls",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
    "credibility_tier": "verified"
   },
   {
@@ -841,6 +951,50 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "microsoft-excel",
+   "name_en": "Microsoft Excel",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "microsoft-onenote",
+   "name_en": "Microsoft OneNote",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "microsoft-powerpoint",
+   "name_en": "Microsoft PowerPoint",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "microsoft-word",
+   "name_en": "Microsoft Word",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "reported"
   },
   {
@@ -1149,6 +1303,17 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "prismaview",
+   "name_en": "PrismaView: AI Artifact Viewer",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -1724,6 +1889,28 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "vidhub-cn",
+   "name_en": "VidHub",
+   "name_zh": "VidHub - 高清影片视频播放器",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "vidhub-us",
+   "name_en": "VidHub",
+   "name_zh": "VidHub - 高清影片视频播放器",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "vllo",
    "name_en": "VLLO",
    "name_zh": null,
@@ -1886,6 +2073,39 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "yespose-cn",
+   "name_en": "YesPose: AI Pose Cam & Coach",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "yespose-us",
+   "name_en": "YesPose: AI Pose Cam & Coach",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "zangi",
+   "name_en": "Zangi - Private Messenger",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
