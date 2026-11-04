@@ -63,3 +63,10 @@
 - **下播时**：面板顶部加节目预告条：`Peak Window Live returns tomorrow 8:15 AM ET` + 一句今日战报（如 `Today: 14 drops, all verified. Fastest gone: 1 minute.`，数据走 verify-stats）；订阅区位置不变。
 - **红线**：不许出现「下播了 / 关门了 / 回来再看」式文案让人以为 tracker 停了——**只有节目下播，数据 24/7 照常实时刷新**，面板数据区必须保持实时更新状态。
 - **有货且直播中**：恢复常规权重（状态句第一、订阅区第二、节目 chip 显示 🔴 直播中）。
+
+## 验收反馈（助手 2026-11-04，针对本地预览 EN+ZH）
+
+- **预览通过**：三栏结构、状态句、档期行、验证卡与数字口径均符合本单；中英双版齐备，可按预览上线。
+- **决策（Jie 2026-11-04 拍板）：邮箱保留，双通道上线。** Telegram 为主按钮，邮箱为第二扇门（现预览的层级正确，不要改）。理由存档：Telegram 只覆盖已装 Telegram 的用户，美国主流买家多数未装；邮箱名单是可导出、可带走的自有资产。发送端暂不建（助手侧后续接），月底复盘按两个渠道的真实订阅数再定去留。
+- **上线前必须清除全部预览痕迹**（正式站出现以下任何一处即验收不过）：页脚 `LOCAL PREVIEW` 字样；订阅区内 `Local preview · Emails save to this computer. Email delivery is not enabled yet.` 提示句；`Export preview emails` 字样。正式版：订阅成功/重复/失败状态用 T-2 定稿文案；邮箱导出保留为助手可用的正式入口（CSV 下载或只读接口，形式自选并写进完工报告），不必在页面上公开显示。
+- **小修正**：左栏节目状态文案——直播时段内（08:15–13:15 ET）显示 `PEAK WINDOW LIVE · ON AIR`，不要出现预览里的 `SCHEDULED NOW`；时段外按 T-3 显示 `Peak Window Live returns 8:15 AM ET`。
