@@ -70,3 +70,11 @@
 - **决策（Jie 2026-11-04 拍板）：邮箱保留，双通道上线。** Telegram 为主按钮，邮箱为第二扇门（现预览的层级正确，不要改）。理由存档：Telegram 只覆盖已装 Telegram 的用户，美国主流买家多数未装；邮箱名单是可导出、可带走的自有资产。发送端暂不建（助手侧后续接），月底复盘按两个渠道的真实订阅数再定去留。
 - **上线前必须清除全部预览痕迹**（正式站出现以下任何一处即验收不过）：页脚 `LOCAL PREVIEW` 字样；订阅区内 `Local preview · Emails save to this computer. Email delivery is not enabled yet.` 提示句；`Export preview emails` 字样。正式版：订阅成功/重复/失败状态用 T-2 定稿文案；邮箱导出保留为助手可用的正式入口（CSV 下载或只读接口，形式自选并写进完工报告），不必在页面上公开显示。
 - **小修正**：左栏节目状态文案——直播时段内（08:15–13:15 ET）显示 `PEAK WINDOW LIVE · ON AIR`，不要出现预览里的 `SCHEDULED NOW`；时段外按 T-3 显示 `Peak Window Live returns 8:15 AM ET`。
+
+---
+
+## Acceptance — launched, verified live 2026-11-04 ~09:27 ET (assistant)
+
+- **PASS**: EN + ZH panels live and complete — status sentence, schedule line (checks every 5 min · live show 8:15 AM–1:15 PM ET), Telegram button → t.me/DuoReadyAlerts, email field + submit + privacy line, latest-verification card with live data. All preview traces gone (no LOCAL PREVIEW / localhost / "save to this computer" anywhere). Interim note under the form ("Email delivery is being set up") is acceptable.
+- **FIX (minor, copy)**: inside the live window the show chip reads "PEAK WINDOW LIVE · SCHEDULED NOW". During 8:15 AM–1:15 PM ET it must read "ON AIR". (Flagged before launch; shipped anyway.)
+- **MISSING DELIVERABLE — subscriber export**: the work order requires the completion report to state how subscriptions are stored and how the owner exports them (CSV or equivalent). Nothing has been handed over, so signups cannot be verified yet. Jie submitted his own email this morning (2026-11-04, an outlook.com address) as the first real signup — confirm it is stored, and deliver the export path in the completion report.
