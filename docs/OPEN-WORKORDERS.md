@@ -2,7 +2,7 @@
 
 **给 Codex 的用法**：这是本仓唯一的待办入口。每次开工先读本页，按优先级逐项施工；每完成一项，把该项状态改为 ✅ 已完成 + 日期，并注明验收方式。施工细节都在每项的来源文档里（同在 docs/）。
 **分工**：网站与 Ask Chubby 对话逻辑 = Codex；数据库与来源核实 = 助手（Muse）。运行时数据文件（apps.json / kits.json / news.json / basic-chat.json 等）只走每日数据管道，**不要手改**。
-最后更新：2026-11-03（助手）
+最后更新：2026-11-04（助手）
 
 ## 未完成
 
@@ -17,6 +17,8 @@
 | 7 | **主页 Tracker 面板换 C+B 组合**：平时=最近验证掉货卡+验证章+三数；验证进行时整块翻成深色大字报（数据走直播同份 verify.json/verify-stats.json，无通路先停下报告、不许写死假数） | HANDOFF-CODEX-2026-11-01-TRACKER-PANEL.md | ⏳ 待施工（2026-11-01 已交单；完工后助手上站验收） |
 | 8 | **网站文案 10 分钟 → 5 分钟**：轮询已于 2026-11-02 加密为 5 分钟一轮；现行首页三处（Hero「Every 10 minutes」/「SWEEP = 10-MIN SCAN」/Tracker「refreshes every 10 min」）改 5 分钟口径，新版首页同口径、不许把 10 分钟带上线 | HANDOFF-CODEX-2026-11-02-STOCK-SEO-MATRIX.md（ADDENDUM 段） | ⏳ 待施工（并入今晚 SEO 同一轮；完工后助手上站验收） |
 | 10 | **退回工单（2026-11-03 验收）**：FB-1「10 分钟」文案首页+/stock/ 共 8 处仍在（=#8/#9，两次验收未过）；FB-2 门店页把 "Availability temporarily unconfirmed" 当正式状态渲染；FB-3 卡片 112px 固定行高根因未改；FB-4 门店矩阵仅 10/254；FB-5 试点页缺 FAQ/验证数据/高峰窗/邻店内链；FB-6 配置清单与补货计数口径不一。数据对账、favicon、页脚日期等已验 OK 项列在单内，勿重做 | HANDOFF-CODEX-2026-11-03-FIXBACK.md | ⏳ 待施工（完工后助手按单内验收标准复验） |
+
+| 11 | **Tracker 2.0 + Duo News 修复包**：W-1 首页 Tracker 改版（状态句/提醒 CTA/节目卡/验证带/门店情报表 + W-1.1 邮箱订阅落盘）；W-2 /news/ 列表页 404 修复；W-3 新闻模板改真 HTML 并迁移 iOS 27.3 文（版式三选一待 Jie 圈选，效果图在单内）；W-4 FB-7 现面板故障文案驻留 | HANDOFF-CODEX-2026-11-04-TRACKER-LIVE.md | ⏳ 待施工（完工后助手按单内验收清单复验） |
 
 ## 参考（非工作单，施工前值得读）
 
