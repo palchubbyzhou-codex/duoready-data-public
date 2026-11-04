@@ -1588,17 +1588,18 @@
   "store": "US",
   "category": "games",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
-  "editorial_score": 3,
+  "adaptation_en": "Version 26.0.3 (2026-10-27) App Store release notes carry a dedicated 'Made for iPhone Duo' feature: on Duo you pick what your second camera follows (balloons, containers, crashes, special trains) and can share the action as GIFs, alongside the Crash Cam replay feature.",
+  "adaptation_zh": "26.0.3 版（2026-10-27）App Store 更新说明设有「Made for iPhone Duo（为 iPhone Duo 而作）」专属功能：在 Duo 上可选择第二机位跟拍的对象（气球、集装箱、撞车、特殊列车），并可将画面分享为 GIF；同版还有 Crash Cam 撞车回放。",
+  "editorial_score": 5,
   "highlights": [
+   "26.0.3 App Store release notes: 'Made for iPhone Duo' second-camera feature (follow balloons, containers, crashes, special trains; share as GIFs)",
    "Featured in App Store 'Great Games on iPhone Duo' collection as 'Control Trains. Don't Crash!'"
   ],
   "listed_on_site": true,
-  "source_name": "App Store: Great Games on iPhone Duo",
+  "source_name": "App Store release notes (26.0.3, 2026-10-27); App Store: Great Games on iPhone Duo",
   "source_url": "https://apps.apple.com/us/story/id6820647409",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-04"
  },
  {
   "slug": "tripsy",
@@ -1718,15 +1719,17 @@
   "store": "US",
   "category": "weather",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Version 3.9.2 (2026-10-27) App Store release notes state: 'Refined iPhone Duo Split View layouts' — the app's trip-forecast views use a refined split-view layout on the Duo inner display.",
+  "adaptation_zh": "3.9.2 版（2026-10-27）App Store 更新说明写「Refined iPhone Duo Split View layouts（优化了 iPhone Duo 分屏视图布局）」——其行程预报视图在 Duo 内屏上采用优化后的分屏布局。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "3.9.2 App Store release notes: 'Refined iPhone Duo Split View layouts'"
+  ],
   "listed_on_site": true,
-  "source_name": "Great Apps on iPhone Duo — App Store story (US)",
+  "source_name": "App Store release notes (3.9.2, 2026-10-27); Great Apps on iPhone Duo — App Store story (US)",
   "source_url": "https://apps.apple.com/us/story/id6820646846",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-04"
  },
  {
   "slug": "weather360",

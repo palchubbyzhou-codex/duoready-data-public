@@ -10,9 +10,9 @@
   "20": "Poor"
  },
  "distribution": {
-  "100": 38,
+  "100": 39,
   "80": 61,
-  "60": 97,
+  "60": 96,
   "40": 3,
   "20": 1
  },
@@ -1894,9 +1894,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
    "credibility_tier": "verified"
   },
   {
