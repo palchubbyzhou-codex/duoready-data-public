@@ -361,5 +361,155 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-11-03"
+  },
+  {
+    "date": "2026-11-04",
+    "snapshot_time_utc": "2026-11-04T15:08:47+00:00",
+    "snapshot_time_et": "2026-11-04 10:08 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 8,
+    "by_model": [
+      {
+        "model": "256GB Star White",
+        "part": "MK1E4LL/A",
+        "stores_in_stock": 5
+      },
+      {
+        "model": "256GB Night Sky",
+        "part": "MK1F4LL/A",
+        "stores_in_stock": 8
+      },
+      {
+        "model": "512GB Star White",
+        "part": "MK1G4LL/A",
+        "stores_in_stock": 7
+      },
+      {
+        "model": "512GB Night Sky",
+        "part": "MK1H4LL/A",
+        "stores_in_stock": 5
+      },
+      {
+        "model": "1TB Star White",
+        "part": "MK1J4LL/A",
+        "stores_in_stock": 8
+      },
+      {
+        "model": "1TB Night Sky",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 8
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R225",
+        "store_name": "The Summit",
+        "city": "Birmingham",
+        "state": "AL",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R266",
+        "store_name": "Bridge Street",
+        "city": "Huntsville",
+        "state": "AL",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R019",
+        "store_name": "International Plaza",
+        "city": "Tampa",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R235",
+        "store_name": "Lakeside Shopping Center",
+        "city": "Metairie",
+        "state": "LA",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R114",
+        "store_name": "Saint Louis Galleria",
+        "city": "Saint Louis",
+        "state": "MO",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R058",
+        "store_name": "Houston Galleria",
+        "city": "Houston",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R164",
+        "store_name": "Memorial City",
+        "city": "Houston",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R290",
+        "store_name": "North Star",
+        "city": "San Antonio",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-04"
   }
 ]

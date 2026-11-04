@@ -4147,5 +4147,217 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-03"
+ },
+ {
+  "slug": "google-maps",
+  "name_en": "Google Maps",
+  "name_zh": null,
+  "aliases": [
+   "Google Maps"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 26.44.4 (2026-11-03). The App Store release notes do not mention Duo. MacRumors (2026-11-04) reported the update adds full iPhone Duo support: the map now fills the entire inner display (search bar at top left, Explore/You/Contribute panels on the left, controls on the right). The previous version 26.43.1 only partly fit, with a vertical black bar on the right side of the inner display; owner reports tracked by FitsDuo moved from Partly fits to Fits for 26.44.4.",
+  "adaptation_zh": "26.44.4 版（2026-11-03）。App Store 更新说明未提 Duo。MacRumors（2026-11-04）报道该版已全面支持 iPhone Duo：地图铺满整个内屏（搜索框在左上、Explore/You/Contribute 面板在左侧、控件在右侧）。此前 26.43.1 仅部分适配，内屏右侧有竖黑边；FitsDuo 机主报告显示 26.44.4 状态由 Partly fits 变为 Fits。",
+  "editorial_score": 4,
+  "highlights": [
+   "26.44.4 fills the Duo inner display, reported by MacRumors on 2026-11-04",
+   "Previous 26.43.1 only partly fit (black bar on inner display)",
+   "Maps app by Google, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "MacRumors: Latest Google Maps Update Adds iPhone Duo Support (2026-11-04); App Store version 26.44.4",
+  "source_url": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "canva-us",
+  "name_en": "Canva",
+  "name_zh": "Canva可画",
+  "aliases": [
+   "Canva"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 4.234.0 (2026-11-03) US release notes state 'iPhone Duo is now supported' with Duo-specific workflows: design a Story or Reel unfolded on the 7.6-inch inner screen, then fold to preview it at true phone size on the cover screen; multi-page layouts and brand work get full-canvas room unfolded; video editing uses the wider timeline; decks are designed on the inner screen and presented or shared from the cover screen.",
+  "adaptation_zh": "4.234.0 版（2026-11-03）美区更新说明写「iPhone Duo is now supported（现已支持 iPhone Duo）」，并给出 Duo 专属用法：展开内屏（7.6 英寸）设计 Story/Reel，合上后在外屏以真实手机尺寸预览；展开时多页排版与品牌物料有完整画布空间；视频剪辑用更宽的时间轴；演示稿在内屏设计、在外屏演示或分享。",
+  "editorial_score": 5,
+  "highlights": [
+   "4.234.0 App Store release notes: 'iPhone Duo is now supported'",
+   "Unfold to design on the full inner canvas; fold to preview at true phone size; present decks from the cover screen",
+   "Design app by Canva, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.234.0, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "canva-cn",
+  "name_en": "Canva",
+  "name_zh": "Canva可画",
+  "aliases": [
+   "Canva",
+   "Canva可画"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 4.234.0 (2026-11-03) China release notes state Canva now supports iPhone Duo with adaptation for the foldable inner and outer displays — design unfolded on the large inner canvas, preview the real phone size folded on the cover screen, edit video on the wider timeline, and design decks inside then present from the cover screen.",
+  "adaptation_zh": "与美区为同一版本：4.234.0 版（2026-11-03）国区更新说明写「Canva可画现已支持 iPhone Duo，针对折叠屏的内外双屏进行适配」：展开内屏创作、折叠外屏查看实际手机效果；7.6 英寸内屏做多页排版；视频时间轴更宽；内屏设计演示稿、外屏演示或分享。",
+  "editorial_score": 5,
+  "highlights": [
+   "4.234.0 App Store (CN) release notes: '现已支持 iPhone Duo，针对折叠屏的内外双屏进行适配'",
+   "Same build as the US listing; design app by Canva, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.234.0, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "fubo",
+  "name_en": "Fubo: Watch Live TV & Sports",
+  "name_zh": null,
+  "aliases": [
+   "Fubo"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 8.7.2 (2026-11-03) release notes lead with 'Fubo is now available on iPhone Duo' — the app's first written Duo adaptation statement (earlier builds only filled the screen at SDK level). No specific layout detail is published.",
+  "adaptation_zh": "8.7.2 版（2026-11-03）更新说明首句为「Fubo is now available on iPhone Duo（Fubo 现已登陆 iPhone Duo）」——这是该 App 首次书面适配声明（此前仅为 SDK 层面铺满）。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "8.7.2 App Store release notes lead with 'Fubo is now available on iPhone Duo'",
+   "First written Duo adaptation statement",
+   "Live TV and sports app by fuboTV Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (8.7.2, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "noted-us",
+  "name_en": "Noted: Transcribe Audio Notes",
+  "name_zh": null,
+  "aliases": [
+   "Noted"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 7.1.2 (2026-11-02) US release notes state: 'Enjoy more room to work with Noted on the new iPhone Duo, with support for its foldable display and landscape orientation across all iPhones.' No further layout detail is published.",
+  "adaptation_zh": "7.1.2 版（2026-11-02）美区更新说明写：在新款 iPhone Duo 上使用 Noted 有更多工作空间，支持其折叠屏显示，同时所有 iPhone 均支持横屏。未公布更多布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.1.2 App Store release notes: support for the iPhone Duo foldable display",
+   "Audio transcription notes app by Digital Workroom Ltd, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.1.2, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "noted-cn",
+  "name_en": "Noted",
+  "name_zh": "Noted - 录音转文字，语音备忘录，会议记录",
+  "aliases": [
+   "Noted"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 7.1.2 (2026-11-02) China release notes state Noted is now adapted for the new iPhone Duo, making full use of the space its foldable screen provides, with landscape orientation supported on all iPhones.",
+  "adaptation_zh": "与美区为同一版本：7.1.2 版（2026-11-02）国区更新说明写「Noted 现已适配全新的 iPhone Duo，充分利用折叠屏幕带来的空间」，同时所有 iPhone 机型均支持横屏使用。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.1.2 App Store (CN) release notes: '现已适配全新的 iPhone Duo，充分利用折叠屏幕带来的空间'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.1.2, 2026-11-02)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "play-us",
+  "name_en": "Play: Save Videos Watch Later",
+  "name_zh": null,
+  "aliases": [
+   "Play"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 3.0.0 (2026-11-01) US release notes state: 'The app now supports iPhone Duo and makes better use of the available screen space in landscape layouts.' No further Duo layout detail is published.",
+  "adaptation_zh": "3.0.0 版（2026-11-01）美区更新说明写：该 App 现已支持 iPhone Duo，并能在横屏布局中更充分地利用屏幕空间。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.0.0 App Store release notes: 'now supports iPhone Duo' with better landscape use of screen space",
+   "Video bookmarking app by Loop Apps LTDA (Marcos Tanaka), free with subscription"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.0.0, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "play-cn",
+  "name_en": "Play",
+  "name_zh": "Play：B站爱奇艺等视频收藏",
+  "aliases": [
+   "Play"
+  ],
+  "store": "CN",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.0.0 (2026-11-01) China release notes state the app now supports iPhone Duo and makes better use of the available screen space in landscape layouts.",
+  "adaptation_zh": "与美区为同一版本：3.0.0 版（2026-11-01）国区更新说明写「现已支持 iPhone Duo，并能在横屏布局中更充分地利用屏幕空间」。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.0.0 App Store (CN) release notes: '现已支持 iPhone Duo'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.0.0, 2026-11-01)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "quotesvault",
+  "name_en": "QuotesVault - Pocket Wisdom",
+  "name_zh": null,
+  "aliases": [
+   "QuotesVault"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 1.4.6 (2026-11-03) release notes detail native Duo behaviors beyond layout: held sideways, the Quote tab opens like a book — the author's portrait, life and source on the left page, the quote on the right; propped on its side like a tent, the Quote tab becomes a desk card that turns to a new quote every ten minutes; open flat it uses the whole screen (lists take about a third beside the quote), and half closed each part keeps to its own page.",
+  "adaptation_zh": "1.4.6 版（2026-11-03）更新说明详述了超越布局的 Duo 原生行为：横持时 Quote 页如翻书般打开——左页是作者肖像、生平与出处，右页是引言；侧立如帐篷时 Quote 页变为每十分钟换一条的桌面卡；完全展开时用满整屏（列表约占三分之一、与引言并排），半折时各部分各守其页。",
+  "editorial_score": 5,
+  "highlights": [
+   "1.4.6 App Store release notes: 'opens QuotesVault like a book on iPhone Duo'",
+   "Book mode, tent-mode desk card and half-fold per-page layouts documented",
+   "Quotes app by DIMITRIS KONTARIS LIMITED, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.4.6, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
  }
 ]

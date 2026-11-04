@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03",
+ "generated": "2026-11-04",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -10,13 +10,13 @@
   "20": "Poor"
  },
  "distribution": {
-  "100": 35,
-  "80": 60,
-  "60": 92,
+  "100": 38,
+  "80": 61,
+  "60": 97,
   "40": 3,
   "20": 1
  },
- "count": 191,
+ "count": 200,
  "apps": [
   {
    "slug": "a-shell",
@@ -225,6 +225,28 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "canva-cn",
+   "name_en": "Canva",
+   "name_zh": "Canva可画",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "canva-us",
+   "name_en": "Canva",
+   "name_zh": "Canva可画",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
    "credibility_tier": "verified"
   },
   {
@@ -613,6 +635,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "fubo",
+   "name_en": "Fubo: Watch Live TV & Sports",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "genius-scan-cn",
    "name_en": "Genius Scan",
    "name_zh": null,
@@ -654,6 +687,17 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "google-maps",
+   "name_en": "Google Maps",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "reported"
   },
   {
@@ -1119,6 +1163,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "noted-cn",
+   "name_en": "Noted",
+   "name_zh": "Noted - 录音转文字，语音备忘录，会议记录",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "noted-us",
+   "name_en": "Noted: Transcribe Audio Notes",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "noteshelf",
    "name_en": "Noteshelf",
    "name_zh": null,
@@ -1251,6 +1317,28 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "play-cn",
+   "name_en": "Play",
+   "name_zh": "Play：B站爱奇艺等视频收藏",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "play-us",
+   "name_en": "Play: Save Videos Watch Later",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "poizon",
    "name_en": "Poizon",
    "name_zh": "得物",
@@ -1359,6 +1447,17 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "quotesvault",
+   "name_en": "QuotesVault - Pocket Wisdom",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
   },
   {
    "slug": "raylie",
