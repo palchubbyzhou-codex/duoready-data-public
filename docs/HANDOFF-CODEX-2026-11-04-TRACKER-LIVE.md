@@ -88,3 +88,8 @@ Codex to add ONE of these (option A preferred):
 - **B. Scheduled CSV drop**: a current subscriptions CSV committed to the private repo on a schedule (or on each new signup).
 
 Also confirm in the completion report: Jie's own outlook.com signup from this morning is stored (email + timestamp), and WHERE the subscription data lives (host/DB).
+
+## Export delivered 2026-11-04 (via Jie) — CLOSED
+- Read export is live: token-protected GET returning CSV (email, subscribed_at, source); unauthenticated read verified blocked (401) by the assistant.
+- Token handling per Codex's instruction: held ONLY in the Muse VM's private config (/home/hatch/.config/duoready/alert-export-token, chmod 600) — never in any repo, never in chat. Delivery of the token into that file is the one remaining step; the assistant's side is fully wired: a watcher polls the export every 30 min, reports only NEW signups to Jie, and mirrors the list locally (goal hidden_files/subscriptions.csv).
+- Still open from the acceptance pass: the "SCHEDULED NOW" → "ON AIR" copy fix during the live window, and the completion report confirming where subscription data is stored.
