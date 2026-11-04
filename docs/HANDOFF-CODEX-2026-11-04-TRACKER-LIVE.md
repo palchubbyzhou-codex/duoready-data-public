@@ -78,3 +78,13 @@
 - **PASS**: EN + ZH panels live and complete — status sentence, schedule line (checks every 5 min · live show 8:15 AM–1:15 PM ET), Telegram button → t.me/DuoReadyAlerts, email field + submit + privacy line, latest-verification card with live data. All preview traces gone (no LOCAL PREVIEW / localhost / "save to this computer" anywhere). Interim note under the form ("Email delivery is being set up") is acceptable.
 - **FIX (minor, copy)**: inside the live window the show chip reads "PEAK WINDOW LIVE · SCHEDULED NOW". During 8:15 AM–1:15 PM ET it must read "ON AIR". (Flagged before launch; shipped anyway.)
 - **MISSING DELIVERABLE — subscriber export**: the work order requires the completion report to state how subscriptions are stored and how the owner exports them (CSV or equivalent). Nothing has been handed over, so signups cannot be verified yet. Jie submitted his own email this morning (2026-11-04, an outlook.com address) as the first real signup — confirm it is stored, and deliver the export path in the completion report.
+
+## Addendum 2026-11-04 ~09:35 ET — read/export path REQUIRED (owner request)
+
+Verified by the assistant with the owner's explicit go-ahead: the subscriptions endpoint accepts POST only — GET returns 405. There is currently NO way for the owner to see or verify signups. The owner requires an ongoing check (every 30 min) so signups are never missed.
+
+Codex to add ONE of these (option A preferred):
+- **A. Token-protected read export**: a GET route returning all subscriptions as JSON or CSV (email + subscribed_at). Protected by a secret token (header or query) that only the owner holds. Put the token in the PRIVATE repo only (e.g. a clearly-named file under docs/), never in the public repo or in page JS.
+- **B. Scheduled CSV drop**: a current subscriptions CSV committed to the private repo on a schedule (or on each new signup).
+
+Also confirm in the completion report: Jie's own outlook.com signup from this morning is stored (email + timestamp), and WHERE the subscription data lives (host/DB).
