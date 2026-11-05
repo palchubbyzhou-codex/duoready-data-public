@@ -73,7 +73,7 @@
   "status": "adapted",
   "adaptation_en": "Version 3.0.2 release notes state 'Bear is now ready for iPhone Duo', shipped alongside a fresh new design for panels; Fits Duo reports Bear fills the inner display with a panel layout and adapts when you fold.",
   "adaptation_zh": "3.0.2 版更新说明写「Bear is now ready for iPhone Duo」，同版带来全新的面板设计；据 Fits Duo，Bear 以面板布局铺满内屏，并随折叠自适应",
-  "editorial_score": 3,
+  "editorial_score": 4,
   "highlights": [
    "App Store v3.0.2: 'Bear is now ready for iPhone Duo!'",
    "Same release: fresh new design for panels",
@@ -95,7 +95,7 @@
   "status": "adapted",
   "adaptation_en": "Callsheet's version 2026.8 release notes add support for the iPhone Duo and multiple instance support for iPad and iPhone Duo, so users can open more than one Callsheet window and they will operate independently.",
   "adaptation_zh": "Callsheet 版本 2026.8 的更新说明增加了对 iPhone Duo 的支持，以及对 iPad 和 iPhone Duo 的多实例支持，用户可以打开多个 Callsheet 窗口且各自独立运行。",
-  "editorial_score": 5,
+  "editorial_score": 3,
   "highlights": [
    "Support for iPhone Duo (v2026.8, Oct 16)",
    "Multiple independent Callsheet windows on Duo"
@@ -298,7 +298,7 @@
   "status": "adapted",
   "adaptation_en": "Detail puts video and its transcript side by side on the inner display, which its founder says is how creators want to edit podcasts and interviews. It also uses Apple's new Core AI framework to run AI models on device for captions, filler-word removal and audio enhancement.",
   "adaptation_zh": "Detail 在内屏上将视频与其文字稿并排显示，其创始人称这正是创作者编辑播客和访谈想要的方式。它还使用苹果新的 Core AI 框架在设备端运行 AI 模型，实现字幕、口头禅词去除和音频增强。",
-  "editorial_score": 5,
+  "editorial_score": 4,
   "highlights": [
    "Video and transcript side by side",
    "Uses Core AI framework to run AI models on device",
@@ -557,7 +557,7 @@
   "status": "adapted",
   "adaptation_en": "Instagram shows more posts and Stories onscreen at once on iPhone Duo's larger inner display.",
   "adaptation_zh": "Instagram 在 iPhone Duo 更大的内屏上可同时显示更多帖子和快拍。",
-  "editorial_score": 4,
+  "editorial_score": 3,
   "highlights": [
    "More posts and Stories onscreen at once"
   ],
@@ -1018,7 +1018,7 @@
   "status": "adapted",
   "adaptation_en": "Penbook opens into a two-page spread on iPhone Duo, and its 8.1.1 update adds support for Duo poses, new stationery sizes and a minimap update.",
   "adaptation_zh": "Penbook 在 iPhone Duo 上展开为双页摊开式布局，其 8.1.1 更新加入了对 Duo 各种姿态的支持、新的纸张尺寸以及小地图更新。",
-  "editorial_score": 5,
+  "editorial_score": 4,
   "highlights": [
    "Opens into a two-page spread on the Duo",
    "Version 8.1.1 (Oct 16, 2026): support for poses, new stationery sizes, minimap update"
@@ -1060,7 +1060,7 @@
   "status": "adapted",
   "adaptation_en": "Publisher Playdigious confirmed Planet of Lana is fully compatible with iPhone Duo's dual-screen, folding design, with a revamped and optimised interface specifically for the Duo. No specific split or cover-screen layout was described.",
   "adaptation_zh": "发行商 Playdigious 确认《Planet of Lana》完全兼容 iPhone Duo 的双屏折叠设计，并配有专为 Duo 重新优化的界面。未公布具体的分屏或外屏布局细节。",
-  "editorial_score": 4,
+  "editorial_score": 3,
   "highlights": [
    "One of five Playdigious games announced as fully iPhone Duo compatible on 2026-10-23",
    "Revamped and optimised interface for the Duo's dual-screen design"
@@ -1183,7 +1183,7 @@
   "status": "adapted",
   "adaptation_en": "On Apple Arcade, Retrocade takes full advantage of the folding display, delivering a uniquely immersive experience when opened and convenient pick-up-and-play fun when closed. Its App Store page states it 'now supports the different ways to play on iPhone Duo.'",
   "adaptation_zh": "在 Apple Arcade 上，Retrocade 充分利用折叠屏，打开时带来独特沉浸的体验，合上时则方便随手即玩。其 App Store 页面称它“现已支持在 iPhone Duo 上的不同游玩方式”。",
-  "editorial_score": 4,
+  "editorial_score": 3,
   "highlights": [
    "Apple Arcade title named by Apple as adapted for the folding display",
    "Immersive when open, pick-up-and-play when closed"
@@ -1374,7 +1374,7 @@
   "status": "adapted",
   "adaptation_en": "On Apple Arcade, Sneaky Sasquatch takes full advantage of the folding display, delivering a uniquely immersive experience when opened and convenient pick-up-and-play fun when closed.",
   "adaptation_zh": "在 Apple Arcade 上，Sneaky Sasquatch 充分利用折叠屏，打开时带来独特沉浸的体验，合上时则方便随手即玩。",
-  "editorial_score": 4,
+  "editorial_score": 3,
   "highlights": [
    "Apple Arcade title named by Apple as adapted for the folding display",
    "Immersive when open, pick-up-and-play when closed"
@@ -1967,7 +1967,7 @@
   "status": "adapted",
   "adaptation_en": "Unfolded, Amap puts route options and travel time on the left with the full map on the right, and ride-hailing shows trip information on the left with the car's live position on the right. Amap also announced a split-screen navigation mode for Duo: lane-level guidance on the left half and a forward-looking map covering the next 3–5 km on the right.",
   "adaptation_zh": "展开后，高德左侧显示路线方案和预计用时，右侧显示整张地图；打车时左侧是行程信息，右侧实时显示车辆位置。高德还宣布将推出针对 Duo 的分屏导航：左半屏为车道级导航，右半屏为可前瞻三到五公里的地图。",
-  "editorial_score": 5,
+  "editorial_score": 4,
   "highlights": [
    "Route options left, full map right",
    "Split navigation: lane-level guidance left, 3–5 km forward map right (announced)",
@@ -2437,7 +2437,7 @@
   "status": "adapted",
   "adaptation_en": "Hands-on testing found that on the unfolded inner screen a note opens split left/right — images on the left, body text and comments on the right — while the home feed shows more notes per screen than the two-column outer-screen feed, and the function menu moves to the bottom-right. For video notes, playback continues on the outer screen when the phone is closed, and when propped half-folded on a desk the video sits on the top half with comments below, so interacting does not cover the picture.",
   "adaptation_zh": "实测显示，展开内屏后打开笔记为左右分栏——左边看图，右边看正文和评论；首页一屏可显示更多笔记（外屏仍为双列），功能菜单移到屏幕右侧底部。视频笔记合上手机后会在外屏续播；微折立在桌上时视频在上、评论在下，互动不遮挡画面。",
-  "editorial_score": 4,
+  "editorial_score": 5,
   "highlights": [
    "Note view: images left, text and comments right on the inner screen",
    "Video notes continue playing on the outer screen when folded shut",

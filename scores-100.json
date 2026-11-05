@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-05",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -10,9 +10,9 @@
   "20": "Poor"
  },
  "distribution": {
-  "100": 39,
-  "80": 61,
-  "60": 96,
+  "100": 36,
+  "80": 60,
+  "60": 100,
   "40": 3,
   "20": 1
  },
@@ -79,9 +79,9 @@
    "name_zh": "高德地图",
    "store": "CN",
    "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "reported"
   },
   {
@@ -156,9 +156,9 @@
    "name_zh": "熊掌记",
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -200,9 +200,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -431,9 +431,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -794,9 +794,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -1289,9 +1289,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 5,
-   "score_100": 100,
-   "band": "Excellent",
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -1311,9 +1311,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "reported"
   },
   {
@@ -1476,9 +1476,9 @@
    "name_zh": "小红书",
    "store": "CN",
    "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
    "credibility_tier": "reported"
   },
   {
@@ -1498,9 +1498,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -1652,9 +1652,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 4,
-   "score_100": 80,
-   "band": "Great",
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
