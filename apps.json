@@ -4362,5 +4362,377 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-04"
+ },
+ {
+  "slug": "copycut-us",
+  "name_en": "CopyCut: Clipboard & Fonts",
+  "name_zh": null,
+  "aliases": [
+   "CopyCut"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 3.0.1 (2026-11-03) release notes announce 'CopyCut 3.0 is here… it's ready for iPhone Duo': the app runs full-screen when unfolded, with a split keyboard designed for two-thumb typing, and adapts to the cover screen when folded.",
+  "adaptation_zh": "3.0.1 版（2026-11-03）更新说明写「CopyCut 3.0 is here… it's ready for iPhone Duo（已为 iPhone Duo 做好准备）」：展开后全屏使用，配双拇指分体键盘；合上后适配外屏。",
+  "editorial_score": 4,
+  "highlights": [
+   "3.0.1 App Store release notes: 'ready for iPhone Duo'",
+   "Full-screen unfolded with a two-thumb split keyboard; cover-screen fit when folded",
+   "Clipboard and fonts app by Federica Benacquista, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.0.1, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "copycut-cn",
+  "name_en": "CopyCut: Clipboard & Fonts",
+  "name_zh": null,
+  "aliases": [
+   "CopyCut"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.0.1 (2026-11-03) is ready for iPhone Duo — full-screen use when unfolded with a split keyboard for two-thumb typing, and a cover-screen layout when folded.",
+  "adaptation_zh": "与美区为同一版本：3.0.1 版（2026-11-03）已适配 iPhone Duo，展开全屏使用 + 双拇指分体键盘，合上适配外屏。",
+  "editorial_score": 4,
+  "highlights": [
+   "3.0.1 App Store (CN) release notes: ready for iPhone Duo",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.0.1, 2026-11-03)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "dashlane",
+  "name_en": "Dashlane Password Manager",
+  "name_zh": null,
+  "aliases": [
+   "Dashlane"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 6.2644.2 (2026-11-04) release notes state 'Dashlane now supports iOS 27.1, including iPhone Duo': the vault gets more room on the unfolded display and the layout settles back automatically when folded. No further Duo-specific layout detail is published.",
+  "adaptation_zh": "6.2644.2 版（2026-11-04）更新说明写「Dashlane now supports iOS 27.1, including iPhone Duo（现已支持 iOS 27.1，包括 iPhone Duo）」：展开后密码库获得更大空间，合上时布局自动贴合。未公布更多 Duo 专属布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.2644.2 App Store release notes: 'now supports iOS 27.1, including iPhone Duo'",
+   "Password manager by Dashlane, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.2644.2, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "flip-clock-us",
+  "name_en": "Flip Clock - Digital Clock",
+  "name_zh": null,
+  "aliases": [
+   "Flip Clock"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.76 (2026-11-04) release notes list the app as 'iPhone Duo ready' (the same update also brings the iOS 27 Liquid Glass design). No specific Duo layout detail is published.",
+  "adaptation_zh": "2.76 版（2026-11-04）更新说明列明「iPhone Duo ready（已适配 iPhone Duo）」，同版另有 iOS 27 液态玻璃设计。未公布具体 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.76 App Store release notes: 'iPhone Duo ready'",
+   "Flip clock app by Amit Verma, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.76, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "flip-clock-cn",
+  "name_en": "Flip Clock - Digital Clock",
+  "name_zh": null,
+  "aliases": [
+   "Flip Clock"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 2.76 (2026-11-04) is listed as iPhone Duo ready. No specific Duo layout detail is published.",
+  "adaptation_zh": "与美区为同一版本：2.76 版（2026-11-04）已标注适配 iPhone Duo。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.76 App Store (CN) release notes: iPhone Duo ready",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.76, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "quanneng-scan-cn",
+  "name_en": null,
+  "name_zh": "全能扫描王",
+  "aliases": [
+   "全能扫描王"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 3.5.7 (2026-11-04) China release notes state the app adapts its page display for iPhone Duo with an optimized user experience. This is Hangzhou Boniu Technology's scanner — a different app from INTSIG's CamScanner (扫描全能王), which is already listed separately. No further layout detail is published.",
+  "adaptation_zh": "3.5.7 版（2026-11-04）国区更新说明写「适配iPhone Duo页面展示，优化用户体验」。这是杭州博牛科技的扫描 App，与已单独在站的 INTSIG 扫描全能王（CamScanner）是不同 App。未公布更多布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.5.7 App Store (CN) release notes: '适配iPhone Duo页面展示，优化用户体验'",
+   "Scanner by Hangzhou Boniu Technology, free — not CamScanner"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.5.7, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "quanneng-scan-us",
+  "name_en": null,
+  "name_zh": "全能扫描王",
+  "aliases": [
+   "全能扫描王"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "US-store listing of the same build: version 3.5.7 (2026-11-04) adapts the app's page display for iPhone Duo. A different app from INTSIG's CamScanner. No further layout detail is published.",
+  "adaptation_zh": "与国区为同一版本：3.5.7 版（2026-11-04）美区说明同样写适配 iPhone Duo 页面展示。与 INTSIG 的 CamScanner 是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.5.7 App Store release notes: adapted for iPhone Duo display",
+   "Same build as the China listing; scanner by Hangzhou Boniu Technology, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.5.7, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "imgplay-us",
+  "name_en": "ImgPlay - GIF Maker",
+  "name_zh": null,
+  "aliases": [
+   "ImgPlay"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 6.8.0 (2026-11-04) release notes state 'Added support for iPhone Duo'. No specific Duo layout detail is published.",
+  "adaptation_zh": "6.8.0 版（2026-11-04）更新说明写「Added support for iPhone Duo（新增对 iPhone Duo 的支持）」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.8.0 App Store release notes: 'Added support for iPhone Duo'",
+   "GIF maker by ImgBase, Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.8.0, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "imgplay-cn",
+  "name_en": "ImgPlay - GIF Maker",
+  "name_zh": null,
+  "aliases": [
+   "ImgPlay"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 6.8.0 (2026-11-04) China release notes state ImgPlay now supports iPhone Duo. No specific Duo layout detail is published.",
+  "adaptation_zh": "与美区为同一版本：6.8.0 版（2026-11-04）国区更新说明写「现已支持 iPhone Duo」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.8.0 App Store (CN) release notes: '现已支持 iPhone Duo'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.8.0, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "czcam-us",
+  "name_en": "CzCam - Quiet Camera",
+  "name_zh": null,
+  "aliases": [
+   "CzCam",
+   "静音カメラ"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 2.3 (2026-11-04) release notes state 'Added support for iPhone Duo (foldable)': unfolded, the controls split to both sides of a large preview; half-folded, the preview sits on the upper half and the controls on the lower half, so the device can stand on a table for timed shots.",
+  "adaptation_zh": "2.3 版（2026-11-04）更新说明写「Added support for iPhone Duo (foldable)（新增对折叠屏 iPhone Duo 的支持）」：展开时按钮分列两侧、保持大预览；半折时上半部预览、下半部操作区，可立在桌上定时拍摄。",
+  "editorial_score": 4,
+  "highlights": [
+   "2.3 App Store release notes: 'Added support for iPhone Duo (foldable)'",
+   "Half-fold tabletop mode: preview above, controls below for timed shots",
+   "Silent camera by Noriaki Misawa, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.3, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "czcam-cn",
+  "name_en": "CzCam - Quiet Camera",
+  "name_zh": "静音カメラ",
+  "aliases": [
+   "CzCam",
+   "静音カメラ"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 2.3 (2026-11-04) adds iPhone Duo (foldable) support — controls split to both sides of the preview when unfolded, and a half-fold layout (preview above, controls below) that stands on a table for timed shots.",
+  "adaptation_zh": "与美区为同一版本：2.3 版（2026-11-04）新增 iPhone Duo 折叠屏支持：展开按钮分列两侧，半折时上预览下操作、可立桌定时拍摄。",
+  "editorial_score": 4,
+  "highlights": [
+   "2.3 App Store (CN) release notes: iPhone Duo (foldable) support",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.3, 2026-11-04)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "tencent-zixuangu",
+  "name_en": null,
+  "name_zh": "腾讯自选股",
+  "aliases": [
+   "腾讯自选股"
+  ],
+  "store": "CN",
+  "category": "finance",
+  "status": "adapted",
+  "adaptation_en": "Version 11.44.1 (2026-11-05) China release notes list '【优化】iPhone Duo 适配' (optimization: iPhone Duo adaptation). No specific layout detail is published.",
+  "adaptation_zh": "11.44.1 版（2026-11-05）国区更新说明写「【优化】iPhone Duo 适配」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "11.44.1 App Store (CN) release notes: '【优化】iPhone Duo 适配'",
+   "Stock app by Tencent Technology (Beijing), free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (11.44.1, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "activitytracker-us",
+  "name_en": "ActivityTracker Pedometer",
+  "name_zh": null,
+  "aliases": [
+   "ActivityTracker"
+  ],
+  "store": "US",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "Version 4.4 (2026-11-05) release notes state 'Updated for iPhone Duo!'. No specific Duo layout detail is published.",
+  "adaptation_zh": "4.4 版（2026-11-05）更新说明写「Updated for iPhone Duo!（已为 iPhone Duo 更新）」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.4 App Store release notes: 'Updated for iPhone Duo!'",
+   "Pedometer by Bits&Coffee, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.4, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "activitytracker-cn",
+  "name_en": "ActivityTracker Pedometer",
+  "name_zh": null,
+  "aliases": [
+   "ActivityTracker"
+  ],
+  "store": "CN",
+  "category": "health",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 4.4 (2026-11-05) is updated for iPhone Duo. No specific Duo layout detail is published.",
+  "adaptation_zh": "与美区为同一版本：4.4 版（2026-11-05）已为 iPhone Duo 更新。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.4 App Store (CN) release notes: updated for iPhone Duo",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.4, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "piccola-us",
+  "name_en": "Piccola: Cozy Planner & Lists",
+  "name_zh": null,
+  "aliases": [
+   "Piccola"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 1.0.6 (2026-11-05) release notes lead with 'Made for iPhone Duo: roomy side-by-side pages when unfolded' — unfolded, pages sit side by side and action buttons move into a sidebar next to the tabs.",
+  "adaptation_zh": "1.0.6 版（2026-11-05）更新说明首条为「Made for iPhone Duo: roomy side-by-side pages when unfolded（为 iPhone Duo 而作：展开时宽敞的左右并排页面）」：展开后页面左右并排，操作按钮移入标签旁的侧边栏。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.0.6 App Store release notes: 'Made for iPhone Duo: roomy side-by-side pages when unfolded'",
+   "Planner by BLANKET BYTE, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.6, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "piccola-cn",
+  "name_en": "Piccola: Cozy Planner & Lists",
+  "name_zh": null,
+  "aliases": [
+   "Piccola"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.0.6 (2026-11-05) is made for iPhone Duo, with roomy side-by-side pages when unfolded and buttons in a sidebar next to the tabs.",
+  "adaptation_zh": "与美区为同一版本：1.0.6 版（2026-11-05）为 iPhone Duo 而作，展开左右并排页面、按钮进标签旁侧栏。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.0.6 App Store (CN) release notes: made for iPhone Duo, side-by-side pages",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.6, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
  }
 ]

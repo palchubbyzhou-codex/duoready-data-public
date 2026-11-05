@@ -11,12 +11,12 @@
  },
  "distribution": {
   "100": 36,
-  "80": 60,
-  "60": 100,
+  "80": 66,
+  "60": 110,
   "40": 3,
   "20": 1
  },
- "count": 200,
+ "count": 216,
  "apps": [
   {
    "slug": "a-shell",
@@ -32,6 +32,28 @@
   {
    "slug": "a-shell-mini",
    "name_en": "a-Shell mini",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "activitytracker-cn",
+   "name_en": "ActivityTracker Pedometer",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "activitytracker-us",
+   "name_en": "ActivityTracker Pedometer",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -305,6 +327,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "copycut-cn",
+   "name_en": "CopyCut: Clipboard & Fonts",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "copycut-us",
+   "name_en": "CopyCut: Clipboard & Fonts",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "craft",
    "name_en": "Craft",
    "name_zh": null,
@@ -360,6 +404,28 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "czcam-cn",
+   "name_en": "CzCam - Quiet Camera",
+   "name_zh": "静音カメラ",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "czcam-us",
+   "name_en": "CzCam - Quiet Camera",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "daily-english-listening-cn",
    "name_en": "Daily English Listening",
    "name_zh": "每日英语听力-每天更新的英语泛听资源库",
@@ -374,6 +440,17 @@
    "slug": "daily-english-listening-us",
    "name_en": "Daily English Listening",
    "name_zh": "每日英语听力-每天更新的英语泛听资源库",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "dashlane",
+   "name_en": "Dashlane Password Manager",
+   "name_zh": null,
    "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
@@ -580,6 +657,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "flip-clock-cn",
+   "name_en": "Flip Clock - Digital Clock",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "flip-clock-us",
+   "name_en": "Flip Clock - Digital Clock",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "flipcorder",
    "name_en": "Flipcorder",
    "name_zh": null,
@@ -761,6 +860,28 @@
    "name_zh": "ima - 腾讯AI知识管家",
    "store": "CN",
    "listed_on_site": true,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "imgplay-cn",
+   "name_en": "ImgPlay - GIF Maker",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "imgplay-us",
+   "name_en": "ImgPlay - GIF Maker",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
@@ -1306,6 +1427,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "piccola-cn",
+   "name_en": "Piccola: Cozy Planner & Lists",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "piccola-us",
+   "name_en": "Piccola: Cozy Planner & Lists",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "planet-of-lana",
    "name_en": "Planet of Lana",
    "name_zh": null,
@@ -1447,6 +1590,28 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "quanneng-scan-cn",
+   "name_en": null,
+   "name_zh": "全能扫描王",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "quanneng-scan-us",
+   "name_en": null,
+   "name_zh": "全能扫描王",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "quotesvault",
@@ -1755,6 +1920,17 @@
    "score_100": 100,
    "band": "Excellent",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "tencent-zixuangu",
+   "name_en": null,
+   "name_zh": "腾讯自选股",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "tesla-cn",
