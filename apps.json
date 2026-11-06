@@ -4734,5 +4734,266 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-05"
+ },
+ {
+  "slug": "zhibo8-cn",
+  "name_en": null,
+  "name_zh": "直播吧",
+  "aliases": [
+   "直播吧",
+   "Zhibo8"
+  ],
+  "store": "CN",
+  "category": "sports",
+  "status": "adapted",
+  "adaptation_en": "Version 6.9.9 (2026-11-05) China release notes lead with 'Brand-new adaptation for iPhone Duo' — unfolding opens a new view of the match, with a smoother experience on the larger display. No specific Duo layout detail is published.",
+  "adaptation_zh": "6.9.9 版（2026-11-05）国区更新说明首条写「【全新适配iphone Duo】展开赛场新视野，大屏体验更丝滑」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.9.9 App Store (CN) release notes: '【全新适配iphone Duo】展开赛场新视野，大屏体验更丝滑'",
+   "Live sports scores and streaming app by Xiamen Baimai Information Technology, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.9.9, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "zhibo8-us",
+  "name_en": null,
+  "name_zh": "直播吧",
+  "aliases": [
+   "直播吧",
+   "Zhibo8"
+  ],
+  "store": "US",
+  "category": "sports",
+  "status": "adapted",
+  "adaptation_en": "US-store listing of the same build: version 6.9.9 (2026-11-05) release notes carry the same Chinese Duo adaptation note — unfolding opens a new view of the match on the larger display. No specific Duo layout detail is published.",
+  "adaptation_zh": "与国区为同一版本：6.9.9 版（2026-11-05）美区更新说明同为「【全新适配iphone Duo】展开赛场新视野，大屏体验更丝滑」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.9.9 App Store (US) release notes: brand-new iPhone Duo adaptation",
+   "Same build as the China listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.9.9, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "colorful-widget-us",
+  "name_en": "Colorful Widget",
+  "name_zh": null,
+  "aliases": [
+   "Colorful Widget"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 19.0.2 (2026-11-05) US release notes state 'Newly optimized for iPhone Duo, featuring beautifully designed themes, wallpapers, and widgets for different screen sizes'. No specific Duo layout detail is published.",
+  "adaptation_zh": "19.0.2 版（2026-11-05）美区更新说明写「Newly optimized for iPhone Duo（为 iPhone Duo 全新优化，为不同屏幕尺寸设计精美主题、壁纸与组件）」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "19.0.2 App Store release notes: 'Newly optimized for iPhone Duo'",
+   "Widget and theme app by Guangzhou ZHIFENG Information Technology, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (19.0.2, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "colorful-widget-cn",
+  "name_en": "Colorful Widget",
+  "name_zh": "Colorful Widget彩虹小组件",
+  "aliases": [
+   "Colorful Widget",
+   "彩虹小组件"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 19.0.2 (2026-11-05) China release notes state Colorful Widget is newly adapted for iPhone Duo, with themes, wallpapers and widgets designed for its different screen sizes.",
+  "adaptation_zh": "与美区为同一版本：19.0.2 版（2026-11-05）国区更新说明写「iPhone Duo 全新适配，为不同屏幕设计精美主题、壁纸、组件桌搭」。",
+  "editorial_score": 3,
+  "highlights": [
+   "19.0.2 App Store (CN) release notes: 'iPhone Duo 全新适配'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (19.0.2, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "vomo",
+  "name_en": "VOMO: Transcribe Audio to Text",
+  "name_zh": null,
+  "aliases": [
+   "VOMO"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 2.5.23 (2026-11-05) release notes lead with 'Your meetings, unfolded. Optimized for iPhone Duo, giving you more room to review your meeting notes and revisit what matters.' No specific Duo layout detail is published beyond the larger review space when unfolded.",
+  "adaptation_zh": "2.5.23 版（2026-11-05）更新说明头条写「Your meetings, unfolded. Optimized for iPhone Duo（会议，展开了。为 iPhone Duo 优化，展开后有更大空间回看会议笔记）」。除展开空间外未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.5.23 App Store release notes: 'Optimized for iPhone Duo'",
+   "Audio transcription app by EverGrow Tech Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.5.23, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "picsew-us",
+  "name_en": "Picsew - Screenshot Stitching",
+  "name_zh": null,
+  "aliases": [
+   "Picsew"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 3.20 (2026-11-05) US release notes state 'Added support for iPhone Duo'. No specific Duo layout detail is published.",
+  "adaptation_zh": "3.20 版（2026-11-05）美区更新说明写「Added support for iPhone Duo（新增对 iPhone Duo 的支持）」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.20 App Store release notes: 'Added support for iPhone Duo'",
+   "Scrolling screenshot and stitching app by Yojio, Ltd., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.20, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "picsew-cn",
+  "name_en": "Picsew",
+  "name_zh": "Picsew - 滚动截图 & 长图拼接",
+  "aliases": [
+   "Picsew"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.20 (2026-11-05) China release notes state Picsew is adapted for iPhone Duo. No specific Duo layout detail is published.",
+  "adaptation_zh": "与美区为同一版本：3.20 版（2026-11-05）国区更新说明写「适配 iPhone Duo」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.20 App Store (CN) release notes: '适配 iPhone Duo'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.20, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "viewportal-us",
+  "name_en": "ViewPortal - Responsive Tester",
+  "name_zh": null,
+  "aliases": [
+   "ViewPortal"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.2.0 (2026-11-06) release notes state 'Built for iPhone Duo': closed, the controls tuck into a rail beside the camera so the preview gets the full height; open, previews get big and multi-view sits side by side; half-folded, previews stay clear of the hinge. The same version adds Duo closed and Duo open test presets (the closed preset recreates Safari's side column at the true 382px page width; open starts in landscape).",
+  "adaptation_zh": "1.2.0 版（2026-11-06）更新说明写「Built for iPhone Duo（为 iPhone Duo 而建）」：合上时控件收进相机旁的侧栏、预览占满高度；展开时预览变大、多视图左右并排；半折时预览避开铰链。同版新增 Duo 合上/展开测试预设（合上预设以真实 382px 页宽复刻 Safari 侧栏，展开预设以横屏起步）。",
+  "editorial_score": 5,
+  "highlights": [
+   "1.2.0 App Store release notes: 'Built for iPhone Duo' — fits every pose: closed rail, open side-by-side multi-view, half-folded clear of the hinge",
+   "Adds Duo closed/open responsive test presets",
+   "Responsive testing tool by Flavr Web Dev Ltd, $4.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2.0, 2026-11-06)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "viewportal-cn",
+  "name_en": "ViewPortal - Responsive Tester",
+  "name_zh": null,
+  "aliases": [
+   "ViewPortal"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.2.0 (2026-11-06) is built for iPhone Duo — closed controls tuck into a rail beside the camera, open multi-view sits side by side, half-folded previews stay clear of the hinge — with new Duo closed and Duo open test presets.",
+  "adaptation_zh": "与美区为同一版本：1.2.0 版（2026-11-06）为 iPhone Duo 而建：合上控件收进相机旁侧栏、展开多视图并排、半折预览避开铰链，并新增 Duo 合上/展开测试预设。",
+  "editorial_score": 5,
+  "highlights": [
+   "1.2.0 App Store (CN) release notes: built for iPhone Duo, fits every pose",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2.0, 2026-11-06)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "zenless-zone-zero-us",
+  "name_en": "Zenless Zone Zero",
+  "name_zh": "绝区零",
+  "aliases": [
+   "Zenless Zone Zero",
+   "ZZZ"
+  ],
+  "store": "US",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "Version 3.3.1 (2026-11-05). The App Store release notes do not mention Duo. Owner reports tracked by FitsDuo moved the game from Letterboxed on 3.3.0 (built with the iOS 26.2 SDK) to Fits on 3.3.1 (built with the iOS 27.1 SDK), with owners reporting the game now fills the inner and outer displays in both landscape and portrait; IT Home (IT之家) reported on 2026-11-05 that updating to 3.3.1 brings the Duo adaptation.",
+  "adaptation_zh": "3.3.1 版（2026-11-05）。App Store 更新说明未提 Duo。FitsDuo 机主报告显示该游戏由 3.3.0 的居中黑边（iOS 26.2 SDK）变为 3.3.1 的铺满（iOS 27.1 SDK），机主报告内外屏横竖均铺满；IT之家 2026-11-05 报道更新至 3.3.1 即可体验适配。",
+  "editorial_score": 4,
+  "highlights": [
+   "3.3.1 fills the Duo inner and outer displays per FitsDuo owner reports (3.3.0 was letterboxed)",
+   "IT之家 reported the 3.3.1 Duo adaptation on 2026-11-05",
+   "Action RPG by COGNOSPHERE PTE. LTD., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "FitsDuo owner-report status change for 3.3.1 (2026-11-05); IT之家 report (2026-11-05); App Store version 3.3.1",
+  "source_url": null,
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "zenless-zone-zero-cn",
+  "name_en": "Zenless Zone Zero",
+  "name_zh": "绝区零",
+  "aliases": [
+   "绝区零",
+   "Zenless Zone Zero",
+   "ZZZ"
+  ],
+  "store": "CN",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.3.1 (2026-11-05) fills the Duo inner and outer displays in landscape and portrait per FitsDuo owner reports (3.3.0 was letterboxed); IT Home (IT之家) reported the adaptation on 2026-11-05. The App Store release notes do not mention Duo.",
+  "adaptation_zh": "与美区为同一版本：3.3.1 版（2026-11-05）据 FitsDuo 机主报告内外屏横竖均铺满（3.3.0 为居中黑边）；IT之家 2026-11-05 报道该适配。App Store 更新说明未提 Duo。",
+  "editorial_score": 4,
+  "highlights": [
+   "3.3.1 App Store (CN) listing; Duo adaptation reported by IT之家 on 2026-11-05",
+   "Same build as the US listing; action RPG by miHoYo Games, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "FitsDuo owner-report status change for 3.3.1 (2026-11-05); IT之家 report (2026-11-05); App Store version 3.3.1",
+  "source_url": null,
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-06"
  }
 ]

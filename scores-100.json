@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-06",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -10,13 +10,13 @@
   "20": "Poor"
  },
  "distribution": {
-  "100": 36,
-  "80": 66,
-  "60": 110,
+  "100": 38,
+  "80": 68,
+  "60": 117,
   "40": 3,
   "20": 1
  },
- "count": 216,
+ "count": 227,
  "apps": [
   {
    "slug": "a-shell",
@@ -318,6 +318,28 @@
   {
    "slug": "coinsnap",
    "name_en": "CoinSnap: Coin Identifier",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "colorful-widget-cn",
+   "name_en": "Colorful Widget",
+   "name_zh": "Colorful Widget彩虹小组件",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "colorful-widget-us",
+   "name_en": "Colorful Widget",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -1449,6 +1471,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "picsew-cn",
+   "name_en": "Picsew",
+   "name_zh": "Picsew - 滚动截图 & 长图拼接",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "picsew-us",
+   "name_en": "Picsew - Screenshot Stitching",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "planet-of-lana",
    "name_en": "Planet of Lana",
    "name_zh": null,
@@ -2186,6 +2230,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "viewportal-cn",
+   "name_en": "ViewPortal - Responsive Tester",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "viewportal-us",
+   "name_en": "ViewPortal - Responsive Tester",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "vllo",
    "name_en": "VLLO",
    "name_zh": null,
@@ -2194,6 +2260,17 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "vomo",
+   "name_en": "VOMO: Transcribe Audio to Text",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -2376,6 +2453,50 @@
    "slug": "zangi",
    "name_en": "Zangi - Private Messenger",
    "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "zenless-zone-zero-cn",
+   "name_en": "Zenless Zone Zero",
+   "name_zh": "绝区零",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "zenless-zone-zero-us",
+   "name_en": "Zenless Zone Zero",
+   "name_zh": "绝区零",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "zhibo8-cn",
+   "name_en": null,
+   "name_zh": "直播吧",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "zhibo8-us",
+   "name_en": null,
+   "name_zh": "直播吧",
    "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
