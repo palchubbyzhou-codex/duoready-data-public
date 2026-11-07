@@ -4995,5 +4995,190 @@
   "source_url": null,
   "credibility_tier": "reported",
   "date_verified": "2026-11-06"
+ },
+ {
+  "slug": "quran-majeed",
+  "name_en": "Quran Majeed – القران الكريم",
+  "name_zh": null,
+  "aliases": [
+   "Quran Majeed"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 12.1.1 (2026-11-05) release notes lead with 'iPhone Duo compatibility' — the app's first written Duo adaptation statement. No specific Duo layout detail is published.",
+  "adaptation_zh": "12.1.1 版（2026-11-05）更新说明首条写「iPhone Duo compatibility（兼容 iPhone Duo）」，为该 App 首次书面适配声明。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "12.1.1 App Store release notes: 'iPhone Duo compatibility'",
+   "Quran app by Pakistan Data Management Services, free; no China-store listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (12.1.1, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "wallpapers-central-us",
+  "name_en": "Wallpapers Central",
+  "name_zh": null,
+  "aliases": [
+   "Wallpapers Central"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.8.1 (2026-11-05) release notes carry a dedicated 'Even better on iPhone Duo' section: every screen has been rethought around the fold with columns that adapt to the screen on their own; unfolded, the public profile, Account and Settings split into two columns along the fold (menu on the left, chosen page on the right), collections show three wallpapers per row in portrait and four in landscape, and closing the Duo leaves the page that was open on the right waiting on the outer screen.",
+  "adaptation_zh": "2.8.1 版（2026-11-05）更新说明设有「Even better on iPhone Duo（更好用的 iPhone Duo）」专节：所有界面围绕折痕重新设计、列数随屏自适应；展开后公开主页、账户与设置均沿折痕双栏（左侧菜单、右侧所选页面），合集竖屏每行 3 张、横屏每行 4 张，合上后右侧打开的页面在外屏续接。",
+  "editorial_score": 4,
+  "highlights": [
+   "2.8.1 App Store release notes: 'Even better on iPhone Duo' — designed around the fold, two-column profile/Account/Settings",
+   "Collections adapt: 3 wallpapers per row portrait, 4 landscape when unfolded",
+   "Wallpaper app by iSpazio S.r.l., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.8.1, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "wallpapers-central-cn",
+  "name_en": "Wallpapers Central",
+  "name_zh": null,
+  "aliases": [
+   "Wallpapers Central"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 2.8.1 (2026-11-05) China release notes carry the same 'Even better on iPhone Duo' section — screens redesigned around the fold, two-column profile/Account/Settings along the fold when unfolded, adaptive collection columns, and outer-screen continuity when closed.",
+  "adaptation_zh": "与美区为同一版本：2.8.1 版（2026-11-05）国区更新说明同为「更好用的 iPhone Duo」专节——界面围绕折痕重新设计，展开后主页/账户/设置沿折痕双栏，合集列数自适应，合上后外屏续接。",
+  "editorial_score": 4,
+  "highlights": [
+   "2.8.1 App Store (CN) release notes: '更好用的 iPhone Duo'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.8.1, 2026-11-05)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "jodel",
+  "name_en": "Jodel: Hyperlocal Community",
+  "name_zh": null,
+  "aliases": [
+   "Jodel"
+  ],
+  "store": "US",
+  "category": "social",
+  "status": "adapted",
+  "adaptation_en": "Version 7.198 (2026-11-06) release notes state 'Initial support for iPhone Duo', alongside the app's iOS 27 Liquid Glass update. No specific Duo layout detail is published.",
+  "adaptation_zh": "7.198 版（2026-11-06）更新说明写「Initial support for iPhone Duo（初步支持 iPhone Duo）」，同版适配 iOS 27 液态玻璃。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.198 App Store release notes: 'Initial support for iPhone Duo'",
+   "Hyperlocal community app by The Jodel Venture GmbH, free; no China-store listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.198, 2026-11-06)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "handspun-us",
+  "name_en": "Handspun",
+  "name_zh": null,
+  "aliases": [
+   "Handspun"
+  ],
+  "store": "US",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "Version 1.0.1 (2026-11-06) release notes describe the Duo layout: on iPhone Duo, a tape grows over both screens while you type, with Send and Hand Over sitting right under Play and Edit and Delete beside the songs. Handspun is a new app first released 2026-11-05.",
+  "adaptation_zh": "1.0.1 版（2026-11-06）更新说明写明 Duo 布局：在 iPhone Duo 上打字时磁带卡面横跨双屏展开，Send 与 Hand Over 位于 Play 正下方，Edit 与 Delete 在歌曲旁。Handspun 为 2026-11-05 上架的新 App。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.0.1 App Store release notes: on iPhone Duo 'a tape grows over both screens while you type'",
+   "Mixtape app by Anthony Farino, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.1, 2026-11-06)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "handspun-cn",
+  "name_en": "Handspun",
+  "name_zh": null,
+  "aliases": [
+   "Handspun"
+  ],
+  "store": "CN",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.0.1 (2026-11-06) carries the same Duo layout — a tape grows over both screens while typing, with Send and Hand Over under Play and Edit and Delete beside the songs.",
+  "adaptation_zh": "与美区为同一版本：1.0.1 版（2026-11-06）同为 Duo 双屏布局——打字时磁带横跨双屏，Send/Hand Over 在 Play 下方，Edit/Delete 在歌曲旁。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.0.1 App Store (CN) release notes include the iPhone Duo layout",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.1, 2026-11-06)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "kidooks-us",
+  "name_en": "Kidooks: Bedtime Stories",
+  "name_zh": null,
+  "aliases": [
+   "Kidooks"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 1.2 (2026-11-07) release notes describe the Duo layout: on iPhone Duo, 'Read to me' sits in the side bar when unfolded, with play/stop and reading speed, and Settings is two-pane on the unfolded Duo.",
+  "adaptation_zh": "1.2 版（2026-11-07）更新说明写明 Duo 布局：在 iPhone Duo 上展开后「Read to me」朗读控制进侧边栏（含播放/停止与语速），设置页为双栏。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.2 App Store release notes: 'Read to me' in the side bar when unfolded; two-pane Settings on iPhone Duo",
+   "Bedtime stories app by Badrinath G, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2, 2026-11-07)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "kidooks-cn",
+  "name_en": "Kidooks: Bedtime Stories",
+  "name_zh": null,
+  "aliases": [
+   "Kidooks"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.2 (2026-11-07) carries the same Duo layout — 'Read to me' in the side bar when unfolded with play/stop and reading speed, and two-pane Settings on the unfolded Duo.",
+  "adaptation_zh": "与美区为同一版本：1.2 版（2026-11-07）同为 Duo 布局——展开后朗读控制进侧边栏，设置页双栏。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.2 App Store (CN) release notes include the iPhone Duo layout",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2, 2026-11-07)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
  }
 ]

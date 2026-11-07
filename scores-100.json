@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06",
+ "generated": "2026-11-07",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -11,12 +11,12 @@
  },
  "distribution": {
   "100": 38,
-  "80": 68,
-  "60": 117,
+  "80": 74,
+  "60": 119,
   "40": 3,
   "20": 1
  },
- "count": 227,
+ "count": 235,
  "apps": [
   {
    "slug": "a-shell",
@@ -866,6 +866,28 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "handspun-cn",
+   "name_en": "Handspun",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "handspun-us",
+   "name_en": "Handspun",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "headspace",
    "name_en": "Headspace",
    "name_zh": null,
@@ -987,6 +1009,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "jodel",
+   "name_en": "Jodel: Hyperlocal Community",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "justalk",
    "name_en": "JusTalk - Video Chat & Calls",
    "name_zh": null,
@@ -1022,6 +1055,28 @@
   {
    "slug": "kiddrop-us",
    "name_en": "KidDrop: Kids Days Out",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "kidooks-cn",
+   "name_en": "Kidooks: Bedtime Stories",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "kidooks-us",
+   "name_en": "Kidooks: Bedtime Stories",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -1669,6 +1724,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "quran-majeed",
+   "name_en": "Quran Majeed – القران الكريم",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "raylie",
    "name_en": "Raylie",
    "name_zh": null,
@@ -2283,6 +2349,28 @@
    "score_100": 100,
    "band": "Excellent",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "wallpapers-central-cn",
+   "name_en": "Wallpapers Central",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "wallpapers-central-us",
+   "name_en": "Wallpapers Central",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
   },
   {
    "slug": "wanneng-bianshengqi-cn",
