@@ -5180,5 +5180,74 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-07"
+ },
+ {
+  "slug": "search-ace",
+  "name_en": "Search Ace - AI Duo Browser",
+  "name_zh": null,
+  "aliases": [
+   "Search Ace"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 24.7 (2026-11-07) release notes state 'Now supports iPhone Duo' for the first time: on iPhone Duo the browser can show and search up to four panes at the same time. Version 24.6 (2026-10-18) mentioned only iOS 27 / Split View, with no Duo wording.",
+  "adaptation_zh": "24.7 版（2026-11-07）更新说明首次写「Now supports iPhone Duo（现已支持 iPhone Duo）」：在 iPhone Duo 上可同时查看并搜索最多 4 个窗格。此前 24.6 版（2026-10-18）说明仅有 iOS 27 / 分屏、无 Duo 字样。",
+  "editorial_score": 4,
+  "highlights": [
+   "24.7 App Store release notes: 'Now supports iPhone Duo' — up to 4 panes shown and searched at once",
+   "AI browser by kimihiro kubota, free; no China-store listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (24.7, 2026-11-07)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-08"
+ },
+ {
+  "slug": "eyeline-prompter-us",
+  "name_en": "Eyeline Prompter",
+  "name_zh": null,
+  "aliases": [
+   "Eyeline Prompter"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 1.1 (2026-11-07) release notes lead with 'Made for iPhone Duo': the script is shown on the outer screen so you can read while recording with the rear 48MP camera, while the inner screen becomes a console with the camera view, the scrolling script and the controls side by side; large-screen layouts offer Side by side, Full screen and Card, and unfolded selfie mode does not crop the picture. The app itself first launched at 1.0 on 2026-11-06, so 1.1 is its first written Duo adaptation statement.",
+  "adaptation_zh": "1.1 版（2026-11-07）更新说明首行写「Made for iPhone Duo（为 iPhone Duo 而作）」：稿子显示在外屏、用后置 48MP 相机边录边读，内屏变控制台（相机画面、滚动稿子与控制并排），大屏布局可选 Side by side / Full screen / Card，展开自拍模式画面不裁切。该 App 1.0 于 2026-11-06 才上线，1.1 为首次书面 Duo 适配声明。",
+  "editorial_score": 5,
+  "highlights": [
+   "1.1 App Store release notes: 'Made for iPhone Duo' — outer-screen prompter with rear-camera recording, inner-screen console",
+   "Teleprompter app by PKJ Productions Inc LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1, 2026-11-07)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-08"
+ },
+ {
+  "slug": "eyeline-prompter-cn",
+  "name_en": "Eyeline Prompter",
+  "name_zh": null,
+  "aliases": [
+   "Eyeline Prompter"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.1 (2026-11-07) carries the same 'Made for iPhone Duo' layout — script on the outer screen for rear-camera recording, inner screen as a console with camera view, scrolling script and controls side by side, and Side by side / Full screen / Card large-screen layouts.",
+  "adaptation_zh": "与美区为同一版本：1.1 版（2026-11-07）同为「Made for iPhone Duo」布局——外屏提词、后置相机边录边读，内屏控制台并排，含 Side by side / Full screen / Card 大屏布局。",
+  "editorial_score": 5,
+  "highlights": [
+   "1.1 App Store (CN) release notes include the iPhone Duo layout",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1, 2026-11-07)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-08"
  }
 ]
