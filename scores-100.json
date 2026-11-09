@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -11,12 +11,12 @@
  },
  "distribution": {
   "100": 40,
-  "80": 75,
-  "60": 119,
+  "80": 77,
+  "60": 123,
   "40": 3,
   "20": 1
  },
- "count": 238,
+ "count": 244,
  "apps": [
   {
    "slug": "a-shell",
@@ -214,6 +214,17 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "bookbreath-cn",
+   "name_en": "Bookbreath",
+   "name_zh": "护眼电子书阅读器",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -665,6 +676,28 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "firefox-cn",
+   "name_en": "Firefox Fast & Private Browser",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "firefox-us",
+   "name_en": "Firefox Fast & Private Browser",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -1218,6 +1251,17 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "mengxiang-shijie-3-cn",
+   "name_en": null,
+   "name_zh": "梦想世界3",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "microsoft-excel",
    "name_en": "Microsoft Excel",
    "name_zh": null,
@@ -1600,6 +1644,28 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "pocket-mac-lab-cn",
+   "name_en": "Pocket Mac Lab",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "pocket-mac-lab-us",
+   "name_en": "Pocket Mac Lab",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {

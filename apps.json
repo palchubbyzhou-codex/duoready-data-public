@@ -5249,5 +5249,143 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-08"
+ },
+ {
+  "slug": "firefox-us",
+  "name_en": "Firefox Fast & Private Browser",
+  "name_zh": null,
+  "aliases": [
+   "Firefox"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 160.0 (2026-11-08) release notes state 'Improved support for iPhone Duo' — the app's first written Duo adaptation statement. Reporting on v160 the same day noted Duo-specific fixes including identifying the Duo by model, a Split View window UUID duplication fix, and reading-list safe-area fixes. Earlier builds (159.1, 2026-11-01) already filled the inner display via the iOS 27.1 SDK, per owner reports, but their release notes never mentioned Duo.",
+  "adaptation_zh": "160.0 版（2026-11-08）更新说明首次写明「Improved support for iPhone Duo（改进对 iPhone Duo 的支持）」，为该 App 首次书面适配声明；同日报道称 v160 修复多项 Duo 问题，包括按机型标识识别 Duo、Split View 窗口 UUID 重复、阅读列表安全区等。此前版本（159.1，2026-11-01）已凭 iOS 27.1 SDK 铺满内屏，但更新说明从未提 Duo。",
+  "editorial_score": 3,
+  "highlights": [
+   "160.0 App Store release notes: 'Improved support for iPhone Duo' — first written Duo statement",
+   "Browser by Mozilla, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (160.0, 2026-11-08)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-09"
+ },
+ {
+  "slug": "firefox-cn",
+  "name_en": "Firefox Fast & Private Browser",
+  "name_zh": null,
+  "aliases": [
+   "Firefox"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same app and build: version 160.0 (2026-11-08) carries the same 'Improved support for iPhone Duo' statement as the US listing.",
+  "adaptation_zh": "与美区为同一 App、同一版本：160.0 版（2026-11-08）同为「Improved support for iPhone Duo」声明。",
+  "editorial_score": 3,
+  "highlights": [
+   "160.0 App Store (CN) release notes include the iPhone Duo support statement",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (160.0, 2026-11-08)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-09"
+ },
+ {
+  "slug": "bookbreath-cn",
+  "name_en": "Bookbreath",
+  "name_zh": "护眼电子书阅读器",
+  "aliases": [
+   "Bookbreath"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 2026.11.8 (2026-11-07) release notes lead with the folded iPhone Duo layout: in the folded state the text is placed in the centre of the area outside the clock bar, with adjustable left and right margins. No China-store counterpart in the US store was reported; the watch report lists this as a China-store app only.",
+  "adaptation_zh": "2026.11.8 版（2026-11-07）更新说明首条写明折叠态 iPhone Duo 排版：文字放在时钟栏以外区域的正中，左右边距可调。",
+  "editorial_score": 3,
+  "highlights": [
+   "2026.11.8 App Store (CN) release notes: folded Duo layout with centred text outside the clock-bar area and adjustable margins",
+   "Eye-care ebook reader by JAEBAEK LEE, free; China-store listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2026.11.8, 2026-11-07)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-09"
+ },
+ {
+  "slug": "pocket-mac-lab-us",
+  "name_en": "Pocket Mac Lab",
+  "name_zh": null,
+  "aliases": [
+   "Pocket Mac Lab",
+   "Pocket Mac"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.0.2 (2026-11-08) release notes state the app now 'feels at home on iPhone, iPad and iPhone Duo', with a Duo-specific layout offering a full desktop view, a trackpad and a floating keyboard. The app first launched on 2026-11-01, so 1.0.2 is its first written Duo adaptation statement.",
+  "adaptation_zh": "1.0.2 版（2026-11-08）更新说明写明「Pocket Mac now feels at home on iPhone, iPad and iPhone Duo」，并有专属布局（完整桌面、触控板、悬浮键盘）。该 App 2026-11-01 才首发，1.0.2 为首次书面 Duo 声明。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.0.2 App Store release notes: at home on iPhone Duo, with full desktop, trackpad and floating-keyboard layout",
+   "Remote Mac app by Declann Tan, $5.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.2, 2026-11-08)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-09"
+ },
+ {
+  "slug": "pocket-mac-lab-cn",
+  "name_en": "Pocket Mac Lab",
+  "name_zh": null,
+  "aliases": [
+   "Pocket Mac Lab",
+   "Pocket Mac"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.0.2 (2026-11-08) carries the same iPhone Duo layout — full desktop, trackpad and floating keyboard.",
+  "adaptation_zh": "与美区为同一版本：1.0.2 版（2026-11-08）同为 iPhone Duo 专属布局——完整桌面、触控板、悬浮键盘。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.0.2 App Store (CN) release notes include the iPhone Duo layout",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.2, 2026-11-08)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-09"
+ },
+ {
+  "slug": "mengxiang-shijie-3-cn",
+  "name_en": null,
+  "name_zh": "梦想世界3",
+  "aliases": [],
+  "store": "CN",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "Version 2.1.76 (2026-11-09) release notes list, as the first item under version optimisations, 'adapted for iPhone Duo'. No specific Duo layout detail is published.",
+  "adaptation_zh": "2.1.76 版（2026-11-09）更新说明【版本优化】首条写「适配iPhone Duo」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.1.76 App Store (CN) release notes: '适配iPhone Duo' listed first under version optimisations",
+   "Game by Guangzhou Duoyi Network, free; China-store listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.1.76, 2026-11-09)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-09"
  }
 ]
