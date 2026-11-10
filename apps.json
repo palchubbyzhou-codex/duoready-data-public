@@ -5387,5 +5387,97 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-09"
+ },
+ {
+  "slug": "park-pulse-us",
+  "name_en": "Park Pulse: Ride Wait Times",
+  "name_zh": null,
+  "aliases": [
+   "Park Pulse"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.2 (2026-11-09) adds a Duo large-screen view: when unfolded flat in landscape, the ride wait-time list sits side by side with a large live park map, and tapping a ride or a map pin flies the map to it. The app first launched on 2026-11-03, so 1.2 is its first written Duo adaptation statement.",
+  "adaptation_zh": "1.2 版（2026-11-09）新增 Duo 大屏视图：平展开横放时，游乐设施等待列表与一张大实时园区地图并排，点设施或地图针，地图自动飞过去。该 App 2026-11-03 才首发，1.2 为首次书面 Duo 声明。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.2 App Store release notes: Duo large-screen view with wait list and live park map side by side",
+   "Theme-park wait-times app by Steven Fatone, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2, 2026-11-09)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-10"
+ },
+ {
+  "slug": "park-pulse-cn",
+  "name_en": "Park Pulse: Ride Wait Times",
+  "name_zh": null,
+  "aliases": [
+   "Park Pulse"
+  ],
+  "store": "CN",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 1.2 (2026-11-09) carries the same Duo large-screen view — ride wait list and live park map side by side when unfolded in landscape.",
+  "adaptation_zh": "与美区为同一版本：1.2 版（2026-11-09）同为 Duo 大屏视图——平展开横放时等待列表与实时园区地图并排。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.2 App Store (CN) release notes include the Duo large-screen view",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2, 2026-11-09)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-10"
+ },
+ {
+  "slug": "bookly",
+  "name_en": "Bookly: Book Tracker",
+  "name_zh": null,
+  "aliases": [
+   "Bookly"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 1.19.3 (2026-11-10) release notes state 'Bookly is now optimised for the iPhone Duo', recommending tent mode for reading. The notes appeared first on the China store while the US store still showed 1.19.2 at check time; 1.19.2 was previously only partly fitting (iOS 27 SDK, no Duo API), so 1.19.3 is the first explicit optimisation statement.",
+  "adaptation_zh": "1.19.3 版（2026-11-10）更新说明写「Bookly is now optimised for the iPhone Duo（Bookly 现已针对 iPhone Duo 优化）」，并建议用帐篷模式阅读；该版说明先在国区商店显示，美区核查时仍为 1.19.2。此前 1.19.2 仅为部分铺满（iOS 27 SDK、无 Duo API），本版为首次明确优化声明。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.19.3 App Store release notes: 'Bookly is now optimised for the iPhone Duo', tent mode recommended for reading",
+   "Book tracker by TwoDoor Games, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.19.3, 2026-11-10)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-10"
+ },
+ {
+  "slug": "jieya-zhuanjia-cn",
+  "name_en": null,
+  "name_zh": "解压专家",
+  "aliases": [
+   "DZIP"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 6.8.1 (2026-11-09) China-store release notes state the app is 'adapted for iPhone Duo'. The US store still showed the older 6.7.9 at check time, so this record is filed on the China listing. No specific Duo layout detail is published.",
+  "adaptation_zh": "6.8.1 版（2026-11-09）国区更新说明写「适配iPhone Duo」；美区商店核查时仍为旧版 6.7.9，故按国区报。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.8.1 App Store (CN) release notes: '适配iPhone Duo'",
+   "ZIP/RAR/7Z extractor by Little Sweet Technology Co., Ltd., free; China-store listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.8.1, 2026-11-09)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-10"
  }
 ]
