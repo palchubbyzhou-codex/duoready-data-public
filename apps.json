@@ -339,17 +339,19 @@
   "store": "US",
   "category": "games",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
-  "editorial_score": 3,
+  "adaptation_en": "Developer press release (2026-10-18) states the app supports iPhone Duo from launch day with a layout for every position: closed, open, half open like a book, and seated. Open on the larger display, screens use two columns (a recipe shows ingredients and steps side by side; shopping lists open next to the list of all lists). Half open, content splits on each side of the fold. Seated, the screen splits at the fold — in Cook Mode the upper half shows the current step, its video and ingredients, while the lower half holds the timer, step numbers and Previous/Next buttons; recipe videos follow the same split.",
+  "adaptation_zh": "开发者新闻稿（2026-10-18）称该 App 自发售日起支持 iPhone Duo，为每种姿态准备布局：合上、展开、半开如书、坐姿。展开在大屏上用双栏（食谱的食材与步骤并排、购物清单与清单列表并排）；半开时内容分列折痕两侧；坐姿时屏幕沿折痕分开——Cook Mode 上半屏显示当前步骤、视频与食材，下半屏放计时器、步骤号与上一步/下一步按钮，食谱视频同为此分屏。",
+  "editorial_score": 5,
   "highlights": [
-   "Featured in App Store 'Great Apps on iPhone Duo' collection as 'Plant-Based & Easy Cooking'"
+   "Developer press release: layouts for every Duo position — closed, open, half-open and seated",
+   "Seated Cook Mode splits at the fold: step/video/ingredients above, timer and step controls below",
+   "Plant-based cooking app by chef Eline Bonnin, free"
   ],
   "listed_on_site": true,
-  "source_name": "App Store: Great Apps on iPhone Duo",
-  "source_url": "https://apps.apple.com/us/story/id6820646846",
+  "source_name": "Eline's Table press release — Eline's Table Adapts to Every Position of iPhone Duo (2026-10-18)",
+  "source_url": "https://press.elinestable.com/press-releases/eline-s-table-adapts-to-every-position-of-iphone-duo",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-11"
  },
  {
   "slug": "essayist",
@@ -977,15 +979,18 @@
   "store": "US",
   "category": "utilities",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
-  "editorial_score": 3,
-  "highlights": [],
+  "adaptation_en": "The App Store description carries a 'MADE FOR IPHONE DUO' section: opening the phone becomes part of the surprise — open a little and the card follows, pause and it holds, close it and the moment folds away again. On other iPhones the same reveal is controlled by dragging or tapping. Version 1.0.1 release notes also list 'Bug Fixes for iPhone Duo'.",
+  "adaptation_zh": "App Store 介绍设有「MADE FOR IPHONE DUO」专节：打开手机本身成为惊喜的一部分——开一点，贺卡随之展开；停住，它就停住；合上，瞬间随之折起。在其他 iPhone 上，同一展开效果靠拖动或点按控制。1.0.1 版更新说明另有「Bug Fixes for iPhone Duo」。",
+  "editorial_score": 5,
+  "highlights": [
+   "App Store description: 'MADE FOR IPHONE DUO' — the card reveal follows how far you open the Duo, holds on pause and folds away on close",
+   "Greeting-card app by Paolo Villanueva, free with in-app purchases"
+  ],
   "listed_on_site": true,
-  "source_name": "Great Apps on iPhone Duo - App Store (US)",
-  "source_url": "https://apps.apple.com/us/story/id6820646846",
+  "source_name": "App Store product page description (Papelle, US)",
+  "source_url": "https://apps.apple.com/us/app/papelle/id6816144743",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-11"
  },
  {
   "slug": "paramount-plus",
@@ -5479,5 +5484,97 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-10"
+ },
+ {
+  "slug": "violibration-us",
+  "name_en": "Violibration",
+  "name_zh": null,
+  "aliases": [
+   "Violibration"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 3.0 (2026-11-11) release notes include a dedicated 'NEW: IPHONE DUO FOLD INTERACTION' section: folding the iPhone Duo activates vibration, the app is adapted for the foldable screen and interacts via the physical fold gesture; the same version adds a FEEL rhythm memory game and a new interface. The app first launched in April 2026 as a regular iPhone haptics exploration app, so 3.0 is its first written Duo adaptation statement.",
+  "adaptation_zh": "3.0 版（2026-11-11）更新说明专节写「NEW: IPHONE DUO FOLD INTERACTION」：折叠 iPhone Duo 即可激活振动、适配折叠屏、以实体折叠手势交互；同版新增 FEEL 节奏记忆游戏与全新界面。该 App 2026-04 首发、此前为普通 iPhone 触觉探索 App，3.0 为首次书面 Duo 声明。",
+  "editorial_score": 5,
+  "highlights": [
+   "3.0 App Store release notes: 'NEW: IPHONE DUO FOLD INTERACTION' — folding the Duo activates vibration via the physical fold gesture",
+   "Haptics app by Thomas Richardson, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.0, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-11"
+ },
+ {
+  "slug": "violibration-cn",
+  "name_en": "Violibration",
+  "name_zh": null,
+  "aliases": [
+   "Violibration"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.0 (2026-11-11) carries the same iPhone Duo fold interaction — folding the Duo activates vibration via the physical fold gesture.",
+  "adaptation_zh": "与美区为同一版本：3.0 版（2026-11-11）同为 iPhone Duo 折叠交互——折叠 Duo 即可激活振动、以实体折叠手势交互。",
+  "editorial_score": 5,
+  "highlights": [
+   "3.0 App Store (CN) release notes include the iPhone Duo fold interaction",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.0, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-11"
+ },
+ {
+  "slug": "autoscreen-us",
+  "name_en": "AutoScreen: Car Screen Mirror",
+  "name_zh": null,
+  "aliases": [
+   "AutoScreen"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 6.1.6 (2026-11-10) release notes add 'Now compatible with iPhone Duo'. The previous version 6.1.5 was built with the iOS 26.5 SDK and no Duo API; 6.1.6 was updated on 2026-11-11 to fill the inner screen (Fits status). No specific Duo layout detail beyond compatibility and full inner-screen use is published.",
+  "adaptation_zh": "6.1.6 版（2026-11-10）更新说明新增「Now compatible with iPhone Duo（现已兼容 iPhone Duo）」；上一版 6.1.5 为 iOS 26.5 SDK 构建、无 Duo API，本版状态于 2026-11-11 更新为铺满内屏。未公布兼容与铺满之外的具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.1.6 App Store release notes: 'Now compatible with iPhone Duo'",
+   "Car screen mirroring app by SORO SONS BILGI TEKNOLOJISI, free with in-app purchases"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.1.6, 2026-11-10)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-11"
+ },
+ {
+  "slug": "autoscreen-cn",
+  "name_en": "AutoScreen: Car Screen Mirror",
+  "name_zh": null,
+  "aliases": [
+   "AutoScreen"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 6.1.6 (2026-11-10) carries the same 'Now compatible with iPhone Duo' statement as the US listing.",
+  "adaptation_zh": "与美区为同一版本：6.1.6 版（2026-11-10）同为「Now compatible with iPhone Duo」声明。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.1.6 App Store (CN) release notes include the iPhone Duo compatibility statement",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.1.6, 2026-11-10)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-11"
  }
 ]
