@@ -1,0 +1,22 @@
+{
+ "us_apps": {
+  "total": 100,
+  "confirmed": 13,
+  "pct": 13.0
+ },
+ "us_games": {
+  "total": 100,
+  "confirmed": 0,
+  "pct": 0.0
+ },
+ "cn_apps": {
+  "total": 100,
+  "confirmed": 24,
+  "pct": 24.0
+ },
+ "cn_games": {
+  "total": 100,
+  "confirmed": 2,
+  "pct": 2.0
+ }
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,"PingFang SC","Helvetica Neue",Arial,sans-serif; background:#f4f4f2; color:#111; }
+  .wrap { width:1160px; margin:0 auto; padding:44px 48px 40px; background:#fff; }
+  .kicker { display:flex; justify-content:space-between; align-items:baseline; border-bottom:3px solid #111; padding-bottom:14px; }
+  .brand { font-size:26px; font-weight:800; letter-spacing:.5px; }
+  .brand span { color:#0a7d33; }
+  .date { font-size:14px; color:#666; }
+  .title { margin-top:30px; font-size:44px; font-weight:800; line-height:1.15; }
+  .subtitle { margin-top:10px; font-size:18px; color:#555; }
+  .hero { display:flex; align-items:flex-end; gap:28px; margin-top:34px; }
+  .hero-num { font-size:150px; font-weight:800; line-height:.95; letter-spacing:-3px; }
+  .hero-side { padding-bottom:16px; }
+  .hero-label { font-size:19px; font-weight:700; }
+  .hero-note { font-size:15px; color:#666; margin-top:6px; max-width:420px; line-height:1.5; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; margin-top:36px; }
+  .card { border:1.5px solid #111; border-radius:14px; padding:22px 24px 20px; }
+  .card-head { display:flex; justify-content:space-between; align-items:baseline; }
+  .card-name { font-size:20px; font-weight:700; }
+  .card-pct { font-size:46px; font-weight:800; }
+  .bar { height:12px; background:#e8e8e4; border-radius:6px; margin-top:14px; overflow:hidden; }
+  .bar-fill { height:100%; background:#111; border-radius:6px; }
+  .bar-fill.green { background:#0a7d33; }
+  .card-sub { font-size:14px; color:#666; margin-top:10px; }
+  .examples { margin-top:30px; font-size:15.5px; color:#333; line-height:1.9; }
+  .examples b { font-weight:700; }
+  .foot { margin-top:28px; border-top:1.5px solid #111; padding-top:14px; font-size:13.5px; color:#777; line-height:1.6; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="kicker">
+    <div class="brand">duo<span>ready</span></div>
+    <div class="date">ADAPTATION INDEX · 每日更新 · 2026-11-12</div>
+  </div>
+
+  <div class="title">iPhone Duo 适配指数</div>
+  <div class="subtitle">大家天天用的 App，到底有多少真的适配了大屏？我们每天盯着四个官方榜单，逐个核实。</div>
+
+  <div class="hero">
+    <div class="hero-num">9.8%</div>
+    <div class="hero-side">
+      <div class="hero-label">四榜综合 · 39 / 400 已确认适配</div>
+      <div class="hero-note">分母是 App Store 官方 Top 100 榜单（美区+国区 × 应用+游戏），名单公开、人人可复核——不像某些「10 万款已适配」的说法，连分母都不敢写。</div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <div class="card-head"><div class="card-name">🇺🇸 美区 · Top 100 应用</div><div class="card-pct">13%</div></div>
+      <div class="bar"><div class="bar-fill" style="width:13%"></div></div>
+      <div class="card-sub">13 / 100 已确认 · Claude、Google Maps、Shop 等已适配</div>
+    </div>
+    <div class="card">
+      <div class="card-head"><div class="card-name">🇺🇸 美区 · Top 100 游戏</div><div class="card-pct">0%</div></div>
+      <div class="bar"><div class="bar-fill" style="width:1.5%"></div></div>
+      <div class="card-sub">0 / 100 已确认 · 游戏厂商集体沉默，还没有一家公开宣布</div>
+    </div>
+    <div class="card">
+      <div class="card-head"><div class="card-name">🇨🇳 国区 · Top 100 应用</div><div class="card-pct" style="color:#0a7d33">24%</div></div>
+      <div class="bar"><div class="bar-fill green" style="width:24%"></div></div>
+      <div class="card-sub">24 / 100 已确认 · 微信、QQ、抖音、淘宝、支付宝、高德都在列</div>
+    </div>
+    <div class="card">
+      <div class="card-head"><div class="card-name">🇨🇳 国区 · Top 100 游戏</div><div class="card-pct">2%</div></div>
+      <div class="bar"><div class="bar-fill" style="width:2%"></div></div>
+      <div class="card-sub">2 / 100 已确认 · 刚起步</div>
+    </div>
+  </div>
+
+  <div class="examples">
+    <b>怎么核实的：</b>只数「有公开证据」的适配——开发者在更新说明或 App 介绍里明确写了适配 iPhone Duo，或已收录进 DuoReady 核实目录。没公开宣布的，哪怕实际能铺满屏，也先算「未确认」，等证据出现再改。
+  </div>
+
+  <div class="foot">
+    数据来源：Apple App Store 官方榜单（2026-11-12）· DuoReady 每日核查 · getduoready.com/adaptation-index
+  </div>
+</div>
+</body>
+</html>

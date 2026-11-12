@@ -1,0 +1,4010 @@
+{
+ "us_apps": [
+  {
+   "rank": 1,
+   "track_id": "6741796873",
+   "name": "TikTok Pro - Events",
+   "seller": "TIKTOK PTE. LTD.",
+   "version": "47.7.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 2,
+   "track_id": "6760173601",
+   "name": "Muse from Meta",
+   "seller": "Meta Platforms, Inc.",
+   "version": "15.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 3,
+   "track_id": "632064380",
+   "name": "Vinted: Pre-loved marketplace",
+   "seller": "Vinted Limited",
+   "version": "26.44.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 4,
+   "track_id": "6448311069",
+   "name": "ChatGPT",
+   "seller": "OpenAI OpCo, LLC",
+   "version": "1.2026.307",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 5,
+   "track_id": "6473753684",
+   "name": "Claude by Anthropic",
+   "seller": "Anthropic PBC",
+   "version": "1.261111.19",
+   "version_date": "2026-11-12",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 6,
+   "track_id": "6754134922",
+   "name": "PineDrama - Short Dramas",
+   "seller": "TIKTOK PTE. LTD.",
+   "version": "47.7.0",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 7,
+   "track_id": "6477489729",
+   "name": "Google Gemini",
+   "seller": "Google LLC",
+   "version": "1.2026.4470202",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 8,
+   "track_id": "1605170923",
+   "name": "GoWish - Your Digital Wishlist",
+   "seller": "Onskeskyen ApS",
+   "version": "9.2.9",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 9,
+   "track_id": "1632713844",
+   "name": "Kalshi: Trade Sports & Events",
+   "seller": "KALSHI INC.",
+   "version": "9.10.36",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 10,
+   "track_id": "407558537",
+   "name": "Capital One Mobile",
+   "seller": "Capital One Services, LLC",
+   "version": "6.56.1",
+   "version_date": "2026-10-30",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 11,
+   "track_id": "338137227",
+   "name": "Walmart: Shopping & Savings",
+   "seller": "Walmart",
+   "version": "26.42.5",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 12,
+   "track_id": "6446901002",
+   "name": "Threads",
+   "seller": "Instagram, Inc.",
+   "version": "455.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 13,
+   "track_id": "1500855883",
+   "name": "CapCut: Photo & Video Editor",
+   "seller": "BYTEDANCE PTE. LTD.",
+   "version": "20.1.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 14,
+   "track_id": "310633997",
+   "name": "WhatsApp",
+   "seller": "WhatsApp Inc.",
+   "version": "26.44.74",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 15,
+   "track_id": "1641486558",
+   "name": "Temu: Shop Like a Billionaire",
+   "seller": "Whaleco Inc.",
+   "version": "4.97.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 16,
+   "track_id": "518684914",
+   "name": "Depop - Buy & Sell Clothes",
+   "seller": "Depop Limited",
+   "version": "2.420",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 17,
+   "track_id": "284815942",
+   "name": "Google",
+   "seller": "Google LLC",
+   "version": "446.3",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 18,
+   "track_id": "1488269261",
+   "name": "Whatnot: Shop, Sell, Connect",
+   "seller": "Whatnot Inc.",
+   "version": "26.46.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 19,
+   "track_id": "422689480",
+   "name": "Gmail - Email by Google",
+   "seller": "Google LLC",
+   "version": "6.0.261102",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 20,
+   "track_id": "436672029",
+   "name": "AliExpress - Shopping App",
+   "seller": "Alibaba.com Singapore E-Commerce Private Limited",
+   "version": "8.180.1",
+   "version_date": "2026-10-30",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 21,
+   "track_id": "835599320",
+   "name": "TikTok - Videos, Shop & LIVE",
+   "seller": "TIKTOK PTE. LTD.",
+   "version": "47.7.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 22,
+   "track_id": "686449807",
+   "name": "Telegram Messenger",
+   "seller": "Telegram FZ-LLC",
+   "version": "13.2.1",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 23,
+   "track_id": "6768593043",
+   "name": "BlinkDrama - Short Dramas",
+   "seller": "Atlas Ventures Culture & Technology Limited",
+   "version": "3.7.2",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 24,
+   "track_id": "6742024490",
+   "name": "Reco Social",
+   "seller": "Reco Social, Inc.",
+   "version": "1.8.8",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 25,
+   "track_id": "6745274862",
+   "name": "DealSeek: Coupons & Discounts",
+   "seller": "DealSeek LLC",
+   "version": "1.64.0",
+   "version_date": "2026-10-29",
+   "status": "confirmed",
+   "evidence": "duoready_db+store_text"
+  },
+  {
+   "rank": 26,
+   "track_id": "589653414",
+   "name": "7-Eleven: Rewards & Shopping",
+   "seller": "7-Eleven, Inc.",
+   "version": "4.2610.0",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 27,
+   "track_id": "1223471316",
+   "name": "Shop: Track, Pay, Discover",
+   "seller": "Shopify Inc.",
+   "version": "3.19.0",
+   "version_date": "2026-11-11",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 28,
+   "track_id": "333903271",
+   "name": "X",
+   "seller": "X Corp.",
+   "version": "12.43",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 29,
+   "track_id": "585027354",
+   "name": "Google Maps",
+   "seller": "Google LLC",
+   "version": "26.45.1",
+   "version_date": "2026-11-06",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 30,
+   "track_id": "983156458",
+   "name": "Microsoft Authenticator",
+   "seller": "Microsoft Corporation",
+   "version": "6.8.58",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 31,
+   "track_id": "297606951",
+   "name": "Amazon Shopping",
+   "seller": "AMZN Mobile LLC",
+   "version": "27.20.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 32,
+   "track_id": "284882215",
+   "name": "Facebook",
+   "seller": "Meta Platforms, Inc.",
+   "version": "587.0.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 33,
+   "track_id": "6472232952",
+   "name": "Koupon: Promo Codes & Deals",
+   "seller": "Student Outlets Inc",
+   "version": "3.1.5",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 34,
+   "track_id": "6751921248",
+   "name": "Rips by Triumph",
+   "seller": "Triumph Arcade, LLC",
+   "version": "1.53.0",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 35,
+   "track_id": "389801252",
+   "name": "Instagram",
+   "seller": "Instagram, Inc.",
+   "version": "455.0.0",
+   "version_date": "2026-11-09",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 36,
+   "track_id": "535886823",
+   "name": "Google Chrome",
+   "seller": "Google LLC",
+   "version": "158.0.8127.32",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 37,
+   "track_id": "6670324846",
+   "name": "Grok",
+   "seller": "X Corp.",
+   "version": "1.4.65",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 38,
+   "track_id": "1113153706",
+   "name": "Microsoft Teams",
+   "seller": "Microsoft Corporation",
+   "version": "8.20.0",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 39,
+   "track_id": "1089294040",
+   "name": "Capital One Shopping: Save Now",
+   "seller": "Wikibuy, LLC",
+   "version": "2.163.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 40,
+   "track_id": "6448849666",
+   "name": "Bible Chat: Daily Devotional",
+   "seller": "Book Vitals Inc.",
+   "version": "5.1.5",
+   "version_date": "2026-10-27",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 41,
+   "track_id": "324684580",
+   "name": "Spotify: Music and Podcasts",
+   "seller": "Spotify",
+   "version": "9.1.98",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 42,
+   "track_id": "719972451",
+   "name": "DoorDash: Food, Grocery, More",
+   "seller": "DoorDash, Inc.",
+   "version": "8.44.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 43,
+   "track_id": "544007664",
+   "name": "YouTube",
+   "seller": "Google LLC",
+   "version": "21.45.4",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 44,
+   "track_id": "283646709",
+   "name": "PayPal - Pay, Send, Save",
+   "seller": "PayPal, Inc.",
+   "version": "10.11.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 45,
+   "track_id": "309735670",
+   "name": "Indeed Job Search",
+   "seller": "Indeed Inc.",
+   "version": "334.0.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 46,
+   "track_id": "1631584032",
+   "name": "PLAYFUL REWARDS: Earn Rewards",
+   "seller": "Playful Rewards, LLC",
+   "version": "3.2.3",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 47,
+   "track_id": "1662982304",
+   "name": "Partiful: Party Invite Maker",
+   "seller": "Partiful Co.",
+   "version": "3.11.06",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 48,
+   "track_id": "1673567402",
+   "name": "Freecash - Get Paid Real Money",
+   "seller": "Almedia Ops UK LTD",
+   "version": "1.273.0",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 49,
+   "track_id": "1636235979",
+   "name": "ReelShort - Stream Drama & TV",
+   "seller": "New Leaf Publishing, Inc.",
+   "version": "4.2.00",
+   "version_date": "2026-09-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 50,
+   "track_id": "985746746",
+   "name": "Discord - Talk, Play, Hang Out",
+   "seller": "Discord Inc.",
+   "version": "353.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 51,
+   "track_id": "6447582581",
+   "name": "Netflix Game Controller",
+   "seller": "Netflix, Inc.",
+   "version": "3.32",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 52,
+   "track_id": "429047995",
+   "name": "Pinterest",
+   "seller": "Pinterest, Inc.",
+   "version": "14.43",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 53,
+   "track_id": "711923939",
+   "name": "Cash App",
+   "seller": "Block, Inc.",
+   "version": "5.77.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 54,
+   "track_id": "1064216828",
+   "name": "Reddit",
+   "seller": "REDDIT, INC.",
+   "version": "2026.45.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 55,
+   "track_id": "6738967378",
+   "name": "Edits: Video Editor",
+   "seller": "Instagram, Inc.",
+   "version": "455.0",
+   "version_date": "2026-11-09",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 56,
+   "track_id": "6504849169",
+   "name": "NetShort - Popular Dramas & TV",
+   "seller": "NETSTORY PTE. LTD.",
+   "version": "2.3.8",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 57,
+   "track_id": "384830320",
+   "name": "Life360: Family Safety & GPS",
+   "seller": "Life360",
+   "version": "26.43.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 58,
+   "track_id": "922103212",
+   "name": "McDonald's",
+   "seller": "McDonalds USA LLC",
+   "version": "26.72.5",
+   "version_date": "2026-10-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 59,
+   "track_id": "1510944943",
+   "name": "Cleanup: Phone Storage Cleaner",
+   "seller": "DEEP FLOW SOFTWARE SERVICES - FZCO",
+   "version": "6.26.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 60,
+   "track_id": "368677368",
+   "name": "Uber - Rides, Eats, Hotels",
+   "seller": "Uber Technologies, Inc.",
+   "version": "3.747.10000",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 61,
+   "track_id": "500003565",
+   "name": "Ticketmaster－Buy, Sell Tickets",
+   "seller": "Ticketmaster L.L.C",
+   "version": "304.0",
+   "version_date": "2026-10-27",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 62,
+   "track_id": "545519333",
+   "name": "Amazon Prime Video",
+   "seller": "AMZN Mobile LLC",
+   "version": "10.156.2",
+   "version_date": "2026-11-10",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 63,
+   "track_id": "382952264",
+   "name": "MyChart",
+   "seller": "Epic Systems Corporation",
+   "version": "11.9.5",
+   "version_date": "2026-10-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 64,
+   "track_id": "447188370",
+   "name": "Snapchat",
+   "seller": "Snap, Inc.",
+   "version": "14.32.0.53",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 65,
+   "track_id": "6768240254",
+   "name": "FreeDrama: Watch Short Stories",
+   "seller": "Kuku Technologies Limited",
+   "version": "3.8.9",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 66,
+   "track_id": "297430070",
+   "name": "Target: Shop. Style. Save.",
+   "seller": "Target",
+   "version": "2026.44.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 67,
+   "track_id": "507874739",
+   "name": "Google Drive",
+   "seller": "Google LLC",
+   "version": "4.2645.41000",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 68,
+   "track_id": "897446215",
+   "name": "Canva AI Photo & Video Editor",
+   "seller": "Canva Pty Ltd",
+   "version": "4.234.0",
+   "version_date": "2026-11-04",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 69,
+   "track_id": "842842640",
+   "name": "Google Docs",
+   "seller": "Google LLC",
+   "version": "1.2026.45104",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 70,
+   "track_id": "351727428",
+   "name": "Venmo",
+   "seller": "The Delancey Corporation, LLC",
+   "version": "26.26.0",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 71,
+   "track_id": "570060128",
+   "name": "Duolingo: Learn Languages",
+   "seller": "Duolingo, Inc",
+   "version": "7.148.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 72,
+   "track_id": "546505307",
+   "name": "Zoom Workplace",
+   "seller": "Zoom Communications, Inc.",
+   "version": "7.2.5",
+   "version_date": "2026-11-01",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 73,
+   "track_id": "1111876388",
+   "name": "T-Life",
+   "seller": "T-Mobile USA, Inc.",
+   "version": "12.4.0",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 74,
+   "track_id": "1494523953",
+   "name": "OnePay – Mobile Banking",
+   "seller": "One Finance, Inc.",
+   "version": "5.101.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 75,
+   "track_id": "1446075923",
+   "name": "Disney+",
+   "seller": "Disney Electronic Content, Inc.",
+   "version": "5.21.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 76,
+   "track_id": "535509415",
+   "name": "Costco",
+   "seller": "Costco Wholesale Corporation",
+   "version": "26.10.7",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 77,
+   "track_id": "401626263",
+   "name": "Airbnb",
+   "seller": "Airbnb, Inc.",
+   "version": "26.46",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 78,
+   "track_id": "1450175505",
+   "name": "Giftful - Wishlist & Registry",
+   "seller": "Giftful LLC",
+   "version": "3.3.0",
+   "version_date": "2026-11-09",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 79,
+   "track_id": "6445905219",
+   "name": "DramaBox - Stream Drama Shorts",
+   "seller": "STORYMATRIX PTE. LTD",
+   "version": "7.1.0",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 80,
+   "track_id": "363590051",
+   "name": "Netflix",
+   "seller": "Netflix, Inc.",
+   "version": "26.5.0",
+   "version_date": "2026-11-09",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 81,
+   "track_id": "6480136315",
+   "name": "Suno - AI Songs, Music, Lyrics",
+   "seller": "Suno Inc.",
+   "version": "1.97.2",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 82,
+   "track_id": "842849113",
+   "name": "Google Sheets",
+   "seller": "Google LLC",
+   "version": "1.2026.45103",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 83,
+   "track_id": "288429040",
+   "name": "LinkedIn: Community & Network",
+   "seller": "LinkedIn Corporation",
+   "version": "9.1.588",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 84,
+   "track_id": "482066631",
+   "name": "Roku Remote (Official)",
+   "seller": "ROKU INC",
+   "version": "14.2.0",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 85,
+   "track_id": "1115120118",
+   "name": "Klarna: Smarter everyday money",
+   "seller": "Klarna Bank AB",
+   "version": "26.45.331",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 86,
+   "track_id": "342792281",
+   "name": "Old Navy: Shop for New Clothes",
+   "seller": "Gap Inc.",
+   "version": "19.1.0",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 87,
+   "track_id": "6756442328",
+   "name": "Instants, an Instagram app",
+   "seller": "Instagram, Inc.",
+   "version": "455.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 88,
+   "track_id": "878577184",
+   "name": "SHEIN - Shopping Online",
+   "seller": "ROADGET BUSINESS PTE. LTD.",
+   "version": "15.6.2",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 89,
+   "track_id": "6794501026",
+   "name": "Grok Bot",
+   "seller": "X Corp.",
+   "version": "1.25.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 90,
+   "track_id": "282614216",
+   "name": "eBay online shopping & selling",
+   "seller": "eBay Inc.",
+   "version": "6.281.0",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 91,
+   "track_id": "1058959277",
+   "name": "Uber Eats: Food & Groceries",
+   "seller": "Uber Technologies, Inc.",
+   "version": "6.348.10001",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 92,
+   "track_id": "6746114452",
+   "name": "CrimeRadar Dispatch Audio",
+   "seller": "Scoopz Inc.",
+   "version": "26.46.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 93,
+   "track_id": "314855255",
+   "name": "Best Buy: Tech Deals & Savings",
+   "seller": "Best Buy Co., Inc.",
+   "version": "26.11.10",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 94,
+   "track_id": "6762023973",
+   "name": "7 Brew Coffee",
+   "seller": "Brew Culture, LLC",
+   "version": "1.3.0",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 95,
+   "track_id": "388497605",
+   "name": "Google Authenticator",
+   "seller": "Google LLC",
+   "version": "5.2.0",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 96,
+   "track_id": "886445756",
+   "name": "Tubi: Movies & Live TV",
+   "seller": "Tubi, Inc",
+   "version": "10.45.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 97,
+   "track_id": "586447913",
+   "name": "Microsoft Word",
+   "seller": "Microsoft Corporation",
+   "version": "2.115.3",
+   "version_date": "2026-11-09",
+   "status": "confirmed",
+   "evidence": "duoready_db+store_text"
+  },
+  {
+   "rank": 98,
+   "track_id": "1054033219",
+   "name": "VIZIO Remote (Official)",
+   "seller": "VIZIO, Inc.",
+   "version": "5.4.0",
+   "version_date": "2026-10-23",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 99,
+   "track_id": "1018368216",
+   "name": "Cantina: AI Video & Characters",
+   "seller": "Cantina, Inc",
+   "version": "7.23.0",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 100,
+   "track_id": "6752552771",
+   "name": "GovAuctions.com - Shop Surplus",
+   "seller": "Auctions LLC",
+   "version": "7.36.5",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  }
+ ],
+ "us_games": [
+  {
+   "rank": 1,
+   "track_id": "6772922295",
+   "name": "Transformers: Eternal War",
+   "seller": "HOOLAI GAME LIMITED",
+   "version": "1.2.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 2,
+   "track_id": "6761760135",
+   "name": "Meowdoku!",
+   "seller": "OAKEVER GAMES PTE. LTD.",
+   "version": "1.24.0",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 3,
+   "track_id": "6499209744",
+   "name": "Magic Sort!",
+   "seller": "GRAND GAMES OYUN VE YAZILIM ANONIM SIRKETI",
+   "version": "34.25",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 4,
+   "track_id": "6752672568",
+   "name": "Block Out! - Color Sort Puzzle",
+   "seller": "GRAND GAMES OYUN VE YAZILIM ANONIM SIRKETI",
+   "version": "1292",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 5,
+   "track_id": "6483539426",
+   "name": "Fortnite",
+   "seller": "Epic Games Sweden AB",
+   "version": "43.10",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 6,
+   "track_id": "6746743297",
+   "name": "Bus Fever Party!",
+   "seller": "Faith Mobile Limited",
+   "version": "1.3.6",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 7,
+   "track_id": "6759763476",
+   "name": "Bus Traffic Fever!",
+   "seller": "GOODROID,Inc.",
+   "version": "1.8.1",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 8,
+   "track_id": "329218549",
+   "name": "Chess.com - Play and Learn",
+   "seller": "Chess.com, LLC",
+   "version": "4.10.38",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 9,
+   "track_id": "1617391485",
+   "name": "Block Blast！",
+   "seller": "ARETIS LIMITED",
+   "version": "7.6.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 10,
+   "track_id": "431946152",
+   "name": "Roblox",
+   "seller": "Roblox Corporation",
+   "version": "2.747.1480",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 11,
+   "track_id": "638689075",
+   "name": "Township",
+   "seller": "PLR Worldwide Sales Limited",
+   "version": "40.0.0",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 12,
+   "track_id": "6756482832",
+   "name": "Brain Puzzle 3: Crazy Mind",
+   "seller": "Guangzhou SmallStep Information Technology Co., Ltd",
+   "version": "1.1.3",
+   "version_date": "2026-10-14",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 13,
+   "track_id": "6780195090",
+   "name": "82-0.com",
+   "seller": "Vaulty Studios Inc.",
+   "version": "1.10.10",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 14,
+   "track_id": "6758326278",
+   "name": "Amaze GO!™",
+   "seller": "OAKEVER GAMES PTE. LTD.",
+   "version": "1.38.0",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 15,
+   "track_id": "6783815362",
+   "name": "Word Tiles - Relaxing Puzzle",
+   "seller": "Agave Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+   "version": "1.8.3",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 16,
+   "track_id": "6475757306",
+   "name": "Disney Solitaire",
+   "seller": "SuperPlay LTD",
+   "version": "1.27.0",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 17,
+   "track_id": "6760325543",
+   "name": "CubeAway - 3DPuzzle",
+   "seller": "GOODROID,Inc.",
+   "version": "1.7.0",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 18,
+   "track_id": "6468921495",
+   "name": "Vita Mahjong",
+   "seller": "VITA STUDIO PTE. LTD.",
+   "version": "3.46.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 19,
+   "track_id": "6779167923",
+   "name": "Colony Flow!",
+   "seller": "ABI GLOBAL LTD.",
+   "version": "1.1.56",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 20,
+   "track_id": "1623318294",
+   "name": "Gossip Harbor®: Merge & Story",
+   "seller": "Microfun Limited",
+   "version": "4.12.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 21,
+   "track_id": "6757140488",
+   "name": "Sand Blocks: Drop Puzzle",
+   "seller": "Rollic Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+   "version": "1.1.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 22,
+   "track_id": "6793924927",
+   "name": "Rotate Rings",
+   "seller": "HURELAX PTE. LTD.",
+   "version": "1.0.8",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 23,
+   "track_id": "6766297786",
+   "name": "Merge Bubbles - Word Game",
+   "seller": "Cheer Games LTD",
+   "version": "1000.8.0",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 24,
+   "track_id": "6802383216",
+   "name": "Parking Loop",
+   "seller": "Loop Games Oyun Teknolojileri Anonim Sirketi",
+   "version": "567",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 25,
+   "track_id": "6471045672",
+   "name": "Tasty Travels: Merge Game",
+   "seller": "Century Games Pte. Ltd.",
+   "version": "68.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 26,
+   "track_id": "6755495631",
+   "name": "Packz",
+   "seller": "Packz Inc.",
+   "version": "1.4.3",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 27,
+   "track_id": "6742809194",
+   "name": "Warline: Sniper Squad",
+   "seller": "Powerfantasy HK Limited",
+   "version": "1.4.04",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 28,
+   "track_id": "6746437378",
+   "name": "Tang Luck: Casino Slots",
+   "seller": "spinshift limited",
+   "version": "1.0.72",
+   "version_date": "2026-10-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 29,
+   "track_id": "1621328561",
+   "name": "MONOPOLY GO!",
+   "seller": "Scopely, Inc.",
+   "version": "1.81.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 30,
+   "track_id": "1608987929",
+   "name": "Triumph Arcade",
+   "seller": "Triumph Arcade, LLC",
+   "version": "2.133.1",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 31,
+   "track_id": "1443446174",
+   "name": "Magic Tiles 3™: Piano Game",
+   "seller": "Amanotes Pte Ltd",
+   "version": "13.105.101",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 32,
+   "track_id": "6443575749",
+   "name": "Whiteout Survival",
+   "seller": "Century Games Pte. Ltd.",
+   "version": "1.34.16",
+   "version_date": "2026-10-20",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 33,
+   "track_id": "1105855019",
+   "name": "Gardenscapes",
+   "seller": "PLR Worldwide Sales Limited",
+   "version": "10.0.6",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 34,
+   "track_id": "6747492600",
+   "name": "Mahjong Blast",
+   "seller": "HURELAX PTE. LTD.",
+   "version": "2.2.2",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 35,
+   "track_id": "6767091927",
+   "name": "Jigsaw Drop: Solitaire Puzzle",
+   "seller": "Chengdu Runyou Technology Co., Ltd",
+   "version": "1.1.5",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 36,
+   "track_id": "6752886832",
+   "name": "Hotel Legacy: Merge Game",
+   "seller": "Century Games Innovation Pte. Ltd.",
+   "version": "19.0",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 37,
+   "track_id": "1287282214",
+   "name": "Call of Duty®: Mobile",
+   "seller": "Activision Publishing, Inc.",
+   "version": "1.0.59",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 38,
+   "track_id": "6748950306",
+   "name": "Solitaire Associations Journey",
+   "seller": "Hitapps Games LTD",
+   "version": "1.26.2",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 39,
+   "track_id": "6760530627",
+   "name": "Mahjong Clash: Win Real Cash",
+   "seller": "Aviagames Inc.",
+   "version": "1.2.5",
+   "version_date": "2026-10-27",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 40,
+   "track_id": "1423046460",
+   "name": "Paper.io 2",
+   "seller": "Voodoo",
+   "version": "4.41.0",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 41,
+   "track_id": "6771681639",
+   "name": "Fish Sort Puzzle - Bubble Jam",
+   "seller": "SUPLIFE PTE. LTD.",
+   "version": "2.2",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 42,
+   "track_id": "6810886970",
+   "name": "Just a Rock",
+   "seller": "Heseri Games Inc",
+   "version": "1.3.9",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 43,
+   "track_id": "512939461",
+   "name": "Subway Surfers",
+   "seller": "Sybo Games ApS",
+   "version": "3.71.10",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 44,
+   "track_id": "6786206777",
+   "name": "Cube Smash - Puzzle Game",
+   "seller": "Combo Yazilim Anonim Sirketi",
+   "version": "1.18.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 45,
+   "track_id": "6755455500",
+   "name": "Hollywood Merge",
+   "seller": "VoyagerOne Distribution Limited",
+   "version": "0.0.975",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 46,
+   "track_id": "6744975195",
+   "name": "Sled Surfers",
+   "seller": "CRAZY LABS BY TABTALE , G.P.",
+   "version": "1.14.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 47,
+   "track_id": "553834731",
+   "name": "Candy Crush Saga",
+   "seller": "King.com Limited",
+   "version": "1.340.2.1",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 48,
+   "track_id": "6760377931",
+   "name": "Mahjong Rumble: Win Real Cash",
+   "seller": "Aviagames Inc.",
+   "version": "1.10.38",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 49,
+   "track_id": "6739554056",
+   "name": "Kingshot",
+   "seller": "Century Games Pte. Ltd.",
+   "version": "1.14.16",
+   "version_date": "2026-10-19",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 50,
+   "track_id": "6769314786",
+   "name": "Food Hunt: Pixel Puzzle",
+   "seller": "FUNFINITY PTE. LTD",
+   "version": "1.36",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 51,
+   "track_id": "1562817072",
+   "name": "Mob Control",
+   "seller": "Voodoo",
+   "version": "3.25.2",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 52,
+   "track_id": "543186831",
+   "name": "8 Ball Pool™",
+   "seller": "Miniclip SA",
+   "version": "56.35.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 53,
+   "track_id": "1484468651",
+   "name": "Dice Dreams™",
+   "seller": "SuperPlay LTD",
+   "version": "1.115.0",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 54,
+   "track_id": "1193508329",
+   "name": "Sudoku.com - Number Games",
+   "seller": "Easybrain Ltd",
+   "version": "7.22.0",
+   "version_date": "2026-10-16",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 55,
+   "track_id": "1606549505",
+   "name": "Royal Kingdom",
+   "seller": "Dream Games Dijital Teknolojiler A.S.",
+   "version": "34771",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 56,
+   "track_id": "6754464806",
+   "name": "Car Evolve",
+   "seller": "Heseri Games Inc",
+   "version": "1.5.15",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 57,
+   "track_id": "6756185760",
+   "name": "Search It - Hidden Objects",
+   "seller": "LEAP BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+   "version": "1.4.13",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 58,
+   "track_id": "6768253096",
+   "name": "Pullz",
+   "seller": "Delta Two Inc",
+   "version": "3.92.4",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 59,
+   "track_id": "6780891673",
+   "name": "Royal Smash! - Physics Puzzle",
+   "seller": "CYPHER GAMES YAZILIM PAZARLAMA ANONIM SIRKETI",
+   "version": "1.19.1",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 60,
+   "track_id": "6755183085",
+   "name": "Yarn Loop: Knit Puzzle",
+   "seller": "Combo Yazilim Anonim Sirketi",
+   "version": "1.59.0",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 61,
+   "track_id": "6474133872",
+   "name": "Find Hidden Objects - Spot It!",
+   "seller": "YOLO OYUN YAZILIM VE PAZARLAMA ANONIM SIRKETI",
+   "version": "3.51",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 62,
+   "track_id": "6761896313",
+   "name": "Victory Blast Casino",
+   "seller": "Luma Field Inc",
+   "version": "1.5.0",
+   "version_date": "2026-10-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 63,
+   "track_id": "6498920694",
+   "name": "We Are Cooking",
+   "seller": "MATRYOSHKA GAMES CY LTD",
+   "version": "0.18.0",
+   "version_date": "2026-10-22",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 64,
+   "track_id": "6746328263",
+   "name": "Castle Busters",
+   "seller": "Voodoo",
+   "version": "1.22.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 65,
+   "track_id": "307569751",
+   "name": "NYT Games: Wordle & Crossword",
+   "seller": "The New York Times Company",
+   "version": "6.50.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 66,
+   "track_id": "6757154335",
+   "name": "Cube Land Puzzle Game",
+   "seller": "ROTATELAB YAZILIM VE BILISIM TEKNOLOJILERI SANAYI TICARET ANONIM SIRKETI",
+   "version": "0.6.3",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 67,
+   "track_id": "6767834940",
+   "name": "Top Lords",
+   "seller": "GAME SPARK PTE. LTD.",
+   "version": "1.0.45",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 68,
+   "track_id": "6796547048",
+   "name": "Cutie Sort - Magic Color Fever",
+   "seller": "LADANETA PTE. LTD.",
+   "version": "1.4",
+   "version_date": "2026-10-27",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 69,
+   "track_id": "1446254576",
+   "name": "Solitaire Cash: Win Real Money",
+   "seller": "Papaya Gaming LTD",
+   "version": "14.5.0",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 70,
+   "track_id": "6797929772",
+   "name": "All Dubs",
+   "seller": "Vaulty Studios Inc.",
+   "version": "1.10.10",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 71,
+   "track_id": "6748084174",
+   "name": "Smash Fest!",
+   "seller": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+   "version": "851",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 72,
+   "track_id": "6748397500",
+   "name": "Arrows – Puzzle Escape",
+   "seller": "Lessmore GmbH",
+   "version": "0.24.0",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 73,
+   "track_id": "406889139",
+   "name": "Coin Master",
+   "seller": "Moon Active LTD",
+   "version": "3.5.2781",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 74,
+   "track_id": "6744304405",
+   "name": "Cider Casino - Real Money",
+   "seller": "Mystic Mirror Studio Limited",
+   "version": "1.0.9",
+   "version_date": "2026-09-01",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 75,
+   "track_id": "6768564100",
+   "name": "Bruno Reels Casino",
+   "seller": "EverPrime Futures Inc.",
+   "version": "1.4.1",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 76,
+   "track_id": "6446197181",
+   "name": "Glow Fashion Idol",
+   "seller": "CRAZY LABS BY TABTALE , G.P.",
+   "version": "1.2.5",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 77,
+   "track_id": "6760998152",
+   "name": "Family Farm Merge",
+   "seller": "Century Games Innovation Pte. Ltd.",
+   "version": "15.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 78,
+   "track_id": "6761757565",
+   "name": "Colorever: Gem Art Puzzle",
+   "seller": "OAKEVER GAMES PTE. LTD.",
+   "version": "1.25.1",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 79,
+   "track_id": "6787414784",
+   "name": "Water Sort Puzzle : Challenge",
+   "seller": "贺翔 段",
+   "version": "1.2.0",
+   "version_date": "2026-07-22",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 80,
+   "track_id": "1602508478",
+   "name": "Word Search Explorer®",
+   "seller": "PlaySimple Games Pte Ltd",
+   "version": "1.160",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 81,
+   "track_id": "1420294918",
+   "name": "Wordscapes Search - Word Game",
+   "seller": "PeopleFun, Inc.",
+   "version": "1.57.2",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 82,
+   "track_id": "6747028173",
+   "name": "Hole Stars: Puzzle Game",
+   "seller": "Moon Active LTD",
+   "version": "220000.1.285",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 83,
+   "track_id": "1351168404",
+   "name": "Among Us!",
+   "seller": "InnerSloth LLC",
+   "version": "2026.19.0.1",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 84,
+   "track_id": "6751056652",
+   "name": "Pixel Flow!",
+   "seller": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+   "version": "0.38.2",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 85,
+   "track_id": "1521236603",
+   "name": "Travel Town - Merge Adventure",
+   "seller": "Moon Active LTD",
+   "version": "2.12.1822",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 86,
+   "track_id": "6754059516",
+   "name": "Bus Crowd - Traffic Jam",
+   "seller": "Finger Rush Limited",
+   "version": "1.2.2",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 87,
+   "track_id": "1522266397",
+   "name": "Bingo Cash - Win Real Money",
+   "seller": "Papaya Gaming LTD",
+   "version": "14.5.0",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 88,
+   "track_id": "6739069151",
+   "name": "Crossword Go!",
+   "seller": "PlaySimple Games Pte Ltd",
+   "version": "1.134.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 89,
+   "track_id": "6740617332",
+   "name": "UnGodly",
+   "seller": "Azra Games Inc",
+   "version": "1.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 90,
+   "track_id": "6811006356",
+   "name": "Foodie Pop!",
+   "seller": "ABI GLOBAL LTD.",
+   "version": "1.16",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 91,
+   "track_id": "6762268182",
+   "name": "Z Route: Redemption",
+   "seller": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED",
+   "version": "1.42.01",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 92,
+   "track_id": "6450413462",
+   "name": "CrownCoins Casino",
+   "seller": "Sunflower Ltd.",
+   "version": "1.15.4",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 93,
+   "track_id": "6759081967",
+   "name": "Jewel Coloring",
+   "seller": "Ta Ta Game Technology Limited",
+   "version": "3.1.1",
+   "version_date": "2026-09-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 94,
+   "track_id": "6753862216",
+   "name": "Foodstars: Merge & Cook",
+   "seller": "HAPPIBITS TECHNOLOGIES PTE. LTD.",
+   "version": "1.57.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 95,
+   "track_id": "6739792763",
+   "name": "Jackpot Go: Slots Casino",
+   "seller": "WISE WISHES STUDIO LIMITED",
+   "version": "1.0.20",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 96,
+   "track_id": "1545567989",
+   "name": "Number Match - Numbers Game",
+   "seller": "Easybrain Ltd",
+   "version": "2.0.0",
+   "version_date": "2026-09-30",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 97,
+   "track_id": "1330123889",
+   "name": "PUBG MOBILE",
+   "seller": "Tencent Mobile International Limited",
+   "version": "4.7.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 98,
+   "track_id": "6757350661",
+   "name": "Police Chief",
+   "seller": "VoyagerOne Distribution Limited",
+   "version": "0.1.158",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 99,
+   "track_id": "6817314923",
+   "name": "SCRAM: Hide and Seek",
+   "seller": "Moveera Pty Ltd",
+   "version": "1.0.4",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 100,
+   "track_id": "1506229470",
+   "name": "FanDuel Casino - Real Money",
+   "seller": "FanDuel Limited",
+   "version": "2.136",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  }
+ ],
+ "cn_apps": [
+  {
+   "rank": 1,
+   "track_id": "1485191072",
+   "name": "抖音商城-下单返积分、退货包运费",
+   "seller": "Beijing Douyin Technology Co., Ltd.",
+   "version": "41.0.0",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 2,
+   "track_id": "6745890963",
+   "name": "红果漫剧 - 热门精彩漫剧",
+   "seller": "Hainan Yuyue Technology Co., Ltd.",
+   "version": "7.4.3",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 3,
+   "track_id": "6451407032",
+   "name": "红果短剧 - 海量热门短剧随心看",
+   "seller": "Beijing Bimo Liuxiang Technology Co., Ltd.",
+   "version": "7.4.3",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 4,
+   "track_id": "6466733523",
+   "name": "千问 - 阿里AI助手",
+   "seller": "Shanghai Zhixin Puhui Technology Co., Ltd.",
+   "version": "7.6.2",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 5,
+   "track_id": "6761374913",
+   "name": "WorkBuddy - AI 办公我帮你",
+   "seller": "Tencent Technology (Shanghai) Company Limited",
+   "version": "2.9.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 6,
+   "track_id": "1588080869",
+   "name": "国家网络身份认证",
+   "seller": "Ministry of Public Security of the People's Republic of China",
+   "version": "1.2.38",
+   "version_date": "2026-09-20",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 7,
+   "track_id": "6459478672",
+   "name": "豆包 - 生活工作 AI 助手",
+   "seller": "Beijing Chuntian Zhiyun Technology Co., Ltd.",
+   "version": "15.7.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 8,
+   "track_id": "1605585211",
+   "name": "汽水音乐 - 随时听好歌",
+   "seller": "Beijing Douyin Technology Co., Ltd.",
+   "version": "21.6.1",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 9,
+   "track_id": "6468941332",
+   "name": "电子税务局",
+   "seller": "State Administration of Taxation",
+   "version": "1.2.17",
+   "version_date": "2026-08-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 10,
+   "track_id": "600273928",
+   "name": "云闪付-银行业统一移动支付App",
+   "seller": "China Unionpay Co.,Ltd.",
+   "version": "10.3.8",
+   "version_date": "2026-10-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 11,
+   "track_id": "629774477",
+   "name": "芒果TV",
+   "seller": "HUNANTV Entertainment Interactive Media Ltd.",
+   "version": "9.4.7",
+   "version_date": "2026-10-31",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 12,
+   "track_id": "414245413",
+   "name": "京东-又好又便宜",
+   "seller": "Beijing Jingdong Century Trading Co., Ltd.",
+   "version": "16.1.83",
+   "version_date": "2026-11-12",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 13,
+   "track_id": "583700738",
+   "name": "中国移动（手机营业厅）",
+   "seller": "China Mobile Online Services Co., Ltd.",
+   "version": "12.5.7",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 14,
+   "track_id": "6756863766",
+   "name": "抖省省 - 抖音官方团购平台",
+   "seller": "Beijing Douyin Technology Co., Ltd.",
+   "version": "38.3.7",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 15,
+   "track_id": "510909506",
+   "name": "闲鱼 - 上闲鱼，赚一笔 !",
+   "seller": "Zhejiang Alibaba Xianyu Network Technology Co., Ltd.",
+   "version": "7.29.11",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 16,
+   "track_id": "1458072671",
+   "name": "剪映 - 抖音官方AI创作神器",
+   "seller": "Shenzhen Lianmeng Technology Co.Ltd.",
+   "version": "22.1.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 17,
+   "track_id": "1039727169",
+   "name": "交管12123",
+   "seller": "Traffic Management Research Institute of the Ministry of Public Security",
+   "version": "3.5.9",
+   "version_date": "2026-10-19",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 18,
+   "track_id": "1436002627",
+   "name": "个人所得税",
+   "seller": "State Administration of Taxation",
+   "version": "2.3.6",
+   "version_date": "2026-10-31",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 19,
+   "track_id": "515651240",
+   "name": "中国农业银行",
+   "seller": "AGRICULTURAL BANK OF CHINA LIMITED",
+   "version": "11.3.0",
+   "version_date": "2026-09-20",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 20,
+   "track_id": "1484048379",
+   "name": "腾讯会议-多人实时视频会议软件",
+   "seller": "Tencent Technology (Shanghai) Company Limited",
+   "version": "3.48.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 21,
+   "track_id": "1319071502",
+   "name": "今日水印相机-时间地点经纬度打卡拍照",
+   "seller": "Keep Curiosity, Inc.",
+   "version": "3.0.495",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 22,
+   "track_id": "564818797",
+   "name": "铁路12306",
+   "seller": "ACADEMY OF RAILWAY SCIENCES CO., ltd.",
+   "version": "5.9.6",
+   "version_date": "2026-06-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 23,
+   "track_id": "547166701",
+   "name": "百度网盘",
+   "seller": "Beijing Duyou Science and Technology Co.,Ltd.",
+   "version": "13.37.5",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 24,
+   "track_id": "461703208",
+   "name": "高德地图-高德打车,导航公交地铁出行",
+   "seller": "AutoNavi Information Technology Co. Ltd.",
+   "version": "17.3.1",
+   "version_date": "2026-11-10",
+   "status": "confirmed",
+   "evidence": "duoready_db+store_text"
+  },
+  {
+   "rank": 25,
+   "track_id": "1087897068",
+   "name": "企业微信",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "5.0.15",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 26,
+   "track_id": "1044283059",
+   "name": "拼多多 - 多多买菜，百亿补贴",
+   "seller": "Shanghai Xunmeng Information Technology Co., Ltd.",
+   "version": "8.31.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 27,
+   "track_id": "388627783",
+   "name": "扫描全能王-手机扫描仪 & PDF图片转文字",
+   "seller": "INTSIG Information Co., Ltd",
+   "version": "7.29.0",
+   "version_date": "2026-11-10",
+   "status": "confirmed",
+   "evidence": "duoready_db+store_text"
+  },
+  {
+   "rank": 28,
+   "track_id": "423514795",
+   "name": "中国工商银行",
+   "seller": "Industrial and Commercial Bank of China",
+   "version": "11.1.1.0.0",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 29,
+   "track_id": "1012871328",
+   "name": "得物 - 得到美好事物",
+   "seller": "Shanghai Dewu Information Group Co., Ltd.",
+   "version": "6.4.0",
+   "version_date": "2026-11-07",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 30,
+   "track_id": "1160172628",
+   "name": "夸克-AI旗舰应用",
+   "seller": "Guangzhou Dongyue Information Technology Co., Ltd.",
+   "version": "10.20.6.3256",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 31,
+   "track_id": "507097717",
+   "name": "阿里巴巴(1688)-货源批发采购进货市场",
+   "seller": "Hangzhou AliBaba Advertising Co., Ltd.",
+   "version": "12.26.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 32,
+   "track_id": "387682726",
+   "name": "淘宝-万能的淘宝！",
+   "seller": "Zhejiang Taobao Network Co.,Ltd",
+   "version": "10.69.0",
+   "version_date": "2026-11-06",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 33,
+   "track_id": "599852710",
+   "name": "WPS Office - 智能AI办公助手",
+   "seller": "Zhuhai Kingsoft Office Software Co.,Ltd",
+   "version": "26.11.0",
+   "version_date": "2026-11-12",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 34,
+   "track_id": "473225145",
+   "name": "QQ邮箱",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "7.2.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 35,
+   "track_id": "741292507",
+   "name": "小红书 - 你的生活兴趣社区",
+   "seller": "Xingin Information Technology (Shanghai) Co., Ltd",
+   "version": "9.54.2",
+   "version_date": "2026-11-09",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 36,
+   "track_id": "1002355194",
+   "name": "转转-二手官方验",
+   "seller": "Zhuanzhuan Co.,Ltd.",
+   "version": "12.20.0",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 37,
+   "track_id": "391965015",
+   "name": "中国建设银行",
+   "seller": "China Construction Bank",
+   "version": "9.8.0.003",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 38,
+   "track_id": "440948110",
+   "name": "快手",
+   "seller": "Beijing Kwai Technology Co., Ltd.",
+   "version": "14.10.10",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 39,
+   "track_id": "423084029",
+   "name": "美团-问美团，都安排",
+   "seller": "Sankuai Technology Co., Ltd.",
+   "version": "12.69.201",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 40,
+   "track_id": "887314963",
+   "name": "BOSS直聘-招聘求职找工作招人",
+   "seller": "Beijing China Product Bo Farce Network Technology Co., Ltd.",
+   "version": "14.190",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 41,
+   "track_id": "351091731",
+   "name": "大众点评 - 吃喝玩乐指南",
+   "seller": "Hanhai Information Technology (Shanghai) Co.Ltd",
+   "version": "11.75.2",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 42,
+   "track_id": "586871187",
+   "name": "UC浏览器-随心搜·畅快看",
+   "seller": "UCWeb Mobile Private Limited",
+   "version": "19.2.6.3109",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 43,
+   "track_id": "350962117",
+   "name": "微博",
+   "seller": "SINA Corporation",
+   "version": "16.11.0",
+   "version_date": "2026-11-05",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 44,
+   "track_id": "1503466530",
+   "name": "迅雷-高速传输,网盘,4K原画",
+   "seller": "Shenzhen Xunlei Network Technology Co., Ltd.",
+   "version": "25.2.90",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 45,
+   "track_id": "333206289",
+   "name": "支付宝-你的AI生活伙伴",
+   "seller": "Alipay (Hangzhou) Technology Co., Ltd.",
+   "version": "12.12.50",
+   "version_date": "2026-11-06",
+   "status": "confirmed",
+   "evidence": "duoready_db+store_text"
+  },
+  {
+   "rank": 46,
+   "track_id": "736536022",
+   "name": "哔哩哔哩-弹幕番剧直播高清视频",
+   "seller": "Shanghai Bilibili Animation Co.,Ltd",
+   "version": "9.19.0",
+   "version_date": "2026-11-11",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 47,
+   "track_id": "1435602536",
+   "name": "多闪",
+   "seller": "Beijing Douyin Technology Co., Ltd.",
+   "version": "41.1.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 48,
+   "track_id": "1431720653",
+   "name": "DJI Mimo",
+   "seller": "SZ DJI TECHNOLOGY CO., LTD",
+   "version": "2.12.9",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 49,
+   "track_id": "1490383593",
+   "name": "国家医保服务平台",
+   "seller": "National Healthcare Security Administration",
+   "version": "1.3.36",
+   "version_date": "2026-09-15",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 50,
+   "track_id": "895682747",
+   "name": "京东金融-黄金基金理财借贷保险一站式平台",
+   "seller": "Beijing Jingdong Financial Technology Holdings Co., Ltd",
+   "version": "8.2.90",
+   "version_date": "2026-10-30",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 51,
+   "track_id": "1488854568",
+   "name": "学信网",
+   "seller": "Student Information Consultation Service Co., Ltd.",
+   "version": "2.6.3",
+   "version_date": "2026-10-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 52,
+   "track_id": "1472502819",
+   "name": "快手极速版",
+   "seller": "Beijing Huayi Huilong Network Technology Co., Ltd.",
+   "version": "14.10.10",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 53,
+   "track_id": "513836029",
+   "name": "中国电信-全国统一官方服务平台",
+   "seller": "CHINA TELECOM Corporation Ltd.",
+   "version": "13.5.0",
+   "version_date": "2026-10-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 54,
+   "track_id": "399608199",
+   "name": "中国银行",
+   "seller": "Bank of China Limited",
+   "version": "9.9.38",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 55,
+   "track_id": "930368978",
+   "name": "钉钉",
+   "seller": "DingTalk Technology Co., Ltd.",
+   "version": "9.0.10",
+   "version_date": "2026-11-11",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 56,
+   "track_id": "1500526240",
+   "name": "醒图 - 全能修图神器",
+   "seller": "Shenzhen Lianmeng Technology Co.Ltd.",
+   "version": "16.0.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 57,
+   "track_id": "417200582",
+   "name": "唯品会",
+   "seller": "Guangzhou Vipshop E-Commerce Co.,Ltd.",
+   "version": "9.87.8",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 58,
+   "track_id": "336141475",
+   "name": "优酷视频-《谷雨》全网独播",
+   "seller": "Youku.com Inc.",
+   "version": "11.2.21",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 59,
+   "track_id": "554499054",
+   "name": "滴滴-打车骑车顺风车火车票租车代驾送货",
+   "seller": "Didi Chuxing (Beijing) Network Platform Technology Co., Ltd",
+   "version": "8.0.20",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 60,
+   "track_id": "6737597349",
+   "name": "DeepSeek - AI 智能助手",
+   "seller": "Hangzhou DeepSeek Artificial Intelligence Co., Ltd",
+   "version": "2.8.0",
+   "version_date": "2026-11-12",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 61,
+   "track_id": "444934666",
+   "name": "QQ",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "9.3.85",
+   "version_date": "2026-11-11",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 62,
+   "track_id": "1401729613",
+   "name": "飞书 - 字节跳动旗下 AI 工作平台",
+   "seller": "Beijing Feishu Technology Co., Ltd.",
+   "version": "8.6.14",
+   "version_date": "2026-11-12",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 63,
+   "track_id": "592331499",
+   "name": "美颜相机",
+   "seller": "Meitu Technology Co., Ltd.",
+   "version": "13.4.50",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 64,
+   "track_id": "1142110895",
+   "name": "抖音",
+   "seller": "Beijing Douyin Technology Co., Ltd.",
+   "version": "41.1.0",
+   "version_date": "2026-11-10",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 65,
+   "track_id": "6752317272",
+   "name": "系统电池分析-手机配置查询·电池健康分析",
+   "seller": "Zhangsan Software Co., Ltd., Enshi Prefecture, Hubei Province",
+   "version": "2.5.1",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 66,
+   "track_id": "416457422",
+   "name": "中国联通",
+   "seller": "China United Network Communications Corporation Limited",
+   "version": "13.2",
+   "version_date": "2026-10-30",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 67,
+   "track_id": "392899425",
+   "name": "招商银行",
+   "seller": "CHINA MERCHANTS BANK CO.,LTD.",
+   "version": "14.4.9",
+   "version_date": "2026-11-04",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 68,
+   "track_id": "493489515",
+   "name": "邮储银行",
+   "seller": "Postal Savings Bank of China",
+   "version": "11.10.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 69,
+   "track_id": "480079300",
+   "name": "58同城-招聘求职找工作家政租房二手房二手车",
+   "seller": "Beijing Chengshi Wanglin Information Technology Co., Ltd.",
+   "version": "13.62.1",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 70,
+   "track_id": "458318329",
+   "name": "腾讯视频-沈腾携《现在就出发4》爆笑回归",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "9.04.80",
+   "version_date": "2026-11-09",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 71,
+   "track_id": "818237113",
+   "name": "山姆会员商店",
+   "seller": "Walmart (China) Holding Co.,Ltd",
+   "version": "5.0.155",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 72,
+   "track_id": "475966832",
+   "name": "同程旅行-订酒店机票火车票,低价打车",
+   "seller": "Tongcheng Network Technology Co., Ltd.",
+   "version": "11.5.3",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 73,
+   "track_id": "957323480",
+   "name": "米家",
+   "seller": "Beijing Xiaomi Co., Ltd",
+   "version": "11.10.200",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 74,
+   "track_id": "6755949705",
+   "name": "夸克网盘-Live图无损，极速无广",
+   "seller": "Guangzhou Dongyue Information Technology Co., Ltd.",
+   "version": "10.21.0.1094",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 75,
+   "track_id": "1468454200",
+   "name": "番茄小说 - 热门漫剧全本小说电子书阅读器",
+   "seller": "Beijing Zhending Technology Co., Ltd.",
+   "version": "7.4.3",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 76,
+   "track_id": "590338362",
+   "name": "网易云音乐-数亿音乐畅听",
+   "seller": "Hangzhou Netease Cloud Music Technology Co., Ltd.",
+   "version": "9.6.25",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 77,
+   "track_id": "370139302",
+   "name": "QQ浏览器-腾讯AI浏览器",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "20.7.6",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 78,
+   "track_id": "6743828427",
+   "name": "蚂蚁阿福-蚂蚁旗下AI健康助手",
+   "seller": "Ant Yikang (Guangzhou) Information Technology Co., Ltd.",
+   "version": "1.1.78",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 79,
+   "track_id": "518966501",
+   "name": "天猫 - 大牌折上折，下单返2%",
+   "seller": "Zhejiang tmall Network Co., Ltd",
+   "version": "15.93.2",
+   "version_date": "2026-11-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 80,
+   "track_id": "570060128",
+   "name": "多邻国Duolingo英语日语法语",
+   "seller": "Duolingo, Inc",
+   "version": "7.148.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 81,
+   "track_id": "6751240418",
+   "name": "Doka相机 - AI构图&复古胶片&CCD相机滤镜&美颜",
+   "seller": "Beijing Yingdong Guangnian Technology Co., Ltd.",
+   "version": "2.2.20",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 82,
+   "track_id": "6503676563",
+   "name": "即梦AI - 抖音旗下AI图片和视频工具",
+   "seller": "Shenzhen Lianmeng Technology Co.Ltd.",
+   "version": "2.4.1",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 83,
+   "track_id": "1063183999",
+   "name": "盒马 - 鲜美生活",
+   "seller": "Shanghai Heli Network Technical Service Co., Ltd.",
+   "version": "8.12.0",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 84,
+   "track_id": "414478124",
+   "name": "微信",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "8.0.80",
+   "version_date": "2026-10-23",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 85,
+   "track_id": "416048305",
+   "name": "美图秀秀:视频/图片/Live人像精修工具",
+   "seller": "Meitu Technology Co., Ltd.",
+   "version": "12.23.0",
+   "version_date": "2026-11-11",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 86,
+   "track_id": "1054598922",
+   "name": "麦当劳McDonald's - 到店取餐 麦咖啡 麦乐送",
+   "seller": "McDonald's (China) Co., Ltd.",
+   "version": "7.0.45.1",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 87,
+   "track_id": "513829338",
+   "name": "大麦 - 电影、演出、体育购票平台",
+   "seller": "Beijing Damai Cultural Media Development Co., Ltd.",
+   "version": "9.0.38",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 88,
+   "track_id": "796339836",
+   "name": "平安好车主—奔赴美好生活",
+   "seller": "Ping An Property & Casualty Insurance Company of China, Ltd.",
+   "version": "6.08.1",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 89,
+   "track_id": "1444411068",
+   "name": "小象超市",
+   "seller": "Beijing Baobao Eat Better Food and Dining Management Co., Ltd.",
+   "version": "7.37.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 90,
+   "track_id": "1571652872",
+   "name": "数字人民币",
+   "seller": "e-CNY Center Co., Ltd.",
+   "version": "2.1.1",
+   "version_date": "2026-10-30",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 91,
+   "track_id": "860384719",
+   "name": "微店",
+   "seller": "Beijing Koudai Technology Co., Ltd.",
+   "version": "7.9.64",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 92,
+   "track_id": "587238847",
+   "name": "肯德基KFC（官方版）",
+   "seller": "Kendingxing Information Technology Shanghai Co., Ltd",
+   "version": "6.39.0",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 93,
+   "track_id": "379395415",
+   "name": "携程旅行-订酒店机票火车票",
+   "seller": "Shanghai Ctrip Commerce Co.,Ltd",
+   "version": "8.97.4",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 94,
+   "track_id": "382201985",
+   "name": "百度-AI智能搜索",
+   "seller": "Beijing Baidu Netcom Science & Technology Co.,Ltd",
+   "version": "15.83.0",
+   "version_date": "2026-11-08",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 95,
+   "track_id": "393765873",
+   "name": "爱奇艺-《折月亮》全网独播",
+   "seller": "Beijing IQIYI Science & Technology Co., Ltd.",
+   "version": "17.10.7",
+   "version_date": "2026-11-05",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 96,
+   "track_id": "414603431",
+   "name": "QQ音乐 - 听我想听",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "20.9.8",
+   "version_date": "2026-11-04",
+   "status": "confirmed",
+   "evidence": "duoready_db+store_text"
+  },
+  {
+   "rank": 97,
+   "track_id": "333903271",
+   "name": "X（前身为Twitter）",
+   "seller": "X Corp.",
+   "version": "12.43",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 98,
+   "track_id": "6749835845",
+   "name": "飓风相机 - 实时电影感拍摄",
+   "seller": "Hangzhou Ostar Media Co.,Ltd.",
+   "version": "2.0.6",
+   "version_date": "2026-11-08",
+   "status": "confirmed",
+   "evidence": "+store_text"
+  },
+  {
+   "rank": 99,
+   "track_id": "1130498044",
+   "name": "Apple 支持",
+   "seller": "Apple Distribution International",
+   "version": "5.17.1",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 100,
+   "track_id": "1493500777",
+   "name": "小米运动健康",
+   "seller": "Beijing Xiaomi Co., Ltd",
+   "version": "3.55.0",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  }
+ ],
+ "cn_games": [
+  {
+   "rank": 1,
+   "track_id": "6824357074",
+   "name": "超级整理师 - 找一找隐藏的物品",
+   "seller": "AkerSun  Technology Co.,Ltd.",
+   "version": "1.2",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 2,
+   "track_id": "1321803705",
+   "name": "和平精英",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.39.13",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 3,
+   "track_id": "989673964",
+   "name": "王者荣耀",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "12.1.1.1",
+   "version_date": "2026-09-22",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 4,
+   "track_id": "1642894547",
+   "name": "三角洲行动",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.201.37119",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 5,
+   "track_id": "791532221",
+   "name": "开心消消乐",
+   "seller": "Happy Elements Technology (Beijing) Limited",
+   "version": "1.162.236",
+   "version_date": "2026-10-22",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 6,
+   "track_id": "6535673811",
+   "name": "无畏契约：源能行动",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.25.0版本",
+   "version_date": "2026-09-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 7,
+   "track_id": "1544884479",
+   "name": "蛋仔派对",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "1.0.266",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 8,
+   "track_id": "1614798032",
+   "name": "王者万象棋",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.1.1",
+   "version_date": "2026-09-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 9,
+   "track_id": "6757172630",
+   "name": "疯狂水世界",
+   "seller": "Eworld Network Technology Shanghai Co.,Ltd.",
+   "version": "1.1.9",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 10,
+   "track_id": "6756720174",
+   "name": "烽烟破晓",
+   "seller": "Hangzhou Yunxingu Network Technology Co., Ltd.",
+   "version": "1.2",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 11,
+   "track_id": "446324234",
+   "name": "腾讯欢乐斗地主",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "8.058.016",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 12,
+   "track_id": "1478101301",
+   "name": "金铲铲之战",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.14.35（1188）",
+   "version_date": "2026-09-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 13,
+   "track_id": "6748045272",
+   "name": "向末日开炮",
+   "seller": "Dod Joy Co., Ltd.",
+   "version": "1.0.3",
+   "version_date": "2026-09-18",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 14,
+   "track_id": "897841116",
+   "name": "熊出没之熊大快跑 - 顶富玩家首选正版跑酷手游",
+   "seller": "Hefei Letangdongman Information Technology Co., Ltd",
+   "version": "1.9.7",
+   "version_date": "2026-05-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 15,
+   "track_id": "1243986797",
+   "name": "我的世界：移动版",
+   "seller": "Shanghai NetEase MineWorld Network Technology Co.,Ltd.",
+   "version": "3.10.10",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 16,
+   "track_id": "995122577",
+   "name": "地铁跑酷 - 光河引路灵魂赴约",
+   "seller": "iDreamSky Technology Limited",
+   "version": "7.07.0",
+   "version_date": "2026-10-15",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 17,
+   "track_id": "1595603316",
+   "name": "部落冲突（Clash of Clans）",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "18.117.1",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 18,
+   "track_id": "955396648",
+   "name": "火影忍者",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.80.80.8",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 19,
+   "track_id": "1014227673",
+   "name": "神庙逃亡2",
+   "seller": "iDreamSky Technology Limited",
+   "version": "7.3.2",
+   "version_date": "2025-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 20,
+   "track_id": "639516529",
+   "name": "植物大战僵尸2",
+   "seller": "PopCap",
+   "version": "4.2.8.414",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 21,
+   "track_id": "1288758206",
+   "name": "The Phenomenon",
+   "seller": "Kokots LLC",
+   "version": "1.9.7",
+   "version_date": "2026-10-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 22,
+   "track_id": "1120536875",
+   "name": "贪吃蛇大作战®",
+   "seller": "Wuhan Weipai Network Technology Co., Ltd.",
+   "version": "5.46.0",
+   "version_date": "2026-10-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 23,
+   "track_id": "1170455562",
+   "name": "迷你世界",
+   "seller": "SHENZHEN MINIWAN TECHNOLOGY CO. LTD.",
+   "version": "1.60.1",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 24,
+   "track_id": "1455054000",
+   "name": "英雄联盟手游",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "7.3.3.2818",
+   "version_date": "2026-09-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 25,
+   "track_id": "1235504705",
+   "name": "QQ飞车",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.59.0.56410",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 26,
+   "track_id": "1042545880",
+   "name": "穿越火线-枪战王者",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.0.580",
+   "version_date": "2026-09-16",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 27,
+   "track_id": "6738345439",
+   "name": "飞机大厨：空中烹饪",
+   "seller": "Nordcurrent UAB",
+   "version": "16.0.1",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 28,
+   "track_id": "940547441",
+   "name": "梦幻西游",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "1.588.0",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 29,
+   "track_id": "6741928115",
+   "name": "Dream Road: Online",
+   "seller": "Bellum Games LLC",
+   "version": "1.4.4",
+   "version_date": "2026-11-01",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 30,
+   "track_id": "6475668638",
+   "name": "燕云十六声",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "1.0.113",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 31,
+   "track_id": "1330863325",
+   "name": "第五人格",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "26.309.2156",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 32,
+   "track_id": "1567889307",
+   "name": "我的安吉拉2",
+   "seller": "Outfit7 Network Technology Co., Ltd",
+   "version": "26.5.3",
+   "version_date": "2026-10-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 33,
+   "track_id": "1344733855",
+   "name": "光·遇",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "0.16.8",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 34,
+   "track_id": "689180123",
+   "name": "欢乐麻将",
+   "seller": "Shenzhen Tencent Computer Systems Company Limited",
+   "version": "8.20.112",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 35,
+   "track_id": "6498993861",
+   "name": "美职篮巅峰对决",
+   "seller": "Gala Sports Technology Limited",
+   "version": "1.14.0",
+   "version_date": "2026-11-11",
+   "status": "confirmed",
+   "evidence": "duoready_db"
+  },
+  {
+   "rank": 36,
+   "track_id": "1612426573",
+   "name": "梦想城镇 - Township",
+   "seller": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd",
+   "version": "40.0.0",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 37,
+   "track_id": "6444717468",
+   "name": "跃动小子",
+   "seller": "BAI XIANG NETWORK TECHNOLOGY (SHANGHAI) CO., LTD",
+   "version": "1.16",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 38,
+   "track_id": "6758330501",
+   "name": "消俄罗斯方块 - 经典消除益智小游戏",
+   "seller": "巧莲 李",
+   "version": "1.15.1",
+   "version_date": "2026-09-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 39,
+   "track_id": "6544797261",
+   "name": "超自然行动组-伊藤润二联动",
+   "seller": "Giant Network Technology Co., Ltd.",
+   "version": "1.34.30",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 40,
+   "track_id": "1089336971",
+   "name": "汤姆猫跑酷-猫拉松：秋风逐月",
+   "seller": "Outfit7 Limited",
+   "version": "26.5.9",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 41,
+   "track_id": "1644374326",
+   "name": "羊了个羊：星球",
+   "seller": "Beijing Jianyou Technology Co., Ltd.",
+   "version": "1.27.5",
+   "version_date": "2026-02-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 42,
+   "track_id": "1501314785",
+   "name": "途游斗地主（比赛版）",
+   "seller": "Tuyoo Online HK Limited",
+   "version": "3.6.1112",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 43,
+   "track_id": "996509117",
+   "name": "球球大作战-无条件送超大",
+   "seller": "Giant Network Technology Co., Ltd.",
+   "version": "19.7.4",
+   "version_date": "2026-10-30",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 44,
+   "track_id": "6758614459",
+   "name": "肥鹅美食街",
+   "seller": "Beijing Haotengchuangxiang Technology Co., Ltd.",
+   "version": "1.8.0",
+   "version_date": "2026-09-17",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 45,
+   "track_id": "1498874997",
+   "name": "巅峰极速",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "1.3.3",
+   "version_date": "2026-10-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 46,
+   "track_id": "1570403558",
+   "name": "梦幻花园 - Gardenscapes",
+   "seller": "Beijing Wei Wo Le Yuan Information and Technology Co., Ltd",
+   "version": "10.0.6",
+   "version_date": "2026-11-06",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 47,
+   "track_id": "6809345559",
+   "name": "拳皇·命运-福利版",
+   "seller": "HOOLAI GAME LIMITED",
+   "version": "3.03000",
+   "version_date": "2026-11-07",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 48,
+   "track_id": "1467190251",
+   "name": "原神",
+   "seller": "Shanghai miHoYo YingTie Technology Co., Ltd.",
+   "version": "7.2.0",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 49,
+   "track_id": "1450136725",
+   "name": "竞技联盟德州扑克",
+   "seller": "Sohoo Limited",
+   "version": "10.2.2",
+   "version_date": "2026-09-16",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 50,
+   "track_id": "1488410151",
+   "name": "使命召唤手游",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.9.59",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 51,
+   "track_id": "1643581545",
+   "name": "我的安吉拉",
+   "seller": "Outfit7 Network Technology Co., Ltd",
+   "version": "26.6.1",
+   "version_date": "2026-11-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 52,
+   "track_id": "653350791",
+   "name": "天天酷跑",
+   "seller": "Shenzhen Tencent Computer Systems Company Limited",
+   "version": "1.0.141",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 53,
+   "track_id": "1047961826",
+   "name": "疯狂动物园-跑酷牛仔向前冲",
+   "seller": "Featherweight Games Pty Limited",
+   "version": "4.26.0",
+   "version_date": "2026-10-20",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 54,
+   "track_id": "1350109821",
+   "name": "挨饿荒野",
+   "seller": "Shaoxing Kuaifei Network Technology Co., Ltd",
+   "version": "2.7.3",
+   "version_date": "2026-11-09",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 55,
+   "track_id": "1523037824",
+   "name": "崩坏：星穹铁道",
+   "seller": "Shanghai miHoYo YingTie Technology Co., Ltd.",
+   "version": "4.7.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 56,
+   "track_id": "6475038985",
+   "name": "云·星穹铁道",
+   "seller": "Shanghai miHoYo YingTie Technology Co., Ltd.",
+   "version": "4.7.0",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 57,
+   "track_id": "1505445106",
+   "name": "暗区突围",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.0.168",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 58,
+   "track_id": "6745691636",
+   "name": "吃碰杠连连",
+   "seller": "Guangzhou Duoying Technology Co.,Ltd",
+   "version": "1.0.12",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 59,
+   "track_id": "1123876959",
+   "name": "保卫萝卜4",
+   "seller": "Beijing Kai Luo Tian Xia Technology Co., Ltd.",
+   "version": "1.4.1",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 60,
+   "track_id": "1184159988",
+   "name": "元气骑士",
+   "seller": "泽阳 李",
+   "version": "8.7.1",
+   "version_date": "2026-10-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 61,
+   "track_id": "1174766830",
+   "name": "模拟城市：我是市长",
+   "seller": "Beijing Bewinner Communications Co., Ltd.",
+   "version": "2.5",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 62,
+   "track_id": "1000619473",
+   "name": "饥饿鲨：进化",
+   "seller": "Shanghai Bihan Internet Technology Co.,Ltd.",
+   "version": "9.16.94",
+   "version_date": "2026-09-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 63,
+   "track_id": "6743786389",
+   "name": "烹饪环游记",
+   "seller": "Shenzhenshi Qixunxinyou Technology Co.,Ltd",
+   "version": "1.57.2",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 64,
+   "track_id": "407413403",
+   "name": "三国杀",
+   "seller": "Hangzhou Yoka Network Technology Co., Ltd.",
+   "version": "4.6.1",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 65,
+   "track_id": "1435567000",
+   "name": "明日之后",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "5.0.595",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 66,
+   "track_id": "6740756173",
+   "name": "鹅鸭杀",
+   "seller": "Chengdu Kingsoft Shiyou Zhuoli Technology Co., Ltd.",
+   "version": "1.1.15",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 67,
+   "track_id": "493901993",
+   "name": "节奏大师",
+   "seller": "Shenzhen Tencent Computer Systems Company Limited",
+   "version": "2.9.17",
+   "version_date": "2026-05-22",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 68,
+   "track_id": "6503579813",
+   "name": "星途天城",
+   "seller": "Guangzhou Mengqu Information Technology Co., Ltd.",
+   "version": "1.0.3",
+   "version_date": "2026-10-23",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 69,
+   "track_id": "472885640",
+   "name": "JJ斗地主-专业棋牌合集",
+   "seller": "JJWorld(Beijing) network technology Co., LTD",
+   "version": "6.02.01",
+   "version_date": "2026-10-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 70,
+   "track_id": "6450693428",
+   "name": "鸣潮",
+   "seller": "Guangzhou Kuro Binaria Technology Co., Ltd",
+   "version": "3.8.0",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 71,
+   "track_id": "1595603720",
+   "name": "部落冲突：皇室战争（CR）",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "38.5.2",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 72,
+   "track_id": "654897098",
+   "name": "天天爱消除",
+   "seller": "Shenzhen Tencent Computer Systems Company Limited",
+   "version": "2.53.0",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 73,
+   "track_id": "6478654994",
+   "name": "洛克王国：世界",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "1.112.0.116",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 74,
+   "track_id": "1580500427",
+   "name": "永劫无间",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "1.0.722850",
+   "version_date": "2026-10-08",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 75,
+   "track_id": "6742597160",
+   "name": "植物大战僵尸3",
+   "seller": "Hainan Mengxing Technology Co.,Ltd",
+   "version": "11.0.0",
+   "version_date": "2026-09-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 76,
+   "track_id": "6752363458",
+   "name": "猫咪整理师 - 房间造景布置小屋 整理解压收纳达人",
+   "seller": "Togother Many Information Technology Co, Ltd.",
+   "version": "3.2",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 77,
+   "track_id": "1525863146",
+   "name": "捕鱼大作战-街机打鱼游戏王者",
+   "seller": "Tuyoo Online HK Limited",
+   "version": "1.5116",
+   "version_date": "2026-10-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 78,
+   "track_id": "1305599559",
+   "name": "FC足球世界-Next",
+   "seller": "Shenzhen Tencent Computer Systems Company Limited",
+   "version": "33.0.03",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 79,
+   "track_id": "6788287402",
+   "name": "梦幻西游：再续前缘",
+   "seller": "Guangzhou NetEase Computer System Co.Ltd",
+   "version": "1.0.5",
+   "version_date": "2026-10-28",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 80,
+   "track_id": "6752632961",
+   "name": "时尚百货城",
+   "seller": "Shenzhen Tomato of Love Technology Co., Ltd",
+   "version": "1.2.9",
+   "version_date": "2026-10-20",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 81,
+   "track_id": "945598289",
+   "name": "掌上穿越火线",
+   "seller": "Tencent Technology (Shenzhen) Company Limited",
+   "version": "4.8.0",
+   "version_date": "2026-11-02",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 82,
+   "track_id": "1561903786",
+   "name": "心动小镇",
+   "seller": "X.D. Network Inc.",
+   "version": "0.6.1",
+   "version_date": "2026-11-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 83,
+   "track_id": "1355684731",
+   "name": "实况:王者集结",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "6.4.0",
+   "version_date": "2026-10-19",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 84,
+   "track_id": "6479696944",
+   "name": "欢乐钓鱼大师",
+   "seller": "Ark Game Limited",
+   "version": "2.14",
+   "version_date": "2026-08-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 85,
+   "track_id": "1454663939",
+   "name": "明日方舟",
+   "seller": "Shanghai Hypergryph Network Technology Co., Ltd.",
+   "version": "2.7.91",
+   "version_date": "2026-10-31",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 86,
+   "track_id": "564672254",
+   "name": "滑雪大冒险 - 空翻才是灵魂",
+   "seller": "Yodo1, LTD",
+   "version": "2.4.0",
+   "version_date": "2026-02-12",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 87,
+   "track_id": "6759896881",
+   "name": "塔塔冒险队",
+   "seller": "Shanghai Lilith Computer Technology Company Limited",
+   "version": "0.51.1",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 88,
+   "track_id": "6711336814",
+   "name": "美职篮全明星",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "0.5.00",
+   "version_date": "2026-10-20",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 89,
+   "track_id": "6448847085",
+   "name": "钢琴块2",
+   "seller": "Forward Vision Corporation Limited",
+   "version": "1.5.7",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 90,
+   "track_id": "1337578317",
+   "name": "我的汤姆猫2-地下探险万圣主题派对",
+   "seller": "Outfit7 Limited",
+   "version": "26.5.2",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 91,
+   "track_id": "979859989",
+   "name": "JJ象棋-经典中国象棋游戏",
+   "seller": "JJWorld(Beijing) network technology Co., LTD",
+   "version": "6.02.01",
+   "version_date": "2026-11-10",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 92,
+   "track_id": "6746321359",
+   "name": "我的花园世界",
+   "seller": "Xiamen Linbei Interactive Entertainment Technology Co.,LTD",
+   "version": "1.1.33",
+   "version_date": "2026-11-05",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 93,
+   "track_id": "6736710456",
+   "name": "沙威玛传奇 - 中国版",
+   "seller": "Eyad Al Shafei",
+   "version": "1.0.41",
+   "version_date": "2024-10-11",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 94,
+   "track_id": "1504236603",
+   "name": "荒野乱斗",
+   "seller": "Shenzhen Tencent Tianyou Technology Ltd",
+   "version": "70.19.2",
+   "version_date": "2026-11-04",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 95,
+   "track_id": "1454809109",
+   "name": "Phigros",
+   "seller": "Xiamen Pigeon Games Network Co., Ltd.",
+   "version": "4.0.1.2",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 96,
+   "track_id": "6800167533",
+   "name": "篮球少女：飞跃巅峰",
+   "seller": "Lingxi Games Inc.",
+   "version": "1.14",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 97,
+   "track_id": "6784163008",
+   "name": "俱乐大玩家",
+   "seller": "Hainan Dragon Egg Technology Co., Ltd.",
+   "version": "1.0.9",
+   "version_date": "2026-10-26",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 98,
+   "track_id": "548592311",
+   "name": "台球世界-桌球斯诺克竞技游戏",
+   "seller": "Douglas (Hangzhou) Technology Co., LTD",
+   "version": "6.87",
+   "version_date": "2026-10-21",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 99,
+   "track_id": "6795378556",
+   "name": "正中靶心2",
+   "seller": "Beijing Jinhai Buluo Culture Co., Ltd.",
+   "version": "0.0.4",
+   "version_date": "2026-11-03",
+   "status": "no_public_evidence",
+   "evidence": ""
+  },
+  {
+   "rank": 100,
+   "track_id": "1541570980",
+   "name": "逆水寒",
+   "seller": "Hangzhou NetEase Leihuo Technology Co., Ltd.",
+   "version": "4.2.11841076",
+   "version_date": "2026-10-29",
+   "status": "no_public_evidence",
+   "evidence": ""
+  }
+ ]
+}
