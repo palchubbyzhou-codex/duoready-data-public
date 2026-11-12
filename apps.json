@@ -5576,5 +5576,310 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-11"
+ },
+ {
+  "slug": "adguard-pro",
+  "name_en": "AdGuard Pro: Safari Ad Blocker",
+  "name_zh": null,
+  "aliases": [
+   "AdGuard Pro"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 4.5.25 (2026-11-12) release notes state for the first time that the app 'adapted the interface for the new iPhone Duo'; the same version adds iOS 27 support. No specific Duo layout detail beyond the interface adaptation is published.",
+  "adaptation_zh": "4.5.25 版（2026-11-12）更新说明首次写「adapted the interface for the new iPhone Duo（已为新款 iPhone Duo 适配界面）」，同版新增 iOS 27 支持。未公布界面适配之外的具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.5.25 App Store release notes: 'adapted the interface for the new iPhone Duo'",
+   "Safari ad blocker by Adguard Software Limited, $9.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.5.25, 2026-11-12)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "adguard",
+  "name_en": "AdGuard: Ad Blocker for Safari",
+  "name_zh": null,
+  "aliases": [
+   "AdGuard"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 4.5.25 (2026-11-12) release notes carry the same first Duo statement as the Pro edition: the app 'adapted the interface for the new iPhone Duo'; the same version adds iOS 27 support. No specific Duo layout detail beyond the interface adaptation is published.",
+  "adaptation_zh": "4.5.25 版（2026-11-12）更新说明与 Pro 版同文，首次写「adapted the interface for the new iPhone Duo（已为新款 iPhone Duo 适配界面）」，同版新增 iOS 27 支持。未公布界面适配之外的具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.5.25 App Store release notes: 'adapted the interface for the new iPhone Duo'",
+   "Free Safari ad blocker by Adguard Software Limited; free edition of AdGuard Pro"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.5.25, 2026-11-12)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "baidu-maps-us",
+  "name_en": "Baidu Maps",
+  "name_zh": "百度地图",
+  "aliases": [
+   "Baidu Maps",
+   "百度地图"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 22.2.0 (2026-11-12) US release notes lead with deep adaptation for iPhone Duo, presenting smart travel on the large screen. The previous version 22.1.20 was built with the iOS 26.5 SDK and no Duo API; 22.2.0 was updated on 2026-11-12 to fill the inner screen (Fits status). No specific two-pane layout detail is published.",
+  "adaptation_zh": "22.2.0 版（2026-11-12）美区更新说明首条写「深度适配 iPhone Duo，大屏尽享智能出行」；上一版 22.1.20 为 iOS 26.5 SDK 构建、无 Duo API，本版状态于 2026-11-12 更新为铺满内屏。未公布具体的双栏布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "22.2.0 App Store release notes: '深度适配 iPhone Duo，大屏尽享智能出行'",
+   "Maps app by Beijing Baidu Netcom, free; distinct from Amap (already listed) and from the Baidu AI search app"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (22.2.0, 2026-11-12)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "baidu-maps-cn",
+  "name_en": "Baidu Maps",
+  "name_zh": "百度地图",
+  "aliases": [
+   "Baidu Maps",
+   "百度地图"
+  ],
+  "store": "CN",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 22.2.0 (2026-11-12) China release notes lead with deep adaptation for iPhone Duo, presenting smart travel on the large screen; the build fills the inner screen (Fits status).",
+  "adaptation_zh": "与美区为同一版本：22.2.0 版（2026-11-12）国区更新说明首条写「深度适配 iPhone Duo，大屏尽享智能出行」，本版铺满内屏。",
+  "editorial_score": 3,
+  "highlights": [
+   "22.2.0 App Store (CN) release notes: '深度适配 iPhone Duo，大屏尽享智能出行'",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (22.2.0, 2026-11-12)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "nplayer-us",
+  "name_en": "nPlayer",
+  "name_zh": null,
+  "aliases": [
+   "nPlayer"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 3.14.1 (2026-11-11) release notes state 'Added support for iPhone Duo'. Duo support was first stated in version 3.14.0 (2026-11-10); 3.14.1 carries the same wording. No specific Duo layout detail is published.",
+  "adaptation_zh": "3.14.1 版（2026-11-11）更新说明写「Added support for iPhone Duo（新增对 iPhone Duo 的支持）」；Duo 支持首次声明于 3.14.0 版（2026-11-10），3.14.1 同文。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.14.1 App Store release notes: 'Added support for iPhone Duo' (first stated in 3.14.0, 2026-11-10)",
+   "Video player by Newin Inc., $4.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.14.1, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "nplayer-cn",
+  "name_en": "nPlayer",
+  "name_zh": null,
+  "aliases": [
+   "nPlayer"
+  ],
+  "store": "CN",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.14.1 (2026-11-11) carries the same 'Added support for iPhone Duo' wording first stated in 3.14.0 (2026-11-10).",
+  "adaptation_zh": "与美区为同一版本：3.14.1 版（2026-11-11）同文写「Added support for iPhone Duo」，首次声明于 3.14.0 版（2026-11-10）。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.14.1 App Store (CN) release notes: 'Added support for iPhone Duo' (first stated in 3.14.0, 2026-11-10)",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.14.1, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "nplayer-plus-us",
+  "name_en": "nPlayer Plus",
+  "name_zh": null,
+  "aliases": [
+   "nPlayer Plus"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 3.14.1 (2026-11-11) release notes state 'Added support for iPhone Duo', in the same batch as nPlayer. Duo support was first stated in version 3.14.0 (2026-11-10); 3.14.1 carries the same wording. No specific Duo layout detail is published.",
+  "adaptation_zh": "3.14.1 版（2026-11-11）更新说明写「Added support for iPhone Duo（新增对 iPhone Duo 的支持）」，与 nPlayer 同批；Duo 支持首次声明于 3.14.0 版（2026-11-10），3.14.1 同文。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.14.1 App Store release notes: 'Added support for iPhone Duo' (first stated in 3.14.0, 2026-11-10)",
+   "Video player by Newin Inc., $8.99; Plus edition of nPlayer"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.14.1, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "nplayer-plus-cn",
+  "name_en": "nPlayer Plus",
+  "name_zh": null,
+  "aliases": [
+   "nPlayer Plus"
+  ],
+  "store": "CN",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "China-store listing of the same build: version 3.14.1 (2026-11-11) carries the same 'Added support for iPhone Duo' wording first stated in 3.14.0 (2026-11-10).",
+  "adaptation_zh": "与美区为同一版本：3.14.1 版（2026-11-11）同文写「Added support for iPhone Duo」，首次声明于 3.14.0 版（2026-11-10）。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.14.1 App Store (CN) release notes: 'Added support for iPhone Duo' (first stated in 3.14.0, 2026-11-10)",
+   "Same build as the US listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.14.1, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "shijian-guihuaju-us",
+  "name_en": "Countdown! Reminders and Timer",
+  "name_zh": null,
+  "aliases": [
+   "Countdown! Reminders and Timer",
+   "时间规划局"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 6.0.0 (2026-11-10) US release notes lead with full adaptation for the iPhone Duo foldable screen, with coordinated interaction between the inner and outer screens. No more specific layout detail is published. This is a different app from the similarly named text-clock countdown app by a different developer.",
+  "adaptation_zh": "6.0.0 版（2026-11-10）美区更新说明首条写「全面适配 iPhone Duo 折叠屏，内外屏协同交互」。未公布更具体的布局细节。注意与同名的文字时钟倒计时 App（另一开发者）是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.0.0 App Store release notes: '全面适配 iPhone Duo 折叠屏，内外屏协同交互'",
+   "Countdown and reminders app; US listing of 时间规划局 - 倒计时与提醒事项"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.0.0, 2026-11-10)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "shijian-guihuaju-cn",
+  "name_en": null,
+  "name_zh": "时间规划局 - 倒计时与提醒事项",
+  "aliases": [
+   "时间规划局",
+   "Countdown! Reminders and Timer"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 6.0.0 (2026-11-10) China release notes lead with full adaptation for the iPhone Duo foldable screen, with coordinated interaction between the inner and outer screens. No more specific layout detail is published.",
+  "adaptation_zh": "6.0.0 版（2026-11-10）国区更新说明首条写「全面适配 iPhone Duo 折叠屏，内外屏协同交互」。未公布更具体的布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.0.0 App Store (CN) release notes: '全面适配 iPhone Duo 折叠屏，内外屏协同交互'",
+   "Countdown and reminders app by 霞 王, ¥3.00; China-store listing"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.0.0, 2026-11-10)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "multitimer",
+  "name_en": "MultiTimer: Multiple timers",
+  "name_zh": null,
+  "aliases": [
+   "MultiTimer"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 7.10 (2026-11-11) release notes add 'Added support for iPhone Duo'. No specific Duo layout detail is published.",
+  "adaptation_zh": "7.10 版（2026-11-11）更新说明新增「Added support for iPhone Duo（新增对 iPhone Duo 的支持）」。未公布具体布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.10 App Store release notes: 'Added support for iPhone Duo'",
+   "Multiple-timers app by Sergey Astakhov (PERSAPPS), free with in-app purchases"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.10, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "jieya-zhuanjia-zhaolan-us",
+  "name_en": "Unzip - Zip RAR 7Z File Viewer",
+  "name_zh": null,
+  "aliases": [
+   "Unzip",
+   "解压专家"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 9.10.1 (2026-11-11) US release notes lead with 'Support iPhone duo'. No specific Duo layout detail is published. This is a different app from the DZIP extractor edition by Little Sweet Technology recorded on 2026-11-10.",
+  "adaptation_zh": "9.10.1 版（2026-11-11）美区更新说明首条写「Support iPhone duo（支持 iPhone duo）」。未公布具体布局细节。注意与 2026-11-10 已记录的 DZIP 版解压专家（Little Sweet Technology）是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "9.10.1 App Store release notes: 'Support iPhone duo'",
+   "ZIP/RAR/7Z viewer by 岚 赵, free; US listing, distinct from the DZIP edition"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (9.10.1, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "slug": "jieya-zhuanjia-zhaolan-cn",
+  "name_en": null,
+  "name_zh": "解压专家 - ZIP RAR 7Z 解压软件",
+  "aliases": [
+   "解压专家",
+   "Unzip"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 9.10.1 (2026-11-11) China release notes lead with adaptation for iPhone Duo. No specific Duo layout detail is published. This is a different app from the DZIP extractor edition by Little Sweet Technology recorded on 2026-11-10.",
+  "adaptation_zh": "9.10.1 版（2026-11-11）国区更新说明首条写「适配 iPhone duo」。未公布具体布局细节。注意与 2026-11-10 已记录的 DZIP 版解压专家（Little Sweet Technology）是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "9.10.1 App Store (CN) release notes: '适配 iPhone duo'",
+   "ZIP/RAR/7Z extractor by 岚 赵, free; China-store listing, distinct from the DZIP edition"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (9.10.1, 2026-11-11)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
  }
 ]

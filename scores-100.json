@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "scale": "100-point capability score",
  "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
  "bands": {
@@ -12,11 +12,11 @@
  "distribution": {
   "100": 44,
   "80": 79,
-  "60": 125,
+  "60": 138,
   "40": 3,
   "20": 1
  },
- "count": 252,
+ "count": 265,
  "apps": [
   {
    "slug": "a-shell",
@@ -54,6 +54,28 @@
   {
    "slug": "activitytracker-us",
    "name_en": "ActivityTracker Pedometer",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "adguard",
+   "name_en": "AdGuard: Ad Blocker for Safari",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "adguard-pro",
+   "name_en": "AdGuard Pro: Safari Ad Blocker",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -176,6 +198,28 @@
    "slug": "autoscreen-us",
    "name_en": "AutoScreen: Car Screen Mirror",
    "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "baidu-maps-cn",
+   "name_en": "Baidu Maps",
+   "name_zh": "百度地图",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "baidu-maps-us",
+   "name_en": "Baidu Maps",
+   "name_zh": "百度地图",
    "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
@@ -1097,6 +1141,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "jieya-zhuanjia-zhaolan-cn",
+   "name_en": null,
+   "name_zh": "解压专家 - ZIP RAR 7Z 解压软件",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "jieya-zhuanjia-zhaolan-us",
+   "name_en": "Unzip - Zip RAR 7Z File Viewer",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "jiwushuang-2",
    "name_en": null,
    "name_zh": "极无双2",
@@ -1394,6 +1460,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "multitimer",
+   "name_en": "MultiTimer: Multiple timers",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "nba",
    "name_en": "NBA",
    "name_zh": null,
@@ -1512,6 +1589,50 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nplayer-cn",
+   "name_en": "nPlayer",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nplayer-plus-cn",
+   "name_en": "nPlayer Plus",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nplayer-plus-us",
+   "name_en": "nPlayer Plus",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nplayer-us",
+   "name_en": "nPlayer",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -1974,6 +2095,28 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "shijian-guihuaju-cn",
+   "name_en": null,
+   "name_zh": "时间规划局 - 倒计时与提醒事项",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "shijian-guihuaju-us",
+   "name_en": "Countdown! Reminders and Timer",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {

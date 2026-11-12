@@ -1035,5 +1035,76 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-11-11"
+  },
+  {
+    "date": "2026-11-12",
+    "snapshot_time_utc": "2026-11-12T15:12:13+00:00",
+    "snapshot_time_et": "2026-11-12 10:12 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 2,
+    "by_model": [
+      {
+        "model": "256GB Star White",
+        "part": "MK1E4LL/A",
+        "stores_in_stock": 1
+      },
+      {
+        "model": "256GB Night Sky",
+        "part": "MK1F4LL/A",
+        "stores_in_stock": 1
+      },
+      {
+        "model": "512GB Star White",
+        "part": "MK1G4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "512GB Night Sky",
+        "part": "MK1H4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "1TB Star White",
+        "part": "MK1J4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "1TB Night Sky",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 2
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R053",
+        "store_name": "Millenia",
+        "city": "Orlando",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R131",
+        "store_name": "La Cantera",
+        "city": "San Antonio",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-12"
   }
 ]
