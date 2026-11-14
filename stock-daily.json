@@ -1345,5 +1345,77 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-11-13"
+  },
+  {
+    "date": "2026-11-14",
+    "snapshot_time_utc": "2026-11-14T15:10:20+00:00",
+    "snapshot_time_et": "2026-11-14 10:10 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 2,
+    "by_model": [
+      {
+        "model": "256GB Star White",
+        "part": "MK1E4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "256GB Night Sky",
+        "part": "MK1F4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "512GB Star White",
+        "part": "MK1G4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "512GB Night Sky",
+        "part": "MK1H4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "1TB Star White",
+        "part": "MK1J4LL/A",
+        "stores_in_stock": 1
+      },
+      {
+        "model": "1TB Night Sky",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 2
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R185",
+        "store_name": "Coconut Point",
+        "city": "Estero",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R115",
+        "store_name": "Lincoln Road",
+        "city": "Miami Beach",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
   }
 ]

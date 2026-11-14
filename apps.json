@@ -6025,5 +6025,193 @@
     "source_url": null,
     "credibility_tier": "verified",
     "date_verified": "2026-11-13"
+  },
+  {
+    "slug": "obd-fusion-us",
+    "name_en": "OBD Fusion",
+    "name_zh": null,
+    "aliases": [
+      "OBD Fusion"
+    ],
+    "store": "US",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "Version 7.5.0 (2026-11-13) release notes lead with 'Added support for the iPhone Duo'. No specific Duo layout detail is published beyond that statement.",
+    "adaptation_zh": "7.5.0 版（2026-11-13）更新说明首条写「Added support for the iPhone Duo（新增对 iPhone Duo 的支持）」；未公布具体布局细节。",
+    "editorial_score": 3,
+    "highlights": [
+      "7.5.0 App Store release notes: 'Added support for the iPhone Duo'",
+      "Vehicle diagnostics app by OCTECH LLC, $9.99"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (7.5.0, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "obd-fusion-cn",
+    "name_en": "OBD Fusion",
+    "name_zh": null,
+    "aliases": [
+      "OBD Fusion"
+    ],
+    "store": "CN",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 7.5.0 (2026-11-13) release notes lead with added support for iPhone Duo. No specific Duo layout detail is published.",
+    "adaptation_zh": "与美区为同一版本：7.5.0 版（2026-11-13）国区更新说明首条写新增对 iPhone Duo 的支持；未公布具体布局细节。",
+    "editorial_score": 3,
+    "highlights": [
+      "7.5.0 App Store (CN) release notes: 'Added support for the iPhone Duo'",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (7.5.0, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "aubook-us",
+    "name_en": "AuBook",
+    "name_zh": null,
+    "aliases": [
+      "AuBook"
+    ],
+    "store": "US",
+    "category": "productivity",
+    "status": "adapted",
+    "adaptation_en": "Version 1.5 (2026-11-13) release notes lead with 'Made for iPhone Duo': unfolded, chapters are on the left page and the player on the right; half-folded, it shows a dark sleep-timer view. The app first launched in December 2025; 1.5 is its first written Duo statement.",
+    "adaptation_zh": "1.5 版（2026-11-13）更新说明首条写「Made for iPhone Duo」：展开后左页章节、右页播放器，半折时为深色睡眠定时视图；该 App 2025-12 首发，本版为首次书面 Duo 声明。",
+    "editorial_score": 3,
+    "highlights": [
+      "1.5 App Store release notes: 'Made for iPhone Duo' — chapters left, player right when unfolded",
+      "Audiobook app by silas slack, $6.99"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (1.5, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "aubook-cn",
+    "name_en": "AuBook",
+    "name_zh": null,
+    "aliases": [
+      "AuBook"
+    ],
+    "store": "CN",
+    "category": "productivity",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 1.5 (2026-11-13) release notes lead with 'Made for iPhone Duo', with chapters on the left and the player on the right when unfolded, and a dark sleep-timer view when half-folded.",
+    "adaptation_zh": "与美区为同一版本：1.5 版（2026-11-13）国区更新说明首条写「Made for iPhone Duo」：展开后左页章节、右页播放器，半折时为深色睡眠定时视图。",
+    "editorial_score": 3,
+    "highlights": [
+      "1.5 App Store (CN) release notes: 'Made for iPhone Duo'",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (1.5, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "lander-for-reddit-us",
+    "name_en": "Lander for Reddit",
+    "name_zh": null,
+    "aliases": [
+      "Lander for Reddit",
+      "Lander"
+    ],
+    "store": "US",
+    "category": "social",
+    "status": "adapted",
+    "adaptation_en": "Version 2.3.14 (2026-11-13) adds a Duo layout: a default feed layout can be set separately for the Duo cover screen, the inner screen in portrait, and the inner screen in landscape, and the two-pane view stays centred when the device is bent.",
+    "adaptation_zh": "2.3.14 版（2026-11-13）新增 Duo 布局：可为 Duo 外屏、内屏竖屏、内屏横屏分别设默认信息流布局，弯折时双栏保持居中。",
+    "editorial_score": 3,
+    "highlights": [
+      "2.3.14 App Store release notes describe per-orientation Duo feed layouts",
+      "Reddit client by William Smolen, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (2.3.14, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "lander-for-reddit-cn",
+    "name_en": "Lander for Reddit",
+    "name_zh": null,
+    "aliases": [
+      "Lander for Reddit",
+      "Lander"
+    ],
+    "store": "CN",
+    "category": "social",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 2.3.14 (2026-11-13) adds per-orientation Duo feed layouts for the cover screen and the inner screen in portrait and landscape, with the two-pane view staying centred when bent.",
+    "adaptation_zh": "与美区为同一版本：2.3.14 版（2026-11-13）国区说明新增 Duo 布局，可为外屏、内屏竖屏、内屏横屏分别设默认信息流布局，弯折时双栏保持居中。",
+    "editorial_score": 3,
+    "highlights": [
+      "2.3.14 App Store (CN) release notes describe per-orientation Duo feed layouts",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (2.3.14, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "dedao-cn",
+    "name_en": "Dedao",
+    "name_zh": "得到",
+    "aliases": [
+      "得到",
+      "Dedao"
+    ],
+    "store": "CN",
+    "category": "education",
+    "status": "adapted",
+    "adaptation_en": "Version 13.8.0 (2026-11-13) release notes carry a foldable-screen section stating adaptation for iPhone Duo: e-books show two pages side by side, livestreams in landscape split the picture and comments to either side, and videos show the picture beside the transcript.",
+    "adaptation_zh": "13.8.0 版（2026-11-13）更新说明设【折叠屏】专条「适配iPhone Duo」：读电子书左右两页并排、看直播横屏时画面与评论各占一边、看视频画面与文稿并排。",
+    "editorial_score": 3,
+    "highlights": [
+      "13.8.0 App Store (CN) release notes, foldable-screen section: '适配iPhone Duo'",
+      "Learning app by luojilab, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (13.8.0, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "dedao-us",
+    "name_en": "Dedao",
+    "name_zh": "得到",
+    "aliases": [
+      "得到",
+      "Dedao"
+    ],
+    "store": "US",
+    "category": "education",
+    "status": "adapted",
+    "adaptation_en": "US-store listing of the same build: version 13.8.0 (2026-11-13) release notes state adaptation for iPhone Duo, with e-books in two side-by-side pages, livestreams splitting picture and comments, and videos showing picture beside transcript.",
+    "adaptation_zh": "与国区为同一版本：13.8.0 版（2026-11-13）美区更新说明写明适配 iPhone Duo：电子书左右两页并排、直播画面与评论各占一边、视频画面与文稿并排。",
+    "editorial_score": 3,
+    "highlights": [
+      "13.8.0 App Store release notes: adaptation for iPhone Duo",
+      "Same build as the CN listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (13.8.0, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-14"
   }
 ]

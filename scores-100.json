@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "scale": "100-point capability score",
   "method": "score_100 = editorial_score_5 x 20. The 5-point editorial score is DuoReady's existing sourced rubric (every score rests on the record's named source in apps.json); the 100-point value is a pure linear rescale, no per-app adjustments.",
   "bands": {
@@ -12,11 +12,11 @@
   "distribution": {
     "100": 44,
     "80": 79,
-    "60": 144,
+    "60": 152,
     "40": 3,
     "20": 1
   },
-  "count": 271,
+  "count": 279,
   "apps": [
     {
       "slug": "a-shell",
@@ -182,6 +182,28 @@
       "score_100": 80,
       "band": "Great",
       "credibility_tier": "reported"
+    },
+    {
+      "slug": "aubook-cn",
+      "name_en": "AuBook",
+      "name_zh": null,
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "aubook-us",
+      "name_en": "AuBook",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
     },
     {
       "slug": "autoscreen-cn",
@@ -621,6 +643,28 @@
       "editorial_score_5": 5,
       "score_100": 100,
       "band": "Excellent",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "dedao-cn",
+      "name_en": "Dedao",
+      "name_zh": "得到",
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "dedao-us",
+      "name_en": "Dedao",
+      "name_zh": "得到",
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
       "credibility_tier": "verified"
     },
     {
@@ -1295,6 +1339,28 @@
       "credibility_tier": "verified"
     },
     {
+      "slug": "lander-for-reddit-cn",
+      "name_en": "Lander for Reddit",
+      "name_zh": null,
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "lander-for-reddit-us",
+      "name_en": "Lander for Reddit",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
       "slug": "liteschedule-cn",
       "name_en": "LiteSchedule",
       "name_zh": "轻课表-极简Watch课程表",
@@ -1688,6 +1754,28 @@
       "editorial_score_5": 4,
       "score_100": 80,
       "band": "Great",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "obd-fusion-cn",
+      "name_en": "OBD Fusion",
+      "name_zh": null,
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "obd-fusion-us",
+      "name_en": "OBD Fusion",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
       "credibility_tier": "verified"
     },
     {
