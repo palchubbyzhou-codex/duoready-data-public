@@ -1852,15 +1852,17 @@
     "store": "CN",
     "category": "video",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
+    "adaptation_en": "FitsDuo's check of version 6.8.0 (2026-11-03) records the app as built with the iOS 27.1 SDK and using Apple's iPhone Duo APIs, so it fills the inner display — but its status is 'Has issues': owners report a misaligned layout, a blocked corner in full screen and controls that stop responding. A transitional adaptation, not yet a clean Duo layout.",
+    "adaptation_zh": "FitsDuo 对 6.8.0 版（2026-11-03）的核查记录：该 App 以 iOS 27.1 SDK 构建并使用 iPhone Duo API，可铺满内屏；但状态为「Has issues」——机主报告布局错位、全屏时一角被遮挡、控件无响应。属过渡适配，尚未形成干净的 Duo 布局。",
     "editorial_score": 3,
-    "highlights": [],
+    "highlights": [
+      "FitsDuo (checked 2026-11-15): v6.8.0, iOS 27.1 SDK, uses Duo APIs, status 'Has issues' — misaligned layout reported"
+    ],
     "listed_on_site": true,
-    "source_name": "爱范儿 ifanr — 首发｜我们用了一周的 iPhone Duo (2026-10-22)",
-    "source_url": "https://www.ifanr.com/1685251",
+    "source_name": "FitsDuo — Does bilibili fit iPhone Duo? (v6.8.0 check)",
+    "source_url": "https://fitsduo.com/apps/bilibili",
     "credibility_tier": "reported",
-    "date_verified": "2026-10-27"
+    "date_verified": "2026-11-15"
   },
   {
     "slug": "capwords-cn",
@@ -6213,5 +6215,266 @@
     "source_url": null,
     "credibility_tier": "verified",
     "date_verified": "2026-11-14"
+  },
+  {
+    "slug": "ebay-us",
+    "name_en": "eBay",
+    "name_zh": null,
+    "aliases": [
+      "eBay"
+    ],
+    "store": "US",
+    "category": "shopping",
+    "status": "adapted",
+    "adaptation_en": "Version 6.282.0 (2026-11-14) US release notes open with 'The eBay app you love, now supporting iPhone Duo!' — the app's first written Duo statement. FitsDuo records the previous 6.281.0 (2026-11-07) as built with the iOS 27.0 SDK, partly fitting, with no Duo APIs. The China-store notes for the same version carry no Duo wording, so this record is US only. No specific Duo layout detail is published beyond the statement.",
+    "adaptation_zh": "6.282.0 版（2026-11-14）美区更新说明首句写「The eBay app you love, now supporting iPhone Duo!」，为首次书面适配声明；FitsDuo 证实上一版 6.281.0（11-07）为 iOS 27.0 SDK、Partly fits、无 Duo API。国区同版说明无 Duo 字样，故仅记美区；未公布具体布局细节。",
+    "editorial_score": 3,
+    "highlights": [
+      "6.282.0 App Store release notes: 'now supporting iPhone Duo' — first written Duo statement",
+      "Marketplace app by eBay Inc., free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (6.282.0, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "meowpuut-cn",
+    "name_en": "Meowpuut",
+    "name_zh": "喵扑",
+    "aliases": [
+      "喵扑",
+      "Meowpuut"
+    ],
+    "store": "CN",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 1.1 (2026-11-14) is the pinyin keyboard's first written Duo statement — closed it keeps the familiar keyboard layout; unfolded, keys sit within easy thumb reach, the glass candidate bar holds more words, and the home page shows the cat's life photos side by side. The app first launched on 2026-11-12.",
+    "adaptation_zh": "与美区为同一版本：1.1 版（2026-11-14）国区说明为首次书面 Duo 声明——合上保留熟悉键盘布局，展开后按键集中在手指易够处、玻璃候选栏可多放词、首页猫咪生活照并排看；该 App 2026-11-12 才首发。",
+    "editorial_score": 3,
+    "highlights": [
+      "1.1 App Store (CN) release notes: first written Duo statement for this keyboard",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (1.1, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "meowpuut-us",
+    "name_en": "Meowpuut",
+    "name_zh": "喵扑",
+    "aliases": [
+      "喵扑",
+      "Meowpuut"
+    ],
+    "store": "US",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "Version 1.1 (2026-11-14) is this pinyin keyboard's first written Duo statement: closed it keeps the familiar keyboard layout; unfolded, keys sit within easy thumb reach, the glass candidate bar holds more words, and the home page shows the cat's life photos side by side. The app first launched on 2026-11-12.",
+    "adaptation_zh": "1.1 版（2026-11-14）更新说明为首次书面 Duo 声明：合上保留熟悉键盘布局，展开后按键集中在手指易够处、玻璃候选栏可多放词、首页猫咪生活照并排看；该 App 2026-11-12 才首发。",
+    "editorial_score": 3,
+    "highlights": [
+      "1.1 App Store release notes: first written Duo statement — keys within thumb reach when unfolded",
+      "Pinyin keyboard by Wang Tianyu, $0.99 (CN ¥6)"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (1.1, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "mono-ai-expense-tracker-cn",
+    "name_en": "MONO - AI Expense Tracker",
+    "name_zh": "MONO 记账",
+    "aliases": [
+      "MONO 记账",
+      "MONO"
+    ],
+    "store": "CN",
+    "category": "finance",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 27.18.0 (2026-11-13) release notes headline the Duo adaptation ('MONO is now optimized for iPhone Duo'). No specific Duo layout detail is published beyond that statement; the 2026-11-14 watch round missed it and it is backfilled within 48h.",
+    "adaptation_zh": "与美区为同一版本：27.18.0 版（2026-11-13）国区更新说明头条写「MONO 记账现已适配 iPhone Duo！」；未公布具体布局细节；11-14 轮次漏检、48h 内补报。",
+    "editorial_score": 3,
+    "highlights": [
+      "27.18.0 App Store (CN) release notes headline: 'MONO 记账现已适配 iPhone Duo'",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (27.18.0, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "mono-ai-expense-tracker-us",
+    "name_en": "MONO - AI Expense Tracker",
+    "name_zh": "MONO 记账",
+    "aliases": [
+      "MONO 记账",
+      "MONO"
+    ],
+    "store": "US",
+    "category": "finance",
+    "status": "adapted",
+    "adaptation_en": "Version 27.18.0 (2026-11-13) release notes headline 'MONO is now optimized for iPhone Duo!'. No specific Duo layout detail is published beyond that statement; the 2026-11-14 watch round missed it and it is backfilled within 48h.",
+    "adaptation_zh": "27.18.0 版（2026-11-13）更新说明头条写「MONO is now optimized for iPhone Duo!」；未公布具体布局细节；11-14 轮次漏检、48h 内补报。",
+    "editorial_score": 3,
+    "highlights": [
+      "27.18.0 App Store release notes headline: 'MONO is now optimized for iPhone Duo'",
+      "Expense tracker by Chengdu Weisen Quwan Technology, free + in-app purchases"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (27.18.0, 2026-11-13)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "gear-browser-cn",
+    "name_en": "Gear: AI Web Extension Browser",
+    "name_zh": "Gear 浏览器",
+    "aliases": [
+      "Gear 浏览器",
+      "Gear"
+    ],
+    "store": "CN",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 7.5.1 (2026-11-14) release notes lead with adaptation for iPhone Duo 'with deep-level optimizations'. No specific Duo layout detail is published beyond that statement.",
+    "adaptation_zh": "与美区为同一版本：7.5.1 版（2026-11-14）国区更新说明首条写「适配 iPhone Duo，并进行深度优化」；未公布具体布局细节。",
+    "editorial_score": 3,
+    "highlights": [
+      "7.5.1 App Store (CN) release notes: '适配 iPhone Duo，并进行深度优化'",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (7.5.1, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "gear-browser-us",
+    "name_en": "Gear: AI Web Extension Browser",
+    "name_zh": "Gear 浏览器",
+    "aliases": [
+      "Gear 浏览器",
+      "Gear"
+    ],
+    "store": "US",
+    "category": "utilities",
+    "status": "adapted",
+    "adaptation_en": "Version 7.5.1 (2026-11-14) release notes lead with 'Adapted for iPhone Duo, with deep-level optimizations'. No specific Duo layout detail is published beyond that statement.",
+    "adaptation_zh": "7.5.1 版（2026-11-14）更新说明首条写「Adapted for iPhone Duo, with deep-level optimizations（适配 iPhone Duo，并进行深度优化）」；未公布具体布局细节。",
+    "editorial_score": 3,
+    "highlights": [
+      "7.5.1 App Store release notes: 'Adapted for iPhone Duo, with deep-level optimizations'",
+      "Browser by Binary Gear LLC, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (7.5.1, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "open-draft-screenwriting-us",
+    "name_en": "Open Draft Screenwriting",
+    "name_zh": null,
+    "aliases": [
+      "Open Draft Screenwriting",
+      "Open Draft"
+    ],
+    "store": "US",
+    "category": "productivity",
+    "status": "adapted",
+    "adaptation_en": "Version 2.13.0 (2026-11-14) release notes carry a 'MADE FOR IPHONE DUO' section: closed, the script fills the cover screen; unfolded book-style, one page holds the script and the other the panel; half-folded, the panel sits below the script; fold and unfold layouts are remembered separately.",
+    "adaptation_zh": "2.13.0 版（2026-11-14）更新说明设「MADE FOR IPHONE DUO」专节：合上剧本铺满外屏、书本式展开一页剧本一页面板、半折时面板在剧本下方，折叠/展开布局分别记忆。",
+    "editorial_score": 3,
+    "highlights": [
+      "2.13.0 App Store release notes, 'MADE FOR IPHONE DUO' section: script page beside panel when unfolded",
+      "Screenwriting app by Base Information Management Pvt. Ltd., free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (2.13.0, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "open-draft-screenwriting-cn",
+    "name_en": "Open Draft Screenwriting",
+    "name_zh": null,
+    "aliases": [
+      "Open Draft Screenwriting",
+      "Open Draft"
+    ],
+    "store": "CN",
+    "category": "productivity",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 2.13.0 (2026-11-14) carries a 'MADE FOR IPHONE DUO' section — closed, the script fills the cover screen; unfolded book-style, one page holds the script and the other the panel; half-folded, the panel sits below the script; fold and unfold layouts are remembered separately.",
+    "adaptation_zh": "与美区为同一版本：2.13.0 版（2026-11-14）国区说明设「MADE FOR IPHONE DUO」专节——合上剧本铺满外屏、书本式展开一页剧本一页面板、半折时面板在剧本下方，折叠/展开布局分别记忆。",
+    "editorial_score": 3,
+    "highlights": [
+      "2.13.0 App Store (CN) release notes, 'MADE FOR IPHONE DUO' section",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (2.13.0, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "crease-fold-us",
+    "name_en": "Crease Fold",
+    "name_zh": null,
+    "aliases": [
+      "Crease Fold"
+    ],
+    "store": "US",
+    "category": "games",
+    "status": "adapted",
+    "adaptation_en": "Version 1.1 (2026-11-14) adds 'New layouts for iPhone Duo, open or closed' (the same update grows the game from 24 to 72 levels). The game first launched in August 2026, before the Duo; 1.1 is its first Duo layout statement.",
+    "adaptation_zh": "1.1 版（2026-11-14）更新说明新增「New layouts for iPhone Duo, open or closed」（同版关卡 24→72）；该游戏 2026-08 首发、早于 Duo 上市，本版为首次 Duo 布局声明。",
+    "editorial_score": 3,
+    "highlights": [
+      "1.1 App Store release notes: 'New layouts for iPhone Duo, open or closed'",
+      "Game by Jarle Hansen, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (1.1, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
+  },
+  {
+    "slug": "crease-fold-cn",
+    "name_en": "Crease Fold",
+    "name_zh": null,
+    "aliases": [
+      "Crease Fold"
+    ],
+    "store": "CN",
+    "category": "games",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 1.1 (2026-11-14) adds 'New layouts for iPhone Duo, open or closed' (the same update grows the game from 24 to 72 levels). The game first launched in August 2026, before the Duo; 1.1 is its first Duo layout statement.",
+    "adaptation_zh": "与美区为同一版本：1.1 版（2026-11-14）国区说明新增「New layouts for iPhone Duo, open or closed」（同版关卡 24→72）；该游戏 2026-08 首发、早于 Duo 上市，本版为首次 Duo 布局声明。",
+    "editorial_score": 3,
+    "highlights": [
+      "1.1 App Store (CN) release notes: 'New layouts for iPhone Duo, open or closed'",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (1.1, 2026-11-14)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-15"
   }
 ]
