@@ -1803,5 +1803,362 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-11-17"
+  },
+  {
+    "date": "2026-11-18",
+    "snapshot_time_utc": "2026-11-18T15:12:47+00:00",
+    "snapshot_time_et": "2026-11-18 10:12 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 25,
+    "by_model": [
+      {
+        "model": "256GB Star White",
+        "part": "MK1E4LL/A",
+        "stores_in_stock": 14
+      },
+      {
+        "model": "256GB Night Sky",
+        "part": "MK1F4LL/A",
+        "stores_in_stock": 19
+      },
+      {
+        "model": "512GB Star White",
+        "part": "MK1G4LL/A",
+        "stores_in_stock": 18
+      },
+      {
+        "model": "512GB Night Sky",
+        "part": "MK1H4LL/A",
+        "stores_in_stock": 21
+      },
+      {
+        "model": "1TB Star White",
+        "part": "MK1J4LL/A",
+        "stores_in_stock": 21
+      },
+      {
+        "model": "1TB Night Sky",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 19
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R025",
+        "store_name": "Westfarms",
+        "city": "Farmington",
+        "state": "CT",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R111",
+        "store_name": "St. Johns Town Center",
+        "city": "Jacksonville",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R623",
+        "store_name": "Brickell City Centre",
+        "city": "Miami",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R115",
+        "store_name": "Lincoln Road",
+        "city": "Miami Beach",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R053",
+        "store_name": "Millenia",
+        "city": "Orlando",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R019",
+        "store_name": "International Plaza",
+        "city": "Tampa",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A"
+        ]
+      },
+      {
+        "store_number": "R024",
+        "store_name": "Wellington Green",
+        "city": "Wellington",
+        "state": "FL",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R264",
+        "store_name": "Oxmoor",
+        "city": "Louisville",
+        "state": "KY",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R232",
+        "store_name": "Natick",
+        "city": "Natick",
+        "state": "MA",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R132",
+        "store_name": "Woodland",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A"
+        ]
+      },
+      {
+        "store_number": "R055",
+        "store_name": "Somerset",
+        "city": "Troy",
+        "state": "MI",
+        "parts_in_stock": [
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R114",
+        "store_name": "Saint Louis Galleria",
+        "city": "Saint Louis",
+        "state": "MO",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R796",
+        "store_name": "Birkdale Village",
+        "city": "Huntersville",
+        "state": "NC",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R116",
+        "store_name": "Crabtree Valley Mall",
+        "city": "Raleigh",
+        "state": "NC",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A"
+        ]
+      },
+      {
+        "store_number": "R095",
+        "store_name": "Fifth Avenue",
+        "city": "New York",
+        "state": "NY",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R028",
+        "store_name": "Kenwood Towne Centre",
+        "city": "Cincinnati",
+        "state": "OH",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R009",
+        "store_name": "Easton Town Center",
+        "city": "Columbus",
+        "state": "OH",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R192",
+        "store_name": "Crocker Park",
+        "city": "Westlake",
+        "state": "OH",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1J4LL/A"
+        ]
+      },
+      {
+        "store_number": "R167",
+        "store_name": "Providence Place",
+        "city": "Providence",
+        "state": "RI",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R318",
+        "store_name": "Charleston",
+        "city": "Charleston",
+        "state": "SC",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A"
+        ]
+      },
+      {
+        "store_number": "R042",
+        "store_name": "Knox Street",
+        "city": "Dallas",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A"
+        ]
+      },
+      {
+        "store_number": "R058",
+        "store_name": "Houston Galleria",
+        "city": "Houston",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R290",
+        "store_name": "North Star",
+        "city": "San Antonio",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1F4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R151",
+        "store_name": "Southlake Town Square",
+        "city": "Southlake",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R126",
+        "store_name": "The Woodlands",
+        "city": "The Woodlands",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
   }
 ]

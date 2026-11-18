@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17",
+  "generated": "2026-11-18",
   "scale": "score_100 = editorial_score (1-5) x 20",
   "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
   "bands": {
@@ -11,12 +11,12 @@
   },
   "distribution": {
     "100": 44,
-    "80": 79,
-    "60": 186,
+    "80": 83,
+    "60": 192,
     "40": 3,
     "20": 1
   },
-  "count": 313,
+  "count": 323,
   "apps": [
     {
       "slug": "2number-us",
@@ -160,6 +160,17 @@
       "score_100": 60,
       "band": "Good",
       "credibility_tier": "verified"
+    },
+    {
+      "slug": "apple-store-us",
+      "name_en": "Apple Store",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 4,
+      "score_100": 80,
+      "band": "Great",
+      "credibility_tier": "reported"
     },
     {
       "slug": "apple-support",
@@ -618,9 +629,9 @@
       "name_zh": null,
       "store": "US",
       "listed_on_site": true,
-      "editorial_score_5": 3,
-      "score_100": 60,
-      "band": "Good",
+      "editorial_score_5": 4,
+      "score_100": 80,
+      "band": "Great",
       "credibility_tier": "verified"
     },
     {
@@ -676,6 +687,28 @@
       "editorial_score_5": 3,
       "score_100": 60,
       "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "darts-checkout-scorer-pro-us",
+      "name_en": "Darts Checkout Scorer Pro",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 4,
+      "score_100": 80,
+      "band": "Great",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "darts-checkout-scorer-us",
+      "name_en": "Darts Checkout Scorer",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 4,
+      "score_100": 80,
+      "band": "Great",
       "credibility_tier": "verified"
     },
     {
@@ -1067,6 +1100,17 @@
       "slug": "gear-browser-us",
       "name_en": "Gear: AI Web Extension Browser",
       "name_zh": "Gear 浏览器",
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "genie-ai-us",
+      "name_en": "Genie AI - AI Video Generator",
+      "name_zh": null,
       "store": "US",
       "listed_on_site": false,
       "editorial_score_5": 3,
@@ -1658,6 +1702,28 @@
       "credibility_tier": "reported"
     },
     {
+      "slug": "microsoft-onedrive-cn",
+      "name_en": "Microsoft OneDrive",
+      "name_zh": null,
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "microsoft-onedrive-us",
+      "name_en": "Microsoft OneDrive",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
       "slug": "microsoft-onenote",
       "name_en": "Microsoft OneNote",
       "name_zh": null,
@@ -1809,6 +1875,28 @@
       "editorial_score_5": 5,
       "score_100": 100,
       "band": "Excellent",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "neutron-music-player-cn",
+      "name_en": "Neutron Music Player",
+      "name_zh": null,
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "neutron-music-player-us",
+      "name_en": "Neutron Music Player",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
       "credibility_tier": "verified"
     },
     {
@@ -2155,6 +2243,17 @@
     {
       "slug": "picsew-us",
       "name_en": "Picsew - Screenshot Stitching",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "ping-dating-us",
+      "name_en": "Ping! Dating App: Chat & Meet",
       "name_zh": null,
       "store": "US",
       "listed_on_site": false,
@@ -2877,6 +2976,17 @@
       "score_100": 100,
       "band": "Excellent",
       "credibility_tier": "reported"
+    },
+    {
+      "slug": "threema-us",
+      "name_en": "Threema. The Secure Messenger",
+      "name_zh": null,
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
     },
     {
       "slug": "ticktick-us",

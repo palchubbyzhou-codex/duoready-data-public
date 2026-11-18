@@ -217,15 +217,18 @@
     "store": "US",
     "category": "utilities",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
-    "editorial_score": 3,
-    "highlights": [],
+    "adaptation_en": "FitsDuo's build check of version 2026.5.1 (2026-10-26) reports Crouton fills the inner screen and adapts when you fold, with no letterboxing: the build uses the iOS 27.1 SDK and Apple's iPhone Duo APIs (including UIHingeInteraction, reserved regions and split arrangement controllers).",
+    "adaptation_zh": "据 FitsDuo 对 2026.5.1 版（2026-10-26）安装包的检测，Crouton 铺满内屏、随折叠自适应、无黑边：该版本基于 iOS 27.1 SDK 构建，并使用苹果 iPhone Duo API（含 UIHingeInteraction、reserved regions 与分屏 arrangement 控制器）。",
+    "editorial_score": 4,
+    "highlights": [
+      "FitsDuo build check (v2026.5.1, iOS 27.1 SDK): fills the inner display, adapts when you fold, uses iPhone Duo APIs",
+      "Listed in App Store 'Great Apps on iPhone Duo' collection"
+    ],
     "listed_on_site": true,
-    "source_name": "App Store: Great Apps on iPhone Duo collection",
+    "source_name": "App Store: Great Apps on iPhone Duo collection; FitsDuo build check (2026.5.1, 2026-10-26)",
     "source_url": "https://apps.apple.com/us/story/id6820639500",
     "credibility_tier": "verified",
-    "date_verified": "2026-10-27"
+    "date_verified": "2026-11-18"
   },
   {
     "slug": "crunchyroll",
@@ -7024,5 +7027,240 @@
     "source_url": null,
     "credibility_tier": "verified",
     "date_verified": "2026-11-17"
+  },
+  {
+    "slug": "apple-store-us",
+    "name_en": "Apple Store",
+    "name_zh": null,
+    "aliases": [
+      "Apple Store"
+    ],
+    "store": "US",
+    "category": "shopping",
+    "status": "adapted",
+    "adaptation_en": "Version 6.10 (2026-11-17). The App Store release notes are generic, but MacRumors and 9to5Mac reported on 2026-11-17 that the app is now truly adapted for iPhone Duo: it makes full use of the inner and outer displays in all orientations, with a new unified bottom tab bar. FitsDuo confirms the previous version 6.9 was built on the iOS 26.5 SDK and ran letterboxed on the inner display.",
+    "adaptation_zh": "6.10 版（2026-11-17）。App Store 更新说明仅泛述；MacRumors 与 9to5Mac 2026-11-17 同日报道该 App 已真正适配 iPhone Duo：充分利用内外屏、支持全方向，并新增底部统一标签栏。FitsDuo 证实上一版 6.9 为 iOS 26.5 SDK、在内屏为黑边居中。",
+    "editorial_score": 4,
+    "highlights": [
+      "6.10 reported by MacRumors and 9to5Mac on 2026-11-17 as truly adapted for iPhone Duo, with a new unified bottom tab bar",
+      "Shopping app by Apple, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "MacRumors / 9to5Mac reporting (2026-11-17); App Store version 6.10",
+    "source_url": null,
+    "credibility_tier": "reported",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "threema-us",
+    "name_en": "Threema. The Secure Messenger",
+    "name_zh": null,
+    "aliases": [
+      "Threema"
+    ],
+    "store": "US",
+    "category": "social",
+    "status": "adapted",
+    "adaptation_en": "Version 7.6 (2026-11-17) release notes state 'The app is optimized for the iPhone Duo'. The app first launched in 2012; this is its first written Duo statement. There is no main Threema listing in the China store.",
+    "adaptation_zh": "7.6 版（2026-11-17）更新说明写「The app is optimized for the iPhone Duo（已为 iPhone Duo 优化）」；该 App 2012 年首发，本版为首次书面 Duo 声明；国区商店无主 App。",
+    "editorial_score": 3,
+    "highlights": [
+      "7.6 App Store release notes: 'The app is optimized for the iPhone Duo' — first written Duo statement",
+      "Secure messenger by Threema GmbH, $6.99"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (7.6, 2026-11-17)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "neutron-music-player-us",
+    "name_en": "Neutron Music Player",
+    "name_zh": null,
+    "aliases": [
+      "Neutron",
+      "Neutron Music Player"
+    ],
+    "store": "US",
+    "category": "music",
+    "status": "adapted",
+    "adaptation_en": "Version 2.30.0 (2026-11-17) release notes add 'Support for iPhone Duo'. This is the app's first written Duo statement for this version.",
+    "adaptation_zh": "2.30.0 版（2026-11-17）更新说明新增「Support for iPhone Duo（支持 iPhone Duo）」，为首次书面 Duo 声明。",
+    "editorial_score": 3,
+    "highlights": [
+      "2.30.0 App Store release notes: 'Support for iPhone Duo'",
+      "Music player by Neutron Code Limited, $12.99"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (2.30.0, 2026-11-17)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "neutron-music-player-cn",
+    "name_en": "Neutron Music Player",
+    "name_zh": null,
+    "aliases": [
+      "Neutron",
+      "Neutron Music Player"
+    ],
+    "store": "CN",
+    "category": "music",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 2.30.0 (2026-11-17) release notes state support for iPhone Duo.",
+    "adaptation_zh": "与美区为同一版本：2.30.0 版（2026-11-17）国区说明写「支持 iPhone Duo」。",
+    "editorial_score": 3,
+    "highlights": [
+      "2.30.0 App Store (CN) release notes: '支持 iPhone Duo'",
+      "Same build as the US listing, ¥88"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (2.30.0, 2026-11-17)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "ping-dating-us",
+    "name_en": "Ping! Dating App: Chat & Meet",
+    "name_zh": null,
+    "aliases": [
+      "Ping!",
+      "Ping! Dating App"
+    ],
+    "store": "US",
+    "category": "social",
+    "status": "adapted",
+    "adaptation_en": "Version 1.19.2 (2026-11-17) release notes state 'full support and interface optimization for the new iPhone Duo'. This is the app's first written Duo statement. There is no China-store listing.",
+    "adaptation_zh": "1.19.2 版（2026-11-17）更新说明写「full support and interface optimization for the new iPhone Duo（全面支持 iPhone Duo 并优化界面）」，为首次书面 Duo 声明；国区未上架。",
+    "editorial_score": 3,
+    "highlights": [
+      "1.19.2 App Store release notes: 'full support and interface optimization for the new iPhone Duo'",
+      "Dating app by NexaConnect, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (1.19.2, 2026-11-17)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "darts-checkout-scorer-pro-us",
+    "name_en": "Darts Checkout Scorer Pro",
+    "name_zh": null,
+    "aliases": [
+      "Darts Checkout Scorer Pro"
+    ],
+    "store": "US",
+    "category": "sports",
+    "status": "adapted",
+    "adaptation_en": "Version 6.0.0 (2026-11-17) release notes state 'Made for iPhone Duo and iPad: two pages on a wide screen, the board on one side and your input on the other' — unfolded, the board sits on one side and the input on the other. This is the app's first written Duo statement. There is no China-store listing.",
+    "adaptation_zh": "6.0.0 版（2026-11-17）更新说明写「Made for iPhone Duo and iPad: two pages on a wide screen, the board on one side and your input on the other（为 iPhone Duo 与 iPad 打造：宽屏双页，棋盘在一侧、输入在另一侧）」，为首次书面 Duo 声明；国区未上架。",
+    "editorial_score": 4,
+    "highlights": [
+      "6.0.0 App Store release notes: 'Made for iPhone Duo and iPad: two pages on a wide screen, the board on one side and your input on the other'",
+      "Darts scorer by Zoltan Vinkler, $3.99"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (6.0.0, 2026-11-17)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "darts-checkout-scorer-us",
+    "name_en": "Darts Checkout Scorer",
+    "name_zh": null,
+    "aliases": [
+      "Darts Checkout Scorer"
+    ],
+    "store": "US",
+    "category": "sports",
+    "status": "adapted",
+    "adaptation_en": "Free version of Darts Checkout Scorer: version 6.0.0 (2026-11-17) carries the same Duo wording as the Pro version — 'Made for iPhone Duo and iPad: two pages on a wide screen, the board on one side and your input on the other'. This is the app's first written Duo statement. There is no China-store listing.",
+    "adaptation_zh": "免费版与 Pro 版同日同版：6.0.0 版（2026-11-17）更新说明同写「Made for iPhone Duo and iPad：宽屏双页，棋盘在一侧、输入在另一侧」，为首次书面 Duo 声明；国区未上架。",
+    "editorial_score": 4,
+    "highlights": [
+      "6.0.0 App Store release notes: same 'Made for iPhone Duo' two-page wording as the Pro version",
+      "Free version of the darts scorer by Zoltan Vinkler"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (6.0.0, 2026-11-17)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "microsoft-onedrive-us",
+    "name_en": "Microsoft OneDrive",
+    "name_zh": null,
+    "aliases": [
+      "OneDrive",
+      "Microsoft OneDrive"
+    ],
+    "store": "US",
+    "category": "productivity",
+    "status": "adapted",
+    "adaptation_en": "Version 26.2.2 (2026-11-16) release notes state 'We've updated OneDrive to make the most of iPhone Duo's unique design'; files and photos can be previewed at full size on the inner display, as reported on 2026-11-18. This is the app's first written Duo statement.",
+    "adaptation_zh": "26.2.2 版（2026-11-16）更新说明写「We've updated OneDrive to make the most of iPhone Duo's unique design（已更新 OneDrive 以充分利用 iPhone Duo 的独特设计）」，文件与照片可在内屏全尺寸预览；为首次书面 Duo 声明。",
+    "editorial_score": 3,
+    "highlights": [
+      "26.2.2 App Store release notes: 'We've updated OneDrive to make the most of iPhone Duo's unique design'",
+      "Cloud storage by Microsoft, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (26.2.2, 2026-11-16)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "microsoft-onedrive-cn",
+    "name_en": "Microsoft OneDrive",
+    "name_zh": null,
+    "aliases": [
+      "OneDrive",
+      "Microsoft OneDrive"
+    ],
+    "store": "CN",
+    "category": "productivity",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 26.2.2 (2026-11-16) release notes state OneDrive was updated to make the most of iPhone Duo's unique design, with files and photos previewed at full size on the inner display.",
+    "adaptation_zh": "与美区为同一版本：26.2.2 版（2026-11-16）国区说明写「我们已更新 OneDrive，以充分利用 iPhone Duo 的独特设计」，文件与照片可在内屏全尺寸预览。",
+    "editorial_score": 3,
+    "highlights": [
+      "26.2.2 App Store (CN) release notes: '我们已更新 OneDrive，以充分利用 iPhone Duo 的独特设计'",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (26.2.2, 2026-11-16)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "genie-ai-us",
+    "name_en": "Genie AI - AI Video Generator",
+    "name_zh": null,
+    "aliases": [
+      "Genie AI"
+    ],
+    "store": "US",
+    "category": "video",
+    "status": "adapted",
+    "adaptation_en": "Version 2.5.2 (2026-11-16) release notes state 'Fully optimized for iPhone Duo, bringing a smooth dual-screen AI creation experience'. FitsDuo confirms the previous version 2.5.1 was built on the iOS 26.5 SDK with no Duo API, and 2.5.2 updated to Fits, filling the inner display. There is no China-store listing.",
+    "adaptation_zh": "2.5.2 版（2026-11-16）更新说明写「Fully optimized for iPhone Duo, bringing a smooth dual-screen AI creation experience（已为 iPhone Duo 全面优化，带来流畅的双屏 AI 创作体验）」；FitsDuo 证实上一版 2.5.1 为 iOS 26.5 SDK、无 Duo API，本版状态更新为 Fits 铺满内屏；国区未上架。",
+    "editorial_score": 3,
+    "highlights": [
+      "2.5.2 App Store release notes: 'Fully optimized for iPhone Duo, bringing a smooth dual-screen AI creation experience'",
+      "AI video generator by SylvaFlow Tech Limited, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (2.5.2, 2026-11-16)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-18"
   }
 ]
