@@ -7262,5 +7262,75 @@
     "source_url": null,
     "credibility_tier": "verified",
     "date_verified": "2026-11-18"
+  },
+  {
+    "slug": "sunlitt-us",
+    "name_en": "Sunlitt: Sun Tracker & Seeker",
+    "name_zh": "Sunlitt：太阳轨迹与日照地图",
+    "aliases": [
+      "Sunlitt"
+    ],
+    "store": "US",
+    "category": "weather",
+    "status": "adapted",
+    "adaptation_en": "Version 4.11.4 (2026-11-19) release notes lead with 'Sunlitt now supports iPhone Duo!' and add a dedicated section: the UI adjusts to naturally fit the Duo's fold states and postures, with vertical bars and interface depth integrated to carry the time slider. The app first launched in 2022; this is its first written Duo statement.",
+    "adaptation_zh": "4.11.4 版（2026-11-19）更新说明头条写「Sunlitt now supports iPhone Duo!（Sunlitt 现已支持 iPhone Duo）」，并设专节：界面调整以自然适配 Duo 的折叠状态与姿态，竖条与界面深度整合承载时间滑杆；该 App 2022 年首发，本版为首次书面 Duo 声明。",
+    "editorial_score": 3,
+    "highlights": [
+      "4.11.4 App Store release notes: 'Sunlitt now supports iPhone Duo!' with UI adjusted for Duo fold states and postures",
+      "Sun tracker by Flipping Hues Srls, free with in-app purchases"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (4.11.4, 2026-11-19)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-19"
+  },
+  {
+    "slug": "sunlitt-cn",
+    "name_en": "Sunlitt: Sun Tracker & Seeker",
+    "name_zh": "Sunlitt：太阳轨迹与日照地图",
+    "aliases": [
+      "Sunlitt"
+    ],
+    "store": "CN",
+    "category": "weather",
+    "status": "adapted",
+    "adaptation_en": "China-store listing of the same build: version 4.11.4 (2026-11-19) release notes carry the same 'Sunlitt now supports iPhone Duo!' headline and Duo section describing the UI adjusting to the Duo's fold states and postures, with the time slider integrated into the interface depth.",
+    "adaptation_zh": "与美区为同一版本：4.11.4 版（2026-11-19）国区说明同写「Sunlitt now supports iPhone Duo!」并设 Duo 专节，界面自然适配折叠状态与姿态、时间滑杆整合于界面深度。",
+    "editorial_score": 3,
+    "highlights": [
+      "4.11.4 App Store (CN) release notes: 'Sunlitt now supports iPhone Duo!'",
+      "Same build as the US listing"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (4.11.4, 2026-11-19)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-19"
+  },
+  {
+    "slug": "menghuan-moni-zhan-cn",
+    "name_en": null,
+    "name_zh": "梦幻模拟战",
+    "aliases": [
+      "梦幻模拟战",
+      "Langrisser Mobile"
+    ],
+    "store": "CN",
+    "category": "games",
+    "status": "adapted",
+    "adaptation_en": "Version 8.4.160 (2026-11-19) China-store release notes state 'added support for iPhone Duo'. No specific Duo layout detail is published. The game first launched in 2018; this is its first written Duo statement. The US-store Langrisser listing is a different app and is not covered by this record.",
+    "adaptation_zh": "8.4.160 版（2026-11-19）国区更新说明写「新增对 iPhone Duo 的支持」。未公布具体布局细节；该游戏 2018 年首发，本版为首次书面 Duo 声明。美区 Langrisser 为不同 App，不在本条范围内。",
+    "editorial_score": 3,
+    "highlights": [
+      "8.4.160 App Store (CN) release notes: '新增对 iPhone Duo 的支持' — first written Duo statement",
+      "Strategy RPG by Shanghai Zishun Information Technology, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (8.4.160, 2026-11-19)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-19"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "scale": "score_100 = editorial_score (1-5) x 20",
   "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
   "bands": {
@@ -12,11 +12,11 @@
   "distribution": {
     "100": 44,
     "80": 83,
-    "60": 192,
+    "60": 195,
     "40": 3,
     "20": 1
   },
-  "count": 323,
+  "count": 326,
   "apps": [
     {
       "slug": "2number-us",
@@ -1658,6 +1658,17 @@
       "credibility_tier": "reported"
     },
     {
+      "slug": "menghuan-moni-zhan-cn",
+      "name_en": null,
+      "name_zh": "梦幻模拟战",
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
       "slug": "mengxiang-shijie-3-cn",
       "name_en": null,
       "name_zh": "梦想世界3",
@@ -2816,6 +2827,28 @@
       "slug": "sub-us",
       "name_en": "Sub",
       "name_zh": "Sub - 少数派思慕同城交友",
+      "store": "US",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "sunlitt-cn",
+      "name_en": "Sunlitt: Sun Tracker & Seeker",
+      "name_zh": "Sunlitt：太阳轨迹与日照地图",
+      "store": "CN",
+      "listed_on_site": false,
+      "editorial_score_5": 3,
+      "score_100": 60,
+      "band": "Good",
+      "credibility_tier": "verified"
+    },
+    {
+      "slug": "sunlitt-us",
+      "name_en": "Sunlitt: Sun Tracker & Seeker",
+      "name_zh": "Sunlitt：太阳轨迹与日照地图",
       "store": "US",
       "listed_on_site": false,
       "editorial_score_5": 3,
