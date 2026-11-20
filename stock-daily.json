@@ -2271,5 +2271,103 @@
     "source_url": "https://getduoready.com/",
     "credibility_tier": "verified",
     "date_verified": "2026-11-19"
+  },
+  {
+    "date": "2026-11-20",
+    "snapshot_time_utc": "2026-11-20T15:11:24+00:00",
+    "snapshot_time_et": "2026-11-20 10:11 AM ET",
+    "stores_total": 254,
+    "stores_in_stock": 4,
+    "by_model": [
+      {
+        "model": "256GB Star White",
+        "part": "MK1E4LL/A",
+        "stores_in_stock": 4
+      },
+      {
+        "model": "256GB Night Sky",
+        "part": "MK1F4LL/A",
+        "stores_in_stock": 4
+      },
+      {
+        "model": "512GB Star White",
+        "part": "MK1G4LL/A",
+        "stores_in_stock": 3
+      },
+      {
+        "model": "512GB Night Sky",
+        "part": "MK1H4LL/A",
+        "stores_in_stock": 2
+      },
+      {
+        "model": "1TB Star White",
+        "part": "MK1J4LL/A",
+        "stores_in_stock": 4
+      },
+      {
+        "model": "1TB Night Sky",
+        "part": "MK1L4LL/A",
+        "stores_in_stock": 4
+      }
+    ],
+    "stores": [
+      {
+        "store_number": "R025",
+        "store_name": "Westfarms",
+        "city": "Farmington",
+        "state": "CT",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R616",
+        "store_name": "Eastwood Towne Center",
+        "city": "Lansing",
+        "state": "MI",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1H4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R299",
+        "store_name": "Franklin Park Mall",
+        "city": "Toledo",
+        "state": "OH",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      },
+      {
+        "store_number": "R131",
+        "store_name": "La Cantera",
+        "city": "San Antonio",
+        "state": "TX",
+        "parts_in_stock": [
+          "MK1E4LL/A",
+          "MK1F4LL/A",
+          "MK1G4LL/A",
+          "MK1J4LL/A",
+          "MK1L4LL/A"
+        ]
+      }
+    ],
+    "source_name": "DuoReady live stock tracker",
+    "source_url": "https://getduoready.com/",
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-20"
   }
 ]

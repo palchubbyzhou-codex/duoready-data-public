@@ -605,15 +605,18 @@
     "store": "US",
     "category": "health",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
-    "editorial_score": 3,
-    "highlights": [],
+    "adaptation_en": "Fits Duo's build check (version 4.16.2, iOS 27.2 SDK) reports LADDER fills the full inner display and adapts when you fold, using Apple's iPhone Duo APIs including reserved regions and arrangement controllers. The developer announced the Duo release in version 4.15.0 as a larger, more immersive experience.",
+    "adaptation_zh": "据 Fits Duo 构建核查（4.16.2 版，iOS 27.2 SDK），LADDER 铺满内屏并随折叠自适应，使用了 Apple 的 iPhone Duo API（含保留区域与排列控制器）。开发者在 4.15.0 版宣布 Duo 版本，称体验更大、更沉浸。",
+    "editorial_score": 4,
+    "highlights": [
+      "Fits Duo (v4.16.2 build check): fills the full inner display, adapts when you fold, uses iPhone Duo APIs",
+      "Developer announcement for 4.15.0: 'Introducing Ladder for iPhone Duo' — larger, more immersive experience"
+    ],
     "listed_on_site": true,
-    "source_name": "DuoReady directory",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-27"
+    "source_name": "Fits Duo — LADDER Strength Training Plans (build check, v4.16.2, Nov 2026)",
+    "source_url": "https://fitsduo.com/apps/ladder-strength-training-plans",
+    "credibility_tier": "reported",
+    "date_verified": "2026-11-20"
   },
   {
     "slug": "lowe-s",
@@ -1150,15 +1153,18 @@
     "store": "US",
     "category": "utilities",
     "status": "adapted",
-    "adaptation_en": null,
-    "adaptation_zh": null,
+    "adaptation_en": "The wozy.co iPhone Duo apps directory lists Raylie as working in closed, book, seated and open poses (both landscape and portrait) on iPhone Duo. No specific two-pane layout detail is published; the App Store listing itself describes the flight-view timeline and globe without Duo layout notes.",
+    "adaptation_zh": "wozy.co 的 iPhone Duo 应用目录将 Raylie 列为在合上、书本、坐姿与展开（横竖屏）姿态下均可用的应用。未公布具体的双栏布局细节；App Store 商品页本身只描述航班视图时间线与地球视图，未提 Duo 布局。",
     "editorial_score": 3,
-    "highlights": [],
+    "highlights": [
+      "wozy.co Duo directory: works in closed, book, seated and open (landscape + portrait) poses",
+      "Flight-view guide by ooo.engineering Inc., free with in-app purchases"
+    ],
     "listed_on_site": true,
-    "source_name": "Great Apps on iPhone Duo - App Store (US)",
-    "source_url": "https://apps.apple.com/us/story/id6820646846",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-27"
+    "source_name": "wozy.co — iPhone Duo apps directory (Raylie pose listing, Nov 2026)",
+    "source_url": "https://www.wozy.co/iphone-duo-apps/",
+    "credibility_tier": "reported",
+    "date_verified": "2026-11-20"
   },
   {
     "slug": "reeder",
@@ -7332,5 +7338,29 @@
     "source_url": null,
     "credibility_tier": "verified",
     "date_verified": "2026-11-19"
+  },
+  {
+    "slug": "paper-io-2-us",
+    "name_en": "Paper.io 2",
+    "name_zh": null,
+    "aliases": [
+      "Paper.io 2",
+      "Paper IO 2"
+    ],
+    "store": "US",
+    "category": "games",
+    "status": "adapted",
+    "adaptation_en": "Version 4.42.0 (2026-11-19) release notes lead with 'NEW IPHONE DUO SUPPORT · Paper.io 2 is now fully optimized for the iPhone Duo', playable on both the inner and outer displays. This is the game's first written Duo statement: the previous 4.41.0 notes (2026-11-04) made no Duo mention and only filled the inner screen via the iOS 27.1 SDK without using Duo APIs, per Fits Duo. No China-store listing exists for this app.",
+    "adaptation_zh": "4.42.0 版（2026-11-19）更新说明头条写「NEW IPHONE DUO SUPPORT · Paper.io 2 is now fully optimized for the iPhone Duo（Paper.io 2 现已为 iPhone Duo 全面优化）」，内外双屏均可玩，为首次书面 Duo 声明：此前 4.41.0（11-04）说明无 Duo 字样、仅凭 iOS 27.1 SDK 铺满内屏且未用 Duo API（据 Fits Duo）。国区商店无此 App。",
+    "editorial_score": 3,
+    "highlights": [
+      "4.42.0 App Store release notes: 'NEW IPHONE DUO SUPPORT · Paper.io 2 is now fully optimized for the iPhone Duo' — first written Duo statement",
+      "Territory game by Voodoo, free"
+    ],
+    "listed_on_site": false,
+    "source_name": "App Store release notes (4.42.0, 2026-11-19)",
+    "source_url": null,
+    "credibility_tier": "verified",
+    "date_verified": "2026-11-20"
   }
 ]
