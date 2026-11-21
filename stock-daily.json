@@ -1,2373 +1,2770 @@
 [
-  {
-    "date": "2026-10-28",
-    "snapshot_time_utc": "2026-10-28T14:06:33+00:00",
-    "snapshot_time_et": "2026-10-28 10:06 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 1,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant G4 (config TBD)",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant J4 (config TBD)",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant L4 (config TBD)",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 1
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R355",
-        "store_name": "Haywood Mall",
-        "city": "Greenville",
-        "state": "SC",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-28"
-  },
-  {
-    "date": "2026-10-29",
-    "snapshot_time_utc": "2026-10-29T14:09:49+00:00",
-    "snapshot_time_et": "2026-10-29 10:09 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 1,
-    "by_model": [
-      {
-        "model": "Variant L4 (config TBD)",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 1
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R109",
-        "store_name": "Jordan Creek",
-        "city": "West Des Moines",
-        "state": "IA",
-        "parts_in_stock": [
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-29"
-  },
-  {
-    "date": "2026-10-30",
-    "snapshot_time_utc": "2026-10-30T14:11:16+00:00",
-    "snapshot_time_et": "2026-10-30 10:11 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 8,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 8
-      },
-      {
-        "model": "Variant F4 (config TBD)",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 6
-      },
-      {
-        "model": "Variant G4 (config TBD)",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 7
-      },
-      {
-        "model": "Variant J4 (config TBD)",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 8
-      },
-      {
-        "model": "Variant L4 (config TBD)",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 7
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R087",
-        "store_name": "Aventura",
-        "city": "Aventura",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R053",
-        "store_name": "Millenia",
-        "city": "Orlando",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R011",
-        "store_name": "MarketStreet",
-        "city": "Lynnfield",
-        "state": "MA",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R293",
-        "store_name": "Friendly Center",
-        "city": "Greensboro",
-        "state": "NC",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R518",
-        "store_name": "The Greene",
-        "city": "Beavercreek",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R009",
-        "store_name": "Easton Town Center",
-        "city": "Columbus",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A"
-        ]
-      },
-      {
-        "store_number": "R355",
-        "store_name": "Haywood Mall",
-        "city": "Greenville",
-        "state": "SC",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R316",
-        "store_name": "University Park Village",
-        "city": "Fort Worth",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-30"
-  },
-  {
-    "date": "2026-10-31",
-    "snapshot_time_utc": "2026-10-31T14:08:49+00:00",
-    "snapshot_time_et": "2026-10-31 10:08 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 0,
-    "by_model": [],
-    "stores": [],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-10-31"
-  },
-  {
-    "date": "2026-11-01",
-    "snapshot_time_utc": "2026-11-01T15:10:05+00:00",
-    "snapshot_time_et": "2026-11-01 10:10 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 1,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant F4 (config TBD)",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant G4 (config TBD)",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant J4 (config TBD)",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant L4 (config TBD)",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 1
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R006",
-        "store_name": "Lenox Square",
-        "city": "Atlanta",
-        "state": "GA",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-01"
-  },
-  {
-    "date": "2026-11-02",
-    "snapshot_time_utc": "2026-11-02T15:04:12+00:00",
-    "snapshot_time_et": "2026-11-02 10:04 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 0,
-    "by_model": [],
-    "stores": [],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-02"
-  },
-  {
-    "date": "2026-11-03",
-    "snapshot_time_utc": "2026-11-03T15:09:04+00:00",
-    "snapshot_time_et": "2026-11-03 10:09 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 1,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant F4 (config TBD)",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant G4 (config TBD)",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant J4 (config TBD)",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "Variant L4 (config TBD)",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 1
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R144",
-        "store_name": "NorthPark Center",
-        "city": "Dallas",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-03"
-  },
-  {
-    "date": "2026-11-04",
-    "snapshot_time_utc": "2026-11-04T15:08:47+00:00",
-    "snapshot_time_et": "2026-11-04 10:08 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 8,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 8
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 7
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 8
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 8
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R225",
-        "store_name": "The Summit",
-        "city": "Birmingham",
-        "state": "AL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R266",
-        "store_name": "Bridge Street",
-        "city": "Huntsville",
-        "state": "AL",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R019",
-        "store_name": "International Plaza",
-        "city": "Tampa",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R235",
-        "store_name": "Lakeside Shopping Center",
-        "city": "Metairie",
-        "state": "LA",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R114",
-        "store_name": "Saint Louis Galleria",
-        "city": "Saint Louis",
-        "state": "MO",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R058",
-        "store_name": "Houston Galleria",
-        "city": "Houston",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R164",
-        "store_name": "Memorial City",
-        "city": "Houston",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R290",
-        "store_name": "North Star",
-        "city": "San Antonio",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-04"
-  },
-  {
-    "date": "2026-11-05",
-    "snapshot_time_utc": "2026-11-05T15:19:20+00:00",
-    "snapshot_time_et": "2026-11-05 10:19 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 5,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 3
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 4
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R247",
-        "store_name": "Arrowhead",
-        "city": "Glendale",
-        "state": "AZ",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R623",
-        "store_name": "Brickell City Centre",
-        "city": "Miami",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R109",
-        "store_name": "Jordan Creek",
-        "city": "West Des Moines",
-        "state": "IA",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R753",
-        "store_name": "The Mall at Bay Plaza",
-        "city": "Bronx",
-        "state": "NY",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A"
-        ]
-      },
-      {
-        "store_number": "R151",
-        "store_name": "Southlake Town Square",
-        "city": "Southlake",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-05"
-  },
-  {
-    "date": "2026-11-06",
-    "snapshot_time_utc": "2026-11-06T15:12:48+00:00",
-    "snapshot_time_et": "2026-11-06 10:12 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 0,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 0
-      }
-    ],
-    "stores": [],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-06"
-  },
-  {
-    "date": "2026-11-07",
-    "snapshot_time_utc": "2026-11-07T15:07:20+00:00",
-    "snapshot_time_et": "2026-11-07 10:07 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 1,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 1
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R143",
-        "store_name": "Florida Mall",
-        "city": "Orlando",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-07"
-  },
-  {
-    "date": "2026-11-08",
-    "snapshot_time_utc": "2026-11-08T15:09:53+00:00",
-    "snapshot_time_et": "2026-11-08 10:09 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 5,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 5
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R025",
-        "store_name": "Westfarms",
-        "city": "Farmington",
-        "state": "CT",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R622",
-        "store_name": "The Shops at Blackstone Valley",
-        "city": "Millbury",
-        "state": "MA",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R107",
-        "store_name": "Syracuse",
-        "city": "Syracuse",
-        "state": "NY",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R413",
-        "store_name": "Ross Park",
-        "city": "Pittsburgh",
-        "state": "PA",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R085",
-        "store_name": "Barton Creek",
-        "city": "Austin",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-08"
-  },
-  {
-    "date": "2026-11-09",
-    "snapshot_time_utc": "2026-11-09T15:07:52+00:00",
-    "snapshot_time_et": "2026-11-09 10:07 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 0,
-    "by_model": [],
-    "stores": [],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-09"
-  },
-  {
-    "date": "2026-11-10",
-    "snapshot_time_utc": "2026-11-10T15:09:15+00:00",
-    "snapshot_time_et": "2026-11-10 10:09 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 5,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 5
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R615",
-        "store_name": "University Town Center",
-        "city": "Sarasota",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R346",
-        "store_name": "Legacy Place",
-        "city": "Dedham",
-        "state": "MA",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R746",
-        "store_name": "Galleria Dallas",
-        "city": "Dallas",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R058",
-        "store_name": "Houston Galleria",
-        "city": "Houston",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R131",
-        "store_name": "La Cantera",
-        "city": "San Antonio",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-10"
-  },
-  {
-    "date": "2026-11-11",
-    "snapshot_time_utc": "2026-11-11T15:10:27+00:00",
-    "snapshot_time_et": "2026-11-11 10:10 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 3,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 3
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 3
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 3
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 3
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R055",
-        "store_name": "Somerset",
-        "city": "Troy",
-        "state": "MI",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R251",
-        "store_name": "Upper West Side",
-        "city": "New York",
-        "state": "NY",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R151",
-        "store_name": "Southlake Town Square",
-        "city": "Southlake",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-11"
-  },
-  {
-    "date": "2026-11-12",
-    "snapshot_time_utc": "2026-11-12T15:12:13+00:00",
-    "snapshot_time_et": "2026-11-12 10:12 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 2,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 2
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R053",
-        "store_name": "Millenia",
-        "city": "Orlando",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R131",
-        "store_name": "La Cantera",
-        "city": "San Antonio",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-12"
-  },
-  {
-    "date": "2026-11-13",
-    "snapshot_time_utc": "2026-11-13T15:10:45+00:00",
-    "snapshot_time_et": "2026-11-13 10:10 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 15,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 12
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 12
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 13
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 11
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 12
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 14
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R111",
-        "store_name": "St. Johns Town Center",
-        "city": "Jacksonville",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R623",
-        "store_name": "Brickell City Centre",
-        "city": "Miami",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R752",
-        "store_name": "Miami Worldcenter",
-        "city": "Miami",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R115",
-        "store_name": "Lincoln Road",
-        "city": "Miami Beach",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R169",
-        "store_name": "Waterside Shops",
-        "city": "Naples",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A"
-        ]
-      },
-      {
-        "store_number": "R143",
-        "store_name": "Florida Mall",
-        "city": "Orlando",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1F4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R053",
-        "store_name": "Millenia",
-        "city": "Orlando",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R041",
-        "store_name": "Twelve Oaks",
-        "city": "Novi",
-        "state": "MI",
-        "parts_in_stock": [
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R062",
-        "store_name": "West County",
-        "city": "Saint Louis",
-        "state": "MO",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R354",
-        "store_name": "Pheasant Lane",
-        "city": "Nashua",
-        "state": "NH",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R009",
-        "store_name": "Easton Town Center",
-        "city": "Columbus",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R746",
-        "store_name": "Galleria Dallas",
-        "city": "Dallas",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R042",
-        "store_name": "Knox Street",
-        "city": "Dallas",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R316",
-        "store_name": "University Park Village",
-        "city": "Fort Worth",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R271",
-        "store_name": "Reston",
-        "city": "Reston",
-        "state": "VA",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-13"
-  },
-  {
-    "date": "2026-11-14",
-    "snapshot_time_utc": "2026-11-14T15:10:20+00:00",
-    "snapshot_time_et": "2026-11-14 10:10 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 2,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 2
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R185",
-        "store_name": "Coconut Point",
-        "city": "Estero",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R115",
-        "store_name": "Lincoln Road",
-        "city": "Miami Beach",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-14"
-  },
-  {
-    "date": "2026-11-15",
-    "snapshot_time_utc": "2026-11-15T15:09:41+00:00",
-    "snapshot_time_et": "2026-11-15 10:09 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 0,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 0
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 0
-      }
-    ],
-    "stores": [],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-15"
-  },
-  {
-    "date": "2026-11-16",
-    "snapshot_time_utc": "2026-11-16T15:09:50+00:00",
-    "snapshot_time_et": "2026-11-16 10:09 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 1,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 1
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 1
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R549",
-        "store_name": "Quaker Bridge",
-        "city": "Lawrence Township",
-        "state": "NJ",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-16"
-  },
-  {
-    "date": "2026-11-17",
-    "snapshot_time_utc": "2026-11-17T15:11:46+00:00",
-    "snapshot_time_et": "2026-11-17 10:11 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 18,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 10
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 17
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 17
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 17
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 15
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 18
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R516",
-        "store_name": "Carnegie Library",
-        "city": "Washington",
-        "state": "DC",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R115",
-        "store_name": "Lincoln Road",
-        "city": "Miami Beach",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R143",
-        "store_name": "Florida Mall",
-        "city": "Orlando",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R019",
-        "store_name": "International Plaza",
-        "city": "Tampa",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R264",
-        "store_name": "Oxmoor",
-        "city": "Louisville",
-        "state": "KY",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R232",
-        "store_name": "Natick",
-        "city": "Natick",
-        "state": "MA",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R763",
-        "store_name": "Downtown Detroit",
-        "city": "Detroit",
-        "state": "MI",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R293",
-        "store_name": "Friendly Center",
-        "city": "Greensboro",
-        "state": "NC",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R017",
-        "store_name": "Crossgates",
-        "city": "Albany",
-        "state": "NY",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R594",
-        "store_name": "Williamsburg",
-        "city": "Brooklyn",
-        "state": "NY",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R353",
-        "store_name": "Summit Mall",
-        "city": "Akron",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R028",
-        "store_name": "Kenwood Towne Centre",
-        "city": "Cincinnati",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R167",
-        "store_name": "Providence Place",
-        "city": "Providence",
-        "state": "RI",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R318",
-        "store_name": "Charleston",
-        "city": "Charleston",
-        "state": "SC",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R746",
-        "store_name": "Galleria Dallas",
-        "city": "Dallas",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R042",
-        "store_name": "Knox Street",
-        "city": "Dallas",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R316",
-        "store_name": "University Park Village",
-        "city": "Fort Worth",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R126",
-        "store_name": "The Woodlands",
-        "city": "The Woodlands",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-17"
-  },
-  {
-    "date": "2026-11-18",
-    "snapshot_time_utc": "2026-11-18T15:12:47+00:00",
-    "snapshot_time_et": "2026-11-18 10:12 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 25,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 14
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 19
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 18
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 21
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 21
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 19
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R025",
-        "store_name": "Westfarms",
-        "city": "Farmington",
-        "state": "CT",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R111",
-        "store_name": "St. Johns Town Center",
-        "city": "Jacksonville",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R623",
-        "store_name": "Brickell City Centre",
-        "city": "Miami",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R115",
-        "store_name": "Lincoln Road",
-        "city": "Miami Beach",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R053",
-        "store_name": "Millenia",
-        "city": "Orlando",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R019",
-        "store_name": "International Plaza",
-        "city": "Tampa",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A"
-        ]
-      },
-      {
-        "store_number": "R024",
-        "store_name": "Wellington Green",
-        "city": "Wellington",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R264",
-        "store_name": "Oxmoor",
-        "city": "Louisville",
-        "state": "KY",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R232",
-        "store_name": "Natick",
-        "city": "Natick",
-        "state": "MA",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R132",
-        "store_name": "Woodland",
-        "city": "Grand Rapids",
-        "state": "MI",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A"
-        ]
-      },
-      {
-        "store_number": "R055",
-        "store_name": "Somerset",
-        "city": "Troy",
-        "state": "MI",
-        "parts_in_stock": [
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R114",
-        "store_name": "Saint Louis Galleria",
-        "city": "Saint Louis",
-        "state": "MO",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R796",
-        "store_name": "Birkdale Village",
-        "city": "Huntersville",
-        "state": "NC",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R116",
-        "store_name": "Crabtree Valley Mall",
-        "city": "Raleigh",
-        "state": "NC",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A"
-        ]
-      },
-      {
-        "store_number": "R095",
-        "store_name": "Fifth Avenue",
-        "city": "New York",
-        "state": "NY",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R028",
-        "store_name": "Kenwood Towne Centre",
-        "city": "Cincinnati",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R009",
-        "store_name": "Easton Town Center",
-        "city": "Columbus",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R192",
-        "store_name": "Crocker Park",
-        "city": "Westlake",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1J4LL/A"
-        ]
-      },
-      {
-        "store_number": "R167",
-        "store_name": "Providence Place",
-        "city": "Providence",
-        "state": "RI",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R318",
-        "store_name": "Charleston",
-        "city": "Charleston",
-        "state": "SC",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A"
-        ]
-      },
-      {
-        "store_number": "R042",
-        "store_name": "Knox Street",
-        "city": "Dallas",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A"
-        ]
-      },
-      {
-        "store_number": "R058",
-        "store_name": "Houston Galleria",
-        "city": "Houston",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R290",
-        "store_name": "North Star",
-        "city": "San Antonio",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R151",
-        "store_name": "Southlake Town Square",
-        "city": "Southlake",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R126",
-        "store_name": "The Woodlands",
-        "city": "The Woodlands",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-18"
-  },
-  {
-    "date": "2026-11-19",
-    "snapshot_time_utc": "2026-11-19T15:07:04+00:00",
-    "snapshot_time_et": "2026-11-19 10:07 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 5,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 5
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 5
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R026",
-        "store_name": "Chandler Fashion Center",
-        "city": "Chandler",
-        "state": "AZ",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R024",
-        "store_name": "Wellington Green",
-        "city": "Wellington",
-        "state": "FL",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R293",
-        "store_name": "Friendly Center",
-        "city": "Greensboro",
-        "state": "NC",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R139",
-        "store_name": "Smith Haven",
-        "city": "Lake Grove",
-        "state": "NY",
-        "parts_in_stock": [
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R492",
-        "store_name": "Cielo Vista Mall",
-        "city": "El Paso",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-19"
-  },
-  {
-    "date": "2026-11-20",
-    "snapshot_time_utc": "2026-11-20T15:11:24+00:00",
-    "snapshot_time_et": "2026-11-20 10:11 AM ET",
-    "stores_total": 254,
-    "stores_in_stock": 4,
-    "by_model": [
-      {
-        "model": "256GB Star White",
-        "part": "MK1E4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "256GB Night Sky",
-        "part": "MK1F4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "512GB Star White",
-        "part": "MK1G4LL/A",
-        "stores_in_stock": 3
-      },
-      {
-        "model": "512GB Night Sky",
-        "part": "MK1H4LL/A",
-        "stores_in_stock": 2
-      },
-      {
-        "model": "1TB Star White",
-        "part": "MK1J4LL/A",
-        "stores_in_stock": 4
-      },
-      {
-        "model": "1TB Night Sky",
-        "part": "MK1L4LL/A",
-        "stores_in_stock": 4
-      }
-    ],
-    "stores": [
-      {
-        "store_number": "R025",
-        "store_name": "Westfarms",
-        "city": "Farmington",
-        "state": "CT",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R616",
-        "store_name": "Eastwood Towne Center",
-        "city": "Lansing",
-        "state": "MI",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1H4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R299",
-        "store_name": "Franklin Park Mall",
-        "city": "Toledo",
-        "state": "OH",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      },
-      {
-        "store_number": "R131",
-        "store_name": "La Cantera",
-        "city": "San Antonio",
-        "state": "TX",
-        "parts_in_stock": [
-          "MK1E4LL/A",
-          "MK1F4LL/A",
-          "MK1G4LL/A",
-          "MK1J4LL/A",
-          "MK1L4LL/A"
-        ]
-      }
-    ],
-    "source_name": "DuoReady live stock tracker",
-    "source_url": "https://getduoready.com/",
-    "credibility_tier": "verified",
-    "date_verified": "2026-11-20"
-  }
+ {
+  "date": "2026-10-28",
+  "snapshot_time_utc": "2026-10-28T14:06:33+00:00",
+  "snapshot_time_et": "2026-10-28 10:06 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 1,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant G4 (config TBD)",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant J4 (config TBD)",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant L4 (config TBD)",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 1
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R355",
+    "store_name": "Haywood Mall",
+    "city": "Greenville",
+    "state": "SC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-28"
+ },
+ {
+  "date": "2026-10-29",
+  "snapshot_time_utc": "2026-10-29T14:09:49+00:00",
+  "snapshot_time_et": "2026-10-29 10:09 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 1,
+  "by_model": [
+   {
+    "model": "Variant L4 (config TBD)",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 1
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R109",
+    "store_name": "Jordan Creek",
+    "city": "West Des Moines",
+    "state": "IA",
+    "parts_in_stock": [
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-29"
+ },
+ {
+  "date": "2026-10-30",
+  "snapshot_time_utc": "2026-10-30T14:11:16+00:00",
+  "snapshot_time_et": "2026-10-30 10:11 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 8,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 8
+   },
+   {
+    "model": "Variant F4 (config TBD)",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 6
+   },
+   {
+    "model": "Variant G4 (config TBD)",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 7
+   },
+   {
+    "model": "Variant J4 (config TBD)",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 8
+   },
+   {
+    "model": "Variant L4 (config TBD)",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 7
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R087",
+    "store_name": "Aventura",
+    "city": "Aventura",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R053",
+    "store_name": "Millenia",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R011",
+    "store_name": "MarketStreet",
+    "city": "Lynnfield",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R293",
+    "store_name": "Friendly Center",
+    "city": "Greensboro",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R518",
+    "store_name": "The Greene",
+    "city": "Beavercreek",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R009",
+    "store_name": "Easton Town Center",
+    "city": "Columbus",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R355",
+    "store_name": "Haywood Mall",
+    "city": "Greenville",
+    "state": "SC",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R316",
+    "store_name": "University Park Village",
+    "city": "Fort Worth",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-30"
+ },
+ {
+  "date": "2026-10-31",
+  "snapshot_time_utc": "2026-10-31T14:08:49+00:00",
+  "snapshot_time_et": "2026-10-31 10:08 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 0,
+  "by_model": [],
+  "stores": [],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-10-31"
+ },
+ {
+  "date": "2026-11-01",
+  "snapshot_time_utc": "2026-11-01T15:10:05+00:00",
+  "snapshot_time_et": "2026-11-01 10:10 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 1,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant F4 (config TBD)",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant G4 (config TBD)",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant J4 (config TBD)",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant L4 (config TBD)",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 1
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R006",
+    "store_name": "Lenox Square",
+    "city": "Atlanta",
+    "state": "GA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-01"
+ },
+ {
+  "date": "2026-11-02",
+  "snapshot_time_utc": "2026-11-02T15:04:12+00:00",
+  "snapshot_time_et": "2026-11-02 10:04 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 0,
+  "by_model": [],
+  "stores": [],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-02"
+ },
+ {
+  "date": "2026-11-03",
+  "snapshot_time_utc": "2026-11-03T15:09:04+00:00",
+  "snapshot_time_et": "2026-11-03 10:09 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 1,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant F4 (config TBD)",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant G4 (config TBD)",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant J4 (config TBD)",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "Variant L4 (config TBD)",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 1
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R144",
+    "store_name": "NorthPark Center",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-03"
+ },
+ {
+  "date": "2026-11-04",
+  "snapshot_time_utc": "2026-11-04T15:08:47+00:00",
+  "snapshot_time_et": "2026-11-04 10:08 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 8,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 8
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 7
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 8
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 8
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R225",
+    "store_name": "The Summit",
+    "city": "Birmingham",
+    "state": "AL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R266",
+    "store_name": "Bridge Street",
+    "city": "Huntsville",
+    "state": "AL",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R019",
+    "store_name": "International Plaza",
+    "city": "Tampa",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R235",
+    "store_name": "Lakeside Shopping Center",
+    "city": "Metairie",
+    "state": "LA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R114",
+    "store_name": "Saint Louis Galleria",
+    "city": "Saint Louis",
+    "state": "MO",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R058",
+    "store_name": "Houston Galleria",
+    "city": "Houston",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R164",
+    "store_name": "Memorial City",
+    "city": "Houston",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R290",
+    "store_name": "North Star",
+    "city": "San Antonio",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-04"
+ },
+ {
+  "date": "2026-11-05",
+  "snapshot_time_utc": "2026-11-05T15:19:20+00:00",
+  "snapshot_time_et": "2026-11-05 10:19 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 5,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 3
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 4
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R247",
+    "store_name": "Arrowhead",
+    "city": "Glendale",
+    "state": "AZ",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R623",
+    "store_name": "Brickell City Centre",
+    "city": "Miami",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R109",
+    "store_name": "Jordan Creek",
+    "city": "West Des Moines",
+    "state": "IA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R753",
+    "store_name": "The Mall at Bay Plaza",
+    "city": "Bronx",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A"
+    ]
+   },
+   {
+    "store_number": "R151",
+    "store_name": "Southlake Town Square",
+    "city": "Southlake",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-05"
+ },
+ {
+  "date": "2026-11-06",
+  "snapshot_time_utc": "2026-11-06T15:12:48+00:00",
+  "snapshot_time_et": "2026-11-06 10:12 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 0,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 0
+   }
+  ],
+  "stores": [],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-06"
+ },
+ {
+  "date": "2026-11-07",
+  "snapshot_time_utc": "2026-11-07T15:07:20+00:00",
+  "snapshot_time_et": "2026-11-07 10:07 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 1,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 1
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R143",
+    "store_name": "Florida Mall",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-07"
+ },
+ {
+  "date": "2026-11-08",
+  "snapshot_time_utc": "2026-11-08T15:09:53+00:00",
+  "snapshot_time_et": "2026-11-08 10:09 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 5,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 5
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R025",
+    "store_name": "Westfarms",
+    "city": "Farmington",
+    "state": "CT",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R622",
+    "store_name": "The Shops at Blackstone Valley",
+    "city": "Millbury",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R107",
+    "store_name": "Syracuse",
+    "city": "Syracuse",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R413",
+    "store_name": "Ross Park",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R085",
+    "store_name": "Barton Creek",
+    "city": "Austin",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-08"
+ },
+ {
+  "date": "2026-11-09",
+  "snapshot_time_utc": "2026-11-09T15:07:52+00:00",
+  "snapshot_time_et": "2026-11-09 10:07 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 0,
+  "by_model": [],
+  "stores": [],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-09"
+ },
+ {
+  "date": "2026-11-10",
+  "snapshot_time_utc": "2026-11-10T15:09:15+00:00",
+  "snapshot_time_et": "2026-11-10 10:09 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 5,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 5
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R615",
+    "store_name": "University Town Center",
+    "city": "Sarasota",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R346",
+    "store_name": "Legacy Place",
+    "city": "Dedham",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R746",
+    "store_name": "Galleria Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R058",
+    "store_name": "Houston Galleria",
+    "city": "Houston",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R131",
+    "store_name": "La Cantera",
+    "city": "San Antonio",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-10"
+ },
+ {
+  "date": "2026-11-11",
+  "snapshot_time_utc": "2026-11-11T15:10:27+00:00",
+  "snapshot_time_et": "2026-11-11 10:10 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 3,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 3
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 3
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 3
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 3
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R055",
+    "store_name": "Somerset",
+    "city": "Troy",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R251",
+    "store_name": "Upper West Side",
+    "city": "New York",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R151",
+    "store_name": "Southlake Town Square",
+    "city": "Southlake",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-11"
+ },
+ {
+  "date": "2026-11-12",
+  "snapshot_time_utc": "2026-11-12T15:12:13+00:00",
+  "snapshot_time_et": "2026-11-12 10:12 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 2,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 2
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R053",
+    "store_name": "Millenia",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R131",
+    "store_name": "La Cantera",
+    "city": "San Antonio",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-12"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot_time_utc": "2026-11-13T15:10:45+00:00",
+  "snapshot_time_et": "2026-11-13 10:10 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 15,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 12
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 12
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 13
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 11
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 12
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 14
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R111",
+    "store_name": "St. Johns Town Center",
+    "city": "Jacksonville",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R623",
+    "store_name": "Brickell City Centre",
+    "city": "Miami",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R752",
+    "store_name": "Miami Worldcenter",
+    "city": "Miami",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R115",
+    "store_name": "Lincoln Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R169",
+    "store_name": "Waterside Shops",
+    "city": "Naples",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R143",
+    "store_name": "Florida Mall",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R053",
+    "store_name": "Millenia",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R041",
+    "store_name": "Twelve Oaks",
+    "city": "Novi",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R062",
+    "store_name": "West County",
+    "city": "Saint Louis",
+    "state": "MO",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R354",
+    "store_name": "Pheasant Lane",
+    "city": "Nashua",
+    "state": "NH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R009",
+    "store_name": "Easton Town Center",
+    "city": "Columbus",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R746",
+    "store_name": "Galleria Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R042",
+    "store_name": "Knox Street",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R316",
+    "store_name": "University Park Village",
+    "city": "Fort Worth",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R271",
+    "store_name": "Reston",
+    "city": "Reston",
+    "state": "VA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-13"
+ },
+ {
+  "date": "2026-11-14",
+  "snapshot_time_utc": "2026-11-14T15:10:20+00:00",
+  "snapshot_time_et": "2026-11-14 10:10 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 2,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 2
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R185",
+    "store_name": "Coconut Point",
+    "city": "Estero",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R115",
+    "store_name": "Lincoln Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-14"
+ },
+ {
+  "date": "2026-11-15",
+  "snapshot_time_utc": "2026-11-15T15:09:41+00:00",
+  "snapshot_time_et": "2026-11-15 10:09 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 0,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 0
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 0
+   }
+  ],
+  "stores": [],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-15"
+ },
+ {
+  "date": "2026-11-16",
+  "snapshot_time_utc": "2026-11-16T15:09:50+00:00",
+  "snapshot_time_et": "2026-11-16 10:09 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 1,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 1
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 1
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R549",
+    "store_name": "Quaker Bridge",
+    "city": "Lawrence Township",
+    "state": "NJ",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-16"
+ },
+ {
+  "date": "2026-11-17",
+  "snapshot_time_utc": "2026-11-17T15:11:46+00:00",
+  "snapshot_time_et": "2026-11-17 10:11 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 18,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 10
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 17
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 17
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 17
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 15
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 18
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R516",
+    "store_name": "Carnegie Library",
+    "city": "Washington",
+    "state": "DC",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R115",
+    "store_name": "Lincoln Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R143",
+    "store_name": "Florida Mall",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R019",
+    "store_name": "International Plaza",
+    "city": "Tampa",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R264",
+    "store_name": "Oxmoor",
+    "city": "Louisville",
+    "state": "KY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R232",
+    "store_name": "Natick",
+    "city": "Natick",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R763",
+    "store_name": "Downtown Detroit",
+    "city": "Detroit",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R293",
+    "store_name": "Friendly Center",
+    "city": "Greensboro",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R017",
+    "store_name": "Crossgates",
+    "city": "Albany",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R594",
+    "store_name": "Williamsburg",
+    "city": "Brooklyn",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R353",
+    "store_name": "Summit Mall",
+    "city": "Akron",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R028",
+    "store_name": "Kenwood Towne Centre",
+    "city": "Cincinnati",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R167",
+    "store_name": "Providence Place",
+    "city": "Providence",
+    "state": "RI",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R318",
+    "store_name": "Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R746",
+    "store_name": "Galleria Dallas",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R042",
+    "store_name": "Knox Street",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R316",
+    "store_name": "University Park Village",
+    "city": "Fort Worth",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R126",
+    "store_name": "The Woodlands",
+    "city": "The Woodlands",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-17"
+ },
+ {
+  "date": "2026-11-18",
+  "snapshot_time_utc": "2026-11-18T15:12:47+00:00",
+  "snapshot_time_et": "2026-11-18 10:12 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 25,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 14
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 19
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 18
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 21
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 21
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 19
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R025",
+    "store_name": "Westfarms",
+    "city": "Farmington",
+    "state": "CT",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R111",
+    "store_name": "St. Johns Town Center",
+    "city": "Jacksonville",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R623",
+    "store_name": "Brickell City Centre",
+    "city": "Miami",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R115",
+    "store_name": "Lincoln Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R053",
+    "store_name": "Millenia",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R019",
+    "store_name": "International Plaza",
+    "city": "Tampa",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R024",
+    "store_name": "Wellington Green",
+    "city": "Wellington",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R264",
+    "store_name": "Oxmoor",
+    "city": "Louisville",
+    "state": "KY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R232",
+    "store_name": "Natick",
+    "city": "Natick",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R132",
+    "store_name": "Woodland",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A"
+    ]
+   },
+   {
+    "store_number": "R055",
+    "store_name": "Somerset",
+    "city": "Troy",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R114",
+    "store_name": "Saint Louis Galleria",
+    "city": "Saint Louis",
+    "state": "MO",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R796",
+    "store_name": "Birkdale Village",
+    "city": "Huntersville",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R116",
+    "store_name": "Crabtree Valley Mall",
+    "city": "Raleigh",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R095",
+    "store_name": "Fifth Avenue",
+    "city": "New York",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R028",
+    "store_name": "Kenwood Towne Centre",
+    "city": "Cincinnati",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R009",
+    "store_name": "Easton Town Center",
+    "city": "Columbus",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R192",
+    "store_name": "Crocker Park",
+    "city": "Westlake",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R167",
+    "store_name": "Providence Place",
+    "city": "Providence",
+    "state": "RI",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R318",
+    "store_name": "Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A"
+    ]
+   },
+   {
+    "store_number": "R042",
+    "store_name": "Knox Street",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A"
+    ]
+   },
+   {
+    "store_number": "R058",
+    "store_name": "Houston Galleria",
+    "city": "Houston",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R290",
+    "store_name": "North Star",
+    "city": "San Antonio",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R151",
+    "store_name": "Southlake Town Square",
+    "city": "Southlake",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R126",
+    "store_name": "The Woodlands",
+    "city": "The Woodlands",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-18"
+ },
+ {
+  "date": "2026-11-19",
+  "snapshot_time_utc": "2026-11-19T15:07:04+00:00",
+  "snapshot_time_et": "2026-11-19 10:07 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 5,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 5
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 5
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R026",
+    "store_name": "Chandler Fashion Center",
+    "city": "Chandler",
+    "state": "AZ",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R024",
+    "store_name": "Wellington Green",
+    "city": "Wellington",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R293",
+    "store_name": "Friendly Center",
+    "city": "Greensboro",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R139",
+    "store_name": "Smith Haven",
+    "city": "Lake Grove",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R492",
+    "store_name": "Cielo Vista Mall",
+    "city": "El Paso",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-19"
+ },
+ {
+  "date": "2026-11-20",
+  "snapshot_time_utc": "2026-11-20T15:11:24+00:00",
+  "snapshot_time_et": "2026-11-20 10:11 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 4,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 3
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 2
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 4
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 4
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R025",
+    "store_name": "Westfarms",
+    "city": "Farmington",
+    "state": "CT",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R616",
+    "store_name": "Eastwood Towne Center",
+    "city": "Lansing",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R299",
+    "store_name": "Franklin Park Mall",
+    "city": "Toledo",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R131",
+    "store_name": "La Cantera",
+    "city": "San Antonio",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-20"
+ },
+ {
+  "date": "2026-11-21",
+  "snapshot_time_utc": "2026-11-21T15:06:18+00:00",
+  "snapshot_time_et": "2026-11-21 10:06 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 27,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 17
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 24
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 24
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 24
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 26
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 21
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R025",
+    "store_name": "Westfarms",
+    "city": "Farmington",
+    "state": "CT",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R516",
+    "store_name": "Carnegie Library",
+    "city": "Washington",
+    "state": "DC",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R623",
+    "store_name": "Brickell City Centre",
+    "city": "Miami",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R752",
+    "store_name": "Miami Worldcenter",
+    "city": "Miami",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R115",
+    "store_name": "Lincoln Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R053",
+    "store_name": "Millenia",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R615",
+    "store_name": "University Town Center",
+    "city": "Sarasota",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R019",
+    "store_name": "International Plaza",
+    "city": "Tampa",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R006",
+    "store_name": "Lenox Square",
+    "city": "Atlanta",
+    "state": "GA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R264",
+    "store_name": "Oxmoor",
+    "city": "Louisville",
+    "state": "KY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R110",
+    "store_name": "South Shore",
+    "city": "Braintree",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A"
+    ]
+   },
+   {
+    "store_number": "R084",
+    "store_name": "Montgomery Mall",
+    "city": "Bethesda",
+    "state": "MD",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R763",
+    "store_name": "Downtown Detroit",
+    "city": "Detroit",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R041",
+    "store_name": "Twelve Oaks",
+    "city": "Novi",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R114",
+    "store_name": "Saint Louis Galleria",
+    "city": "Saint Louis",
+    "state": "MO",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R083",
+    "store_name": "SouthPark",
+    "city": "Charlotte",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R027",
+    "store_name": "Rockingham Park",
+    "city": "Salem",
+    "state": "NH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R549",
+    "store_name": "Quaker Bridge",
+    "city": "Lawrence Township",
+    "state": "NJ",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R017",
+    "store_name": "Crossgates",
+    "city": "Albany",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R415",
+    "store_name": "Grand Central",
+    "city": "New York",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R250",
+    "store_name": "West 14th Street",
+    "city": "New York",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R065",
+    "store_name": "King of Prussia",
+    "city": "King of Prussia",
+    "state": "PA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R096",
+    "store_name": "Shadyside",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R167",
+    "store_name": "Providence Place",
+    "city": "Providence",
+    "state": "RI",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R318",
+    "store_name": "Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R042",
+    "store_name": "Knox Street",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R321",
+    "store_name": "Willowbrook Mall",
+    "city": "Houston",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-21"
+ }
 ]
