@@ -7645,5 +7645,149 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-21"
+ },
+ {
+  "slug": "console-remote-us",
+  "name_en": "Console Remote",
+  "name_zh": null,
+  "aliases": [
+   "Console Remote"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 28.0.11 (2026-11-22) release notes state 'Added support for full-screen mode on iPhone Duo when unfolded' (CN: '新增对 iPhone Duo 展开状态下全屏模式的支持'); folded-state support is noted as coming in a later version. First written Duo statement. This record covers the US-store listing.",
+  "adaptation_zh": "28.0.11 版（2026-11-22）更新说明首次写「新增对 iPhone Duo 展开状态下全屏模式的支持」（美区为「Added support for full-screen mode on iPhone Duo when unfolded」）；折叠态将在后续版本适配。",
+  "editorial_score": 3,
+  "highlights": [
+   "28.0.11 App Store release notes: 'Added support for full-screen mode on iPhone Duo when unfolded' — first written Duo statement",
+   "Game console remote control app, paid"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (28.0.11, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-22"
+ },
+ {
+  "slug": "console-remote-cn",
+  "name_en": "Console Remote",
+  "name_zh": null,
+  "aliases": [
+   "Console Remote"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 28.0.11 (2026-11-22) release notes state 'Added support for full-screen mode on iPhone Duo when unfolded' (CN: '新增对 iPhone Duo 展开状态下全屏模式的支持'); folded-state support is noted as coming in a later version. First written Duo statement. This record covers the CN-store listing.",
+  "adaptation_zh": "28.0.11 版（2026-11-22）更新说明首次写「新增对 iPhone Duo 展开状态下全屏模式的支持」（美区为「Added support for full-screen mode on iPhone Duo when unfolded」）；折叠态将在后续版本适配。",
+  "editorial_score": 3,
+  "highlights": [
+   "28.0.11 App Store release notes: 'Added support for full-screen mode on iPhone Duo when unfolded' — first written Duo statement",
+   "Game console remote control app, paid"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (28.0.11, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-22"
+ },
+ {
+  "slug": "knots-3d-us",
+  "name_en": "Knots 3D",
+  "name_zh": null,
+  "aliases": [
+   "Knots 3D",
+   "3D绳结大全"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 12.0.1 (2026-11-21) release notes lead with 'Updated for iOS 27 and iPhone Duo' (CN: '适配 iOS 27 和 iPhone Duo'). No further Duo layout detail is published. First written Duo statement for this knot-tying reference app, first released in 2011. This record covers the US-store listing.",
+  "adaptation_zh": "12.0.1 版（2026-11-21）更新说明首行写「适配 iOS 27 和 iPhone Duo」（美区为「Updated for iOS 27 and iPhone Duo」）。未公布更多 Duo 布局细节；为 2011 年首发的绳结教学 App 首次书面 Duo 声明。",
+  "editorial_score": 3,
+  "highlights": [
+   "12.0.1 App Store release notes: 'Updated for iOS 27 and iPhone Duo' — first written Duo statement",
+   "Knot-tying reference app by Nynix, paid"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (12.0.1, 2026-11-21)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-22"
+ },
+ {
+  "slug": "knots-3d-cn",
+  "name_en": "Knots 3D",
+  "name_zh": "3D绳结大全",
+  "aliases": [
+   "Knots 3D",
+   "3D绳结大全"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 12.0.1 (2026-11-21) release notes lead with 'Updated for iOS 27 and iPhone Duo' (CN: '适配 iOS 27 和 iPhone Duo'). No further Duo layout detail is published. First written Duo statement for this knot-tying reference app, first released in 2011. This record covers the CN-store listing.",
+  "adaptation_zh": "12.0.1 版（2026-11-21）更新说明首行写「适配 iOS 27 和 iPhone Duo」（美区为「Updated for iOS 27 and iPhone Duo」）。未公布更多 Duo 布局细节；为 2011 年首发的绳结教学 App 首次书面 Duo 声明。",
+  "editorial_score": 3,
+  "highlights": [
+   "12.0.1 App Store release notes: 'Updated for iOS 27 and iPhone Duo' — first written Duo statement",
+   "Knot-tying reference app by Nynix, paid"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (12.0.1, 2026-11-21)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-22"
+ },
+ {
+  "slug": "calcypro-us",
+  "name_en": "CalcyPro",
+  "name_zh": null,
+  "aliases": [
+   "CalcyPro",
+   "计算器Plus",
+   "CalcyPro - Cloud Sync"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.0.0 (2026-11-21) release notes state 'iPhone Duo & iPad support with two-pane layout' (CN: '适配 iPhone Duo 折叠屏与 iPad，大屏双栏布局') — a large-screen two-pane layout. Version 2.0 is a native SwiftUI rewrite and the app's first written Duo statement. This record covers the US-store listing.",
+  "adaptation_zh": "2.0.0 版（2026-11-21）更新说明写「适配 iPhone Duo 折叠屏与 iPad，大屏双栏布局」（美区为「iPhone Duo & iPad support with two-pane layout」）；2.0 为原生 SwiftUI 重写大版本，首次书面 Duo 声明。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.0.0 App Store release notes: 'iPhone Duo & iPad support with two-pane layout' / '适配 iPhone Duo 折叠屏，大屏双栏布局'",
+   "Calculator app, free with VIP purchase"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.0.0, 2026-11-21)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-22"
+ },
+ {
+  "slug": "calcypro-cn",
+  "name_en": "CalcyPro",
+  "name_zh": "计算器Plus",
+  "aliases": [
+   "CalcyPro",
+   "计算器Plus",
+   "CalcyPro - Cloud Sync"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.0.0 (2026-11-21) release notes state 'iPhone Duo & iPad support with two-pane layout' (CN: '适配 iPhone Duo 折叠屏与 iPad，大屏双栏布局') — a large-screen two-pane layout. Version 2.0 is a native SwiftUI rewrite and the app's first written Duo statement. This record covers the CN-store listing.",
+  "adaptation_zh": "2.0.0 版（2026-11-21）更新说明写「适配 iPhone Duo 折叠屏与 iPad，大屏双栏布局」（美区为「iPhone Duo & iPad support with two-pane layout」）；2.0 为原生 SwiftUI 重写大版本，首次书面 Duo 声明。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.0.0 App Store release notes: 'iPhone Duo & iPad support with two-pane layout' / '适配 iPhone Duo 折叠屏，大屏双栏布局'",
+   "Calculator app, free with VIP purchase"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.0.0, 2026-11-21)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-22"
  }
 ]

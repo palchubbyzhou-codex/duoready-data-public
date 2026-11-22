@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "scale": "score_100 = editorial_score (1-5) x 20",
  "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
  "bands": {
@@ -12,11 +12,11 @@
  "distribution": {
   "100": 44,
   "80": 84,
-  "60": 207,
+  "60": 213,
   "40": 3,
   "20": 1
  },
- "count": 339,
+ "count": 345,
  "apps": [
   {
    "slug": "2number-us",
@@ -393,6 +393,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "calcypro-cn",
+   "name_en": "CalcyPro",
+   "name_zh": "计算器Plus",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "calcypro-us",
+   "name_en": "CalcyPro",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "callsheet",
    "name_en": "Callsheet",
    "name_zh": null,
@@ -560,6 +582,28 @@
   {
    "slug": "colorful-widget-us",
    "name_en": "Colorful Widget",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "console-remote-cn",
+   "name_en": "Console Remote",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "console-remote-us",
+   "name_en": "Console Remote",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -1534,6 +1578,28 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "knots-3d-cn",
+   "name_en": "Knots 3D",
+   "name_zh": "3D绳结大全",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "knots-3d-us",
+   "name_en": "Knots 3D",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
