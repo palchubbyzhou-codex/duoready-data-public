@@ -7789,5 +7789,313 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-22"
+ },
+ {
+  "slug": "qq-mail-us",
+  "name_en": "QQ Mail",
+  "name_zh": "QQ邮箱",
+  "aliases": [
+   "QQ邮箱",
+   "QQ Mail"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 7.2.2 (2026-11-23) release notes lead with 'Now supports iPhone Duo & Liquid Glass' (CN: '适配 iPhone Duo & Liquid Glass') — the app's first written Duo statement. No further Duo layout detail is published. This record covers the US-store listing. Distinct from QQ and QQ Music, which are already listed separately.",
+  "adaptation_zh": "7.2.2 版（2026-11-23）更新说明首条写「适配 iPhone Duo & Liquid Glass」（美区为「Now supports iPhone Duo & Liquid Glass」），为首次书面 Duo 声明。未公布更多 Duo 布局细节。与已在站上的 QQ、QQ音乐是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.2.2 App Store release notes: 'Now supports iPhone Duo & Liquid Glass' / '适配 iPhone Duo & Liquid Glass' — first written Duo statement",
+   "Tencent email app, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.2.2, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "qq-mail-cn",
+  "name_en": "QQ Mail",
+  "name_zh": "QQ邮箱",
+  "aliases": [
+   "QQ邮箱",
+   "QQ Mail"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 7.2.2 (2026-11-23) release notes lead with 'Now supports iPhone Duo & Liquid Glass' (CN: '适配 iPhone Duo & Liquid Glass') — the app's first written Duo statement. No further Duo layout detail is published. This record covers the CN-store listing. Distinct from QQ and QQ Music, which are already listed separately.",
+  "adaptation_zh": "7.2.2 版（2026-11-23）更新说明首条写「适配 iPhone Duo & Liquid Glass」（美区为「Now supports iPhone Duo & Liquid Glass」），为首次书面 Duo 声明。未公布更多 Duo 布局细节。与已在站上的 QQ、QQ音乐是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.2.2 App Store release notes: 'Now supports iPhone Duo & Liquid Glass' / '适配 iPhone Duo & Liquid Glass' — first written Duo statement",
+   "Tencent email app, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.2.2, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "sketchbook-us",
+  "name_en": "Sketchbook",
+  "name_zh": "Sketchbook",
+  "aliases": [
+   "Sketchbook®",
+   "Sketchbook"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 6.3.1 (2026-11-23) release notes lead with 'Optimized for iPhone Duo' (CN: '针对 iPhone Duo 进行了优化'). No further Duo layout detail is published. This record covers the US-store listing.",
+  "adaptation_zh": "6.3.1 版（2026-11-23）更新说明首条写「针对 iPhone Duo 进行了优化」（美区为「Optimized for iPhone Duo」）。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.3.1 App Store release notes: 'Optimized for iPhone Duo' / '针对 iPhone Duo 进行了优化'",
+   "Drawing app by Sketchbook, Inc, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.3.1, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "sketchbook-cn",
+  "name_en": "Sketchbook",
+  "name_zh": "Sketchbook",
+  "aliases": [
+   "Sketchbook®",
+   "Sketchbook"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 6.3.1 (2026-11-23) release notes lead with 'Optimized for iPhone Duo' (CN: '针对 iPhone Duo 进行了优化'). No further Duo layout detail is published. This record covers the CN-store listing.",
+  "adaptation_zh": "6.3.1 版（2026-11-23）更新说明首条写「针对 iPhone Duo 进行了优化」（美区为「Optimized for iPhone Duo」）。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.3.1 App Store release notes: 'Optimized for iPhone Duo' / '针对 iPhone Duo 进行了优化'",
+   "Drawing app by Sketchbook, Inc, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.3.1, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "monarch-us",
+  "name_en": "Monarch: Budget & Track Money",
+  "name_zh": null,
+  "aliases": [
+   "Monarch",
+   "Monarch Money"
+  ],
+  "store": "US",
+  "category": "finance",
+  "status": "adapted",
+  "adaptation_en": "Version 2.0.133 (2026-11-23) US release notes lead with 'Monarch now supports iPhone Duo'. The previous build (2.0.131) was Letterboxed on FitsDuo. The China store carries a different, unrelated app of the same name, so this record covers the US listing only.",
+  "adaptation_zh": "2.0.133 版（2026-11-23）美区更新说明首条写「Monarch now supports iPhone Duo」；上一版 2.0.131 在 FitsDuo 为 Letterboxed 黑边。国区商店为另一个同名旧 App，不计。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.0.133 App Store release notes: 'Monarch now supports iPhone Duo'",
+   "Budgeting app by Monarch Money, Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.0.133, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "yomo-us",
+  "name_en": "Yomo: Docker & Portainer",
+  "name_zh": null,
+  "aliases": [
+   "Yomo"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.8.8 (2026-11-23) release notes lead with 'Optimized the layout for iPhone Duo'; the same build adds Yomo AI (beta). This record covers the US-store listing.",
+  "adaptation_zh": "2.8.8 版（2026-11-23）更新说明首条写「Optimized the layout for iPhone Duo」；同版新增 Yomo AI (beta)。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.8.8 App Store release notes: 'Optimized the layout for iPhone Duo'",
+   "Docker & Portainer client, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.8.8, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "yomo-cn",
+  "name_en": "Yomo: Docker & Portainer",
+  "name_zh": null,
+  "aliases": [
+   "Yomo"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 2.8.8 (2026-11-23) release notes lead with 'Optimized the layout for iPhone Duo'; the same build adds Yomo AI (beta). This record covers the CN-store listing.",
+  "adaptation_zh": "2.8.8 版（2026-11-23）更新说明首条写「Optimized the layout for iPhone Duo」；同版新增 Yomo AI (beta)。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.8.8 App Store release notes: 'Optimized the layout for iPhone Duo'",
+   "Docker & Portainer client, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.8.8, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "opusclip-us",
+  "name_en": "OpusClip - AI video clipping",
+  "name_zh": null,
+  "aliases": [
+   "OpusClip",
+   "Opus Clip"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 1.4.5 (2026-11-22) release notes lead with 'iPhone Duo support. OpusClip now fits the cover display, the inner display, half-open and Split View'. FitsDuo confirms the previous 1.4.4 used the iOS 27.0 SDK, was Partly fits with no Duo API, and was updated for this build on 2026-11-23. This record covers the US-store listing.",
+  "adaptation_zh": "1.4.5 版（2026-11-22）更新说明首条写「iPhone Duo support. OpusClip now fits the cover display, the inner display, half-open and Split View」——覆盖外屏、内屏、半折与 Split View；FitsDuo 证实上一版 1.4.4 为 iOS 27.0 SDK、Partly fits、无 Duo API，本版状态 11-23 更新。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.4.5 App Store release notes: 'iPhone Duo support — fits the cover display, the inner display, half-open and Split View'",
+   "AI video clipping app, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.4.5, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "opusclip-cn",
+  "name_en": "OpusClip - AI video clipping",
+  "name_zh": null,
+  "aliases": [
+   "OpusClip",
+   "Opus Clip"
+  ],
+  "store": "CN",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 1.4.5 (2026-11-22) release notes lead with 'iPhone Duo support. OpusClip now fits the cover display, the inner display, half-open and Split View'. FitsDuo confirms the previous 1.4.4 used the iOS 27.0 SDK, was Partly fits with no Duo API, and was updated for this build on 2026-11-23. This record covers the CN-store listing.",
+  "adaptation_zh": "1.4.5 版（2026-11-22）更新说明首条写「iPhone Duo support. OpusClip now fits the cover display, the inner display, half-open and Split View」——覆盖外屏、内屏、半折与 Split View；FitsDuo 证实上一版 1.4.4 为 iOS 27.0 SDK、Partly fits、无 Duo API，本版状态 11-23 更新。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.4.5 App Store release notes: 'iPhone Duo support — fits the cover display, the inner display, half-open and Split View'",
+   "AI video clipping app, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.4.5, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "shopsavvy-us",
+  "name_en": "ShopSavvy - Shopping Assistant",
+  "name_zh": null,
+  "aliases": [
+   "ShopSavvy",
+   "Shop Savvy"
+  ],
+  "store": "US",
+  "category": "shopping",
+  "status": "adapted",
+  "adaptation_en": "Version 19.0.4 (2026-11-22) release notes add a Duo-specific layout section: on iPad and the unfolded iPhone Duo, Search, Alerts, Watching and More each show a list on one side and detail on the other; half-folded like a book the two sides meet at the crease, and on product pages photos and price stay pinned alongside while scrolling. This record covers the US-store listing.",
+  "adaptation_zh": "19.0.4 版（2026-11-22）更新说明新增 Duo 专属布局段：在 iPad 和展开的 iPhone Duo 上，Search/Alerts/Watching/More 均为一侧列表、一侧详情；半折如书本时两侧在折痕处衔接，商品页滚动时照片与价格常驻旁侧。",
+  "editorial_score": 3,
+  "highlights": [
+   "19.0.4 App Store release notes: Duo two-pane list/detail layout; half-fold book mode; product photos and price pinned while scrolling",
+   "Shopping assistant by ShopSavvy, Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (19.0.4, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "shopsavvy-cn",
+  "name_en": "ShopSavvy - Shopping Assistant",
+  "name_zh": null,
+  "aliases": [
+   "ShopSavvy",
+   "Shop Savvy"
+  ],
+  "store": "CN",
+  "category": "shopping",
+  "status": "adapted",
+  "adaptation_en": "Version 19.0.4 (2026-11-22) release notes add a Duo-specific layout section: on iPad and the unfolded iPhone Duo, Search, Alerts, Watching and More each show a list on one side and detail on the other; half-folded like a book the two sides meet at the crease, and on product pages photos and price stay pinned alongside while scrolling. This record covers the CN-store listing.",
+  "adaptation_zh": "19.0.4 版（2026-11-22）更新说明新增 Duo 专属布局段：在 iPad 和展开的 iPhone Duo 上，Search/Alerts/Watching/More 均为一侧列表、一侧详情；半折如书本时两侧在折痕处衔接，商品页滚动时照片与价格常驻旁侧。",
+  "editorial_score": 3,
+  "highlights": [
+   "19.0.4 App Store release notes: Duo two-pane list/detail layout; half-fold book mode; product photos and price pinned while scrolling",
+   "Shopping assistant by ShopSavvy, Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (19.0.4, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "kiwix-us",
+  "name_en": "Kiwix",
+  "name_zh": null,
+  "aliases": [
+   "Kiwix"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 3.19.0 (2026-11-22) release notes add 'Support for iPhone Duo'. No further Duo layout detail is published. This record covers the US-store listing.",
+  "adaptation_zh": "3.19.0 版（2026-11-22）更新说明新增「Support for iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.19.0 App Store release notes: 'Support for iPhone Duo'",
+   "Offline Wikipedia reader by Wikimedia CH, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.19.0, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "kiwix-cn",
+  "name_en": "Kiwix",
+  "name_zh": null,
+  "aliases": [
+   "Kiwix"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 3.19.0 (2026-11-22) release notes add 'Support for iPhone Duo'. No further Duo layout detail is published. This record covers the CN-store listing.",
+  "adaptation_zh": "3.19.0 版（2026-11-22）更新说明新增「Support for iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.19.0 App Store release notes: 'Support for iPhone Duo'",
+   "Offline Wikipedia reader by Wikimedia CH, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.19.0, 2026-11-22)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-23"
  }
 ]

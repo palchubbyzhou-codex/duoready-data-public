@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generated_at_utc": "2026-11-22T15:11:57.621434+00:00",
+  "generated_at_utc": "2026-11-23T15:12:46.484586+00:00",
   "source": "DuoReady stock tracker history (Apple pickup availability, polled ~every 10 min, 254 US stores)",
   "stores_tracked": 254,
-  "history_span_start_utc": "2026-11-20T18:09:01+00:00",
-  "history_span_end_utc": "2026-11-22T15:02:08+00:00",
+  "history_span_start_utc": "2026-11-21T14:30:35+00:00",
+  "history_span_end_utc": "2026-11-23T15:05:10+00:00",
   "note": "drops_last_7d counts red_to_green restock events in the trailing 7 days (or the full retained history span if shorter). Model labels marked TBD are configurations not yet publicly confirmed - never guess them.",
   "parts_legend": {
    "MK1E4LL/A": "256GB Star White",
@@ -17,30 +17,6 @@
  },
  "stores": [
   {
-   "slug": "eton",
-   "store_number": "R081",
-   "name": "Eton",
-   "city": "Woodmere",
-   "state": "OH",
-   "latitude": 41.463332,
-   "longitude": -81.474623,
-   "drops_last_7d": 5,
-   "last_drop_at_utc": "2026-11-20T22:43:57+00:00",
-   "last_drop_et": "2026-11-20 05:43 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "3 PM - 6 PM ET",
-    "drops": 4
-   },
-   "fastest_gone_min": 5
-  },
-  {
    "slug": "queens-center",
    "store_number": "R612",
    "name": "Queens Center",
@@ -49,8 +25,29 @@
    "latitude": 40.73463,
    "longitude": -73.86878,
    "drops_last_7d": 5,
-   "last_drop_at_utc": "2026-11-22T14:30:37+00:00",
-   "last_drop_et": "2026-11-22 09:30 AM ET",
+   "last_drop_at_utc": "2026-11-22T15:23:05+00:00",
+   "last_drop_et": "2026-11-22 10:23 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "1TB Star White"
+   ],
+   "peak_window": {
+    "window_et": "9 AM - 12 PM ET",
+    "drops": 4
+   },
+   "fastest_gone_min": 11
+  },
+  {
+   "slug": "boise-towne-square",
+   "store_number": "R303",
+   "name": "Boise Towne Square",
+   "city": "Boise",
+   "state": "ID",
+   "latitude": 43.60841,
+   "longitude": -116.2782,
+   "drops_last_7d": 4,
+   "last_drop_at_utc": "2026-11-23T00:55:16+00:00",
+   "last_drop_et": "2026-11-22 07:55 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
@@ -59,8 +56,8 @@
     "1TB Night Sky"
    ],
    "peak_window": {
-    "window_et": "9 AM - 12 PM ET",
-    "drops": 4
+    "window_et": "3 PM - 6 PM ET",
+    "drops": 3
    },
    "fastest_gone_min": 5
   },
@@ -89,28 +86,52 @@
    "fastest_gone_min": 5
   },
   {
-   "slug": "penn-square",
-   "store_number": "R130",
-   "name": "Penn Square",
-   "city": "Oklahoma City",
-   "state": "OK",
-   "latitude": 35.52485,
-   "longitude": -97.54551,
+   "slug": "florida-mall",
+   "store_number": "R143",
+   "name": "Florida Mall",
+   "city": "Orlando",
+   "state": "FL",
+   "latitude": 28.445141,
+   "longitude": -81.394177,
    "drops_last_7d": 4,
-   "last_drop_at_utc": "2026-11-21T15:18:08+00:00",
-   "last_drop_et": "2026-11-21 10:18 AM ET",
+   "last_drop_at_utc": "2026-11-22T16:40:03+00:00",
+   "last_drop_et": "2026-11-22 11:40 AM ET",
    "last_drop_models": [
     "256GB Star White",
-    "512GB Star White",
+    "256GB Night Sky",
     "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": {
-    "window_et": "12 PM - 3 PM ET",
-    "drops": 2
+    "window_et": "9 AM - 12 PM ET",
+    "drops": 3
    },
-   "fastest_gone_min": 5
+   "fastest_gone_min": 10
+  },
+  {
+   "slug": "north-star",
+   "store_number": "R290",
+   "name": "North Star",
+   "city": "San Antonio",
+   "state": "TX",
+   "latitude": 29.518172084308,
+   "longitude": -98.496084987277,
+   "drops_last_7d": 4,
+   "last_drop_at_utc": "2026-11-23T00:50:16+00:00",
+   "last_drop_et": "2026-11-22 07:50 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": {
+    "window_et": "10 AM - 1 PM ET",
+    "drops": 3
+   },
+   "fastest_gone_min": 30
   },
   {
    "slug": "southcenter",
@@ -137,40 +158,16 @@
    "fastest_gone_min": 20
   },
   {
-   "slug": "augusta",
-   "store_number": "R364",
-   "name": "Augusta",
-   "city": "Augusta",
-   "state": "GA",
-   "latitude": 33.46575,
-   "longitude": -82.08065,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T16:15:33+00:00",
-   "last_drop_et": "2026-11-21 11:15 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "11 AM - 2 PM ET",
-    "drops": 2
-   },
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "boise-towne-square",
-   "store_number": "R303",
-   "name": "Boise Towne Square",
-   "city": "Boise",
-   "state": "ID",
-   "latitude": 43.60841,
-   "longitude": -116.2782,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T22:36:54+00:00",
-   "last_drop_et": "2026-11-21 05:36 PM ET",
+   "slug": "tysons-corner",
+   "store_number": "R010",
+   "name": "Tysons Corner",
+   "city": "McLean",
+   "state": "VA",
+   "latitude": 38.918185,
+   "longitude": -77.2209595,
+   "drops_last_7d": 4,
+   "last_drop_at_utc": "2026-11-22T20:46:55+00:00",
+   "last_drop_et": "2026-11-22 03:46 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "512GB Star White",
@@ -179,22 +176,22 @@
     "1TB Night Sky"
    ],
    "peak_window": {
-    "window_et": "3 PM - 6 PM ET",
+    "window_et": "1 PM - 4 PM ET",
     "drops": 3
    },
-   "fastest_gone_min": 5
+   "fastest_gone_min": 6
   },
   {
-   "slug": "boylston-street",
-   "store_number": "R149",
-   "name": "Boylston Street",
-   "city": "Boston",
-   "state": "MA",
-   "latitude": 42.348986511488,
-   "longitude": -71.082484013793,
+   "slug": "ala-moana",
+   "store_number": "R073",
+   "name": "Ala Moana",
+   "city": "Honolulu",
+   "state": "HI",
+   "latitude": 21.29023622211,
+   "longitude": -157.842305770593,
    "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-22T00:05:32+00:00",
-   "last_drop_et": "2026-11-21 07:05 PM ET",
+   "last_drop_at_utc": "2026-11-22T20:26:15+00:00",
+   "last_drop_et": "2026-11-22 03:26 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
@@ -203,8 +200,8 @@
     "1TB Night Sky"
    ],
    "peak_window": {
-    "window_et": "11 AM - 2 PM ET",
-    "drops": 2
+    "window_et": "1 PM - 4 PM ET",
+    "drops": 3
    },
    "fastest_gone_min": 5
   },
@@ -228,6 +225,30 @@
    ],
    "peak_window": {
     "window_et": "7 AM - 10 AM ET",
+    "drops": 2
+   },
+   "fastest_gone_min": 5
+  },
+  {
+   "slug": "christiana-mall",
+   "store_number": "R102",
+   "name": "Christiana Mall",
+   "city": "Newark",
+   "state": "DE",
+   "latitude": 39.679231,
+   "longitude": -75.653211,
+   "drops_last_7d": 3,
+   "last_drop_at_utc": "2026-11-23T05:07:14+00:00",
+   "last_drop_et": "2026-11-23 12:07 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": {
+    "window_et": "8 AM - 11 AM ET",
     "drops": 2
    },
    "fastest_gone_min": 5
@@ -257,29 +278,6 @@
    "fastest_gone_min": 6
   },
   {
-   "slug": "montgomery-mall",
-   "store_number": "R084",
-   "name": "Montgomery Mall",
-   "city": "Bethesda",
-   "state": "MD",
-   "latitude": 39.024365,
-   "longitude": -77.146182,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T17:01:20+00:00",
-   "last_drop_et": "2026-11-21 12:01 PM ET",
-   "last_drop_models": [
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "10 AM - 1 PM ET",
-    "drops": 2
-   },
-   "fastest_gone_min": 12
-  },
-  {
    "slug": "new-haven",
    "store_number": "R446",
    "name": "New Haven",
@@ -304,16 +302,16 @@
    "fastest_gone_min": 16
   },
   {
-   "slug": "northpark-center",
-   "store_number": "R144",
-   "name": "NorthPark Center",
-   "city": "Dallas",
-   "state": "TX",
-   "latitude": 32.86937,
-   "longitude": -96.77428,
+   "slug": "smith-haven",
+   "store_number": "R139",
+   "name": "Smith Haven",
+   "city": "Lake Grove",
+   "state": "NY",
+   "latitude": 40.8649,
+   "longitude": -73.1311,
    "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T17:16:46+00:00",
-   "last_drop_et": "2026-11-21 12:16 PM ET",
+   "last_drop_at_utc": "2026-11-22T16:03:57+00:00",
+   "last_drop_et": "2026-11-22 11:03 AM ET",
    "last_drop_models": [
     "256GB Star White",
     "512GB Star White",
@@ -322,8 +320,32 @@
     "1TB Night Sky"
    ],
    "peak_window": {
-    "window_et": "12 PM - 3 PM ET",
+    "window_et": "9 AM - 12 PM ET",
     "drops": 3
+   },
+   "fastest_gone_min": 11
+  },
+  {
+   "slug": "south-coast-plaza",
+   "store_number": "R004",
+   "name": "South Coast Plaza",
+   "city": "Costa Mesa",
+   "state": "CA",
+   "latitude": 33.692656,
+   "longitude": -117.892935,
+   "drops_last_7d": 3,
+   "last_drop_at_utc": "2026-11-23T01:20:11+00:00",
+   "last_drop_et": "2026-11-22 08:20 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": {
+    "window_et": "12 PM - 3 PM ET",
+    "drops": 2
    },
    "fastest_gone_min": 5
   },
@@ -400,30 +422,6 @@
    "fastest_gone_min": 5
   },
   {
-   "slug": "the-falls",
-   "store_number": "R012",
-   "name": "The Falls",
-   "city": "Miami",
-   "state": "FL",
-   "latitude": 25.643719563754,
-   "longitude": -80.33814594377,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-20T21:58:47+00:00",
-   "last_drop_et": "2026-11-20 04:58 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "2 PM - 5 PM ET",
-    "drops": 3
-   },
-   "fastest_gone_min": 5
-  },
-  {
    "slug": "the-galleria",
    "store_number": "R214",
    "name": "The Galleria",
@@ -448,132 +446,40 @@
    "fastest_gone_min": 10
   },
   {
-   "slug": "twenty-ninth-street",
-   "store_number": "R172",
-   "name": "Twenty Ninth Street",
-   "city": "Boulder",
-   "state": "CO",
-   "latitude": 40.01754,
-   "longitude": -105.25649,
+   "slug": "the-grove",
+   "store_number": "R050",
+   "name": "The Grove",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.07143,
+   "longitude": -118.357469,
    "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T22:26:06+00:00",
-   "last_drop_et": "2026-11-21 05:26 PM ET",
-   "last_drop_models": [
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "1 PM - 4 PM ET",
-    "drops": 2
-   },
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "tysons-corner",
-   "store_number": "R010",
-   "name": "Tysons Corner",
-   "city": "McLean",
-   "state": "VA",
-   "latitude": 38.918185,
-   "longitude": -77.2209595,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T19:45:49+00:00",
-   "last_drop_et": "2026-11-21 02:45 PM ET",
+   "last_drop_at_utc": "2026-11-22T18:22:19+00:00",
+   "last_drop_et": "2026-11-22 01:22 PM ET",
    "last_drop_models": [
     "256GB Star White",
-    "256GB Night Sky",
     "512GB Star White",
+    "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": {
-    "window_et": "12 PM - 3 PM ET",
-    "drops": 2
+    "window_et": "11 AM - 2 PM ET",
+    "drops": 3
    },
    "fastest_gone_min": 6
   },
   {
-   "slug": "university-park-mall",
-   "store_number": "R360",
-   "name": "University Park Mall",
-   "city": "Mishawaka",
-   "state": "IN",
-   "latitude": 41.71847,
-   "longitude": -86.19101,
+   "slug": "the-mall-at-bay-plaza",
+   "store_number": "R753",
+   "name": "The Mall at Bay Plaza",
+   "city": "Bronx",
+   "state": "NY",
+   "latitude": 40.8638,
+   "longitude": -73.8269,
    "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T17:11:30+00:00",
-   "last_drop_et": "2026-11-21 12:11 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "7 AM - 10 AM ET",
-    "drops": 2
-   },
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "walnut-street",
-   "store_number": "R162",
-   "name": "Walnut Street",
-   "city": "Philadelphia",
-   "state": "PA",
-   "latitude": 39.950033333333,
-   "longitude": -75.167887789083,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T14:55:36+00:00",
-   "last_drop_et": "2026-11-21 09:55 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "7 AM - 10 AM ET",
-    "drops": 3
-   },
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "wellington-green",
-   "store_number": "R024",
-   "name": "Wellington Green",
-   "city": "Wellington",
-   "state": "FL",
-   "latitude": 26.647028,
-   "longitude": -80.208856,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T14:15:18+00:00",
-   "last_drop_et": "2026-11-21 09:15 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": {
-    "window_et": "7 AM - 10 AM ET",
-    "drops": 3
-   },
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "willowbrook-mall",
-   "store_number": "R321",
-   "name": "Willowbrook Mall",
-   "city": "Houston",
-   "state": "TX",
-   "latitude": 29.960546845453,
-   "longitude": -95.539229502601,
-   "drops_last_7d": 3,
-   "last_drop_at_utc": "2026-11-21T16:25:49+00:00",
-   "last_drop_et": "2026-11-21 11:25 AM ET",
+   "last_drop_at_utc": "2026-11-22T16:40:03+00:00",
+   "last_drop_et": "2026-11-22 11:40 AM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
@@ -582,10 +488,94 @@
     "1TB Night Sky"
    ],
    "peak_window": {
-    "window_et": "9 AM - 12 PM ET",
+    "window_et": "11 AM - 2 PM ET",
     "drops": 3
    },
-   "fastest_gone_min": 25
+   "fastest_gone_min": 5
+  },
+  {
+   "slug": "american-dream",
+   "store_number": "R755",
+   "name": "American Dream",
+   "city": "East Rutherford",
+   "state": "NJ",
+   "latitude": 40.80916,
+   "longitude": -74.06739,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-23T05:07:14+00:00",
+   "last_drop_et": "2026-11-23 12:07 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
+  },
+  {
+   "slug": "anchorage-5th-avenue-mall",
+   "store_number": "R262",
+   "name": "Anchorage 5th Avenue Mall",
+   "city": "Anchorage",
+   "state": "AK",
+   "latitude": 61.216734,
+   "longitude": -149.888387,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-22T19:35:13+00:00",
+   "last_drop_et": "2026-11-22 02:35 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 61
+  },
+  {
+   "slug": "annapolis",
+   "store_number": "R142",
+   "name": "Annapolis",
+   "city": "Annapolis",
+   "state": "MD",
+   "latitude": 38.990536,
+   "longitude": -76.54414,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-22T16:35:01+00:00",
+   "last_drop_et": "2026-11-22 11:35 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 11
+  },
+  {
+   "slug": "arden-fair",
+   "store_number": "R070",
+   "name": "Arden Fair",
+   "city": "Sacramento",
+   "state": "CA",
+   "latitude": 38.601039,
+   "longitude": -121.426442,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-22T23:31:54+00:00",
+   "last_drop_et": "2026-11-22 06:31 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 208
   },
   {
    "slug": "aventura",
@@ -630,47 +620,25 @@
    "fastest_gone_min": 6
   },
   {
-   "slug": "baybrook",
-   "store_number": "R204",
-   "name": "Baybrook",
-   "city": "Friendswood",
-   "state": "TX",
-   "latitude": 29.5415,
-   "longitude": -95.1479,
+   "slug": "bayshore",
+   "store_number": "R257",
+   "name": "Bayshore",
+   "city": "Glendale",
+   "state": "WI",
+   "latitude": 43.121566,
+   "longitude": -87.915186,
    "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T17:27:29+00:00",
-   "last_drop_et": "2026-11-21 12:27 PM ET",
+   "last_drop_at_utc": "2026-11-23T02:17:56+00:00",
+   "last_drop_et": "2026-11-22 09:17 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
     "512GB Star White",
-    "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "bethesda-row",
-   "store_number": "R112",
-   "name": "Bethesda Row",
-   "city": "Bethesda",
-   "state": "MD",
-   "latitude": 38.980647104108,
-   "longitude": -77.09770810408,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T01:24:35+00:00",
-   "last_drop_et": "2026-11-20 08:24 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
+   "fastest_gone_min": 6
   },
   {
    "slug": "brickell-city-centre",
@@ -695,6 +663,27 @@
    "fastest_gone_min": 156
   },
   {
+   "slug": "bridgeport-village",
+   "store_number": "R134",
+   "name": "Bridgeport Village",
+   "city": "Tigard",
+   "state": "OR",
+   "latitude": 45.3966862,
+   "longitude": -122.7512255,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-23T05:07:14+00:00",
+   "last_drop_et": "2026-11-23 12:07 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 11
+  },
+  {
    "slug": "bridgewater",
    "store_number": "R104",
    "name": "Bridgewater",
@@ -714,27 +703,6 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 10
-  },
-  {
-   "slug": "broadway-plaza",
-   "store_number": "R014",
-   "name": "Broadway Plaza",
-   "city": "Walnut Creek",
-   "state": "CA",
-   "latitude": 37.896525,
-   "longitude": -122.059297,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T19:15:34+00:00",
-   "last_drop_et": "2026-11-21 02:15 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
   },
   {
    "slug": "carnegie-library",
@@ -759,16 +727,16 @@
    "fastest_gone_min": 5
   },
   {
-   "slug": "christiana-mall",
-   "store_number": "R102",
-   "name": "Christiana Mall",
-   "city": "Newark",
-   "state": "DE",
-   "latitude": 39.679231,
-   "longitude": -75.653211,
+   "slug": "charleston",
+   "store_number": "R318",
+   "name": "Charleston",
+   "city": "Charleston",
+   "state": "SC",
+   "latitude": 32.783361441121,
+   "longitude": -79.934934815863,
    "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T15:00:17+00:00",
-   "last_drop_et": "2026-11-21 10:00 AM ET",
+   "last_drop_at_utc": "2026-11-22T15:32:58+00:00",
+   "last_drop_et": "2026-11-22 10:32 AM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
@@ -777,7 +745,7 @@
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 5
+   "fastest_gone_min": 62
   },
   {
    "slug": "crossgates",
@@ -801,69 +769,6 @@
    "fastest_gone_min": 224
   },
   {
-   "slug": "deer-park",
-   "store_number": "R258",
-   "name": "Deer Park",
-   "city": "Deer Park",
-   "state": "IL",
-   "latitude": 42.1605,
-   "longitude": -88.0554,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-20T23:24:00+00:00",
-   "last_drop_et": "2026-11-20 06:24 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "del-monte",
-   "store_number": "R305",
-   "name": "Del Monte",
-   "city": "Monterey",
-   "state": "CA",
-   "latitude": 36.584103459981,
-   "longitude": -121.897348157823,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-20T20:13:20+00:00",
-   "last_drop_et": "2026-11-20 03:13 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "domain-northside",
-   "store_number": "R216",
-   "name": "Domain NORTHSIDE",
-   "city": "Austin",
-   "state": "TX",
-   "latitude": 30.402708,
-   "longitude": -97.721954,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T02:10:28+00:00",
-   "last_drop_et": "2026-11-20 09:10 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 86
-  },
-  {
    "slug": "downtown-nashville",
    "store_number": "R133",
    "name": "Downtown Nashville",
@@ -883,6 +788,27 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 11
+  },
+  {
+   "slug": "el-paseo-village",
+   "store_number": "R297",
+   "name": "El Paseo Village",
+   "city": "Palm Desert",
+   "state": "CA",
+   "latitude": 33.719631,
+   "longitude": -116.383301,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-22T19:35:13+00:00",
+   "last_drop_et": "2026-11-22 02:35 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 10
   },
   {
    "slug": "first-colony-mall",
@@ -926,27 +852,6 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 67
-  },
-  {
-   "slug": "florida-mall",
-   "store_number": "R143",
-   "name": "Florida Mall",
-   "city": "Orlando",
-   "state": "FL",
-   "latitude": 28.445141,
-   "longitude": -81.394177,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T17:16:46+00:00",
-   "last_drop_et": "2026-11-21 12:16 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 10
   },
   {
    "slug": "grand-central",
@@ -1034,27 +939,6 @@
    "fastest_gone_min": 5
   },
   {
-   "slug": "jordan-creek",
-   "store_number": "R109",
-   "name": "Jordan Creek",
-   "city": "West Des Moines",
-   "state": "IA",
-   "latitude": 41.570044,
-   "longitude": -93.803773,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T02:05:16+00:00",
-   "last_drop_et": "2026-11-20 09:05 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
    "slug": "king-of-prussia",
    "store_number": "R065",
    "name": "King of Prussia",
@@ -1097,6 +981,27 @@
    "fastest_gone_min": 129
   },
   {
+   "slug": "lincoln-road",
+   "store_number": "R115",
+   "name": "Lincoln Road",
+   "city": "Miami Beach",
+   "state": "FL",
+   "latitude": 25.79102,
+   "longitude": -80.139364,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-22T15:48:22+00:00",
+   "last_drop_et": "2026-11-22 10:48 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 18
+  },
+  {
    "slug": "mall-of-america",
    "store_number": "R007",
    "name": "Mall of America",
@@ -1118,20 +1023,82 @@
    "fastest_gone_min": 69
   },
   {
-   "slug": "miami-worldcenter",
-   "store_number": "R752",
-   "name": "Miami Worldcenter",
-   "city": "Miami",
-   "state": "FL",
-   "latitude": 25.78162,
-   "longitude": -80.191812,
+   "slug": "menlo-park",
+   "store_number": "R067",
+   "name": "Menlo Park",
+   "city": "Edison",
+   "state": "NJ",
+   "latitude": 40.549111,
+   "longitude": -74.335811,
    "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T21:20:30+00:00",
-   "last_drop_et": "2026-11-21 04:20 PM ET",
+   "last_drop_at_utc": "2026-11-22T15:43:33+00:00",
+   "last_drop_et": "2026-11-22 10:43 AM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
     "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 10
+  },
+  {
+   "slug": "millenia",
+   "store_number": "R053",
+   "name": "Millenia",
+   "city": "Orlando",
+   "state": "FL",
+   "latitude": 28.486,
+   "longitude": -81.43174,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-22T15:48:22+00:00",
+   "last_drop_et": "2026-11-22 10:48 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "montgomery-mall",
+   "store_number": "R084",
+   "name": "Montgomery Mall",
+   "city": "Bethesda",
+   "state": "MD",
+   "latitude": 39.024365,
+   "longitude": -77.146182,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-21T17:01:20+00:00",
+   "last_drop_et": "2026-11-21 12:01 PM ET",
+   "last_drop_models": [
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 12
+  },
+  {
+   "slug": "northpark-center",
+   "store_number": "R144",
+   "name": "NorthPark Center",
+   "city": "Dallas",
+   "state": "TX",
+   "latitude": 32.86937,
+   "longitude": -96.77428,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-21T17:16:46+00:00",
+   "last_drop_et": "2026-11-21 12:16 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
@@ -1202,28 +1169,6 @@
    "fastest_gone_min": 27
   },
   {
-   "slug": "roseville",
-   "store_number": "R298",
-   "name": "Roseville",
-   "city": "Roseville",
-   "state": "CA",
-   "latitude": 38.773042110625,
-   "longitude": -121.26993510375,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T18:03:44+00:00",
-   "last_drop_et": "2026-11-21 01:03 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
    "slug": "saddle-creek",
    "store_number": "R020",
    "name": "Saddle Creek",
@@ -1287,25 +1232,25 @@
    "fastest_gone_min": 21
   },
   {
-   "slug": "shayden-summit",
-   "store_number": "R186",
-   "name": "Shayden Summit",
-   "city": "Reno",
-   "state": "NV",
-   "latitude": 39.4031,
-   "longitude": -119.7516,
+   "slug": "scottsdale-quarter",
+   "store_number": "R292",
+   "name": "Scottsdale Quarter",
+   "city": "Scottsdale",
+   "state": "AZ",
+   "latitude": 33.62411,
+   "longitude": -111.92514,
    "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T18:03:44+00:00",
-   "last_drop_et": "2026-11-21 01:03 PM ET",
+   "last_drop_at_utc": "2026-11-22T16:03:57+00:00",
+   "last_drop_et": "2026-11-22 11:03 AM ET",
    "last_drop_models": [
     "256GB Star White",
-    "512GB Star White",
+    "256GB Night Sky",
     "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 100
+   "fastest_gone_min": 11
   },
   {
    "slug": "southpark",
@@ -1348,47 +1293,6 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 5
-  },
-  {
-   "slug": "the-fashion-mall-at-keystone",
-   "store_number": "R066",
-   "name": "The Fashion Mall at Keystone",
-   "city": "Indianapolis",
-   "state": "IN",
-   "latitude": 39.9141,
-   "longitude": -86.11181,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T13:44:14+00:00",
-   "last_drop_et": "2026-11-21 08:44 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 11
-  },
-  {
-   "slug": "the-grove",
-   "store_number": "R050",
-   "name": "The Grove",
-   "city": "Los Angeles",
-   "state": "CA",
-   "latitude": 34.07143,
-   "longitude": -118.357469,
-   "drops_last_7d": 2,
-   "last_drop_at_utc": "2026-11-21T18:49:51+00:00",
-   "last_drop_et": "2026-11-21 01:49 PM ET",
-   "last_drop_models": [
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 6
   },
   {
    "slug": "the-promenade-at-chenal",
@@ -1452,7 +1356,67 @@
     "1TB Night Sky"
    ],
    "peak_window": null,
+   "fastest_gone_min": 1278
+  },
+  {
+   "slug": "twenty-ninth-street",
+   "store_number": "R172",
+   "name": "Twenty Ninth Street",
+   "city": "Boulder",
+   "state": "CO",
+   "latitude": 40.01754,
+   "longitude": -105.25649,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-21T22:26:06+00:00",
+   "last_drop_et": "2026-11-21 05:26 PM ET",
+   "last_drop_models": [
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
    "fastest_gone_min": null
+  },
+  {
+   "slug": "victoria-gardens",
+   "store_number": "R094",
+   "name": "Victoria Gardens",
+   "city": "Rancho Cucamonga",
+   "state": "CA",
+   "latitude": 34.11065,
+   "longitude": -117.5336,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-22T19:04:54+00:00",
+   "last_drop_et": "2026-11-22 02:04 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 31
+  },
+  {
+   "slug": "walnut-street",
+   "store_number": "R162",
+   "name": "Walnut Street",
+   "city": "Philadelphia",
+   "state": "PA",
+   "latitude": 39.950033333333,
+   "longitude": -75.167887789083,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-21T14:55:36+00:00",
+   "last_drop_et": "2026-11-21 09:55 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
   },
   {
    "slug": "west-county",
@@ -1497,6 +1461,27 @@
    "fastest_gone_min": 5
   },
   {
+   "slug": "willowbrook-mall",
+   "store_number": "R321",
+   "name": "Willowbrook Mall",
+   "city": "Houston",
+   "state": "TX",
+   "latitude": 29.960546845453,
+   "longitude": -95.539229502601,
+   "drops_last_7d": 2,
+   "last_drop_at_utc": "2026-11-21T16:25:49+00:00",
+   "last_drop_et": "2026-11-21 11:25 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 31
+  },
+  {
    "slug": "abq-uptown",
    "store_number": "R177",
    "name": "ABQ Uptown",
@@ -1511,28 +1496,6 @@
     "256GB Star White",
     "512GB Star White",
     "512GB Night Sky",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "ala-moana",
-   "store_number": "R073",
-   "name": "Ala Moana",
-   "city": "Honolulu",
-   "state": "HI",
-   "latitude": 21.29023622211,
-   "longitude": -157.842305770593,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T19:35:40+00:00",
-   "last_drop_et": "2026-11-21 02:35 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": null,
@@ -1561,48 +1524,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "american-dream",
-   "store_number": "R755",
-   "name": "American Dream",
-   "city": "East Rutherford",
-   "state": "NJ",
-   "latitude": 40.80916,
-   "longitude": -74.06739,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T16:20:46+00:00",
-   "last_drop_et": "2026-11-21 11:20 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "anchorage-5th-avenue-mall",
-   "store_number": "R262",
-   "name": "Anchorage 5th Avenue Mall",
-   "city": "Anchorage",
-   "state": "AK",
-   "latitude": 61.216734,
-   "longitude": -149.888387,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T19:05:19+00:00",
-   "last_drop_et": "2026-11-21 02:05 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
    "slug": "apple-park-visitor-center",
    "store_number": "R824",
    "name": "Apple Park Visitor Center",
@@ -1623,18 +1544,19 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "arden-fair",
-   "store_number": "R070",
-   "name": "Arden Fair",
-   "city": "Sacramento",
-   "state": "CA",
-   "latitude": 38.601039,
-   "longitude": -121.426442,
+   "slug": "arrowhead",
+   "store_number": "R247",
+   "name": "Arrowhead",
+   "city": "Glendale",
+   "state": "AZ",
+   "latitude": 33.6422,
+   "longitude": -112.2256,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T20:07:02+00:00",
-   "last_drop_et": "2026-11-21 03:07 PM ET",
+   "last_drop_at_utc": "2026-11-22T17:00:48+00:00",
+   "last_drop_et": "2026-11-22 12:00 PM ET",
    "last_drop_models": [
     "256GB Star White",
+    "256GB Night Sky",
     "512GB Star White",
     "512GB Night Sky",
     "1TB Star White",
@@ -1644,25 +1566,47 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "bayshore",
-   "store_number": "R257",
-   "name": "Bayshore",
-   "city": "Glendale",
-   "state": "WI",
-   "latitude": 43.121566,
-   "longitude": -87.915186,
+   "slug": "augusta",
+   "store_number": "R364",
+   "name": "Augusta",
+   "city": "Augusta",
+   "state": "GA",
+   "latitude": 33.46575,
+   "longitude": -82.08065,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T17:01:20+00:00",
-   "last_drop_et": "2026-11-21 12:01 PM ET",
+   "last_drop_at_utc": "2026-11-21T16:15:33+00:00",
+   "last_drop_et": "2026-11-21 11:15 AM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
+    "512GB Star White",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
+  },
+  {
+   "slug": "baybrook",
+   "store_number": "R204",
+   "name": "Baybrook",
+   "city": "Friendswood",
+   "state": "TX",
+   "latitude": 29.5415,
+   "longitude": -95.1479,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-21T17:27:29+00:00",
+   "last_drop_et": "2026-11-21 12:27 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
     "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 10
+   "fastest_gone_min": 5
   },
   {
    "slug": "bellevue-square",
@@ -1687,6 +1631,48 @@
    "fastest_gone_min": 83
   },
   {
+   "slug": "birkdale-village",
+   "store_number": "R796",
+   "name": "Birkdale Village",
+   "city": "Huntersville",
+   "state": "NC",
+   "latitude": 35.44477,
+   "longitude": -80.8786,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-23T15:00:15+00:00",
+   "last_drop_et": "2026-11-23 10:00 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "boylston-street",
+   "store_number": "R149",
+   "name": "Boylston Street",
+   "city": "Boston",
+   "state": "MA",
+   "latitude": 42.348986511488,
+   "longitude": -71.082484013793,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T00:05:32+00:00",
+   "last_drop_et": "2026-11-21 07:05 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 26
+  },
+  {
    "slug": "bridge-street",
    "store_number": "R266",
    "name": "Bridge Street",
@@ -1708,16 +1694,16 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "bridgeport-village",
-   "store_number": "R134",
-   "name": "Bridgeport Village",
-   "city": "Tigard",
-   "state": "OR",
-   "latitude": 45.3966862,
-   "longitude": -122.7512255,
+   "slug": "broadway-plaza",
+   "store_number": "R014",
+   "name": "Broadway Plaza",
+   "city": "Walnut Creek",
+   "state": "CA",
+   "latitude": 37.896525,
+   "longitude": -122.059297,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T17:16:46+00:00",
-   "last_drop_et": "2026-11-21 12:16 PM ET",
+   "last_drop_at_utc": "2026-11-21T19:15:34+00:00",
+   "last_drop_et": "2026-11-21 02:15 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "512GB Star White",
@@ -1726,7 +1712,7 @@
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 11
+   "fastest_gone_min": null
   },
   {
    "slug": "burlington",
@@ -1751,28 +1737,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "carlsbad",
-   "store_number": "R294",
-   "name": "Carlsbad",
-   "city": "Carlsbad",
-   "state": "CA",
-   "latitude": 33.0713,
-   "longitude": -117.265,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T19:51:53+00:00",
-   "last_drop_et": "2026-11-20 02:51 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 10
-  },
-  {
    "slug": "chandler-fashion-center",
    "store_number": "R026",
    "name": "Chandler Fashion Center",
@@ -1794,26 +1758,25 @@
    "fastest_gone_min": 164
   },
   {
-   "slug": "charleston",
-   "store_number": "R318",
-   "name": "Charleston",
-   "city": "Charleston",
-   "state": "SC",
-   "latitude": 32.783361441121,
-   "longitude": -79.934934815863,
+   "slug": "cherry-creek",
+   "store_number": "R047",
+   "name": "Cherry Creek",
+   "city": "Denver",
+   "state": "CO",
+   "latitude": 39.717437,
+   "longitude": -104.95492,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T14:55:36+00:00",
-   "last_drop_et": "2026-11-21 09:55 AM ET",
+   "last_drop_at_utc": "2026-11-22T17:36:14+00:00",
+   "last_drop_et": "2026-11-22 12:36 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
     "512GB Star White",
-    "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 157
+   "fastest_gone_min": null
   },
   {
    "slug": "cherry-hill",
@@ -1835,6 +1798,28 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 30
+  },
+  {
+   "slug": "chestnut-hill",
+   "store_number": "R076",
+   "name": "Chestnut Hill",
+   "city": "Chestnut Hill",
+   "state": "MA",
+   "latitude": 42.321205,
+   "longitude": -71.17616,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T15:32:58+00:00",
+   "last_drop_et": "2026-11-22 10:32 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": null
   },
   {
    "slug": "city-creek-center",
@@ -1866,15 +1851,17 @@
    "latitude": 38.887929036182,
    "longitude": -77.091042977517,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T13:54:52+00:00",
-   "last_drop_et": "2026-11-21 08:54 AM ET",
+   "last_drop_at_utc": "2026-11-23T14:55:10+00:00",
+   "last_drop_et": "2026-11-23 09:55 AM ET",
    "last_drop_models": [
+    "256GB Star White",
     "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White"
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": null
+   "fastest_gone_min": 10
   },
   {
    "slug": "coolsprings-galleria",
@@ -1896,69 +1883,6 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 32
-  },
-  {
-   "slug": "corte-madera",
-   "store_number": "R071",
-   "name": "Corte Madera",
-   "city": "Corte Madera",
-   "state": "CA",
-   "latitude": 37.928465,
-   "longitude": -122.514284,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T18:50:13+00:00",
-   "last_drop_et": "2026-11-20 01:50 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 1394
-  },
-  {
-   "slug": "country-club-plaza",
-   "store_number": "R097",
-   "name": "Country Club Plaza",
-   "city": "Kansas City",
-   "state": "MO",
-   "latitude": 39.0413,
-   "longitude": -94.590172,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T19:21:12+00:00",
-   "last_drop_et": "2026-11-20 02:21 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 10
-  },
-  {
-   "slug": "crabtree-valley-mall",
-   "store_number": "R116",
-   "name": "Crabtree Valley Mall",
-   "city": "Raleigh",
-   "state": "NC",
-   "latitude": 35.840118,
-   "longitude": -78.679187,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T13:39:17+00:00",
-   "last_drop_et": "2026-11-21 08:39 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 66
   },
   {
    "slug": "downtown-detroit",
@@ -2002,48 +1926,6 @@
    ],
    "peak_window": null,
    "fastest_gone_min": null
-  },
-  {
-   "slug": "el-paseo-village",
-   "store_number": "R297",
-   "name": "El Paseo Village",
-   "city": "Palm Desert",
-   "state": "CA",
-   "latitude": 33.719631,
-   "longitude": -116.383301,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T18:39:30+00:00",
-   "last_drop_et": "2026-11-21 01:39 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 130
-  },
-  {
-   "slug": "fashion-fair",
-   "store_number": "R236",
-   "name": "Fashion Fair",
-   "city": "Fresno",
-   "state": "CA",
-   "latitude": 36.80674,
-   "longitude": -119.77553,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T20:23:16+00:00",
-   "last_drop_et": "2026-11-20 03:23 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 20
   },
   {
    "slug": "fashion-show",
@@ -2090,28 +1972,6 @@
    "fastest_gone_min": 72
   },
   {
-   "slug": "freehold-raceway-mall",
-   "store_number": "R138",
-   "name": "Freehold Raceway Mall",
-   "city": "Freehold",
-   "state": "NJ",
-   "latitude": 40.253813,
-   "longitude": -74.30017,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T14:30:35+00:00",
-   "last_drop_et": "2026-11-21 09:30 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 15
-  },
-  {
    "slug": "friendly-center",
    "store_number": "R293",
    "name": "Friendly Center",
@@ -2131,21 +1991,20 @@
    "fastest_gone_min": 5
   },
   {
-   "slug": "galleria-dallas",
-   "store_number": "R746",
-   "name": "Galleria Dallas",
-   "city": "Dallas",
-   "state": "TX",
-   "latitude": 32.930392379315,
-   "longitude": -96.819404255932,
+   "slug": "fritz-farm",
+   "store_number": "R288",
+   "name": "Fritz Farm",
+   "city": "Lexington",
+   "state": "KY",
+   "latitude": 37.977139,
+   "longitude": -84.528169,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T20:48:08+00:00",
-   "last_drop_et": "2026-11-20 03:48 PM ET",
+   "last_drop_at_utc": "2026-11-22T20:31:02+00:00",
+   "last_drop_et": "2026-11-22 03:31 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
     "512GB Star White",
-    "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
@@ -2167,27 +2026,6 @@
     "256GB Star White",
     "256GB Night Sky",
     "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
-   "slug": "higuera-street",
-   "store_number": "R199",
-   "name": "Higuera Street",
-   "city": "San Luis Obispo",
-   "state": "CA",
-   "latitude": 35.280617510041,
-   "longitude": -120.66187958447,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T19:15:59+00:00",
-   "last_drop_et": "2026-11-20 02:15 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
@@ -2236,6 +2074,28 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 194
+  },
+  {
+   "slug": "kahala",
+   "store_number": "R210",
+   "name": "Kahala",
+   "city": "Honolulu",
+   "state": "HI",
+   "latitude": 21.277081111189,
+   "longitude": -157.78698547723,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T19:40:10+00:00",
+   "last_drop_et": "2026-11-22 02:40 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 46
   },
   {
    "slug": "kenwood-towne-centre",
@@ -2364,24 +2224,24 @@
    "fastest_gone_min": 61
   },
   {
-   "slug": "lincoln-road",
-   "store_number": "R115",
-   "name": "Lincoln Road",
-   "city": "Miami Beach",
-   "state": "FL",
-   "latitude": 25.79102,
-   "longitude": -80.139364,
+   "slug": "los-cerritos",
+   "store_number": "R300",
+   "name": "Los Cerritos",
+   "city": "Cerritos",
+   "state": "CA",
+   "latitude": 33.862423,
+   "longitude": -118.093942,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T15:00:17+00:00",
-   "last_drop_et": "2026-11-21 10:00 AM ET",
+   "last_drop_at_utc": "2026-11-22T19:45:03+00:00",
+   "last_drop_et": "2026-11-22 02:45 PM ET",
    "last_drop_models": [
-    "256GB Night Sky",
+    "256GB Star White",
     "512GB Star White",
     "512GB Night Sky",
-    "1TB Star White"
+    "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 18
+   "fastest_gone_min": 5
   },
   {
    "slug": "los-gatos",
@@ -2449,80 +2309,16 @@
    "fastest_gone_min": 36
   },
   {
-   "slug": "menlo-park",
-   "store_number": "R067",
-   "name": "Menlo Park",
-   "city": "Edison",
-   "state": "NJ",
-   "latitude": 40.549111,
-   "longitude": -74.335811,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T15:50:20+00:00",
-   "last_drop_et": "2026-11-21 10:50 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 10
-  },
-  {
-   "slug": "millenia",
-   "store_number": "R053",
-   "name": "Millenia",
-   "city": "Orlando",
+   "slug": "miami-worldcenter",
+   "store_number": "R752",
+   "name": "Miami Worldcenter",
+   "city": "Miami",
    "state": "FL",
-   "latitude": 28.486,
-   "longitude": -81.43174,
+   "latitude": 25.78162,
+   "longitude": -80.191812,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T14:50:31+00:00",
-   "last_drop_et": "2026-11-21 09:50 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "montgomery-village",
-   "store_number": "R044",
-   "name": "Montgomery Village",
-   "city": "Santa Rosa",
-   "state": "CA",
-   "latitude": 38.443632,
-   "longitude": -122.686785,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T19:51:53+00:00",
-   "last_drop_et": "2026-11-20 02:51 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 1534
-  },
-  {
-   "slug": "north-star",
-   "store_number": "R290",
-   "name": "North Star",
-   "city": "San Antonio",
-   "state": "TX",
-   "latitude": 29.518172084308,
-   "longitude": -98.496084987277,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T15:50:20+00:00",
-   "last_drop_et": "2026-11-21 10:50 AM ET",
+   "last_drop_at_utc": "2026-11-21T21:20:30+00:00",
+   "last_drop_et": "2026-11-21 04:20 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
@@ -2531,7 +2327,7 @@
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 30
+   "fastest_gone_min": 5
   },
   {
    "slug": "northridge",
@@ -2542,15 +2338,17 @@
    "latitude": 34.239617605223,
    "longitude": -118.556073088477,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T18:50:13+00:00",
-   "last_drop_et": "2026-11-20 01:50 PM ET",
+   "last_drop_at_utc": "2026-11-22T19:55:16+00:00",
+   "last_drop_et": "2026-11-22 02:55 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "512GB Star White",
-    "1TB Star White"
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 11
+   "fastest_gone_min": 10
   },
   {
    "slug": "oakbrook",
@@ -2573,6 +2371,27 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 21
+  },
+  {
+   "slug": "oakridge",
+   "store_number": "R105",
+   "name": "Oakridge",
+   "city": "San Jose",
+   "state": "CA",
+   "latitude": 37.251599,
+   "longitude": -121.862899,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T19:04:54+00:00",
+   "last_drop_et": "2026-11-22 02:04 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
   },
   {
    "slug": "old-orchard",
@@ -2655,6 +2474,27 @@
    "fastest_gone_min": 10
   },
   {
+   "slug": "penn-square",
+   "store_number": "R130",
+   "name": "Penn Square",
+   "city": "Oklahoma City",
+   "state": "OK",
+   "latitude": 35.52485,
+   "longitude": -97.54551,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-21T15:18:08+00:00",
+   "last_drop_et": "2026-11-21 10:18 AM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
+  },
+  {
    "slug": "pioneer-place",
    "store_number": "R077",
    "name": "Pioneer Place",
@@ -2675,6 +2515,23 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 45
+  },
+  {
+   "slug": "providence-place",
+   "store_number": "R167",
+   "name": "Providence Place",
+   "city": "Providence",
+   "state": "RI",
+   "latitude": 41.8269,
+   "longitude": -71.4163,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T16:35:01+00:00",
+   "last_drop_et": "2026-11-22 11:35 AM ET",
+   "last_drop_models": [
+    "256GB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 26
   },
   {
    "slug": "quaker-bridge",
@@ -2712,19 +2569,19 @@
     "1TB Star White"
    ],
    "peak_window": null,
-   "fastest_gone_min": null
+   "fastest_gone_min": 10
   },
   {
-   "slug": "ross-park",
-   "store_number": "R413",
-   "name": "Ross Park",
-   "city": "Pittsburgh",
-   "state": "PA",
-   "latitude": 40.54369,
-   "longitude": -80.00782,
+   "slug": "roseville",
+   "store_number": "R298",
+   "name": "Roseville",
+   "city": "Roseville",
+   "state": "CA",
+   "latitude": 38.773042110625,
+   "longitude": -121.26993510375,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T14:15:18+00:00",
-   "last_drop_et": "2026-11-21 09:15 AM ET",
+   "last_drop_at_utc": "2026-11-21T18:03:44+00:00",
+   "last_drop_et": "2026-11-21 01:03 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
@@ -2734,7 +2591,7 @@
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": 45
+   "fastest_gone_min": 72
   },
   {
    "slug": "santan-village",
@@ -2754,27 +2611,6 @@
    ],
    "peak_window": null,
    "fastest_gone_min": null
-  },
-  {
-   "slug": "scottsdale-quarter",
-   "store_number": "R292",
-   "name": "Scottsdale Quarter",
-   "city": "Scottsdale",
-   "state": "AZ",
-   "latitude": 33.62411,
-   "longitude": -111.92514,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T15:39:17+00:00",
-   "last_drop_et": "2026-11-21 10:39 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 11
   },
   {
    "slug": "shadyside",
@@ -2799,6 +2635,27 @@
    "fastest_gone_min": 280
   },
   {
+   "slug": "shayden-summit",
+   "store_number": "R186",
+   "name": "Shayden Summit",
+   "city": "Reno",
+   "state": "NV",
+   "latitude": 39.4031,
+   "longitude": -119.7516,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-21T18:03:44+00:00",
+   "last_drop_et": "2026-11-21 01:03 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
    "slug": "sherman-oaks",
    "store_number": "R148",
    "name": "Sherman Oaks",
@@ -2820,16 +2677,16 @@
    "fastest_gone_min": 51
   },
   {
-   "slug": "smith-haven",
-   "store_number": "R139",
-   "name": "Smith Haven",
-   "city": "Lake Grove",
-   "state": "NY",
-   "latitude": 40.8649,
-   "longitude": -73.1311,
+   "slug": "somerset",
+   "store_number": "R055",
+   "name": "Somerset",
+   "city": "Troy",
+   "state": "MI",
+   "latitude": 42.563,
+   "longitude": -83.18337,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T14:35:27+00:00",
-   "last_drop_et": "2026-11-21 09:35 AM ET",
+   "last_drop_at_utc": "2026-11-22T17:00:48+00:00",
+   "last_drop_et": "2026-11-22 12:00 PM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
@@ -2839,50 +2696,7 @@
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "soho",
-   "store_number": "R032",
-   "name": "SoHo",
-   "city": "New York",
-   "state": "NY",
-   "latitude": 40.725058,
-   "longitude": -73.999037,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T13:54:52+00:00",
-   "last_drop_et": "2026-11-21 08:54 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "south-coast-plaza",
-   "store_number": "R004",
-   "name": "South Coast Plaza",
-   "city": "Costa Mesa",
-   "state": "CA",
-   "latitude": 33.692656,
-   "longitude": -117.892935,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T17:06:21+00:00",
-   "last_drop_et": "2026-11-21 12:06 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 26
+   "fastest_gone_min": 154
   },
   {
    "slug": "south-shore",
@@ -2923,6 +2737,27 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 21
+  },
+  {
+   "slug": "stoneridge-mall",
+   "store_number": "R101",
+   "name": "Stoneridge Mall",
+   "city": "Pleasanton",
+   "state": "CA",
+   "latitude": 37.69525,
+   "longitude": -121.92867,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T19:50:24+00:00",
+   "last_drop_et": "2026-11-22 02:50 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "512GB Night Sky",
+    "1TB Star White"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 15
   },
   {
    "slug": "summerlin",
@@ -3004,6 +2839,27 @@
    "fastest_gone_min": null
   },
   {
+   "slug": "the-americana-at-brand",
+   "store_number": "R451",
+   "name": "The Americana at Brand",
+   "city": "Glendale",
+   "state": "CA",
+   "latitude": 34.14443,
+   "longitude": -118.25695,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T21:08:09+00:00",
+   "last_drop_et": "2026-11-22 04:08 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 15
+  },
+  {
    "slug": "the-forum-shops",
    "store_number": "R161",
    "name": "The Forum Shops",
@@ -3026,27 +2882,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "the-mall-at-bay-plaza",
-   "store_number": "R753",
-   "name": "The Mall at Bay Plaza",
-   "city": "Bronx",
-   "state": "NY",
-   "latitude": 40.8638,
-   "longitude": -73.8269,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T18:03:44+00:00",
-   "last_drop_et": "2026-11-21 01:03 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 5
-  },
-  {
    "slug": "the-oaks",
    "store_number": "R154",
    "name": "The Oaks",
@@ -3055,17 +2890,17 @@
    "latitude": 34.18405,
    "longitude": -118.88763,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T18:45:15+00:00",
-   "last_drop_et": "2026-11-20 01:45 PM ET",
+   "last_drop_at_utc": "2026-11-22T19:04:54+00:00",
+   "last_drop_et": "2026-11-22 02:04 PM ET",
    "last_drop_models": [
+    "256GB Star White",
     "256GB Night Sky",
-    "512GB Star White",
     "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": null
+   "fastest_gone_min": 40
   },
   {
    "slug": "the-promenade-shops-at-briargate",
@@ -3089,25 +2924,46 @@
    "fastest_gone_min": 5
   },
   {
-   "slug": "third-street-promenade",
-   "store_number": "R051",
-   "name": "Third Street Promenade",
-   "city": "Santa Monica",
-   "state": "CA",
-   "latitude": 34.01532813854,
-   "longitude": -118.495429158211,
+   "slug": "the-summit",
+   "store_number": "R225",
+   "name": "The Summit",
+   "city": "Birmingham",
+   "state": "AL",
+   "latitude": 33.44726,
+   "longitude": -86.7285,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T18:14:52+00:00",
-   "last_drop_et": "2026-11-20 01:14 PM ET",
+   "last_drop_at_utc": "2026-11-22T19:35:13+00:00",
+   "last_drop_et": "2026-11-22 02:35 PM ET",
    "last_drop_models": [
+    "256GB Star White",
     "256GB Night Sky",
     "512GB Star White",
-    "512GB Night Sky",
     "1TB Star White",
     "1TB Night Sky"
    ],
    "peak_window": null,
-   "fastest_gone_min": null
+   "fastest_gone_min": 41
+  },
+  {
+   "slug": "tower-theatre",
+   "store_number": "R720",
+   "name": "Tower Theatre",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0435491,
+   "longitude": -118.2546643,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T19:40:10+00:00",
+   "last_drop_et": "2026-11-22 02:40 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
   },
   {
    "slug": "town-square",
@@ -3139,18 +2995,15 @@
    "latitude": 42.4924,
    "longitude": -83.4704,
    "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T14:30:35+00:00",
-   "last_drop_et": "2026-11-21 09:30 AM ET",
+   "last_drop_at_utc": "2026-11-23T14:35:03+00:00",
+   "last_drop_et": "2026-11-23 09:35 AM ET",
    "last_drop_models": [
     "256GB Star White",
     "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
+    "512GB Star White"
    ],
    "peak_window": null,
-   "fastest_gone_min": null
+   "fastest_gone_min": 5
   },
   {
    "slug": "utc",
@@ -3173,6 +3026,48 @@
    ],
    "peak_window": null,
    "fastest_gone_min": null
+  },
+  {
+   "slug": "union-square",
+   "store_number": "R075",
+   "name": "Union Square",
+   "city": "San Francisco",
+   "state": "CA",
+   "latitude": 37.7886,
+   "longitude": -122.407159,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T19:10:05+00:00",
+   "last_drop_et": "2026-11-22 02:10 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "university-park-mall",
+   "store_number": "R360",
+   "name": "University Park Mall",
+   "city": "Mishawaka",
+   "state": "IN",
+   "latitude": 41.71847,
+   "longitude": -86.19101,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-21T17:11:30+00:00",
+   "last_drop_et": "2026-11-21 12:11 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Night Sky",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
   },
   {
    "slug": "university-town-center",
@@ -3216,27 +3111,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "victoria-gardens",
-   "store_number": "R094",
-   "name": "Victoria Gardens",
-   "city": "Rancho Cucamonga",
-   "state": "CA",
-   "latitude": 34.11065,
-   "longitude": -117.5336,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T18:03:44+00:00",
-   "last_drop_et": "2026-11-21 01:03 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 31
-  },
-  {
    "slug": "village-pointe",
    "store_number": "R190",
    "name": "Village Pointe",
@@ -3257,6 +3131,27 @@
    ],
    "peak_window": null,
    "fastest_gone_min": 299
+  },
+  {
+   "slug": "vintage-faire",
+   "store_number": "R322",
+   "name": "Vintage Faire",
+   "city": "Modesto",
+   "state": "CA",
+   "latitude": 37.687749808908,
+   "longitude": -121.053261792864,
+   "drops_last_7d": 1,
+   "last_drop_at_utc": "2026-11-22T20:51:55+00:00",
+   "last_drop_et": "2026-11-22 03:51 PM ET",
+   "last_drop_models": [
+    "256GB Star White",
+    "256GB Night Sky",
+    "512GB Star White",
+    "1TB Star White",
+    "1TB Night Sky"
+   ],
+   "peak_window": null,
+   "fastest_gone_min": 5
   },
   {
    "slug": "walt-whitman",
@@ -3298,28 +3193,6 @@
    ],
    "peak_window": null,
    "fastest_gone_min": null
-  },
-  {
-   "slug": "west-14th-street",
-   "store_number": "R250",
-   "name": "West 14th Street",
-   "city": "New York",
-   "state": "NY",
-   "latitude": 40.7412,
-   "longitude": -74.00542,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-21T14:30:35+00:00",
-   "last_drop_et": "2026-11-21 09:30 AM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "512GB Night Sky",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 42
   },
   {
    "slug": "westfarms",
@@ -3386,27 +3259,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "woodland-hills",
-   "store_number": "R233",
-   "name": "Woodland Hills",
-   "city": "Tulsa",
-   "state": "OK",
-   "latitude": 36.06342,
-   "longitude": -95.88056,
-   "drops_last_7d": 1,
-   "last_drop_at_utc": "2026-11-20T19:15:59+00:00",
-   "last_drop_et": "2026-11-20 02:15 PM ET",
-   "last_drop_models": [
-    "256GB Star White",
-    "256GB Night Sky",
-    "512GB Star White",
-    "1TB Star White",
-    "1TB Night Sky"
-   ],
-   "peak_window": null,
-   "fastest_gone_min": 10
-  },
-  {
    "slug": "4th-street",
    "store_number": "R414",
    "name": "4th Street",
@@ -3429,36 +3281,6 @@
    "state": "FL",
    "latitude": 28.66665,
    "longitude": -81.37696,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "annapolis",
-   "store_number": "R142",
-   "name": "Annapolis",
-   "city": "Annapolis",
-   "state": "MD",
-   "latitude": 38.990536,
-   "longitude": -76.54414,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "arrowhead",
-   "store_number": "R247",
-   "name": "Arrowhead",
-   "city": "Glendale",
-   "state": "AZ",
-   "latitude": 33.6422,
-   "longitude": -112.2256,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3512,13 +3334,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "beverly-center",
-   "store_number": "R124",
-   "name": "Beverly Center",
-   "city": "Los Angeles",
-   "state": "CA",
-   "latitude": 34.0749,
-   "longitude": -118.3773,
+   "slug": "bethesda-row",
+   "store_number": "R112",
+   "name": "Bethesda Row",
+   "city": "Bethesda",
+   "state": "MD",
+   "latitude": 38.980647104108,
+   "longitude": -77.09770810408,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3527,13 +3349,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "birkdale-village",
-   "store_number": "R796",
-   "name": "Birkdale Village",
-   "city": "Huntersville",
-   "state": "NC",
-   "latitude": 35.44477,
-   "longitude": -80.8786,
+   "slug": "beverly-center",
+   "store_number": "R124",
+   "name": "Beverly Center",
+   "city": "Los Angeles",
+   "state": "CA",
+   "latitude": 34.0749,
+   "longitude": -118.3773,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3617,6 +3439,21 @@
    "fastest_gone_min": null
   },
   {
+   "slug": "carlsbad",
+   "store_number": "R294",
+   "name": "Carlsbad",
+   "city": "Carlsbad",
+   "state": "CA",
+   "latitude": 33.0713,
+   "longitude": -117.265,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
    "slug": "century-city",
    "store_number": "R108",
    "name": "Century City",
@@ -3624,36 +3461,6 @@
    "state": "CA",
    "latitude": 34.05865,
    "longitude": -118.41794,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "cherry-creek",
-   "store_number": "R047",
-   "name": "Cherry Creek",
-   "city": "Denver",
-   "state": "CO",
-   "latitude": 39.717437,
-   "longitude": -104.95492,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "chestnut-hill",
-   "store_number": "R076",
-   "name": "Chestnut Hill",
-   "city": "Chestnut Hill",
-   "state": "MA",
-   "latitude": 42.321205,
-   "longitude": -71.17616,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3722,6 +3529,51 @@
    "fastest_gone_min": null
   },
   {
+   "slug": "corte-madera",
+   "store_number": "R071",
+   "name": "Corte Madera",
+   "city": "Corte Madera",
+   "state": "CA",
+   "latitude": 37.928465,
+   "longitude": -122.514284,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "country-club-plaza",
+   "store_number": "R097",
+   "name": "Country Club Plaza",
+   "city": "Kansas City",
+   "state": "MO",
+   "latitude": 39.0413,
+   "longitude": -94.590172,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "crabtree-valley-mall",
+   "store_number": "R116",
+   "name": "Crabtree Valley Mall",
+   "city": "Raleigh",
+   "state": "NC",
+   "latitude": 35.840118,
+   "longitude": -78.679187,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
    "slug": "crocker-park",
    "store_number": "R192",
    "name": "Crocker Park",
@@ -3782,6 +3634,21 @@
    "fastest_gone_min": null
   },
   {
+   "slug": "deer-park",
+   "store_number": "R258",
+   "name": "Deer Park",
+   "city": "Deer Park",
+   "state": "IL",
+   "latitude": 42.1605,
+   "longitude": -88.0554,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
    "slug": "del-amo",
    "store_number": "R777",
    "name": "Del Amo",
@@ -3789,6 +3656,21 @@
    "state": "CA",
    "latitude": 33.833591,
    "longitude": -118.350533,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "del-monte",
+   "store_number": "R305",
+   "name": "Del Monte",
+   "city": "Monterey",
+   "state": "CA",
+   "latitude": 36.584103459981,
+   "longitude": -121.897348157823,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3812,6 +3694,21 @@
    "fastest_gone_min": null
   },
   {
+   "slug": "domain-northside",
+   "store_number": "R216",
+   "name": "Domain NORTHSIDE",
+   "city": "Austin",
+   "state": "TX",
+   "latitude": 30.402708,
+   "longitude": -97.721954,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
    "slug": "eastwood-towne-center",
    "store_number": "R616",
    "name": "Eastwood Towne Center",
@@ -3819,6 +3716,21 @@
    "state": "MI",
    "latitude": 42.764347,
    "longitude": -84.514723,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "eton",
+   "store_number": "R081",
+   "name": "Eton",
+   "city": "Woodmere",
+   "state": "OH",
+   "latitude": 41.463332,
+   "longitude": -81.474623,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3849,6 +3761,21 @@
    "state": "VA",
    "latitude": 38.85797,
    "longitude": -77.35578,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "fashion-fair",
+   "store_number": "R236",
+   "name": "Fashion Fair",
+   "city": "Fresno",
+   "state": "CA",
+   "latitude": 36.80674,
+   "longitude": -119.77553,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3917,13 +3844,28 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "fritz-farm",
-   "store_number": "R288",
-   "name": "Fritz Farm",
-   "city": "Lexington",
-   "state": "KY",
-   "latitude": 37.977139,
-   "longitude": -84.528169,
+   "slug": "freehold-raceway-mall",
+   "store_number": "R138",
+   "name": "Freehold Raceway Mall",
+   "city": "Freehold",
+   "state": "NJ",
+   "latitude": 40.253813,
+   "longitude": -74.30017,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "galleria-dallas",
+   "store_number": "R746",
+   "name": "Galleria Dallas",
+   "city": "Dallas",
+   "state": "TX",
+   "latitude": 32.930392379315,
+   "longitude": -96.819404255932,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -3992,6 +3934,21 @@
    "fastest_gone_min": null
   },
   {
+   "slug": "higuera-street",
+   "store_number": "R199",
+   "name": "Higuera Street",
+   "city": "San Luis Obispo",
+   "state": "CA",
+   "latitude": 35.280617510041,
+   "longitude": -120.66187958447,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
    "slug": "hilldale",
    "store_number": "R229",
    "name": "Hilldale",
@@ -4022,13 +3979,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "kahala",
-   "store_number": "R210",
-   "name": "Kahala",
-   "city": "Honolulu",
-   "state": "HI",
-   "latitude": 21.277081111189,
-   "longitude": -157.78698547723,
+   "slug": "jordan-creek",
+   "store_number": "R109",
+   "name": "Jordan Creek",
+   "city": "West Des Moines",
+   "state": "IA",
+   "latitude": 41.570044,
+   "longitude": -93.803773,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4059,21 +4016,6 @@
    "state": "MA",
    "latitude": 42.230872743618,
    "longitude": -71.178393320255,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "los-cerritos",
-   "store_number": "R300",
-   "name": "Los Cerritos",
-   "city": "Cerritos",
-   "state": "CA",
-   "latitude": 33.862423,
-   "longitude": -118.093942,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4202,13 +4144,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "natick",
-   "store_number": "R232",
-   "name": "Natick",
-   "city": "Natick",
-   "state": "MA",
-   "latitude": 42.301522,
-   "longitude": -71.383724,
+   "slug": "montgomery-village",
+   "store_number": "R044",
+   "name": "Montgomery Village",
+   "city": "Santa Rosa",
+   "state": "CA",
+   "latitude": 38.443632,
+   "longitude": -122.686785,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4217,13 +4159,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "oakridge",
-   "store_number": "R105",
-   "name": "Oakridge",
-   "city": "San Jose",
-   "state": "CA",
-   "latitude": 37.251599,
-   "longitude": -121.862899,
+   "slug": "natick",
+   "store_number": "R232",
+   "name": "Natick",
+   "city": "Natick",
+   "state": "MA",
+   "latitude": 42.301522,
+   "longitude": -71.383724,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4337,21 +4279,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "providence-place",
-   "store_number": "R167",
-   "name": "Providence Place",
-   "city": "Providence",
-   "state": "RI",
-   "latitude": 41.8269,
-   "longitude": -71.4163,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
    "slug": "river-park-square",
    "store_number": "R420",
    "name": "River Park Square",
@@ -4397,6 +4324,21 @@
    "fastest_gone_min": null
   },
   {
+   "slug": "ross-park",
+   "store_number": "R413",
+   "name": "Ross Park",
+   "city": "Pittsburgh",
+   "state": "PA",
+   "latitude": 40.54369,
+   "longitude": -80.00782,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
    "slug": "sagemore",
    "store_number": "R088",
    "name": "Sagemore",
@@ -4412,13 +4354,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "sono-collection",
-   "store_number": "R202",
-   "name": "SoNo Collection",
-   "city": "Norwalk",
-   "state": "CT",
-   "latitude": 41.1058,
-   "longitude": -73.4185,
+   "slug": "soho",
+   "store_number": "R032",
+   "name": "SoHo",
+   "city": "New York",
+   "state": "NY",
+   "latitude": 40.725058,
+   "longitude": -73.999037,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4427,13 +4369,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "somerset",
-   "store_number": "R055",
-   "name": "Somerset",
-   "city": "Troy",
-   "state": "MI",
-   "latitude": 42.563,
-   "longitude": -83.18337,
+   "slug": "sono-collection",
+   "store_number": "R202",
+   "name": "SoNo Collection",
+   "city": "Norwalk",
+   "state": "CT",
+   "latitude": 41.1058,
+   "longitude": -73.4185,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4502,21 +4444,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "stoneridge-mall",
-   "store_number": "R101",
-   "name": "Stoneridge Mall",
-   "city": "Pleasanton",
-   "state": "CA",
-   "latitude": 37.69525,
-   "longitude": -121.92867,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
    "slug": "stonestown",
    "store_number": "R033",
    "name": "Stonestown",
@@ -4547,13 +4474,28 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "the-americana-at-brand",
-   "store_number": "R451",
-   "name": "The Americana at Brand",
-   "city": "Glendale",
-   "state": "CA",
-   "latitude": 34.14443,
-   "longitude": -118.25695,
+   "slug": "the-falls",
+   "store_number": "R012",
+   "name": "The Falls",
+   "city": "Miami",
+   "state": "FL",
+   "latitude": 25.643719563754,
+   "longitude": -80.33814594377,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "the-fashion-mall-at-keystone",
+   "store_number": "R066",
+   "name": "The Fashion Mall at Keystone",
+   "city": "Indianapolis",
+   "state": "IN",
+   "latitude": 39.9141,
+   "longitude": -86.11181,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4622,21 +4564,6 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "the-summit",
-   "store_number": "R225",
-   "name": "The Summit",
-   "city": "Birmingham",
-   "state": "AL",
-   "latitude": 33.44726,
-   "longitude": -86.7285,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
    "slug": "the-westchester",
    "store_number": "R061",
    "name": "The Westchester",
@@ -4652,28 +4579,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "tower-theatre",
-   "store_number": "R720",
-   "name": "Tower Theatre",
-   "city": "Los Angeles",
+   "slug": "third-street-promenade",
+   "store_number": "R051",
+   "name": "Third Street Promenade",
+   "city": "Santa Monica",
    "state": "CA",
-   "latitude": 34.0435491,
-   "longitude": -118.2546643,
-   "drops_last_7d": 0,
-   "last_drop_at_utc": null,
-   "last_drop_et": null,
-   "last_drop_models": [],
-   "peak_window": null,
-   "fastest_gone_min": null
-  },
-  {
-   "slug": "union-square",
-   "store_number": "R075",
-   "name": "Union Square",
-   "city": "San Francisco",
-   "state": "CA",
-   "latitude": 37.7886,
-   "longitude": -122.407159,
+   "latitude": 34.01532813854,
+   "longitude": -118.495429158211,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4772,13 +4684,13 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "vintage-faire",
-   "store_number": "R322",
-   "name": "Vintage Faire",
-   "city": "Modesto",
-   "state": "CA",
-   "latitude": 37.687749808908,
-   "longitude": -121.053261792864,
+   "slug": "waterside-shops",
+   "store_number": "R169",
+   "name": "Waterside Shops",
+   "city": "Naples",
+   "state": "FL",
+   "latitude": 26.2132,
+   "longitude": -81.8017,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4787,13 +4699,28 @@
    "fastest_gone_min": null
   },
   {
-   "slug": "waterside-shops",
-   "store_number": "R169",
-   "name": "Waterside Shops",
-   "city": "Naples",
+   "slug": "wellington-green",
+   "store_number": "R024",
+   "name": "Wellington Green",
+   "city": "Wellington",
    "state": "FL",
-   "latitude": 26.2132,
-   "longitude": -81.8017,
+   "latitude": 26.647028,
+   "longitude": -80.208856,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "west-14th-street",
+   "store_number": "R250",
+   "name": "West 14th Street",
+   "city": "New York",
+   "state": "NY",
+   "latitude": 40.7412,
+   "longitude": -74.00542,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,
@@ -4824,6 +4751,21 @@
    "state": "MI",
    "latitude": 42.9166,
    "longitude": -85.5883,
+   "drops_last_7d": 0,
+   "last_drop_at_utc": null,
+   "last_drop_et": null,
+   "last_drop_models": [],
+   "peak_window": null,
+   "fastest_gone_min": null
+  },
+  {
+   "slug": "woodland-hills",
+   "store_number": "R233",
+   "name": "Woodland Hills",
+   "city": "Tulsa",
+   "state": "OK",
+   "latitude": 36.06342,
+   "longitude": -95.88056,
    "drops_last_7d": 0,
    "last_drop_at_utc": null,
    "last_drop_et": null,

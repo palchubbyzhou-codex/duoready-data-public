@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "scale": "score_100 = editorial_score (1-5) x 20",
  "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
  "bands": {
@@ -12,11 +12,11 @@
  "distribution": {
   "100": 44,
   "80": 84,
-  "60": 213,
+  "60": 226,
   "40": 3,
   "20": 1
  },
- "count": 345,
+ "count": 358,
  "apps": [
   {
    "slug": "2number-us",
@@ -1581,6 +1581,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "kiwix-cn",
+   "name_en": "Kiwix",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "kiwix-us",
+   "name_en": "Kiwix",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "knots-3d-cn",
    "name_en": "Knots 3D",
    "name_zh": "3D绳结大全",
@@ -1933,6 +1955,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "monarch-us",
+   "name_en": "Monarch: Budget & Track Money",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "monash-fodmap-diet-cn",
    "name_en": "Monash FODMAP Diet",
    "name_zh": null,
@@ -2274,6 +2307,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "opusclip-cn",
+   "name_en": "OpusClip - AI video clipping",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "opusclip-us",
+   "name_en": "OpusClip - AI video clipping",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "orisuji",
    "name_en": "Orisuji",
    "name_zh": null,
@@ -2604,6 +2659,28 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "qq-mail-cn",
+   "name_en": "QQ Mail",
+   "name_zh": "QQ邮箱",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "qq-mail-us",
+   "name_en": "QQ Mail",
+   "name_zh": "QQ邮箱",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "qq-music",
    "name_en": "QQ Music",
    "name_zh": "QQ音乐",
@@ -2802,6 +2879,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "shopsavvy-cn",
+   "name_en": "ShopSavvy - Shopping Assistant",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "shopsavvy-us",
+   "name_en": "ShopSavvy - Shopping Assistant",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "sidekey-cn",
    "name_en": "Sidekey",
    "name_zh": "手机变无线键盘",
@@ -2843,6 +2942,28 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sketchbook-cn",
+   "name_en": "Sketchbook",
+   "name_zh": "Sketchbook",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sketchbook-us",
+   "name_en": "Sketchbook",
+   "name_zh": "Sketchbook",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -3745,6 +3866,28 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "yomo-cn",
+   "name_en": "Yomo: Docker & Portainer",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "yomo-us",
+   "name_en": "Yomo: Docker & Portainer",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
