@@ -2922,5 +2922,349 @@
   "source_url": "https://getduoready.com/",
   "credibility_tier": "verified",
   "date_verified": "2026-11-23"
+ },
+ {
+  "date": "2026-11-24",
+  "snapshot_time_utc": "2026-11-24T15:07:40+00:00",
+  "snapshot_time_et": "2026-11-24 10:07 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 23,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 21
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 20
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 14
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 21
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 17
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 22
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R287",
+    "store_name": "Georgetown",
+    "city": "Washington",
+    "state": "DC",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R289",
+    "store_name": "Brandon",
+    "city": "Brandon",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R185",
+    "store_name": "Coconut Point",
+    "city": "Estero",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R214",
+    "store_name": "The Galleria",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R360",
+    "store_name": "University Park Mall",
+    "city": "Mishawaka",
+    "state": "IN",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R264",
+    "store_name": "Oxmoor",
+    "city": "Louisville",
+    "state": "KY",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R346",
+    "store_name": "Legacy Place",
+    "city": "Dedham",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R191",
+    "store_name": "Holyoke",
+    "city": "Holyoke",
+    "state": "MA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R142",
+    "store_name": "Annapolis",
+    "city": "Annapolis",
+    "state": "MD",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R230",
+    "store_name": "Briarwood",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R132",
+    "store_name": "Woodland",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R083",
+    "store_name": "SouthPark",
+    "city": "Charlotte",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R116",
+    "store_name": "Crabtree Valley Mall",
+    "city": "Raleigh",
+    "state": "NC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R631",
+    "store_name": "The Mall of New Hampshire",
+    "city": "Manchester",
+    "state": "NH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R549",
+    "store_name": "Quaker Bridge",
+    "city": "Lawrence Township",
+    "state": "NJ",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R028",
+    "store_name": "Kenwood Towne Centre",
+    "city": "Cincinnati",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R162",
+    "store_name": "Walnut Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R413",
+    "store_name": "Ross Park",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R318",
+    "store_name": "Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R085",
+    "store_name": "Barton Creek",
+    "city": "Austin",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R144",
+    "store_name": "NorthPark Center",
+    "city": "Dallas",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R164",
+    "store_name": "Memorial City",
+    "city": "Houston",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R321",
+    "store_name": "Willowbrook Mall",
+    "city": "Houston",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1H4LL/A",
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
  }
 ]

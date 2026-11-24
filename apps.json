@@ -8097,5 +8097,193 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-23"
+ },
+ {
+  "slug": "homey-us",
+  "name_en": "Homey — A better smart home",
+  "name_zh": null,
+  "aliases": [
+   "Homey"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 10.2.0 (2026-11-23) release notes lead with 'Added support for iPhone Duo', with the Home/Devices layout adjusting to the display size; the unfolded inner screen is filled. This record covers the US-store listing.",
+  "adaptation_zh": "10.2.0 版（2026-11-23）更新说明首条「Added support for iPhone Duo」，Home/Devices 布局随屏幕尺寸调整，展开后铺满内屏。",
+  "editorial_score": 3,
+  "highlights": [
+   "10.2.0 App Store release notes: 'Added support for iPhone Duo'; Home/Devices layout adjusts to size",
+   "Smart home app by Athom B.V., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (10.2.0, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "homey-cn",
+  "name_en": "Homey — A better smart home",
+  "name_zh": null,
+  "aliases": [
+   "Homey"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 10.2.0 (2026-11-23) release notes lead with 'Added support for iPhone Duo', with the Home/Devices layout adjusting to the display size; the unfolded inner screen is filled. This record covers the CN-store listing.",
+  "adaptation_zh": "10.2.0 版（2026-11-23）更新说明首条「Added support for iPhone Duo」，Home/Devices 布局随屏幕尺寸调整，展开后铺满内屏。",
+  "editorial_score": 3,
+  "highlights": [
+   "10.2.0 App Store release notes: 'Added support for iPhone Duo'; Home/Devices layout adjusts to size",
+   "Smart home app by Athom B.V., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (10.2.0, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "daily-relics-us",
+  "name_en": "Daily Relics",
+  "name_zh": "每日文物",
+  "aliases": [
+   "Daily Relics",
+   "每日文物"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 2.0.0 (2026-11-23), a full Swift/SwiftUI rebuild, states the app is adapted for iPhone Duo and automatically adapts to multiple screen sizes and orientations, filling the whole inner screen. This record covers the US-store listing.",
+  "adaptation_zh": "2.0.0 版（2026-11-23）以 Swift/SwiftUI 全面重构，说明写明已针对 iPhone Duo 适配、自动适应多种屏幕尺寸与横竖屏，铺满整个内屏。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.0.0 App Store release notes: adapted for iPhone Duo; adapts to multiple screen sizes and orientations",
+   "Cultural relics app by 北京上下四方文化有限公司, $0.99"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.0.0, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "daily-relics-cn",
+  "name_en": "Daily Relics",
+  "name_zh": "每日文物",
+  "aliases": [
+   "Daily Relics",
+   "每日文物"
+  ],
+  "store": "CN",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 2.0.0 (2026-11-23), a full Swift/SwiftUI rebuild, states the app is adapted for iPhone Duo and automatically adapts to multiple screen sizes and orientations, filling the whole inner screen. This record covers the CN-store listing.",
+  "adaptation_zh": "2.0.0 版（2026-11-23）以 Swift/SwiftUI 全面重构，说明写明已针对 iPhone Duo 适配、自动适应多种屏幕尺寸与横竖屏，铺满整个内屏。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.0.0 App Store release notes: adapted for iPhone Duo; adapts to multiple screen sizes and orientations",
+   "Cultural relics app by 北京上下四方文化有限公司, ¥3"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.0.0, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "byair-us",
+  "name_en": "byAir: Flight Tracker & Status",
+  "name_zh": "byAir：飞机雷达追踪",
+  "aliases": [
+   "byAir"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 2.43.4 (2026-11-23) adds iPhone Duo support in a new map-first interface: flights, airports and statistics are viewed in sliding panels over the map, the layout adapts to the window size, and collapsing the panel reveals more of the map. This record covers the US-store listing.",
+  "adaptation_zh": "2.43.4 版（2026-11-23）全新地图优先界面新增 iPhone Duo 支持：航班/机场/统计在地图上方滑动面板中查看，布局随窗口大小自适应，收起面板可看更多地图。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.43.4 App Store release notes: iPhone Duo support; sliding panels over the map; layout adapts to window size",
+   "Flight tracker by BYAIRAPP S.L., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.43.4, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "byair-cn",
+  "name_en": "byAir: Flight Tracker & Status",
+  "name_zh": "byAir：飞机雷达追踪",
+  "aliases": [
+   "byAir"
+  ],
+  "store": "CN",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 2.43.4 (2026-11-23) adds iPhone Duo support in a new map-first interface: flights, airports and statistics are viewed in sliding panels over the map, the layout adapts to the window size, and collapsing the panel reveals more of the map. This record covers the CN-store listing.",
+  "adaptation_zh": "2.43.4 版（2026-11-23）全新地图优先界面新增 iPhone Duo 支持：航班/机场/统计在地图上方滑动面板中查看，布局随窗口大小自适应，收起面板可看更多地图。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.43.4 App Store release notes: iPhone Duo support; sliding panels over the map; layout adapts to window size",
+   "Flight tracker by BYAIRAPP S.L., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.43.4, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "kugou-live-cn",
+  "name_en": null,
+  "name_zh": "酷狗直播",
+  "aliases": [
+   "酷狗直播",
+   "KuGou Live"
+  ],
+  "store": "CN",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 7.03.90 (2026-11-24) release notes lead their optimisation list with basic-function optimisation adapting the app for iPhone Duo. No further Duo layout detail is published. This record covers the CN-store listing; it is a separate app from KuGou Music.",
+  "adaptation_zh": "7.03.90 版（2026-11-24）更新说明【优化】首条「基础功能优化，适配iPhone Duo」。未公布更多 Duo 布局细节。与酷狗音乐是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "7.03.90 App Store release notes: '基础功能优化，适配iPhone Duo'",
+   "Live streaming app by 广州繁星互娱信息科技有限公司, free; separate from KuGou Music"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (7.03.90, 2026-11-24)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "quark-drive-cn",
+  "name_en": null,
+  "name_zh": "夸克网盘",
+  "aliases": [
+   "夸克网盘",
+   "Quark Drive"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 10.21.5.1095 (2026-11-24) release notes add 'iPhone Duo adaptation: a smoother large-screen study experience' — the listing's first written Duo adaptation statement. No further Duo layout detail is published. This record covers the CN-store listing; it is a separate app from the main Quark app.",
+  "adaptation_zh": "10.21.5.1095 版（2026-11-24）更新说明第 2 条「iPhone Duo适配：大屏学习体验更丝滑」，为该上架首次书面适配声明。未公布更多 Duo 布局细节。与夸克主 App 是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "10.21.5.1095 App Store release notes: 'iPhone Duo适配：大屏学习体验更丝滑'",
+   "Cloud drive by 广州市动悦信息技术有限公司, free; separate from the main Quark app"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (10.21.5.1095, 2026-11-24)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-24"
  }
 ]
