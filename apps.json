@@ -839,17 +839,18 @@
   "store": "US",
   "category": "health",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "App Store release notes state 'Support for iPhone Duo' and add a touch control switcher in laptop pose. MacRumors (2026-10-23) describes it as an anti-gravity racing game with neon colors that looks great on iPhone Duo. No further Duo layout detail is published.",
+  "adaptation_zh": "App Store 更新说明写明「Support for iPhone Duo」，并新增 laptop pose（半折）下的触控切换。MacRumors（2026-10-23）称其为霓虹风格反重力赛车、在 iPhone Duo 上效果出色。未公布更多 Duo 布局细节。",
   "editorial_score": 3,
   "highlights": [
+   "App Store release notes: 'Support for iPhone Duo'; touch control switcher in laptop pose",
    "Described by MacRumors as an anti-gravity racing game with neon colors that looks great on iPhone Duo"
   ],
   "listed_on_site": true,
-  "source_name": "MacRumors — The iPhone Duo Can Be a Tiny Mac, a Toaster, and a Nintendo DS (2026-10-23)",
-  "source_url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps/",
-  "credibility_tier": "reported",
-  "date_verified": "2026-10-27"
+  "source_name": "App Store listing (Nitelore) + MacRumors (2026-10-23)",
+  "source_url": "https://apps.apple.com/gb/app/nitelore/id6790147739",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
  },
  {
   "slug": "not-boring-camera",
@@ -1090,15 +1091,18 @@
   "store": "US",
   "category": "utilities",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
-  "editorial_score": 3,
-  "highlights": [],
+  "adaptation_en": "The App Store listing carries a 'Built for iPhone Duo' section: closed, it is a full app on the outer display with vertical tab and tool bars; open, layouts expand across the inner display with two-column feeds and charts spaced so the fold falls between them, a sidebar for navigation, and room to open a second Pollster Pass window on any race. Unfolding mid-race keeps your place.",
+  "adaptation_zh": "App Store 商店页设有「Built for iPhone Duo」专节：合上时外屏为完整 App（竖排标签栏与工具栏）；展开后布局铺满内屏——信息流与图表双栏、折痕落在两栏之间，带导航侧边栏，还可就任一选情再开一个 Pollster Pass 窗口；中途展开不丢失阅读位置。",
+  "editorial_score": 4,
+  "highlights": [
+   "App Store listing 'Built for iPhone Duo': two-column feeds/charts split at the fold, navigation sidebar, second window per race",
+   "Closed: full app on the outer display with vertical tab and tool bars"
+  ],
   "listed_on_site": true,
-  "source_name": "Great Apps on iPhone Duo - App Store (US)",
-  "source_url": "https://apps.apple.com/us/story/id6820646846",
+  "source_name": "App Store listing — 'Built for iPhone Duo' section (Pollster Pass)",
+  "source_url": "https://apps.apple.com/tj/app/pollster-pass/id6744908209",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-25"
  },
  {
   "slug": "portal",
@@ -8285,5 +8289,245 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-24"
+ },
+ {
+  "slug": "meituan-us",
+  "name_en": "Meituan-Eat Better,Live Better",
+  "name_zh": "美团",
+  "aliases": [
+   "Meituan",
+   "美团"
+  ],
+  "store": "US",
+  "category": "shopping",
+  "status": "adapted",
+  "adaptation_en": "Version 12.69.410 (2026-11-25) release notes lead with 'Now optimized for iPhone Duo'. No further Duo layout detail is published. This record covers the US-store listing; it is a separate app from Meituan Waimai (food delivery).",
+  "adaptation_zh": "12.69.410 版（2026-11-25）更新说明首条「适配iPhone Duo，美好生活即刻展开」。未公布更多 Duo 布局细节。与美团外卖是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "12.69.410 App Store release notes: '适配iPhone Duo，美好生活即刻展开 / Now optimized for iPhone Duo'",
+   "Local services app by Sankuai Technology, free; separate from Meituan Waimai"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (12.69.410, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "meituan-cn",
+  "name_en": "Meituan-Eat Better,Live Better",
+  "name_zh": "美团",
+  "aliases": [
+   "Meituan",
+   "美团"
+  ],
+  "store": "CN",
+  "category": "shopping",
+  "status": "adapted",
+  "adaptation_en": "Version 12.69.410 (2026-11-25) release notes lead with 'Now optimized for iPhone Duo'. No further Duo layout detail is published. This record covers the CN-store listing; it is a separate app from Meituan Waimai (food delivery).",
+  "adaptation_zh": "12.69.410 版（2026-11-25）更新说明首条「适配iPhone Duo，美好生活即刻展开」。未公布更多 Duo 布局细节。与美团外卖是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "12.69.410 App Store release notes: '适配iPhone Duo，美好生活即刻展开 / Now optimized for iPhone Duo'",
+   "Local services app by Sankuai Technology, free; separate from Meituan Waimai"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (12.69.410, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "wukong-food-delivery-cn",
+  "name_en": "Wukong - Food Delivery",
+  "name_zh": null,
+  "aliases": [
+   "Wukong",
+   "Wukong - Food Delivery"
+  ],
+  "store": "CN",
+  "category": "shopping",
+  "status": "adapted",
+  "adaptation_en": "Version 1.0.7 (2026-11-24) release notes state the app is adapted for iPhone Duo, optimising page layout and interaction across folded, half-open and unfolded states. This record covers the CN-store listing; the app is not listed in the US store.",
+  "adaptation_zh": "1.0.7 版（2026-11-24）更新说明末条「适配 iPhone Duo，优化折叠、半打开和展开状态下的页面布局与操作体验」。仅国区上架。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.0.7 App Store release notes: '适配 iPhone Duo，优化折叠、半打开和展开状态下的页面布局与操作体验'",
+   "Food delivery app by PGI CIPTA SDN BHD, free; CN store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.0.7, 2026-11-24)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "lunar-silver-star-story-touch-us",
+  "name_en": "Lunar Silver Star Story Touch",
+  "name_zh": null,
+  "aliases": [
+   "Lunar Silver Star Story Touch",
+   "Lunar"
+  ],
+  "store": "US",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "Version 3.4.6 (2026-11-24) release notes state 'Adds iPhone Duo support as well as resizable window support on iPad and macOS'. No further Duo layout detail is published. This record covers the US-store listing; the app is not listed in the CN store.",
+  "adaptation_zh": "3.4.6 版（2026-11-24）更新说明「Adds iPhone Duo support as well as resizable window support on iPad and macOS」。未公布更多 Duo 布局细节。仅美区上架。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.4.6 App Store release notes: 'Adds iPhone Duo support'",
+   "RPG by SoMoGa, Inc., $9.99; US store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.4.6, 2026-11-24)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "roam-travel-packing-lists-us",
+  "name_en": "Roam: Travel Packing Lists",
+  "name_zh": null,
+  "aliases": [
+   "Roam",
+   "Roam: Travel Packing Lists"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.26 (2026-11-23) release notes carry a dedicated 'READY FOR IPHONE DUO' section: the layout adapts between the inner and outer screens as the device folds and unfolds, preserving reading position and unsaved edits. This record covers the US-store listing; it is a separate app from Roam - The Office That Thinks.",
+  "adaptation_zh": "1.26 版（2026-11-23）更新说明专节「READY FOR IPHONE DUO」：布局随折叠/展开在内外屏间自适应，保持阅读位置与未保存编辑。与 Roam - The Office That Thinks 是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.26 App Store release notes: 'READY FOR IPHONE DUO' — layout adapts across fold/unfold, preserving reading position and unsaved edits",
+   "Travel packing app by Trevor Ringle, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.26, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "roam-travel-packing-lists-cn",
+  "name_en": "Roam: Travel Packing Lists",
+  "name_zh": null,
+  "aliases": [
+   "Roam",
+   "Roam: Travel Packing Lists"
+  ],
+  "store": "CN",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.26 (2026-11-23) release notes carry a dedicated 'READY FOR IPHONE DUO' section: the layout adapts between the inner and outer screens as the device folds and unfolds, preserving reading position and unsaved edits. This record covers the CN-store listing; it is a separate app from Roam - The Office That Thinks.",
+  "adaptation_zh": "1.26 版（2026-11-23）更新说明专节「READY FOR IPHONE DUO」：布局随折叠/展开在内外屏间自适应，保持阅读位置与未保存编辑。与 Roam - The Office That Thinks 是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.26 App Store release notes: 'READY FOR IPHONE DUO' — layout adapts across fold/unfold, preserving reading position and unsaved edits",
+   "Travel packing app by Trevor Ringle, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.26, 2026-11-23)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "microsoft-swiftkey-us",
+  "name_en": "Microsoft SwiftKey AI Keyboard",
+  "name_zh": null,
+  "aliases": [
+   "SwiftKey",
+   "Microsoft SwiftKey"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 4.3.8 (2026-11-25) release notes add 'Split Mode for iPhone Duo now available in SwiftKey': in unfolded landscape the keyboard splits for two-thumb typing. This record covers the US-store listing.",
+  "adaptation_zh": "4.3.8 版（2026-11-25）更新说明新增「Split Mode for iPhone Duo now available in SwiftKey」，Duo 展开横屏时键盘可分屏双拇指输入。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.3.8 App Store release notes: 'Split Mode for iPhone Duo now available in SwiftKey'",
+   "Keyboard app by TouchType Ltd / Microsoft, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.3.8, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "microsoft-swiftkey-cn",
+  "name_en": "Microsoft SwiftKey AI Keyboard",
+  "name_zh": null,
+  "aliases": [
+   "SwiftKey",
+   "Microsoft SwiftKey"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 4.3.8 (2026-11-25) release notes add 'Split Mode for iPhone Duo now available in SwiftKey': in unfolded landscape the keyboard splits for two-thumb typing. This record covers the CN-store listing.",
+  "adaptation_zh": "4.3.8 版（2026-11-25）更新说明新增「Split Mode for iPhone Duo now available in SwiftKey」，Duo 展开横屏时键盘可分屏双拇指输入。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.3.8 App Store release notes: 'Split Mode for iPhone Duo now available in SwiftKey'",
+   "Keyboard app by TouchType Ltd / Microsoft, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.3.8, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "adobe-lightroom-us",
+  "name_en": "Adobe Lightroom",
+  "name_zh": null,
+  "aliases": [
+   "Lightroom",
+   "Adobe Lightroom"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 12.0.10 (2026-11-23) brings native iPhone Duo support as tested by PetaPixel (2026-11-24): unfolded, the photo sits on the left with the editing panel in a column on the right, and a half-folded 'laptop pose' puts the photo on top and tools below. The App Store notes do not mention Duo. This record covers the US-store listing.",
+  "adaptation_zh": "12.0.10 版（2026-11-23）真正落地原生 Duo 适配（PetaPixel 2026-11-24 实测）：展开后照片居左、编辑面板成列居右；半折「laptop pose」上半照片、下半工具。App Store 说明未提 Duo。",
+  "editorial_score": 4,
+  "highlights": [
+   "PetaPixel (2026-11-24) hands-on: native Duo layout — photo left, editing panel right; half-fold laptop pose",
+   "Photo editor by Adobe, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "PetaPixel — Adobe Lightroom's New Native iPhone Duo Support (2026-11-24)",
+  "source_url": "https://petapixel.com/2026/11/24/adobe-lightrooms-new-native-iphone-duo-support-is-fantastic/",
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "adobe-lightroom-cn",
+  "name_en": "Adobe Lightroom",
+  "name_zh": "Lightroom 照片与视频编辑器",
+  "aliases": [
+   "Lightroom",
+   "Adobe Lightroom"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 12.0.10 (2026-11-23) brings native iPhone Duo support as tested by PetaPixel (2026-11-24): unfolded, the photo sits on the left with the editing panel in a column on the right, and a half-folded 'laptop pose' puts the photo on top and tools below. The App Store notes do not mention Duo. This record covers the CN-store listing.",
+  "adaptation_zh": "12.0.10 版（2026-11-23）真正落地原生 Duo 适配（PetaPixel 2026-11-24 实测）：展开后照片居左、编辑面板成列居右；半折「laptop pose」上半照片、下半工具。App Store 说明未提 Duo。",
+  "editorial_score": 4,
+  "highlights": [
+   "PetaPixel (2026-11-24) hands-on: native Duo layout — photo left, editing panel right; half-fold laptop pose",
+   "Photo editor by Adobe, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "PetaPixel — Adobe Lightroom's New Native iPhone Duo Support (2026-11-24)",
+  "source_url": "https://petapixel.com/2026/11/24/adobe-lightrooms-new-native-iphone-duo-support-is-fantastic/",
+  "credibility_tier": "reported",
+  "date_verified": "2026-11-25"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24",
+ "generated": "2026-11-25",
  "scale": "score_100 = editorial_score (1-5) x 20",
  "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
  "bands": {
@@ -11,12 +11,12 @@
  },
  "distribution": {
   "100": 44,
-  "80": 84,
-  "60": 234,
+  "80": 87,
+  "60": 241,
   "40": 3,
   "20": 1
  },
- "count": 366,
+ "count": 376,
  "apps": [
   {
    "slug": "2number-us",
@@ -94,6 +94,28 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "verified"
+  },
+  {
+   "slug": "adobe-lightroom-cn",
+   "name_en": "Adobe Lightroom",
+   "name_zh": "Lightroom 照片与视频编辑器",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
+  },
+  {
+   "slug": "adobe-lightroom-us",
+   "name_en": "Adobe Lightroom",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "reported"
   },
   {
    "slug": "ai-beishujiang-cn",
@@ -1812,6 +1834,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "lunar-silver-star-story-touch-us",
+   "name_en": "Lunar Silver Star Story Touch",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "lyft",
    "name_en": "Lyft",
    "name_zh": null,
@@ -1865,6 +1898,28 @@
    "score_100": 80,
    "band": "Great",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "meituan-cn",
+   "name_en": "Meituan-Eat Better,Live Better",
+   "name_zh": "美团",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "meituan-us",
+   "name_en": "Meituan-Eat Better,Live Better",
+   "name_zh": "美团",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "meizhilian-dianfeng-duijue",
@@ -1975,6 +2030,28 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "microsoft-swiftkey-cn",
+   "name_en": "Microsoft SwiftKey AI Keyboard",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "microsoft-swiftkey-us",
+   "name_en": "Microsoft SwiftKey AI Keyboard",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "microsoft-word",
@@ -2205,7 +2282,7 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
-   "credibility_tier": "reported"
+   "credibility_tier": "verified"
   },
   {
    "slug": "not-boring-camera",
@@ -2653,9 +2730,9 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
-   "editorial_score_5": 3,
-   "score_100": 60,
-   "band": "Good",
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
    "credibility_tier": "verified"
   },
   {
@@ -2884,6 +2961,28 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "roam-travel-packing-lists-cn",
+   "name_en": "Roam: Travel Packing Lists",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "roam-travel-packing-lists-us",
+   "name_en": "Roam: Travel Packing Lists",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
@@ -3878,6 +3977,17 @@
    "score_100": 100,
    "band": "Excellent",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "wukong-food-delivery-cn",
+   "name_en": "Wukong - Food Delivery",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "wylde-flowers",
