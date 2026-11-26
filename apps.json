@@ -884,15 +884,17 @@
   "store": "US",
   "category": "productivity",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Featured in the App Store's 'Great apps on iPhone Duo' editorial collection (Apple, October 2026). No Duo-specific layout detail is published by the developer.",
+  "adaptation_zh": "入选 App Store「Great apps on iPhone Duo」编辑精选合集（Apple，2026 年 10 月）。开发者未公布更多 Duo 布局细节。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "Featured in the App Store's 'Great apps on iPhone Duo' collection"
+  ],
   "listed_on_site": true,
-  "source_name": "DuoReady directory",
-  "source_url": "https://getduoready.com/",
+  "source_name": "App Store 'Great apps on iPhone Duo' collection",
+  "source_url": "https://apps.apple.com/us/story/id6820646846",
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-26"
  },
  {
   "slug": "notewise",
@@ -2121,15 +2123,17 @@
   "store": "CN",
   "category": "music",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "App Store release notes (20.9.2, 2026-11-25): '适配iPhone Duo' — fully adapted for the foldable screen, with folded and propped-up playback modes for listening. The same Duo line also appears in 20.9.1 (2026-11-13).",
+  "adaptation_zh": "20.9.2 版（2026-11-25）更新说明「适配iPhone Duo」全面适配折叠屏，折叠、立起播放多种模式，听歌体验更多面；同文亦见于 20.9.1 版（2026-11-13）。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "20.9.2 App Store release notes: '「适配iPhone Duo」全面适配折叠屏，折叠、立起播放多种模式'"
+  ],
   "listed_on_site": true,
-  "source_name": "爱范儿 ifanr — 首发｜我们用了一周的 iPhone Duo (2026-10-22)",
-  "source_url": "https://www.ifanr.com/1685251",
-  "credibility_tier": "reported",
-  "date_verified": "2026-10-27"
+  "source_name": "App Store release notes (20.9.2, 2026-11-25)",
+  "source_url": "https://apps.apple.com/cn/app/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90-%E5%B0%B1%E6%98%AF%E6%AD%8C%E5%A4%9A/id472208016",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
  },
  {
   "slug": "meitu",
@@ -8529,5 +8533,264 @@
   "source_url": "https://petapixel.com/2026/11/24/adobe-lightrooms-new-native-iphone-duo-support-is-fantastic/",
   "credibility_tier": "reported",
   "date_verified": "2026-11-25"
+ },
+ {
+  "slug": "screens-5-us",
+  "name_en": "Screens 5: VNC Remote Desktop",
+  "name_zh": null,
+  "aliases": [
+   "Screens 5",
+   "Screens"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 5.10.6 (2026-11-25) introduces Laptop Mode for iPhone Duo: fold the phone halfway and the remote desktop fills the upper half while a custom keyboard and trackpad fill the lower half. Hinge-aware, built on the iOS 27 hinge-position signal.",
+  "adaptation_zh": "5.10.6 版（2026-11-25）新增 iPhone Duo 专属 Laptop Mode：半折时上半屏为远程桌面、下半屏为自定义键盘+触控板。基于 iOS 27 的铰链位置信号。",
+  "editorial_score": 5,
+  "highlights": [
+   "5.10.6 App Store release notes: 'Introducing Laptop Mode for iPhone Duo, featuring a custom keyboard and trackpad'",
+   "VNC remote desktop by Edovia Inc.; first written Duo statement in 5.10.6"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (5.10.6, 2026-11-25); 9to5Mac/Engadget coverage 2026-11-25",
+  "source_url": "https://apps.apple.com/us/app/screens-5-vnc-remote-desktop/id1663047912",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "screens-5-cn",
+  "name_en": "Screens 5: VNC Remote Desktop",
+  "name_zh": null,
+  "aliases": [
+   "Screens 5",
+   "Screens"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 5.10.6 (2026-11-25) introduces Laptop Mode for iPhone Duo: fold the phone halfway and the remote desktop fills the upper half while a custom keyboard and trackpad fill the lower half. Hinge-aware, built on the iOS 27 hinge-position signal.",
+  "adaptation_zh": "5.10.6 版（2026-11-25）新增 iPhone Duo 专属 Laptop Mode：半折时上半屏为远程桌面、下半屏为自定义键盘+触控板。基于 iOS 27 的铰链位置信号。",
+  "editorial_score": 5,
+  "highlights": [
+   "5.10.6 App Store release notes: 'Introducing Laptop Mode for iPhone Duo, featuring a custom keyboard and trackpad'",
+   "VNC remote desktop by Edovia Inc.; first written Duo statement in 5.10.6"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (5.10.6, 2026-11-25); 9to5Mac/Engadget coverage 2026-11-25",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "tabii-us",
+  "name_en": "Tabii: Travel Expense Tracker",
+  "name_zh": null,
+  "aliases": [
+   "Tabii"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.7.0 (2026-11-24) release notes: 'Tabii is now optimized for iPhone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "1.7.0 版（2026-11-24）更新说明「Tabii is now optimized for iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.7.0 App Store release notes: 'Tabii is now optimized for iPhone Duo'",
+   "Travel expense tracker by Hood Company, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.7.0, 2026-11-24)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "tabii-cn",
+  "name_en": "Tabii: Travel Expense Tracker",
+  "name_zh": null,
+  "aliases": [
+   "Tabii"
+  ],
+  "store": "CN",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.7.0 (2026-11-24) release notes: 'Tabii is now optimized for iPhone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "1.7.0 版（2026-11-24）更新说明「Tabii is now optimized for iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.7.0 App Store release notes: 'Tabii is now optimized for iPhone Duo'",
+   "Travel expense tracker by Hood Company, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.7.0, 2026-11-24)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "chord-lab-us",
+  "name_en": "Chord Lab: Chord Synth",
+  "name_zh": null,
+  "aliases": [
+   "Chord Lab"
+  ],
+  "store": "US",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "Version 0.26.2 (2026-11-25) release notes add 'Adaptive iPhone Duo layouts, open or closed, in portrait and landscape'. No further Duo layout detail is published.",
+  "adaptation_zh": "0.26.2 版（2026-11-25）更新说明新增「Adaptive iPhone Duo layouts, open or closed, in portrait and landscape」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "0.26.2 App Store release notes: 'Adaptive iPhone Duo layouts, open or closed, in portrait and landscape'",
+   "Chord synth app by DANIEL TIMOTEO ALBANO PRODUCOES LTDA, $4.99 / ¥38"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (0.26.2, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "chord-lab-cn",
+  "name_en": "Chord Lab: Chord Synth",
+  "name_zh": null,
+  "aliases": [
+   "Chord Lab"
+  ],
+  "store": "CN",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "Version 0.26.2 (2026-11-25) release notes add 'Adaptive iPhone Duo layouts, open or closed, in portrait and landscape'. No further Duo layout detail is published.",
+  "adaptation_zh": "0.26.2 版（2026-11-25）更新说明新增「Adaptive iPhone Duo layouts, open or closed, in portrait and landscape」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "0.26.2 App Store release notes: 'Adaptive iPhone Duo layouts, open or closed, in portrait and landscape'",
+   "Chord synth app by DANIEL TIMOTEO ALBANO PRODUCOES LTDA, $4.99 / ¥38"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (0.26.2, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "mubu-us",
+  "name_en": "Mubu",
+  "name_zh": "幕布 - AI大纲笔记&思维导图",
+  "aliases": [
+   "Mubu",
+   "幕布"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 4.5.0 (2026-11-25) release notes: '适配 iPhone Duo' (adapted for iPhone Duo). No further Duo layout detail is published.",
+  "adaptation_zh": "4.5.0 版（2026-11-25）双区更新说明【优化】「适配 iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.5.0 App Store release notes: '适配 iPhone Duo'",
+   "AI outline notes & mind maps by Shenzhen Shilihu Technology, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.5.0, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "mubu-cn",
+  "name_en": "Mubu",
+  "name_zh": "幕布 - AI大纲笔记&思维导图",
+  "aliases": [
+   "Mubu",
+   "幕布"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 4.5.0 (2026-11-25) release notes: '适配 iPhone Duo' (adapted for iPhone Duo). No further Duo layout detail is published.",
+  "adaptation_zh": "4.5.0 版（2026-11-25）双区更新说明【优化】「适配 iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.5.0 App Store release notes: '适配 iPhone Duo'",
+   "AI outline notes & mind maps by Shenzhen Shilihu Technology, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.5.0, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "jiari-lexiaoxiao-cn",
+  "name_en": null,
+  "name_zh": "假日乐消消",
+  "aliases": [
+   "假日乐消消"
+  ],
+  "store": "CN",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "Version 2.27.17 (2026-11-26) release notes carry a dedicated iPhone Duo section: '全新设备适配已就位' (new device adaptation is ready). No further Duo layout detail is published. A different app from Kaixin Xiaoxiaole (开心消消乐), which is already in the directory.",
+  "adaptation_zh": "2.27.17 版（2026-11-26）更新说明专条【适配iPhone Duo】「全新设备适配已就位」。未公布更多 Duo 布局细节。与已在站上的开心消消乐是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.27.17 App Store release notes: 【适配iPhone Duo】「全新设备适配已就位」",
+   "Match-3 game by Shanghai Happy Elements, free; CN store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.27.17, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "tencent-news-us",
+  "name_en": "Tencent News",
+  "name_zh": "腾讯新闻",
+  "aliases": [
+   "Tencent News",
+   "腾讯新闻"
+  ],
+  "store": "US",
+  "category": "news",
+  "status": "adapted",
+  "adaptation_en": "Version 8.0.92 (2026-11-26) release notes lead with '新增iPhone Duo适配 / Added support for iPhone Duo', the first written Duo statement; earlier versions filled the inner screen via the iOS 27.1 SDK + Duo API without a written statement. No further Duo layout detail is published. A different app from Tencent Video (腾讯视频), which is already in the directory.",
+  "adaptation_zh": "8.0.92 版（2026-11-26）双区更新说明首条「新增iPhone Duo适配 / Added support for iPhone Duo」，为首次书面适配声明。此前版本仅凭 iOS 27.1 SDK + Duo API 铺满内屏、无书面声明。未公布更多 Duo 布局细节。与已在站上的腾讯视频是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "8.0.92 App Store release notes: '新增iPhone Duo适配 / Added support for iPhone Duo'",
+   "News app by Tencent Technology (Beijing), free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (8.0.92, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "tencent-news-cn",
+  "name_en": "Tencent News",
+  "name_zh": "腾讯新闻",
+  "aliases": [
+   "Tencent News",
+   "腾讯新闻"
+  ],
+  "store": "CN",
+  "category": "news",
+  "status": "adapted",
+  "adaptation_en": "Version 8.0.92 (2026-11-26) release notes lead with '新增iPhone Duo适配 / Added support for iPhone Duo', the first written Duo statement; earlier versions filled the inner screen via the iOS 27.1 SDK + Duo API without a written statement. No further Duo layout detail is published. A different app from Tencent Video (腾讯视频), which is already in the directory.",
+  "adaptation_zh": "8.0.92 版（2026-11-26）双区更新说明首条「新增iPhone Duo适配 / Added support for iPhone Duo」，为首次书面适配声明。此前版本仅凭 iOS 27.1 SDK + Duo API 铺满内屏、无书面声明。未公布更多 Duo 布局细节。与已在站上的腾讯视频是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "8.0.92 App Store release notes: '新增iPhone Duo适配 / Added support for iPhone Duo'",
+   "News app by Tencent Technology (Beijing), free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (8.0.92, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
  }
 ]

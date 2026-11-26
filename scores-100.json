@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "scale": "score_100 = editorial_score (1-5) x 20",
  "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
  "bands": {
@@ -10,13 +10,13 @@
   "20": "Poor"
  },
  "distribution": {
-  "100": 44,
+  "100": 46,
   "80": 87,
-  "60": 241,
+  "60": 250,
   "40": 3,
   "20": 1
  },
- "count": 376,
+ "count": 387,
  "apps": [
   {
    "slug": "2number-us",
@@ -550,6 +550,28 @@
    "slug": "cellular-us",
    "name_en": "Cellular Tower - Signal Finder",
    "name_zh": "Cellular 蜂窝网络5G网速手机测速，WiFi信号检测",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "chord-lab-cn",
+   "name_en": "Chord Lab: Chord Synth",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "chord-lab-us",
+   "name_en": "Chord Lab: Chord Synth",
+   "name_zh": null,
    "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
@@ -1548,6 +1570,17 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "jiari-lexiaoxiao-cn",
+   "name_en": null,
+   "name_zh": "假日乐消消",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "jieya-zhuanjia-cn",
    "name_en": null,
    "name_zh": "解压专家",
@@ -2156,6 +2189,28 @@
    "slug": "mono-ai-expense-tracker-us",
    "name_en": "MONO - AI Expense Tracker",
    "name_zh": "MONO 记账",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "mubu-cn",
+   "name_en": "Mubu",
+   "name_zh": "幕布 - AI大纲笔记&思维导图",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "mubu-us",
+   "name_en": "Mubu",
+   "name_zh": "幕布 - AI大纲笔记&思维导图",
    "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
@@ -3011,6 +3066,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "screens-5-cn",
+   "name_en": "Screens 5: VNC Remote Desktop",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "screens-5-us",
+   "name_en": "Screens 5: VNC Remote Desktop",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 5,
+   "score_100": 100,
+   "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "search-ace",
    "name_en": "Search Ace - AI Duo Browser",
    "name_zh": null,
@@ -3352,6 +3429,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "tabii-cn",
+   "name_en": "Tabii: Travel Expense Tracker",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tabii-us",
+   "name_en": "Tabii: Travel Expense Tracker",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "tabletop-cn",
    "name_en": "Tabletop: Mac Remote Desktop",
    "name_zh": "Tabletop: Mac 远程桌面",
@@ -3399,6 +3498,28 @@
    "slug": "tempo-advance-us",
    "name_en": "Tempo Advance - Metronome",
    "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tencent-news-cn",
+   "name_en": "Tencent News",
+   "name_zh": "腾讯新闻",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tencent-news-us",
+   "name_en": "Tencent News",
+   "name_zh": "腾讯新闻",
    "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,

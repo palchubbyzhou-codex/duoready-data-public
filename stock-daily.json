@@ -3864,5 +3864,601 @@
   "source_url": "https://getduoready.com/",
   "credibility_tier": "verified",
   "date_verified": "2026-11-25"
+ },
+ {
+  "date": "2026-11-26",
+  "snapshot_time_utc": "2026-11-26T15:11:58+00:00",
+  "snapshot_time_et": "2026-11-26 10:11 AM ET",
+  "stores_total": 254,
+  "stores_in_stock": 41,
+  "by_model": [
+   {
+    "model": "256GB Star White",
+    "part": "MK1E4LL/A",
+    "stores_in_stock": 33
+   },
+   {
+    "model": "256GB Night Sky",
+    "part": "MK1F4LL/A",
+    "stores_in_stock": 34
+   },
+   {
+    "model": "512GB Star White",
+    "part": "MK1G4LL/A",
+    "stores_in_stock": 37
+   },
+   {
+    "model": "512GB Night Sky",
+    "part": "MK1H4LL/A",
+    "stores_in_stock": 40
+   },
+   {
+    "model": "1TB Star White",
+    "part": "MK1J4LL/A",
+    "stores_in_stock": 40
+   },
+   {
+    "model": "1TB Night Sky",
+    "part": "MK1L4LL/A",
+    "stores_in_stock": 39
+   }
+  ],
+  "stores": [
+   {
+    "store_number": "R007",
+    "store_name": "Mall of America",
+    "city": "Bloomington",
+    "state": "MN",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R009",
+    "store_name": "Easton Town Center",
+    "city": "Columbus",
+    "state": "OH",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R017",
+    "store_name": "Crossgates",
+    "city": "Albany",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R019",
+    "store_name": "International Plaza",
+    "city": "Tampa",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R047",
+    "store_name": "Cherry Creek",
+    "city": "Denver",
+    "state": "CO",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R053",
+    "store_name": "Millenia",
+    "city": "Orlando",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R054",
+    "store_name": "Southdale",
+    "city": "Edina",
+    "state": "MN",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R062",
+    "store_name": "West County",
+    "city": "Saint Louis",
+    "state": "MO",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R070",
+    "store_name": "Arden Fair",
+    "city": "Sacramento",
+    "state": "CA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R090",
+    "store_name": "Washington Square",
+    "city": "Tigard",
+    "state": "OR",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R093",
+    "store_name": "Danbury Fair Mall",
+    "city": "Danbury",
+    "state": "CT",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R095",
+    "store_name": "Fifth Avenue",
+    "city": "New York",
+    "state": "NY",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R106",
+    "store_name": "Southcenter",
+    "city": "Tukwila",
+    "state": "WA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R111",
+    "store_name": "St. Johns Town Center",
+    "city": "Jacksonville",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R114",
+    "store_name": "Saint Louis Galleria",
+    "city": "Saint Louis",
+    "state": "MO",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R115",
+    "store_name": "Lincoln Road",
+    "city": "Miami Beach",
+    "state": "FL",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R122",
+    "store_name": "Manhattan Village",
+    "city": "Manhattan Beach",
+    "state": "CA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R126",
+    "store_name": "The Woodlands",
+    "city": "The Woodlands",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R132",
+    "store_name": "Woodland",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R151",
+    "store_name": "Southlake Town Square",
+    "city": "Southlake",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R154",
+    "store_name": "The Oaks",
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R167",
+    "store_name": "Providence Place",
+    "city": "Providence",
+    "state": "RI",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R172",
+    "store_name": "Twenty Ninth Street",
+    "city": "Boulder",
+    "state": "CO",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R183",
+    "store_name": "Ridgedale",
+    "city": "Minnetonka",
+    "state": "MN",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R184",
+    "store_name": "Perimeter",
+    "city": "Atlanta",
+    "state": "GA",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A"
+    ]
+   },
+   {
+    "store_number": "R216",
+    "store_name": "Domain NORTHSIDE",
+    "city": "Austin",
+    "state": "TX",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R235",
+    "store_name": "Lakeside Shopping Center",
+    "city": "Metairie",
+    "state": "LA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R236",
+    "store_name": "Fashion Fair",
+    "city": "Fresno",
+    "state": "CA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R259",
+    "store_name": "Mall of Georgia",
+    "city": "Buford",
+    "state": "GA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R267",
+    "store_name": "SanTan Village",
+    "city": "Gilbert",
+    "state": "AZ",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R292",
+    "store_name": "Scottsdale Quarter",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R298",
+    "store_name": "Roseville",
+    "city": "Roseville",
+    "state": "CA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R318",
+    "store_name": "Charleston",
+    "city": "Charleston",
+    "state": "SC",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R324",
+    "store_name": "Renaissance at Colony Park",
+    "city": "Ridgeland",
+    "state": "MS",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R338",
+    "store_name": "The Promenade Shops at Briargate",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R420",
+    "store_name": "River Park Square",
+    "city": "Spokane",
+    "state": "WA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R461",
+    "store_name": "Fashion Place",
+    "city": "Murray",
+    "state": "UT",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R462",
+    "store_name": "Valencia Town Center",
+    "city": "Valencia",
+    "state": "CA",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R550",
+    "store_name": "Valley Plaza",
+    "city": "Bakersfield",
+    "state": "CA",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R599",
+    "store_name": "Station Park",
+    "city": "Farmington",
+    "state": "UT",
+    "parts_in_stock": [
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   },
+   {
+    "store_number": "R650",
+    "store_name": "Summerlin",
+    "city": "Las Vegas",
+    "state": "NV",
+    "parts_in_stock": [
+     "MK1E4LL/A",
+     "MK1F4LL/A",
+     "MK1G4LL/A",
+     "MK1H4LL/A",
+     "MK1J4LL/A",
+     "MK1L4LL/A"
+    ]
+   }
+  ],
+  "source_name": "DuoReady live stock tracker",
+  "source_url": "https://getduoready.com/",
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-26"
  }
 ]
