@@ -8792,5 +8792,813 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-26"
+ },
+ {
+  "slug": "naver-maps",
+  "name_en": "NAVER Maps",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 6.13.0 (2026-11-27) release notes add the first written iPhone Duo adaptation statement; the previous 6.12.1 filled the inner screen via the iOS 27.1 SDK without a Duo API. No further Duo layout detail is published.",
+  "adaptation_zh": "6.13.0 版（2026-11-27）更新说明首次写明 iPhone Duo 适配；上一版 6.12.1 仅凭 iOS 27.1 SDK 铺满内屏、无 Duo API。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.13.0 App Store release notes: first written iPhone Duo adaptation statement",
+   "Maps and navigation by NAVER Corp., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.13.0, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "netspeed",
+  "name_en": "NetSpeed – Dynamic Island Live",
+  "name_zh": null,
+  "aliases": [
+   "NetSpeed"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 5.1 (2026-11-25) release notes add the first written iPhone Duo adaptation statement. No further Duo layout detail is published.",
+  "adaptation_zh": "5.1 版（2026-11-25）更新说明首次写明 iPhone Duo 适配。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "5.1 App Store release notes: first written iPhone Duo adaptation statement",
+   "Network speed monitor by 邵伟 黄, free; US store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (5.1, 2026-11-25)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "photoncam-us",
+  "name_en": "PhotonCam: Pro Camera & Editor",
+  "name_zh": null,
+  "aliases": [
+   "PhotonCam"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 2.2.0 (2026-11-27) release notes: '此版本终于为 iPhone Duo 带来了相机功能' (this version finally brings camera features to iPhone Duo). The previous 2.1.8 release notes carried no Duo wording.",
+  "adaptation_zh": "2.2.0 版（2026-11-27）更新说明「此版本终于为 iPhone Duo 带来了相机功能」。上一版 2.1.8 说明无 Duo 字样。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.2.0 App Store release notes: '此版本终于为 iPhone Duo 带来了相机功能'",
+   "Pro camera & editor by 伟超 邓, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.2.0, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "photoncam-cn",
+  "name_en": "PhotonCam: Pro Camera & Editor",
+  "name_zh": null,
+  "aliases": [
+   "PhotonCam"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 2.2.0 (2026-11-27) release notes: '此版本终于为 iPhone Duo 带来了相机功能' (this version finally brings camera features to iPhone Duo). The previous 2.1.8 release notes carried no Duo wording.",
+  "adaptation_zh": "2.2.0 版（2026-11-27）更新说明「此版本终于为 iPhone Duo 带来了相机功能」。上一版 2.1.8 说明无 Duo 字样。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.2.0 App Store release notes: '此版本终于为 iPhone Duo 带来了相机功能'",
+   "Pro camera & editor by 伟超 邓, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.2.0, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "coordinates-gps-converter",
+  "name_en": "Coordinates – GPS Converter",
+  "name_zh": null,
+  "aliases": [
+   "Coordinates"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 9.15.1 (2026-11-26) release notes state 'iPhone Duo Supported'. No further Duo layout detail is published.",
+  "adaptation_zh": "9.15.1 版（2026-11-26）更新说明「iPhone Duo Supported」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "9.15.1 App Store release notes: 'iPhone Duo Supported'",
+   "GPS converter by Mapnitude, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (9.15.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "sqease",
+  "name_en": "SQEase: SQE1 Exam Prep",
+  "name_zh": null,
+  "aliases": [
+   "SQEase"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 1.2.3 (2026-11-27) release notes add a dedicated 'On iPhone Duo and iPad' section: scratch pad, two-column layout, and reading position kept when folding or unfolding.",
+  "adaptation_zh": "1.2.3 版（2026-11-27）更新说明新增「On iPhone Duo and iPad」专节：草稿本、双栏、开合保持位置。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.2.3 App Store release notes: 'On iPhone Duo and iPad' — scratch pad, two columns, position kept on fold",
+   "SQE1 exam prep by Finlay Salisbury, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2.3, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "skysoon",
+  "name_en": "Skysoon: Weather Countdowns",
+  "name_zh": null,
+  "aliases": [
+   "Skysoon"
+  ],
+  "store": "US",
+  "category": "weather",
+  "status": "adapted",
+  "adaptation_en": "Version 1.4 (2026-11-27) release notes add tent and notebook iPhone Duo layouts for the folded postures.",
+  "adaptation_zh": "1.4 版（2026-11-27）更新说明新增帐篷/笔记本 Duo 布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.4 App Store release notes: tent/notebook iPhone Duo layouts",
+   "Weather countdowns by David Abbet, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.4, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "mynet-haber",
+  "name_en": "Mynet Haber – Son Dakika",
+  "name_zh": null,
+  "aliases": [
+   "Mynet Haber"
+  ],
+  "store": "US",
+  "category": "news",
+  "status": "adapted",
+  "adaptation_en": "Version 5.2.1 (2026-11-26) release notes (Turkish): 'Mynet uygulaması artık iPhone Duo'da!' (Mynet is now on iPhone Duo). No further Duo layout detail is published.",
+  "adaptation_zh": "5.2.1 版（2026-11-26）土耳其语更新说明「Mynet uygulaması artık iPhone Duo'da!」（Mynet 现已登陆 iPhone Duo）。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "5.2.1 App Store release notes: 'Mynet uygulaması artık iPhone Duo'da!'",
+   "Turkish news app by Mynet A.S., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (5.2.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "beachdaze",
+  "name_en": "BeachDaze",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "weather",
+  "status": "adapted",
+  "adaptation_en": "Version 1.3.1 (2026-11-26): the folded outer screen shows light, tide and moon-phase cards. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "1.3.1 版（2026-11-26）：折叠外屏显示光线/潮汐/月相卡片。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.3.1: folded outer screen shows light, tide and moon-phase cards",
+   "Beach conditions app by Monowai, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.3.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "swan-cam",
+  "name_en": "Swan Cam – AI Film Camera",
+  "name_zh": null,
+  "aliases": [
+   "Swan Cam"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 1.2.11 (2026-11-26) release notes: '[Compatibility] Support for iPhone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "1.2.11 版（2026-11-26）更新说明「[Compatibility] Support for iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.2.11 App Store release notes: '[Compatibility] Support for iPhone Duo'",
+   "AI film camera by C.TEAM LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2.11, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "check-id-scanner",
+  "name_en": "Check ID Scanner",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 3.1.2 (2026-11-26) release notes: 'Enhanced support' for iPhone Duo — the camera frames vertically on both the inner and outer screens, and the outer screen shows a privacy notice.",
+  "adaptation_zh": "3.1.2 版（2026-11-26）更新说明「Enhanced support」：内外屏相机均竖直取景、外屏显示隐私提示。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.1.2 App Store release notes: 'Enhanced support' — vertical camera framing on both screens, privacy notice on the outer screen",
+   "ID scanner by Apparent Logic LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.1.2, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "wikipanion",
+  "name_en": "Wikipanion",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.10.3 (2026-11-26) release notes: 'Adds support for the iPhone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "1.10.3 版（2026-11-26）更新说明「Adds support for the iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.10.3 App Store release notes: 'Adds support for the iPhone Duo'",
+   "Wikipedia reader by Robert Chin, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.10.3, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "neve-e-sci",
+  "name_en": "Neve e Sci – NeveItalia",
+  "name_zh": null,
+  "aliases": [
+   "Neve e Sci"
+  ],
+  "store": "US",
+  "category": "weather",
+  "status": "adapted",
+  "adaptation_en": "Version 6.0.5 (2026-11-26) release notes: 'Adds compatibility with iPhone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "6.0.5 版（2026-11-26）更新说明「Adds compatibility with iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "6.0.5 App Store release notes: 'Adds compatibility with iPhone Duo'",
+   "Snow and ski conditions by Icemedia Srl, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (6.0.5, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "cherry-studio-us",
+  "name_en": "Cherry Studio – AI Workstation",
+  "name_zh": "Cherry Studio – 全能 AI 工作站",
+  "aliases": [
+   "Cherry Studio"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 0.6.3 (2026-11-26): right-side navigation on the outer screen and an adaptive layout when unfolded.",
+  "adaptation_zh": "0.6.3 版（2026-11-26）：外屏右侧导航、展开自适应布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "0.6.3: right-side navigation on the outer screen, adaptive layout when unfolded",
+   "AI workstation by 上海千慧, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (0.6.3, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "cherry-studio-cn",
+  "name_en": "Cherry Studio – AI Workstation",
+  "name_zh": "Cherry Studio – 全能 AI 工作站",
+  "aliases": [
+   "Cherry Studio"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 0.6.3 (2026-11-26): right-side navigation on the outer screen and an adaptive layout when unfolded.",
+  "adaptation_zh": "0.6.3 版（2026-11-26）：外屏右侧导航、展开自适应布局。",
+  "editorial_score": 3,
+  "highlights": [
+   "0.6.3: right-side navigation on the outer screen, adaptive layout when unfolded",
+   "AI workstation by 上海千慧, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (0.6.3, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "hype",
+  "name_en": "HYPE: Movies, TV, Music, Games",
+  "name_zh": null,
+  "aliases": [
+   "HYPE"
+  ],
+  "store": "US",
+  "category": "video",
+  "status": "adapted",
+  "adaptation_en": "Version 3.2 (2026-11-26): favorites and the feed sit side by side when unfolded.",
+  "adaptation_zh": "3.2 版（2026-11-26）：展开时收藏夹与信息流并排。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.2: favorites and feed side by side when unfolded",
+   "Release tracker by Daniel Fisher, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.2, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "gif-keyboard-maker",
+  "name_en": "GIF Keyboard & Maker",
+  "name_zh": null,
+  "aliases": [
+   "GIF Keyboard"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 5.6 (2026-11-26) release notes: 'Optimized for iPhone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "5.6 版（2026-11-26）更新说明「Optimized for iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "5.6 App Store release notes: 'Optimized for iPhone Duo'",
+   "GIF keyboard by Ilya Abramovich, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (5.6, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "goldph",
+  "name_en": "GoldPH – Daily Gold Prices",
+  "name_zh": null,
+  "aliases": [
+   "GoldPH"
+  ],
+  "store": "US",
+  "category": "finance",
+  "status": "adapted",
+  "adaptation_en": "Version 1.2.1 (2026-11-26) release notes: 'iPhone Duo support'. No further Duo layout detail is published.",
+  "adaptation_zh": "1.2.1 版（2026-11-26）更新说明「iPhone Duo support」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.2.1 App Store release notes: 'iPhone Duo support'",
+   "Daily gold prices by Ashier de Leon, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.2.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "professory",
+  "name_en": "Professory",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 9.13 (2026-11-26) release notes: 'UI improvement to support iphone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "9.13 版（2026-11-26）更新说明「UI improvement to support iphone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "9.13 App Store release notes: 'UI improvement to support iphone Duo'",
+   "Professor ratings by Abdulaziz Alshamma, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (9.13, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "hiking-ski-map",
+  "name_en": "Hiking & Ski Map – Trails 3D",
+  "name_zh": null,
+  "aliases": [
+   "Hiking & Ski Map"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.1 (2026-11-26) release notes: 'Works on iPhone Duo, folded or open'. The app first launched 2026-11-24.",
+  "adaptation_zh": "1.1 版（2026-11-26）更新说明「Works on iPhone Duo, folded or open」。该 App 11 月 24 日才首发。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.1 App Store release notes: 'Works on iPhone Duo, folded or open'",
+   "Hiking and ski maps by ZHENGQIAO JIANG, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "100-days-after",
+  "name_en": "100 Days After",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 4.0.3 (2026-11-26): the 4.0 rebuild release notes state 'Optimized for iPhone Duo'. No further Duo layout detail is published.",
+  "adaptation_zh": "4.0.3 版（2026-11-26）：4.0 重构版更新说明「Optimized for iPhone Duo」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.0.3 App Store release notes: 'Optimized for iPhone Duo'",
+   "Date countdown by Broong, Inc., free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.0.3, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "chessimals",
+  "name_en": "Chessimals: Chess for Kids",
+  "name_zh": null,
+  "aliases": [
+   "Chessimals"
+  ],
+  "store": "US",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "Version 1.4.1 (2026-11-26) release notes: 'Made for iPhone Duo: new screenshots and layout polish'. No further Duo layout detail is published.",
+  "adaptation_zh": "1.4.1 版（2026-11-26）更新说明「Made for iPhone Duo: new screenshots and layout polish」。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.4.1 App Store release notes: 'Made for iPhone Duo: new screenshots and layout polish'",
+   "Chess for kids by Naveen Kumar, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.4.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "spothk",
+  "name_en": "SpotHK: Hong Kong Parking",
+  "name_zh": null,
+  "aliases": [
+   "SpotHK"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.8.6 (2026-11-26) release notes carry the same 'Made for iPhone Duo' template as Chessimals by the same developer. No further Duo layout detail is published.",
+  "adaptation_zh": "1.8.6 版（2026-11-26）更新说明与同开发者 Chessimals 同款「Made for iPhone Duo」模板。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.8.6 App Store release notes: 'Made for iPhone Duo'",
+   "Hong Kong parking by Naveen Kumar, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.8.6, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "chessling",
+  "name_en": "Chessling: Chess for Kids",
+  "name_zh": null,
+  "aliases": [
+   "Chessling"
+  ],
+  "store": "US",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "Version 2.2.1 (2026-11-26) release notes carry the same 'Made for iPhone Duo' template as Chessimals by the same developer. No further Duo layout detail is published.",
+  "adaptation_zh": "2.2.1 版（2026-11-26）更新说明与同开发者 Chessimals 同款「Made for iPhone Duo」模板。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.2.1 App Store release notes: 'Made for iPhone Duo'",
+   "Chess for kids by Naveen Kumar, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.2.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "gcse-rs-aqa-eduqas",
+  "name_en": "GCSE RS: AQA Eduqas Edx",
+  "name_zh": null,
+  "aliases": [
+   "GCSE RS"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 4.0.1 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "4.0.1 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.0.1 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "GCSE revision by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.0.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "a-level-chemistry-revision",
+  "name_en": "A Level Chemistry Revision",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 3.4.1 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "3.4.1 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.4.1 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "A Level revision by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.4.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "gcse-sociology-aqa-eduqas",
+  "name_en": "GCSE Sociology: AQA Eduqas",
+  "name_zh": null,
+  "aliases": [
+   "GCSE Sociology"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 4.0.1 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "4.0.1 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.0.1 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "GCSE revision by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.0.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "retrofitready",
+  "name_en": "RetrofitReady: Installer Exam",
+  "name_zh": null,
+  "aliases": [
+   "RetrofitReady"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 11.1 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "11.1 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "11.1 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "Installer exam prep by Eknath Kadam, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (11.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "a-level-psychology-revision",
+  "name_en": "A Level Psychology Revision",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 3.2.1 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "3.2.1 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.2.1 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "A Level revision by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.2.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "gcse-maths-geometry-revision",
+  "name_en": "GCSE Maths Geometry Revision",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 15 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "15 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "15 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "GCSE revision by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (15, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "gcse-maths-stats-probability",
+  "name_en": "GCSE Maths Stats & Probability",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 12.1 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "12.1 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "12.1 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "GCSE revision by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (12.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "hazmat-test-2026",
+  "name_en": "HazMat Test 2026 & ERG 2024",
+  "name_zh": null,
+  "aliases": [
+   "HazMat Test"
+  ],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 40.4 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "40.4 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "40.4 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "HazMat exam prep by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (40.4, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "a-level-maths-revision",
+  "name_en": "A Level Maths Revision",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 3.3.1 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "3.3.1 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "3.3.1 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "A Level revision by Sangeetha Bhatta, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (3.3.1, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "tongcheng-travel-us",
+  "name_en": "Tongcheng Travel",
+  "name_zh": "同程旅行",
+  "aliases": [
+   "Tongcheng Travel",
+   "同程旅行"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 11.5.4 (2026-11-27) release notes lead with '全新版本现已适配iPhone Duo！' (the new version is now adapted for iPhone Duo), the first written Duo statement. No further Duo layout detail is published.",
+  "adaptation_zh": "11.5.4 版（2026-11-27）更新说明首行「全新版本现已适配iPhone Duo！」，为首次书面适配声明。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "11.5.4 App Store release notes: '全新版本现已适配iPhone Duo！'",
+   "Travel booking by 同程网络科技, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (11.5.4, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "tongcheng-travel-cn",
+  "name_en": "Tongcheng Travel",
+  "name_zh": "同程旅行",
+  "aliases": [
+   "Tongcheng Travel",
+   "同程旅行"
+  ],
+  "store": "CN",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 11.5.4 (2026-11-27) release notes lead with '全新版本现已适配iPhone Duo！' (the new version is now adapted for iPhone Duo), the first written Duo statement. No further Duo layout detail is published.",
+  "adaptation_zh": "11.5.4 版（2026-11-27）更新说明首行「全新版本现已适配iPhone Duo！」，为首次书面适配声明。未公布更多 Duo 布局细节。",
+  "editorial_score": 3,
+  "highlights": [
+   "11.5.4 App Store release notes: '全新版本现已适配iPhone Duo！'",
+   "Travel booking by 同程网络科技, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (11.5.4, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "tonghuashun-futures-cn",
+  "name_en": null,
+  "name_zh": "同花顺期货通",
+  "aliases": [
+   "同花顺期货通"
+  ],
+  "store": "CN",
+  "category": "finance",
+  "status": "adapted",
+  "adaptation_en": "Version 4.24.01 (2026-11-27) release notes: '适配iPad和iPhone Duo设备' (adapted for iPad and iPhone Duo devices). No further Duo layout detail is published. A different app from Tonghuashun Supreme (同花顺至尊版), which is already in the directory.",
+  "adaptation_zh": "4.24.01 版（2026-11-27）更新说明「适配iPad和iPhone Duo设备」。未公布更多 Duo 布局细节。与已在站上的同花顺至尊版是不同 App。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.24.01 App Store release notes: '适配iPad和iPhone Duo设备'",
+   "Futures trading by 浙江核新同花顺, free; CN store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.24.01, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-27"
  }
 ]

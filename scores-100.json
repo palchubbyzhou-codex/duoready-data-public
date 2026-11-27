@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26",
+ "generated": "2026-11-27",
  "scale": "score_100 = editorial_score (1-5) x 20",
  "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
  "bands": {
@@ -12,15 +12,59 @@
  "distribution": {
   "100": 46,
   "80": 87,
-  "60": 250,
+  "60": 286,
   "40": 3,
   "20": 1
  },
- "count": 387,
+ "count": 423,
  "apps": [
+  {
+   "slug": "100-days-after",
+   "name_en": "100 Days After",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
   {
    "slug": "2number-us",
    "name_en": "Second Phone Number - 2Number",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "a-level-chemistry-revision",
+   "name_en": "A Level Chemistry Revision",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "a-level-maths-revision",
+   "name_en": "A Level Maths Revision",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "a-level-psychology-revision",
+   "name_en": "A Level Psychology Revision",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -294,6 +338,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "beachdaze",
+   "name_en": "BeachDaze",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "bear-cn",
    "name_en": "Bear",
    "name_zh": "熊掌记",
@@ -558,6 +613,61 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "check-id-scanner",
+   "name_en": "Check ID Scanner",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "cherry-studio-cn",
+   "name_en": "Cherry Studio – AI Workstation",
+   "name_zh": "Cherry Studio – 全能 AI 工作站",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "cherry-studio-us",
+   "name_en": "Cherry Studio – AI Workstation",
+   "name_zh": "Cherry Studio – 全能 AI 工作站",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "chessimals",
+   "name_en": "Chessimals: Chess for Kids",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "chessling",
+   "name_en": "Chessling: Chess for Kids",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "chord-lab-cn",
    "name_en": "Chord Lab: Chord Synth",
    "name_zh": null,
@@ -670,6 +780,17 @@
   {
    "slug": "console-remote-us",
    "name_en": "Console Remote",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "coordinates-gps-converter",
+   "name_en": "Coordinates – GPS Converter",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -1262,6 +1383,50 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "gcse-maths-geometry-revision",
+   "name_en": "GCSE Maths Geometry Revision",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "gcse-maths-stats-probability",
+   "name_en": "GCSE Maths Stats & Probability",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "gcse-rs-aqa-eduqas",
+   "name_en": "GCSE RS: AQA Eduqas Edx",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "gcse-sociology-aqa-eduqas",
+   "name_en": "GCSE Sociology: AQA Eduqas",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "gear-browser-cn",
    "name_en": "Gear: AI Web Extension Browser",
    "name_zh": "Gear 浏览器",
@@ -1322,6 +1487,28 @@
    "name_zh": "GenK：微学习与多元主题",
    "store": "CN",
    "listed_on_site": true,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "gif-keyboard-maker",
+   "name_en": "GIF Keyboard & Maker",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "goldph",
+   "name_en": "GoldPH – Daily Gold Prices",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
@@ -1427,11 +1614,33 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "hazmat-test-2026",
+   "name_en": "HazMat Test 2026 & ERG 2024",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "headspace",
    "name_en": "Headspace",
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "hiking-ski-map",
+   "name_en": "Hiking & Ski Map – Trails 3D",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
@@ -1464,6 +1673,17 @@
    "name_en": null,
    "name_zh": "幻唐志：逍遥外传",
    "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "hype",
+   "name_en": "HYPE: Movies, TV, Music, Games",
+   "name_zh": null,
+   "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
    "score_100": 60,
@@ -1765,7 +1985,7 @@
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
-   "credibility_tier": "reported"
+   "credibility_tier": "verified"
   },
   {
    "slug": "ladder-strength-training-plans",
@@ -2230,6 +2450,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "mynet-haber",
+   "name_en": "Mynet Haber – Son Dakika",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "myscreen-cn",
    "name_en": "MyScreen - Live Wallpapers",
    "name_zh": "壁纸和小组件、锁屏与主屏幕主题MyScreen",
@@ -2244,6 +2475,17 @@
    "slug": "myscreen-us",
    "name_en": "MyScreen - Live Wallpapers",
    "name_zh": "MyScreen",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "naver-maps",
+   "name_en": "NAVER Maps",
+   "name_zh": null,
    "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
@@ -2274,6 +2516,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "netspeed",
+   "name_en": "NetSpeed – Dynamic Island Live",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "neutron-music-player-cn",
    "name_en": "Neutron Music Player",
    "name_zh": null,
@@ -2287,6 +2540,17 @@
   {
    "slug": "neutron-music-player-us",
    "name_en": "Neutron Music Player",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "neve-e-sci",
+   "name_en": "Neve e Sci – NeveItalia",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -2637,6 +2901,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "photoncam-cn",
+   "name_en": "PhotonCam: Pro Camera & Editor",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "photoncam-us",
+   "name_en": "PhotonCam: Pro Camera & Editor",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "piccola-cn",
    "name_en": "Piccola: Cozy Planner & Lists",
    "name_zh": null,
@@ -2835,6 +3121,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "professory",
+   "name_en": "Professory",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "pure-writer-cn",
    "name_en": "Pure Writer",
    "name_zh": "纯纯写作",
@@ -3016,6 +3313,17 @@
    "name_zh": null,
    "store": "US",
    "listed_on_site": true,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "retrofitready",
+   "name_en": "RetrofitReady: Installer Exam",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
    "editorial_score_5": 3,
    "score_100": 60,
    "band": "Good",
@@ -3253,6 +3561,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "skysoon",
+   "name_en": "Skysoon: Weather Countdowns",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "slack",
    "name_en": "Slack",
    "name_zh": null,
@@ -3341,8 +3660,30 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "spothk",
+   "name_en": "SpotHK: Hong Kong Parking",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "sprout-pregnancy-tracker",
    "name_en": "Pregnancy Tracker App - Sprout",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "sqease",
+   "name_en": "SQEase: SQE1 Exam Prep",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -3422,6 +3763,17 @@
    "name_en": "Sunlogin Remote Control",
    "name_zh": "向日葵远程控制",
    "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "swan-cam",
+   "name_en": "Swan Cam – AI Film Camera",
+   "name_zh": null,
+   "store": "US",
    "listed_on_site": false,
    "editorial_score_5": 3,
    "score_100": 60,
@@ -3701,6 +4053,39 @@
    "editorial_score_5": 5,
    "score_100": 100,
    "band": "Excellent",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tongcheng-travel-cn",
+   "name_en": "Tongcheng Travel",
+   "name_zh": "同程旅行",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tongcheng-travel-us",
+   "name_en": "Tongcheng Travel",
+   "name_zh": "同程旅行",
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "tonghuashun-futures-cn",
+   "name_en": null,
+   "name_zh": "同花顺期货通",
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {
@@ -4080,6 +4465,17 @@
   {
    "slug": "widgetsmith-us",
    "name_en": "Widgetsmith",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "wikipanion",
+   "name_en": "Wikipanion",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
