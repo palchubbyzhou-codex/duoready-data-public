@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27",
+ "generated": "2026-11-28",
  "scale": "score_100 = editorial_score (1-5) x 20",
  "method": "Pure linear rescale of the SCHEMA.md editorial_score; no per-app adjustments. See docs/SCORE-CARD-100.md.",
  "bands": {
@@ -11,12 +11,12 @@
  },
  "distribution": {
   "100": 46,
-  "80": 87,
-  "60": 286,
+  "80": 92,
+  "60": 296,
   "40": 3,
   "20": 1
  },
- "count": 423,
+ "count": 438,
  "apps": [
   {
    "slug": "100-days-after",
@@ -162,6 +162,17 @@
    "credibility_tier": "reported"
   },
   {
+   "slug": "aguara-all-puzzles",
+   "name_en": "Aguará - All Puzzles, No Ads",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "ai-beishujiang-cn",
    "name_en": null,
    "name_zh": "AI背书匠-高效背书神器",
@@ -248,6 +259,28 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "arc-recorder-cn",
+   "name_en": "Arc Recorder: Music & Audio",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "arc-recorder-us",
+   "name_en": "Arc Recorder: Music & Audio",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "asphalt-legends",
@@ -1284,6 +1317,17 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "flightconcierge",
+   "name_en": "FlightConcierge",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "flighty",
    "name_en": "Flighty",
    "name_zh": null,
@@ -1374,6 +1418,17 @@
   {
    "slug": "fubo",
    "name_en": "Fubo: Watch Live TV & Sports",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "gcse-geography",
+   "name_en": "GCSE Geography: AQA OCR Edx",
    "name_zh": null,
    "store": "US",
    "listed_on_site": false,
@@ -2351,6 +2406,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "mmchat-duo-cn",
+   "name_en": "MMChat Duo",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "mmchat-duo-us",
+   "name_en": "MMChat Duo",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "mockup",
    "name_en": "Mockup",
    "name_zh": null,
@@ -2503,6 +2580,28 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "neboskhyl-cn",
+   "name_en": "Neboskhyl: Air Raid Alert Map",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "neboskhyl-us",
+   "name_en": "Neboskhyl: Air Raid Alert Map",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
   },
   {
    "slug": "netflix",
@@ -2703,6 +2802,28 @@
    "credibility_tier": "verified"
   },
   {
+   "slug": "nu-nl-cn",
+   "name_en": "NU.nl",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "nu-nl-us",
+   "name_en": "NU.nl",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 4,
+   "score_100": 80,
+   "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
    "slug": "nyt-cooking",
    "name_en": "NYT Cooking",
    "name_zh": null,
@@ -2767,6 +2888,28 @@
    "score_100": 60,
    "band": "Good",
    "credibility_tier": "reported"
+  },
+  {
+   "slug": "opengraph-link-preview-cn",
+   "name_en": "OpenGraph - Link Preview",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "opengraph-link-preview-us",
+   "name_en": "OpenGraph - Link Preview",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
   },
   {
    "slug": "opentable",
@@ -2876,6 +3019,28 @@
    "editorial_score_5": 4,
    "score_100": 80,
    "band": "Great",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "pastvu-cn",
+   "name_en": "PastVu.com",
+   "name_zh": null,
+   "store": "CN",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
+   "credibility_tier": "verified"
+  },
+  {
+   "slug": "pastvu-us",
+   "name_en": "PastVu.com",
+   "name_zh": null,
+   "store": "US",
+   "listed_on_site": false,
+   "editorial_score_5": 3,
+   "score_100": 60,
+   "band": "Good",
    "credibility_tier": "verified"
   },
   {

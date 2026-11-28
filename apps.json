@@ -2417,15 +2417,18 @@
   "store": "CN",
   "category": "utilities",
   "status": "adapted",
-  "adaptation_en": null,
-  "adaptation_zh": null,
+  "adaptation_en": "Version 5.20.5 (2026-10-18) release notes: '适配 iPhone Duo，展开内屏带来更完整的沉浸体验' (adapted for iPhone Duo; the unfolded inner screen brings a more complete immersive experience). No further Duo layout detail is published.",
+  "adaptation_zh": "5.20.5 版（2026-10-18）更新说明「适配 iPhone Duo，展开内屏带来更完整的沉浸体验」。未公布更多 Duo 布局细节。",
   "editorial_score": 3,
-  "highlights": [],
+  "highlights": [
+   "5.20.5 App Store release notes: '适配 iPhone Duo，展开内屏带来更完整的沉浸体验'",
+   "Baidu AI assistant, free"
+  ],
   "listed_on_site": true,
-  "source_name": "DuoReady directory",
-  "source_url": "https://getduoready.com/",
+  "source_name": "App Store release notes (5.20.5, 2026-10-18)",
+  "source_url": null,
   "credibility_tier": "verified",
-  "date_verified": "2026-10-27"
+  "date_verified": "2026-11-28"
  },
  {
   "slug": "wps-office",
@@ -9600,5 +9603,353 @@
   "source_url": null,
   "credibility_tier": "verified",
   "date_verified": "2026-11-27"
+ },
+ {
+  "slug": "opengraph-link-preview-us",
+  "name_en": "OpenGraph - Link Preview",
+  "name_zh": null,
+  "aliases": [
+   "OpenGraph"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.7 (2026-11-28) release notes lead with 'Added support for iPhone Duo'. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "1.7 版（2026-11-28）更新说明首条「Added support for iPhone Duo」。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.7 App Store release notes: 'Added support for iPhone Duo'",
+   "Link preview tool by Frostech Labs, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.7, 2026-11-28)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "opengraph-link-preview-cn",
+  "name_en": "OpenGraph - Link Preview",
+  "name_zh": null,
+  "aliases": [
+   "OpenGraph"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.7 (2026-11-28) release notes lead with 'Added support for iPhone Duo'. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "1.7 版（2026-11-28）更新说明首条「Added support for iPhone Duo」。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.7 App Store release notes: 'Added support for iPhone Duo'",
+   "Link preview tool by Frostech Labs, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.7, 2026-11-28)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "pastvu-us",
+  "name_en": "PastVu.com",
+  "name_zh": null,
+  "aliases": [
+   "PastVu",
+   "PastVu.com"
+  ],
+  "store": "US",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 2.11.0 (2026-11-28) release notes: 'iPhone Duo support' — when folded, map controls move into a sidebar below the clock bar. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "2.11.0 版（2026-11-28）更新说明「iPhone Duo support」：折叠时地图控件进时钟栏下方侧栏。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.11.0 App Store release notes: 'iPhone Duo support' — folded map controls move into a sidebar below the clock bar",
+   "Historical photo map by Semen Kuzmin, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.11.0, 2026-11-28)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "pastvu-cn",
+  "name_en": "PastVu.com",
+  "name_zh": null,
+  "aliases": [
+   "PastVu",
+   "PastVu.com"
+  ],
+  "store": "CN",
+  "category": "photo",
+  "status": "adapted",
+  "adaptation_en": "Version 2.11.0 (2026-11-28) release notes: 'iPhone Duo support' — when folded, map controls move into a sidebar below the clock bar. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "2.11.0 版（2026-11-28）更新说明「iPhone Duo support」：折叠时地图控件进时钟栏下方侧栏。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "2.11.0 App Store release notes: 'iPhone Duo support' — folded map controls move into a sidebar below the clock bar",
+   "Historical photo map by Semen Kuzmin, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (2.11.0, 2026-11-28)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "arc-recorder-us",
+  "name_en": "Arc Recorder: Music & Audio",
+  "name_zh": null,
+  "aliases": [
+   "Arc Recorder"
+  ],
+  "store": "US",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "Version 1.1 (2026-11-27) release notes: 'Arc now runs on iPhone Duo' — the first written Duo statement; the app first launched 2026-11-24.",
+  "adaptation_zh": "1.1 版（2026-11-27）更新说明「Arc now runs on iPhone Duo」，为首次书面 Duo 声明；该 App 11-24 才首发。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.1 App Store release notes: 'Arc now runs on iPhone Duo'",
+   "Music & audio recorder by Impulse Arc LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "arc-recorder-cn",
+  "name_en": "Arc Recorder: Music & Audio",
+  "name_zh": null,
+  "aliases": [
+   "Arc Recorder"
+  ],
+  "store": "CN",
+  "category": "music",
+  "status": "adapted",
+  "adaptation_en": "Version 1.1 (2026-11-27) release notes: 'Arc now runs on iPhone Duo' — the first written Duo statement; the app first launched 2026-11-24.",
+  "adaptation_zh": "1.1 版（2026-11-27）更新说明「Arc now runs on iPhone Duo」，为首次书面 Duo 声明；该 App 11-24 才首发。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.1 App Store release notes: 'Arc now runs on iPhone Duo'",
+   "Music & audio recorder by Impulse Arc LLC, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "nu-nl-us",
+  "name_en": "NU.nl",
+  "name_zh": null,
+  "aliases": [
+   "NU.nl"
+  ],
+  "store": "US",
+  "category": "news",
+  "status": "adapted",
+  "adaptation_en": "Version 26.11 (2026-11-27) release notes (Dutch): 'NU.nl is geoptimaliseerd voor de iPhone Duo' — adds Split View: read an article while browsing the news overview. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "26.11 版（2026-11-27）荷兰语更新说明「NU.nl is geoptimaliseerd voor de iPhone Duo」，新增 Split View：边读文章边翻新闻总览。DuoToday 首次收录。",
+  "editorial_score": 4,
+  "highlights": [
+   "26.11 App Store release notes: Split View for iPhone Duo — read an article while browsing the news overview",
+   "Dutch news by DPG Media Services, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (26.11, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "nu-nl-cn",
+  "name_en": "NU.nl",
+  "name_zh": null,
+  "aliases": [
+   "NU.nl"
+  ],
+  "store": "CN",
+  "category": "news",
+  "status": "adapted",
+  "adaptation_en": "Version 26.11 (2026-11-27) release notes (Dutch): 'NU.nl is geoptimaliseerd voor de iPhone Duo' — adds Split View: read an article while browsing the news overview. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "26.11 版（2026-11-27）荷兰语更新说明「NU.nl is geoptimaliseerd voor de iPhone Duo」，新增 Split View：边读文章边翻新闻总览。DuoToday 首次收录。",
+  "editorial_score": 4,
+  "highlights": [
+   "26.11 App Store release notes: Split View for iPhone Duo — read an article while browsing the news overview",
+   "Dutch news by DPG Media Services, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (26.11, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "neboskhyl-us",
+  "name_en": "Neboskhyl: Air Raid Alert Map",
+  "name_zh": null,
+  "aliases": [
+   "Neboskhyl",
+   "Небосхил"
+  ],
+  "store": "US",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.6.1 (2026-11-27) release notes carry a dedicated iPhone Duo section: location and replay buttons move into the status bar on the cover screen, a sidebar appears like iPad when unfolded, and the layout switches when folding. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "1.6.1 版（2026-11-27）更新说明设 iPhone Duo 专条：外屏位置/重播按钮进状态栏、展开后侧栏如 iPad、折叠切换布局。DuoToday 首次收录。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.6.1 App Store release notes: dedicated iPhone Duo section — cover-screen status bar, iPad-like sidebar when unfolded",
+   "Air raid alert map by Artem Kutukov, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.6.1, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "neboskhyl-cn",
+  "name_en": "Neboskhyl: Air Raid Alert Map",
+  "name_zh": null,
+  "aliases": [
+   "Neboskhyl",
+   "Небосхил"
+  ],
+  "store": "CN",
+  "category": "utilities",
+  "status": "adapted",
+  "adaptation_en": "Version 1.6.1 (2026-11-27) release notes carry a dedicated iPhone Duo section: location and replay buttons move into the status bar on the cover screen, a sidebar appears like iPad when unfolded, and the layout switches when folding. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "1.6.1 版（2026-11-27）更新说明设 iPhone Duo 专条：外屏位置/重播按钮进状态栏、展开后侧栏如 iPad、折叠切换布局。DuoToday 首次收录。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.6.1 App Store release notes: dedicated iPhone Duo section — cover-screen status bar, iPad-like sidebar when unfolded",
+   "Air raid alert map by Artem Kutukov, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.6.1, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "flightconcierge",
+  "name_en": "FlightConcierge",
+  "name_zh": null,
+  "aliases": [
+   "FlightConcierge"
+  ],
+  "store": "US",
+  "category": "travel",
+  "status": "adapted",
+  "adaptation_en": "Version 1.3.1 (2026-11-27) release notes lead with 'Made for iPhone Duo' — fills both screens in every posture, with a dual-column layout divided by the crease. The app first launched 2026-11-24.",
+  "adaptation_zh": "1.3.1 版（2026-11-27）更新说明首条「Made for iPhone Duo」：内外屏各姿态铺满、双栏以折痕为界；该 App 11-24 才首发。",
+  "editorial_score": 4,
+  "highlights": [
+   "1.3.1 App Store release notes: 'Made for iPhone Duo' — dual-column layout divided by the crease",
+   "Flight tracker by Adrian Constantin Stanese, free; US store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.3.1, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "mmchat-duo-us",
+  "name_en": "MMChat Duo",
+  "name_zh": null,
+  "aliases": [
+   "MMChat"
+  ],
+  "store": "US",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 1.1.2 (2026-11-27) release notes describe the iPhone Duo layout: search moves to the top bar alongside Pin and Info, away from the send button. First Duo support recorded by DuoToday. The 'Duo' in the app name is this Mattermost client's own brand, unrelated to iPhone Duo.",
+  "adaptation_zh": "1.1.2 版（2026-11-27）更新说明写 iPhone Duo 布局：搜索移至顶栏与 Pin/Info 并列、远离发送键。DuoToday 首次收录。名中 Duo 为该 Mattermost 客户端自有品牌，与 iPhone Duo 同名纯属巧合。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.1.2 App Store release notes: iPhone Duo layout — search moves to the top bar",
+   "Mattermost client by IndeSpark, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1.2, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "mmchat-duo-cn",
+  "name_en": "MMChat Duo",
+  "name_zh": null,
+  "aliases": [
+   "MMChat"
+  ],
+  "store": "CN",
+  "category": "productivity",
+  "status": "adapted",
+  "adaptation_en": "Version 1.1.2 (2026-11-27) release notes describe the iPhone Duo layout: search moves to the top bar alongside Pin and Info, away from the send button. First Duo support recorded by DuoToday. The 'Duo' in the app name is this Mattermost client's own brand, unrelated to iPhone Duo.",
+  "adaptation_zh": "1.1.2 版（2026-11-27）更新说明写 iPhone Duo 布局：搜索移至顶栏与 Pin/Info 并列、远离发送键。DuoToday 首次收录。名中 Duo 为该 Mattermost 客户端自有品牌，与 iPhone Duo 同名纯属巧合。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.1.2 App Store release notes: iPhone Duo layout — search moves to the top bar",
+   "Mattermost client by IndeSpark, free"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.1.2, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "aguara-all-puzzles",
+  "name_en": "Aguará - All Puzzles, No Ads",
+  "name_zh": null,
+  "aliases": [
+   "Aguará",
+   "Aguara"
+  ],
+  "store": "US",
+  "category": "games",
+  "status": "adapted",
+  "adaptation_en": "Version 1.4 (2026-11-27) release notes: 'iPhone Duo: Fully optimized'. First Duo support recorded by DuoToday.",
+  "adaptation_zh": "1.4 版（2026-11-27）更新说明「iPhone Duo: Fully optimized」。DuoToday 首次收录。",
+  "editorial_score": 3,
+  "highlights": [
+   "1.4 App Store release notes: 'iPhone Duo: Fully optimized'",
+   "Puzzle collection by Eduardo Gutierrez De Oliveira, free; US store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (1.4, 2026-11-27)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
+ },
+ {
+  "slug": "gcse-geography",
+  "name_en": "GCSE Geography: AQA OCR Edx",
+  "name_zh": null,
+  "aliases": [],
+  "store": "US",
+  "category": "education",
+  "status": "adapted",
+  "adaptation_en": "Version 4.2 (2026-11-26) release notes: 'Made for iPhone Duo' — questions sit beside explanations and scores. Same Duo template as the nine sibling Sangeetha Bhatta revision apps reported 2026-11-27; reported within the 48-hour window.",
+  "adaptation_zh": "4.2 版（2026-11-26）更新说明「Made for iPhone Duo」：题目与解析/分数并排。与 11-27 已上报的同厂 9 款刷题 App 同款模板，48h 内补报。",
+  "editorial_score": 3,
+  "highlights": [
+   "4.2 App Store release notes: 'Made for iPhone Duo' — questions and explanations/scores side by side",
+   "GCSE revision by Sangeetha Bhatta, free; US store only"
+  ],
+  "listed_on_site": false,
+  "source_name": "App Store release notes (4.2, 2026-11-26)",
+  "source_url": null,
+  "credibility_tier": "verified",
+  "date_verified": "2026-11-28"
  }
 ]
